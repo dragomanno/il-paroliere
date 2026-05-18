@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,500;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --il-bg:      #111111;
+    --il-card:    #181818;
+    --il-text:    #f7f3e8;
+    --il-muted:   #b8b3a7;
+    --il-border:  #2a2a2a;
+    --il-lime:    #b8dc16;
+    --il-magenta: #8f0060;
+  }
+
+  html {
+    background-color: var(--il-bg);
+    color: var(--il-text);
+    font-family: 'Lora', serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    background-color: var(--il-bg);
+    color: var(--il-text);
+    min-height: 100vh;
+  }
+
+  ::selection {
+    background-color: #b8dc1633;
+    color: var(--il-text);
+  }
+
+  /* Scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: var(--il-bg);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #2a2a2a;
+    border-radius: 3px;
+  }
+}
+
+@layer components {
+  .font-ui {
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .tag {
+    @apply inline-block px-2 py-0.5 text-xs rounded font-ui tracking-wide;
+  }
+
+  .tag-register {
+    @apply tag bg-[#1e1e1e] text-[#b8b3a7] border border-[#2a2a2a];
+  }
+
+  .tag-domain {
+    @apply tag bg-[#1a1a0a] text-[#b8dc16] border border-[#2a2a2a];
+  }
+
+  .tag-pos {
+    @apply tag bg-[#1a001a] text-[#c970b0] border border-[#2a2a2a];
+  }
+
+  .source-link {
+    @apply inline-flex items-center gap-1 text-xs text-[#b8b3a7] hover:text-[#b8dc16] 
+           transition-colors duration-150 underline underline-offset-2;
+  }
+}
