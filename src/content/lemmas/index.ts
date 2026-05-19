@@ -2,12 +2,32 @@
 // License: MIT
 
 import type { LemmaEntry } from "@/lib/types";
+
+// Phase 1 — seed lemmas
 import { garbo } from "./garbo";
 import { cura } from "./cura";
 import { algoritmo } from "./algoritmo";
 
-/** All seed lemmas in display order */
-export const allLemmas: LemmaEntry[] = [garbo, cura, algoritmo];
+// Phase 2 — seed lemmas
+import { resilienza } from "./resilienza";
+import { pragmatismo } from "./pragmatismo";
+import { mangiaufo } from "./mangiaufo";
+import { accondiscendenza } from "./accondiscendenza";
+import { suscettibile } from "./suscettibile";
+import { aggregatore } from "./aggregatore";
+
+/** All seed lemmas in display order (alphabetical within each phase) */
+export const allLemmas: LemmaEntry[] = [
+  accondiscendenza,
+  aggregatore,
+  algoritmo,
+  cura,
+  garbo,
+  mangiaufo,
+  pragmatismo,
+  resilienza,
+  suscettibile,
+];
 
 /** Lookup map: slug → LemmaEntry */
 export const lemmaBySlug: Record<string, LemmaEntry> = Object.fromEntries(
