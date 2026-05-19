@@ -48,6 +48,20 @@ import { malinconia } from "./malinconia";
 import { nitido } from "./nitido";
 import { ostinazione } from "./ostinazione";
 
+// Towards 100 — batch 2
+import { perbenismo } from "./perbenismo";
+import { querulo } from "./querulo";
+import { reticenza } from "./reticenza";
+import { scrupolo } from "./scrupolo";
+import { sfilacciato } from "./sfilacciato";
+import { sorpresa } from "./sorpresa";
+import { stoicismo } from "./stoicismo";
+import { tergiversare } from "./tergiversare";
+import { umbratile } from "./umbratile";
+import { vacuo } from "./vacuo";
+import { veniale } from "./veniale";
+import { zenit } from "./zenit";
+
 /** All lemmas in display order (alphabetical) */
 export const allLemmas: LemmaEntry[] = [
   accondiscendenza,
@@ -75,14 +89,26 @@ export const allLemmas: LemmaEntry[] = [
   ostinazione,
   ozio,
   periferico,
+  perbenismo,
   pragmatismo,
+  querulo,
   resilienza,
+  reticenza,
   rimpianto,
+  scrupolo,
+  sfilacciato,
   sgomento,
+  sorpresa,
+  stoicismo,
   suscettibile,
   tacito,
   tangibile,
+  tergiversare,
+  umbratile,
+  vacuo,
   veemenza,
+  veniale,
+  zenit,
 ];
 
 /** Lookup map: slug → LemmaEntry */
