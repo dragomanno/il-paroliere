@@ -22,6 +22,16 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
+  icons: {
+    icon: [
+      { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+      { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+      { url: "/favicon.ico", sizes: "48x48" },
+    ],
+    apple: [
+      { url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" },
+    ],
+  },
 };
 
 export default function RootLayout({
@@ -41,41 +51,35 @@ export default function RootLayout({
               style={{ fontFamily: "Poppins, sans-serif" }}
               aria-label="Il Paroliere — homepage"
             >
-              {/* Logo icon — libro aperto originale Il Paroliere */}
+              {/* Logo icon — pennino Sheaffer Inlaid 45° — Il Paroliere */}
               <svg
                 width="34"
                 height="34"
-                viewBox="0 0 34 34"
+                viewBox="0 0 36 36"
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
                 aria-hidden="true"
               >
-                {/* Cerchio sfondo */}
-                <circle cx="17" cy="17" r="17" fill="#1a1a1a" />
-                {/* Libro aperto: copertina sinistra */}
-                <path
-                  d="M8 11 C8 10 9 9.5 10 9.5 L16.2 9.5 L16.2 23.5 L10 23.5 C9 23.5 8 23 8 22 Z"
-                  fill="#2a2a2a"
-                  stroke="#b8dc16"
-                  strokeWidth="0.8"
-                />
-                {/* Libro aperto: copertina destra */}
-                <path
-                  d="M26 11 C26 10 25 9.5 24 9.5 L17.8 9.5 L17.8 23.5 L24 23.5 C25 23.5 26 23 26 22 Z"
-                  fill="#2a2a2a"
-                  stroke="#b8dc16"
-                  strokeWidth="0.8"
-                />
-                {/* Dorso centrale */}
-                <rect x="16" y="9" width="2" height="15" fill="#b8dc16" rx="0.5" />
-                {/* Righe testo pagina sinistra */}
-                <line x1="10" y1="13" x2="15.2" y2="13" stroke="#b8dc16" strokeWidth="0.9" strokeLinecap="round" opacity="0.7" />
-                <line x1="10" y1="15.5" x2="15.2" y2="15.5" stroke="#b8dc16" strokeWidth="0.9" strokeLinecap="round" opacity="0.7" />
-                <line x1="10" y1="18" x2="14" y2="18" stroke="#b8dc16" strokeWidth="0.9" strokeLinecap="round" opacity="0.5" />
-                {/* Righe testo pagina destra */}
-                <line x1="18.8" y1="13" x2="24" y2="13" stroke="#b8dc16" strokeWidth="0.9" strokeLinecap="round" opacity="0.7" />
-                <line x1="18.8" y1="15.5" x2="24" y2="15.5" stroke="#b8dc16" strokeWidth="0.9" strokeLinecap="round" opacity="0.7" />
-                <line x1="18.8" y1="18" x2="22.5" y2="18" stroke="#b8dc16" strokeWidth="0.9" strokeLinecap="round" opacity="0.5" />
+                <circle cx="18" cy="18" r="18" fill="#1a1a1a" />
+                <g transform="rotate(45, 18, 18)">
+                  {/* Corpo pennino — Sheaffer Inlaid B */}
+                  <path
+                    d="M10.5 7.5 L25.5 7.5 C26.5 7.5 27.5 8.5 27.5 9.5 C27.5 12 26.5 16 24 20 C22 23.5 20.2 25.5 18 27.2 C15.8 25.5 14 23.5 12 20 C9.5 16 8.5 12 8.5 9.5 C8.5 8.5 9.5 7.5 10.5 7.5 Z"
+                    fill="#1f1f1f"
+                    stroke="#b8dc16"
+                    strokeWidth="1.3"
+                    strokeLinejoin="round"
+                  />
+                  {/* Punta lime */}
+                  <path
+                    d="M13.5 22 C15 25 16.5 26.5 18 27.2 C19.5 26.5 21 25 22.5 22 Z"
+                    fill="#b8dc16"
+                  />
+                  {/* Fessura centrale */}
+                  <line x1="18" y1="10.5" x2="18" y2="26.5" stroke="#111111" strokeWidth="1.5" strokeLinecap="round" />
+                  {/* Righina testa pennino */}
+                  <line x1="11.5" y1="8.5" x2="24.5" y2="8.5" stroke="#b8dc16" strokeWidth="0.6" strokeLinecap="round" opacity="0.6" />
+                </g>
               </svg>
               <span className="text-xl font-bold tracking-tight text-[#f7f3e8] group-hover:text-[#b8dc16] transition-colors">
                 Il Paroliere
