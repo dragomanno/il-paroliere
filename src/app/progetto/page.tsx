@@ -13,7 +13,7 @@ export default function ProgettoPage() {
     <article className="space-y-12">
       {/* Breadcrumb */}
       <nav
-        className="text-xs text-[#b8b3a7]"
+        className="text-sm text-[#b8b3a7]" 
         aria-label="Navigazione"
         style={{ fontFamily: "Poppins, sans-serif" }}
       >
@@ -176,13 +176,13 @@ export default function ProgettoPage() {
       <div className="flex flex-wrap gap-4 pt-2" style={{ fontFamily: "Poppins, sans-serif" }}>
         <Link
           href="/contribuisci"
-          className="px-4 py-2 bg-[#b8dc16] text-[#111111] text-sm font-semibold rounded hover:bg-[#c8ec26] transition-colors"
+          className="px-4 py-2 bg-[#b8dc16] text-[#111111] text-[1rem] font-semibold rounded hover:bg-[#c8ec26] transition-colors"
         >
           Come contribuire
         </Link>
         <Link
           href="/fonti"
-          className="px-4 py-2 bg-[#181818] border border-[#2a2a2a] text-[#f7f3e8] text-sm rounded hover:border-[#b8dc16] transition-colors"
+          className="px-4 py-2 bg-[#181818] border border-[#2a2a2a] text-[#f7f3e8] text-[1rem] rounded hover:border-[#b8dc16] transition-colors"
         >
           Politica sulle fonti
         </Link>

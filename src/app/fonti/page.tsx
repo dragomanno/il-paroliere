@@ -57,7 +57,7 @@ export default function FontiPage() {
     <article className="space-y-12">
       {/* Breadcrumb */}
       <nav
-        className="text-xs text-[#b8b3a7]"
+        className="text-sm text-[#b8b3a7]" 
         aria-label="Navigazione"
         style={{ fontFamily: "Poppins, sans-serif" }}
       >
@@ -77,7 +77,7 @@ export default function FontiPage() {
           Fonti
         </h1>
         <p
-          className="text-lg text-[#b8b3a7] leading-relaxed"
+          className="text-[1.125rem] text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           Come Il Paroliere si relaziona con le fonti esterne: cosa viene
@@ -115,7 +115,7 @@ export default function FontiPage() {
         {/* Disclaimer box */}
         <div className="bg-[#181818] border border-[#2a2a2a] rounded-lg p-5">
           <p
-            className="text-sm text-[#b8b3a7] leading-relaxed"
+            className="text-[1.0625rem] text-[#b8b3a7] leading-relaxed"
             style={{ fontFamily: "Lora, serif" }}
           >
             <strong className="text-[#f7f3e8]">Dichiarazione di originalità.</strong>{" "}
@@ -139,7 +139,7 @@ export default function FontiPage() {
           Dizionari autorevoli (link only)
         </h2>
         <p
-          className="text-sm text-[#b8b3a7] leading-relaxed"
+          className="text-[1.0625rem] text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           Le seguenti fonti sono collegate nelle schede lemma come riferimento
@@ -158,7 +158,7 @@ export default function FontiPage() {
                   href={f.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-sm font-semibold text-[#f7f3e8] hover:text-[#b8dc16] transition-colors"
+                  className="text-[1.0625rem] font-semibold text-[#f7f3e8] hover:text-[#b8dc16] transition-colors"
                   style={{ fontFamily: "Poppins, sans-serif" }}
                 >
                   {f.name}
@@ -186,7 +186,7 @@ export default function FontiPage() {
           Risorse aperte
         </h2>
         <p
-          className="text-sm text-[#b8b3a7] leading-relaxed"
+          className="text-[1.0625rem] text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           Le seguenti risorse sono disponibili con licenze aperte e possono
@@ -203,7 +203,7 @@ export default function FontiPage() {
                   href={f.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-sm font-semibold text-[#f7f3e8] hover:text-[#b8dc16] transition-colors"
+                  className="text-[1.0625rem] font-semibold text-[#f7f3e8] hover:text-[#b8dc16] transition-colors"
                   style={{ fontFamily: "Poppins, sans-serif" }}
                 >
                   {f.name}
@@ -243,7 +243,7 @@ export default function FontiPage() {
           Segnalazioni
         </h2>
         <p
-          className="text-sm text-[#b8b3a7] leading-relaxed"
+          className="text-[1.0625rem] text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           Se ritieni che una voce di Il Paroliere violi inavvertitamente diritti

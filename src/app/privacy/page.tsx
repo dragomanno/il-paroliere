@@ -13,7 +13,7 @@ export default function PrivacyPage() {
     <article className="space-y-12 max-w-2xl">
       {/* Breadcrumb */}
       <nav
-        className="text-xs text-[#b8b3a7]"
+        className="text-sm text-[#b8b3a7]" 
         aria-label="Navigazione"
         style={{ fontFamily: "Poppins, sans-serif" }}
       >
@@ -33,7 +33,7 @@ export default function PrivacyPage() {
           Privacy Policy
         </h1>
         <p
-          className="text-sm text-[#b8b3a7]"
+          className="text-sm text-[#b8b3a7]" 
           style={{ fontFamily: "Poppins, sans-serif" }}
         >
           Ultima modifica: 19 maggio 2026
@@ -51,7 +51,7 @@ export default function PrivacyPage() {
           Titolare del trattamento
         </h2>
         <div
-          className="space-y-2 text-sm text-[#b8b3a7] leading-relaxed"
+          className="space-y-2 text-[1.0625rem] text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           <p>
@@ -82,7 +82,7 @@ export default function PrivacyPage() {
           Cookie e tecnologie di tracciamento
         </h2>
         <div
-          className="space-y-3 text-sm text-[#b8b3a7] leading-relaxed"
+          className="space-y-3 text-[1.0625rem] text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           <p>
@@ -115,7 +115,7 @@ export default function PrivacyPage() {
           Log di accesso
         </h2>
         <div
-          className="space-y-3 text-sm text-[#b8b3a7] leading-relaxed"
+          className="space-y-3 text-[1.0625rem] text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           <p>
@@ -171,7 +171,7 @@ export default function PrivacyPage() {
           Modulo di contribuzione
         </h2>
         <div
-          className="space-y-3 text-sm text-[#b8b3a7] leading-relaxed"
+          className="space-y-3 text-[1.0625rem] text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           <p>
@@ -215,7 +215,7 @@ export default function PrivacyPage() {
           I tuoi diritti (GDPR art. 15–22)
         </h2>
         <div
-          className="space-y-3 text-sm text-[#b8b3a7] leading-relaxed"
+          className="space-y-3 text-[1.0625rem] text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           <p>
@@ -257,7 +257,7 @@ export default function PrivacyPage() {
           Modifiche a questa informativa
         </h2>
         <p
-          className="text-sm text-[#b8b3a7] leading-relaxed"
+          className="text-[1.0625rem] text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           In caso di modifiche sostanziali, la data di «Ultima modifica» in cima
