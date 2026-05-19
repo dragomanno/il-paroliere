@@ -36,10 +36,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 function SectionHeading({ children }: { children: React.ReactNode }) {
   return (
-    <h2
-      className="text-xs font-semibold uppercase tracking-widest text-[#b8b3a7] mb-3"
-      style={{ fontFamily: "Poppins, sans-serif" }}
-    >
+    <h2 className="section-label">
       {children}
     </h2>
   );
@@ -60,7 +57,7 @@ function SourceLinks({ links }: { links: LemmaEntry["sourceLinks"] }) {
   if (entries.length === 0) return null;
 
   return (
-    <div className="flex flex-wrap gap-3">
+    <div className="flex flex-wrap gap-4">
       {entries.map(({ label, url }) => (
         <a
           key={label}
@@ -71,8 +68,8 @@ function SourceLinks({ links }: { links: LemmaEntry["sourceLinks"] }) {
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            width="12"
-            height="12"
+            width="13"
+            height="13"
             viewBox="0 0 24 24"
             fill="none"
             stroke="currentColor"
@@ -122,7 +119,7 @@ export default async function LemmaPage({ params }: Props) {
     <article className="space-y-10">
       {/* Breadcrumb */}
       <nav
-        className="text-xs text-[#b8b3a7]"
+        className="text-sm text-[#b8b3a7]"
         aria-label="Navigazione"
         style={{ fontFamily: "Poppins, sans-serif" }}
       >
@@ -137,7 +134,7 @@ export default async function LemmaPage({ params }: Props) {
       <header className="space-y-4">
         <div className="flex flex-wrap items-baseline gap-3">
           <h1
-            className="text-4xl sm:text-5xl font-bold tracking-tight text-[#f7f3e8]"
+            className="text-[2.5rem] sm:text-[3.25rem] font-bold tracking-tight text-[#f7f3e8] leading-tight"
             style={{ fontFamily: "Poppins, sans-serif" }}
           >
             {lemma}
@@ -150,14 +147,14 @@ export default async function LemmaPage({ params }: Props) {
 
         {/* Short definition as subtitle */}
         <p
-          className="text-lg sm:text-xl text-[#b8b3a7] leading-relaxed font-medium"
+          className="text-[1.1875rem] sm:text-[1.3125rem] text-[#b8b3a7] leading-relaxed font-medium"
           style={{ fontFamily: "Lora, serif", fontStyle: "italic" }}
         >
           {shortDefinition}
         </p>
 
         {/* Register + domain tags */}
-        <div className="flex flex-wrap gap-1.5">
+        <div className="flex flex-wrap gap-2">
           {register.map((r) => (
             <span key={r} className="tag-register">
               {r}
@@ -177,7 +174,7 @@ export default async function LemmaPage({ params }: Props) {
       <section>
         <SectionHeading>Definizione</SectionHeading>
         <p
-          className="text-base sm:text-lg text-[#f7f3e8] leading-relaxed"
+          className="text-[1.0625rem] sm:text-[1.125rem] text-[#f7f3e8] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           {definition}
@@ -191,7 +188,7 @@ export default async function LemmaPage({ params }: Props) {
           <section>
             <SectionHeading>Etimologia</SectionHeading>
             <p
-              className="text-sm text-[#b8b3a7] leading-relaxed"
+              className="text-[1rem] sm:text-[1.0625rem] text-[#b8b3a7] leading-relaxed"
               style={{ fontFamily: "Lora, serif" }}
             >
               {etymology}
@@ -206,11 +203,11 @@ export default async function LemmaPage({ params }: Props) {
           <Divider />
           <section>
             <SectionHeading>Esempi d'uso</SectionHeading>
-            <ul className="space-y-3">
+            <ul className="space-y-4">
               {examples.map((ex, i) => (
                 <li
                   key={i}
-                  className="pl-4 border-l-2 border-[#b8dc16] text-[#f7f3e8] text-sm sm:text-base leading-relaxed"
+                  className="pl-4 border-l-2 border-[#b8dc16] text-[#f7f3e8] text-[1rem] sm:text-[1.0625rem] leading-relaxed"
                   style={{ fontFamily: "Lora, serif", fontStyle: "italic" }}
                 >
                   «{ex}»
@@ -227,12 +224,12 @@ export default async function LemmaPage({ params }: Props) {
           <Divider />
           <section>
             <SectionHeading>Sinonimi</SectionHeading>
-            <div className="space-y-3">
+            <div className="space-y-4">
               {synonyms.map((s, i) => (
-                <div key={i} className="flex flex-col gap-0.5">
+                <div key={i} className="flex flex-col gap-1">
                   <div className="flex flex-wrap items-baseline gap-2">
                     <span
-                      className="font-semibold text-[#f7f3e8]"
+                      className="font-semibold text-[1rem] sm:text-[1.0625rem] text-[#f7f3e8]"
                       style={{ fontFamily: "Poppins, sans-serif" }}
                     >
                       {s.term}
@@ -243,7 +240,7 @@ export default async function LemmaPage({ params }: Props) {
                   </div>
                   {s.context && (
                     <p
-                      className="text-xs text-[#b8b3a7] leading-relaxed"
+                      className="text-[0.9375rem] text-[#b8b3a7] leading-relaxed"
                       style={{ fontFamily: "Lora, serif" }}
                     >
                       {s.context}
@@ -251,7 +248,7 @@ export default async function LemmaPage({ params }: Props) {
                   )}
                   {s.note && (
                     <p
-                      className="text-xs text-[#b8b3a7] leading-relaxed"
+                      className="text-[0.9375rem] text-[#b8b3a7] leading-relaxed"
                       style={{ fontFamily: "Lora, serif" }}
                     >
                       ↳ {s.note}
@@ -270,12 +267,12 @@ export default async function LemmaPage({ params }: Props) {
           <Divider />
           <section>
             <SectionHeading>Contrari</SectionHeading>
-            <div className="space-y-3">
+            <div className="space-y-4">
               {antonyms.map((a, i) => (
-                <div key={i} className="flex flex-col gap-0.5">
+                <div key={i} className="flex flex-col gap-1">
                   <div className="flex flex-wrap items-baseline gap-2">
                     <span
-                      className="font-semibold text-[#f7f3e8]"
+                      className="font-semibold text-[1rem] sm:text-[1.0625rem] text-[#f7f3e8]"
                       style={{ fontFamily: "Poppins, sans-serif" }}
                     >
                       {a.term}
@@ -286,7 +283,7 @@ export default async function LemmaPage({ params }: Props) {
                   </div>
                   {a.context && (
                     <p
-                      className="text-xs text-[#b8b3a7] leading-relaxed"
+                      className="text-[0.9375rem] text-[#b8b3a7] leading-relaxed"
                       style={{ fontFamily: "Lora, serif" }}
                     >
                       {a.context}
@@ -309,7 +306,7 @@ export default async function LemmaPage({ params }: Props) {
               {relatedWords.map((w) => (
                 <span
                   key={w}
-                  className="px-2.5 py-1 bg-[#181818] border border-[#2a2a2a] rounded text-xs text-[#b8b3a7]"
+                  className="px-3 py-1.5 bg-[#181818] border border-[#2a2a2a] rounded text-[0.9375rem] text-[#b8b3a7]"
                   style={{ fontFamily: "Poppins, sans-serif" }}
                 >
                   {w}
@@ -322,10 +319,10 @@ export default async function LemmaPage({ params }: Props) {
 
       {/* Nota del Paroliere */}
       <Divider />
-      <section className="bg-[#181818] border border-[#2a2a2a] rounded-lg p-5 space-y-3">
+      <section className="bg-[#181818] border border-[#2a2a2a] rounded-lg p-5 sm:p-7 space-y-3">
         <SectionHeading>Nota del Paroliere</SectionHeading>
         <p
-          className="text-sm sm:text-base text-[#f7f3e8] leading-relaxed"
+          className="text-[1rem] sm:text-[1.0625rem] text-[#f7f3e8] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           {paroliereNote}
@@ -337,8 +334,8 @@ export default async function LemmaPage({ params }: Props) {
       <section>
         <SectionHeading>Fonti esterne</SectionHeading>
         <p
-          className="text-xs text-[#b8b3a7] mb-3 leading-relaxed"
-          style={{ fontFamily: "Poppins, sans-serif" }}
+          className="text-[0.9375rem] text-[#b8b3a7] mb-4 leading-relaxed"
+          style={{ fontFamily: "Lora, serif" }}
         >
           Il Paroliere fornisce definizioni originali. Le fonti esterne sono
           collegate per consultazione, non copiate.
@@ -347,7 +344,10 @@ export default async function LemmaPage({ params }: Props) {
       </section>
 
       {/* Meta footer */}
-      <div className="pt-4 flex flex-wrap gap-4 text-xs text-[#b8b3a7]" style={{ fontFamily: "Poppins, sans-serif" }}>
+      <div
+        className="pt-4 flex flex-wrap gap-4 text-sm text-[#b8b3a7]"
+        style={{ fontFamily: "Poppins, sans-serif" }}
+      >
         {createdAt && <span>Voce creata: {createdAt}</span>}
         {updatedAt && <span>Ultimo aggiornamento: {updatedAt}</span>}
         <span className="ml-auto">

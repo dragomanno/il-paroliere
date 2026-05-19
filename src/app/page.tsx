@@ -11,19 +11,18 @@ export const metadata: Metadata = {
 };
 
 export default function HomePage() {
-  // Compute letters that have at least one lemma — for the alpha nav
   const lemmiPerLettera = new Set(
     allLemmas.map((e) => e.lemma.toLowerCase()[0])
   );
   const TUTTE = "abcdefghilmnopqrstuvwxyz".split("");
 
   return (
-    <div className="space-y-16">
+    <div className="space-y-16 sm:space-y-20">
       {/* Hero */}
-      <section className="pt-8 pb-4 space-y-6">
+      <section className="pt-6 pb-2 space-y-6">
         <div className="space-y-3">
           <h1
-            className="text-4xl sm:text-5xl font-bold tracking-tight text-[#f7f3e8] leading-tight"
+            className="text-[2.25rem] sm:text-[3rem] font-bold tracking-tight text-[#f7f3e8] leading-tight"
             style={{ fontFamily: "Poppins, sans-serif" }}
           >
             Il Paroliere
@@ -37,7 +36,7 @@ export default function HomePage() {
         </div>
 
         <p
-          className="text-base sm:text-lg text-[#b8b3a7] leading-relaxed max-w-xl"
+          className="text-[1.0625rem] sm:text-[1.1875rem] text-[#b8b3a7] leading-relaxed max-w-xl"
           style={{ fontFamily: "Lora, serif" }}
         >
           Un dizionario italiano aperto e originale. Ogni voce è scritta da zero,
@@ -55,13 +54,13 @@ export default function HomePage() {
       {/* Presentazione del progetto */}
       <section className="space-y-5 max-w-2xl">
         <h2
-          className="text-2xl sm:text-3xl font-bold tracking-tight text-[#f7f3e8]"
+          className="text-[1.625rem] sm:text-[2rem] font-bold tracking-tight text-[#f7f3e8]"
           style={{ fontFamily: "Poppins, sans-serif" }}
         >
           Un dizionario che non copia
         </h2>
         <div
-          className="space-y-4 text-[#b8b3a7] leading-relaxed"
+          className="space-y-4 text-[#b8b3a7] leading-relaxed text-[1.0625rem] sm:text-[1.125rem]"
           style={{ fontFamily: "Lora, serif" }}
         >
           <p>
@@ -106,7 +105,7 @@ export default function HomePage() {
           </p>
         </div>
         <div
-          className="flex flex-wrap gap-4 pt-1 text-sm"
+          className="flex flex-wrap gap-4 pt-1 text-[0.9375rem]"
           style={{ fontFamily: "Poppins, sans-serif" }}
         >
           <Link
@@ -127,14 +126,13 @@ export default function HomePage() {
       {/* Navigazione alfabetica */}
       <section className="space-y-5">
         <h2
-          className="text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
-          style={{ fontFamily: "Poppins, sans-serif" }}
+          className="section-label"
         >
           Sfoglia per lettera
         </h2>
         <nav
           aria-label="Navigazione alfabetica"
-          className="flex flex-wrap gap-1.5"
+          className="flex flex-wrap gap-2"
         >
           {TUTTE.map((l) => {
             const hasContent = lemmiPerLettera.has(l);
@@ -142,7 +140,7 @@ export default function HomePage() {
               <Link
                 key={l}
                 href={`/lettera/${l}`}
-                className="w-10 h-10 flex items-center justify-center rounded text-sm font-semibold
+                className="w-11 h-11 flex items-center justify-center rounded text-[0.9375rem] font-semibold
                            bg-[#181818] border border-[#2a2a2a] text-[#b8b3a7]
                            hover:border-[#b8dc16] hover:text-[#b8dc16] transition-colors duration-150"
                 style={{ fontFamily: "Poppins, sans-serif" }}
@@ -153,7 +151,7 @@ export default function HomePage() {
             ) : (
               <span
                 key={l}
-                className="w-10 h-10 flex items-center justify-center rounded text-sm font-semibold
+                className="w-11 h-11 flex items-center justify-center rounded text-[0.9375rem] font-semibold
                            text-[#2a2a2a] cursor-default select-none"
                 style={{ fontFamily: "Poppins, sans-serif" }}
                 aria-hidden="true"
@@ -164,7 +162,7 @@ export default function HomePage() {
           })}
         </nav>
         <p
-          className="text-xs text-[#b8b3a7]"
+          className="text-sm text-[#b8b3a7]"
           style={{ fontFamily: "Poppins, sans-serif" }}
         >
           {allLemmas.length} voci disponibili · le lettere in grigio saranno
@@ -175,7 +173,7 @@ export default function HomePage() {
       {/* Colophon minimo */}
       <section className="border-t border-[#2a2a2a] pt-8">
         <p
-          className="text-xs text-[#b8b3a7]"
+          className="text-sm text-[#b8b3a7]"
           style={{ fontFamily: "Poppins, sans-serif" }}
         >
           Contenuto editoriale —{" "}
