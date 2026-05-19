@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,500;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -13,12 +13,24 @@
     --il-border:  #2a2a2a;
     --il-lime:    #b8dc16;
     --il-magenta: #8f0060;
+
+    /* Typographic scale */
+    --il-text-xs:   0.8125rem;   /* 13px */
+    --il-text-sm:   0.9375rem;   /* 15px */
+    --il-text-base: 1.0625rem;   /* 17px */
+    --il-text-lg:   1.1875rem;   /* 19px */
+    --il-text-xl:   1.3125rem;   /* 21px */
+    --il-text-2xl:  1.5rem;      /* 24px */
+    --il-text-3xl:  1.875rem;    /* 30px */
+    --il-text-4xl:  2.375rem;    /* 38px */
+    --il-text-5xl:  3rem;        /* 48px */
   }
 
   html {
     background-color: var(--il-bg);
     color: var(--il-text);
     font-family: 'Lora', serif;
+    font-size: 17px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
@@ -27,6 +39,7 @@
     background-color: var(--il-bg);
     color: var(--il-text);
     min-height: 100vh;
+    line-height: 1.75;
   }
 
   ::selection {
@@ -53,7 +66,8 @@
   }
 
   .tag {
-    @apply inline-block px-2 py-0.5 text-xs rounded font-ui tracking-wide;
+    @apply inline-block px-2 py-0.5 rounded font-ui tracking-wide;
+    font-size: var(--il-text-xs);
   }
 
   .tag-register {
@@ -69,7 +83,19 @@
   }
 
   .source-link {
-    @apply inline-flex items-center gap-1 text-xs text-[#b8b3a7] hover:text-[#b8dc16] 
+    @apply inline-flex items-center gap-1 text-[#b8b3a7] hover:text-[#b8dc16]
            transition-colors duration-150 underline underline-offset-2;
+    font-size: var(--il-text-sm);
+  }
+
+  /* Sezione heading standard (uppercase label) */
+  .section-label {
+    font-family: 'Poppins', sans-serif;
+    font-size: var(--il-text-xs);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--il-muted);
+    margin-bottom: 0.75rem;
   }
 }

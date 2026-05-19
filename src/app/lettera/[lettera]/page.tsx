@@ -177,7 +177,7 @@ function AlphaNav({ current }: { current: string }) {
   return (
     <nav
       aria-label="Navigazione alfabetica"
-      className="flex flex-wrap gap-1.5"
+      className="flex flex-wrap gap-2"
     >
       {TUTTE.map((l) => {
         const hasContent = lemmiPerLettera.has(l);
@@ -187,7 +187,7 @@ function AlphaNav({ current }: { current: string }) {
           return (
             <span
               key={l}
-              className="w-8 h-8 flex items-center justify-center rounded text-xs font-semibold
+              className="w-10 h-10 flex items-center justify-center rounded text-sm font-semibold
                          text-[#3a3a3a] cursor-default select-none"
               style={{ fontFamily: "Poppins, sans-serif" }}
               aria-hidden="true"
@@ -201,7 +201,7 @@ function AlphaNav({ current }: { current: string }) {
           <Link
             key={l}
             href={`/lettera/${l}`}
-            className={`w-8 h-8 flex items-center justify-center rounded text-xs font-semibold
+            className={`w-10 h-10 flex items-center justify-center rounded text-sm font-semibold
                         transition-colors duration-150
                         ${
                           isCurrent
