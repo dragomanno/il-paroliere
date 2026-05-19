@@ -104,6 +104,26 @@ import { statusCode } from "./status-code";
 import { token } from "./token";
 import { tokenizzazione } from "./tokenizzazione";
 
+// Towards 111 — batch 7 (carattere/linguaggio/psicologia/tecnico)
+import { abitudine } from "./abitudine";
+import { ambivalenza } from "./ambivalenza";
+import { bipolare } from "./bipolare";
+import { cauto } from "./cauto";
+import { declinare } from "./declinare";
+import { eufemismo } from "./eufemismo";
+import { fidelizzazione } from "./fidelizzazione";
+import { frastagliato } from "./frastagliato";
+import { impasse } from "./impasse";
+import { lucido } from "./lucido";
+import { pervicace } from "./pervicace";
+import { ponderare } from "./ponderare";
+import { rarefatto } from "./rarefatto";
+import { sagacia } from "./sagacia";
+import { solarizzazione } from "./solarizzazione";
+import { trasparenza } from "./trasparenza";
+import { valenza } from "./valenza";
+import { velleita } from "./velleita";
+
 // Towards 100 — batch 2
 import { perbenismo } from "./perbenismo";
 import { querulo } from "./querulo";
@@ -120,6 +140,7 @@ import { zenit } from "./zenit";
 
 /** All lemmas in display order (alphabetical) */
 export const allLemmas: LemmaEntry[] = [
+  abitudine,
   accondiscendenza,
   acredine,
   acrimonia,
@@ -128,20 +149,24 @@ export const allLemmas: LemmaEntry[] = [
   aggregatore,
   algoritmo,
   ambiguita,
+  ambivalenza,
   atavico,
   bagliore,
   banalita,
+  bipolare,
   bizzoso,
   bot,
   boria,
   canonicalizzazione,
   caparbio,
+  cauto,
   cifra,
   connivenza,
   consuetudine,
   crawlBudget,
   crepuscolo,
   cura,
+  declinare,
   demistificare,
   diatriba,
   disinvoltura,
@@ -149,13 +174,17 @@ export const allLemmas: LemmaEntry[] = [
   effervescente,
   effimero,
   eloquenza,
+  eufemismo,
   fervore,
+  fidelizzazione,
   flemma,
   fraintendere,
+  frastagliato,
   garbo,
-  grottesco,
   greve,
+  grottesco,
   hreflang,
+  impasse,
   incipit,
   indicizzazione,
   insolito,
@@ -164,6 +193,7 @@ export const allLemmas: LemmaEntry[] = [
   lacuna,
   laconico,
   llm,
+  lucido,
   lusinga,
   malinconia,
   mangiaufo,
@@ -178,22 +208,27 @@ export const allLemmas: LemmaEntry[] = [
   palinsesto,
   paradosso,
   parsimonia,
-  periferico,
   perbenismo,
+  periferico,
+  pervicace,
+  ponderare,
   posizionamento,
   pragmatismo,
   querulo,
+  rarefatto,
   recidivo,
   redirect,
   resilienza,
   reticenza,
   rimpianto,
   rovello,
+  sagacia,
   scrupolo,
   sedimento,
   seo,
   sfilacciato,
   sgomento,
+  solarizzazione,
   sorpresa,
   statusCode,
   stoicismo,
@@ -204,10 +239,13 @@ export const allLemmas: LemmaEntry[] = [
   tergiversare,
   token,
   tokenizzazione,
+  trasparenza,
   umbratile,
   univoco,
   vacuo,
+  valenza,
   veemenza,
+  velleita,
   velleitario,
   veniale,
   xenofobia,
