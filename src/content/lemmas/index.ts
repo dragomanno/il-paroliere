@@ -48,6 +48,20 @@ import { malinconia } from "./malinconia";
 import { nitido } from "./nitido";
 import { ostinazione } from "./ostinazione";
 
+// Towards 100 — batch 4
+import { atavico } from "./atavico";
+import { bizzoso } from "./bizzoso";
+import { cifra } from "./cifra";
+import { palinsesto } from "./palinsesto";
+import { parsimonia } from "./parsimonia";
+import { recidivo } from "./recidivo";
+import { sedimento } from "./sedimento";
+import { tangente } from "./tangente";
+import { univoco } from "./univoco";
+import { velleitario } from "./velleitario";
+import { xenofobia } from "./xenofobia";
+import { zizzania } from "./zizzania";
+
 // Towards 100 — batch 3
 import { acredine } from "./acredine";
 import { affabile } from "./affabile";
@@ -85,9 +99,12 @@ export const allLemmas: LemmaEntry[] = [
   aggregatore,
   algoritmo,
   ambiguita,
+  atavico,
   bagliore,
+  bizzoso,
   boria,
   caparbio,
+  cifra,
   connivenza,
   consuetudine,
   cura,
@@ -114,27 +131,36 @@ export const allLemmas: LemmaEntry[] = [
   obliquo,
   ostinazione,
   ozio,
+  palinsesto,
+  parsimonia,
   periferico,
   perbenismo,
   pragmatismo,
   querulo,
+  recidivo,
   resilienza,
   reticenza,
   rimpianto,
   scrupolo,
+  sedimento,
   sfilacciato,
   sgomento,
   sorpresa,
   stoicismo,
   suscettibile,
   tacito,
+  tangente,
   tangibile,
   tergiversare,
   umbratile,
+  univoco,
   vacuo,
   veemenza,
+  velleitario,
   veniale,
+  xenofobia,
   zenit,
+  zizzania,
 ];
 
 /** Lookup map: slug → LemmaEntry */
