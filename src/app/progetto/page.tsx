@@ -51,7 +51,7 @@ export default function ProgettoPage() {
           Cos'è Il Paroliere
         </h2>
         <div
-          className="space-y-4 text-[#f7f3e8] leading-relaxed"
+          className="space-y-4 text-[1.0625rem] sm:text-[1.1875rem] text-[#f7f3e8] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           <p>
@@ -87,7 +87,7 @@ export default function ProgettoPage() {
           Il metodo editoriale
         </h2>
         <div
-          className="space-y-4 text-[#f7f3e8] leading-relaxed"
+          className="space-y-4 text-[1.0625rem] sm:text-[1.1875rem] text-[#f7f3e8] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           <p>
@@ -120,7 +120,7 @@ export default function ProgettoPage() {
           Cosa Il Paroliere non è
         </h2>
         <ul
-          className="space-y-3 text-[#b8b3a7] leading-relaxed"
+          className="space-y-3 text-[1.0625rem] sm:text-[1.1875rem] text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           {[
@@ -148,7 +148,7 @@ export default function ProgettoPage() {
           Chi c'è dietro
         </h2>
         <div
-          className="space-y-4 text-[#f7f3e8] leading-relaxed"
+          className="space-y-4 text-[1.0625rem] sm:text-[1.1875rem] text-[#f7f3e8] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           <p>

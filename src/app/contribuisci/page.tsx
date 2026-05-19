@@ -60,7 +60,7 @@ export default function ContribuisciPage() {
           Contribuisci
         </h1>
         <p
-          className="text-[1.125rem] text-[#b8b3a7] leading-relaxed max-w-xl"
+          className="text-[1.0625rem] sm:text-[1.1875rem] text-[#b8b3a7] leading-relaxed max-w-xl"
           style={{ fontFamily: "Lora, serif" }}
         >
           Il Paroliere è aperto a chiunque ami la lingua italiana e voglia
@@ -79,7 +79,7 @@ export default function ContribuisciPage() {
           Prima di tutto
         </h2>
         <div
-          className="space-y-4 text-[#f7f3e8] leading-relaxed"
+          className="space-y-4 text-[1.0625rem] sm:text-[1.1875rem] text-[#f7f3e8] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           <p>
@@ -107,7 +107,7 @@ export default function ContribuisciPage() {
           Scrivi al team editoriale
         </h2>
         <p
-          className="text-[1.0625rem] text-[#b8b3a7] leading-relaxed max-w-xl"
+          className="text-[1.0625rem] sm:text-[1.1875rem] text-[#b8b3a7] leading-relaxed max-w-xl"
           style={{ fontFamily: "Lora, serif" }}
         >
           Usa il modulo qui sotto per proporre un lemma, segnalare un errore o
@@ -248,7 +248,7 @@ export default function ContribuisciPage() {
               type="submit"
               disabled={status === "sending"}
               className="inline-flex items-center gap-2 px-5 py-2.5 rounded-md
-                         bg-[#b8dc16] text-[#0d0d0d] text-sm font-semibold
+                         bg-[#b8dc16] text-[#0d0d0d] text-[1rem] font-semibold
                          hover:bg-[#c8ec26] transition-colors duration-150
                          disabled:opacity-60 disabled:cursor-not-allowed"
               style={{ fontFamily: "Poppins, sans-serif" }}
@@ -280,7 +280,7 @@ export default function ContribuisciPage() {
           ].map((p, i) => (
             <li
               key={i}
-              className="flex gap-3 text-sm text-[#b8b3a7] leading-relaxed"
+              className="flex gap-3 text-[0.9375rem] text-[#b8b3a7] leading-relaxed"
               style={{ fontFamily: "Lora, serif" }}
             >
               <span className="text-[#b8dc16] shrink-0 mt-0.5">—</span>
@@ -301,7 +301,7 @@ export default function ContribuisciPage() {
           Licenza dei contributi
         </h2>
         <p
-          className="text-[1.0625rem] text-[#b8b3a7] leading-relaxed"
+          className="text-[1.0625rem] sm:text-[1.1875rem] text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           Contribuendo a Il Paroliere accetti che il tuo contributo venga
