@@ -123,7 +123,7 @@ export const mangiaufo: LemmaEntry = {
     "che non ha capito — o che ha capito tutto ma non riesce a dire di no.",
 
   editorialStatus: "reviewed",
-  indexable: false,
+  indexable: true,
 
   seo: {
     title: "Mangiaufo — Il Paroliere",

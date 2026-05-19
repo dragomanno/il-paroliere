@@ -113,7 +113,7 @@ export const aggregatore: LemmaEntry = {
     "la selezione diventa commento, e il commento diventa voce propria.",
 
   editorialStatus: "reviewed",
-  indexable: false,
+  indexable: true,
 
   seo: {
     title: "Aggregatore — Il Paroliere",

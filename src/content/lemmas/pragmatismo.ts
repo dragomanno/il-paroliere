@@ -115,7 +115,7 @@ export const pragmatismo: LemmaEntry = {
     "ma il Pragmatismo con la maiuscola ha una storia e una profondità che meritano rispetto.",
 
   editorialStatus: "reviewed",
-  indexable: false,
+  indexable: true,
 
   seo: {
     title: "Pragmatismo — Il Paroliere",

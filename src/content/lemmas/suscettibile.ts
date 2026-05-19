@@ -116,7 +116,7 @@ export const suscettibile: LemmaEntry = {
     "che il proprio cliente 'è suscettibile' senza specificare di che cosa.",
 
   editorialStatus: "reviewed",
-  indexable: false,
+  indexable: true,
 
   seo: {
     title: "Suscettibile — Il Paroliere",

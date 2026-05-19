@@ -109,7 +109,7 @@ export const garbo: LemmaEntry = {
     "non solo apparenza.",
 
   editorialStatus: "reviewed",
-  indexable: false,
+  indexable: true,
 
   seo: {
     title: "Garbo — Il Paroliere",

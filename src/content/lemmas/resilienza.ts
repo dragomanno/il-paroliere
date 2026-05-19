@@ -111,7 +111,7 @@ export const resilienza: LemmaEntry = {
     "distinguendo la resilienza come qualità reale da quella come imperativo morale.",
 
   editorialStatus: "reviewed",
-  indexable: false,
+  indexable: true,
 
   seo: {
     title: "Resilienza — Il Paroliere",

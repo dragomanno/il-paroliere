@@ -102,7 +102,7 @@ export const algoritmo: LemmaEntry = {
     "assumere la responsabilità. Il Paroliere suggerisce di usarla con precisione.",
 
   editorialStatus: "reviewed",
-  indexable: false,
+  indexable: true,
 
   seo: {
     title: "Algoritmo — Il Paroliere",
