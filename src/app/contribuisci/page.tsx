@@ -1,14 +1,41 @@
-import type { Metadata } from "next";
-import Link from "next/link";
+"use client";
 
-export const metadata: Metadata = {
-  title: "Contribuisci — Il Paroliere",
-  description:
-    "Come contribuire a Il Paroliere: proponi nuovi lemmi, segnala errori, " +
-    "migliora le definizioni. Il progetto è aperto a chi ama la lingua italiana.",
-};
+import Link from "next/link";
+import { useState, FormEvent } from "react";
 
 export default function ContribuisciPage() {
+  const [status, setStatus] = useState<"idle" | "sending" | "ok" | "error">(
+    "idle"
+  );
+
+  async function handleSubmit(e: FormEvent<HTMLFormElement>) {
+    e.preventDefault();
+    setStatus("sending");
+
+    const form = e.currentTarget;
+    const data = new URLSearchParams();
+    data.append("form-name", "contribuzione");
+    for (const [key, value] of new FormData(form) as Iterable<[string, FormDataEntryValue]>) {
+      data.append(key, value.toString());
+    }
+
+    try {
+      const res = await fetch("/__forms.html", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: data.toString(),
+      });
+      if (res.ok) {
+        setStatus("ok");
+        form.reset();
+      } else {
+        setStatus("error");
+      }
+    } catch {
+      setStatus("error");
+    }
+  }
+
   return (
     <article className="space-y-12">
       {/* Breadcrumb */}
@@ -88,128 +115,148 @@ export default function ContribuisciPage() {
           essere utili.
         </p>
 
-        {/*
-          Netlify Form — data-netlify="true" attiva il processamento lato Netlify.
-          Il campo hidden form-name è obbligatorio per Netlify Forms in SSG/SSR.
-          Le notifiche email si configurano nel pannello Netlify →
-          Site settings → Forms → Email notifications → ciao@ilparoliere.online
-        */}
-        <form
-          name="contribuzione"
-          method="POST"
-          data-netlify="true"
-          data-netlify-honeypot="bot-field"
-          className="space-y-5 max-w-xl"
-        >
-          {/* Campi obbligatori Netlify Forms */}
-          <input type="hidden" name="form-name" value="contribuzione" />
-          <p className="hidden">
-            <label>
-              Non compilare:{" "}
-              <input name="bot-field" />
-            </label>
-          </p>
-
-          {/* Tipo di contributo */}
-          <div className="space-y-2">
-            <label
-              htmlFor="tipo"
-              className="block text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
-              style={{ fontFamily: "Poppins, sans-serif" }}
-            >
-              Tipo di contributo
-            </label>
-            <select
-              id="tipo"
-              name="tipo"
-              required
-              className="w-full bg-[#181818] border border-[#2a2a2a] rounded-md px-4 py-2.5
-                         text-sm text-[#f7f3e8] focus:outline-none focus:border-[#b8dc16]
-                         transition-colors"
-              style={{ fontFamily: "Poppins, sans-serif" }}
-            >
-              <option value="">— Seleziona —</option>
-              <option value="proposta-lemma">Proposta di nuovo lemma</option>
-              <option value="segnalazione-errore">Segnalazione di errore</option>
-              <option value="voce-completa">Proposta di voce completa</option>
-              <option value="altro">Altro</option>
-            </select>
-          </div>
-
-          {/* Nome */}
-          <div className="space-y-2">
-            <label
-              htmlFor="nome"
-              className="block text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
-              style={{ fontFamily: "Poppins, sans-serif" }}
-            >
-              Nome (opzionale)
-            </label>
-            <input
-              type="text"
-              id="nome"
-              name="nome"
-              placeholder="Come ti chiami?"
-              className="w-full bg-[#181818] border border-[#2a2a2a] rounded-md px-4 py-2.5
-                         text-sm text-[#f7f3e8] placeholder:text-[#3a3a3a]
-                         focus:outline-none focus:border-[#b8dc16] transition-colors"
-              style={{ fontFamily: "Lora, serif" }}
-            />
-          </div>
-
-          {/* Email */}
-          <div className="space-y-2">
-            <label
-              htmlFor="email"
-              className="block text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
-              style={{ fontFamily: "Poppins, sans-serif" }}
-            >
-              Email (opzionale, per ricevere risposta)
-            </label>
-            <input
-              type="email"
-              id="email"
-              name="email"
-              placeholder="tua@email.it"
-              className="w-full bg-[#181818] border border-[#2a2a2a] rounded-md px-4 py-2.5
-                         text-sm text-[#f7f3e8] placeholder:text-[#3a3a3a]
-                         focus:outline-none focus:border-[#b8dc16] transition-colors"
-              style={{ fontFamily: "Lora, serif" }}
-            />
-          </div>
-
-          {/* Messaggio */}
-          <div className="space-y-2">
-            <label
-              htmlFor="messaggio"
-              className="block text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
-              style={{ fontFamily: "Poppins, sans-serif" }}
-            >
-              Messaggio
-            </label>
-            <textarea
-              id="messaggio"
-              name="messaggio"
-              required
-              rows={6}
-              placeholder="Descrivi il tuo contributo. Per proposte di lemma: scrivi il termine, il motivo per cui merita una voce e — se vuoi — una bozza di definizione."
-              className="w-full bg-[#181818] border border-[#2a2a2a] rounded-md px-4 py-2.5
-                         text-sm text-[#f7f3e8] placeholder:text-[#3a3a3a] leading-relaxed
-                         focus:outline-none focus:border-[#b8dc16] transition-colors resize-y"
-              style={{ fontFamily: "Lora, serif" }}
-            />
-          </div>
-
-          <button
-            type="submit"
-            className="inline-flex items-center gap-2 px-5 py-2.5 rounded-md
-                       bg-[#b8dc16] text-[#0d0d0d] text-sm font-semibold
-                       hover:bg-[#c8ec26] transition-colors duration-150"
-            style={{ fontFamily: "Poppins, sans-serif" }}
+        {status === "ok" ? (
+          <div
+            className="max-w-xl rounded-md border border-[#b8dc16]/30 bg-[#b8dc16]/10 px-5 py-4 text-sm text-[#b8dc16]"
+            style={{ fontFamily: "Lora, serif" }}
           >
-            Invia contributo
-          </button>
-        </form>
+            Grazie — il tuo contributo è stato inviato. Ti risponderemo se possiamo
+            essere utili.
+          </div>
+        ) : (
+          <form
+            name="contribuzione"
+            onSubmit={handleSubmit}
+            className="space-y-5 max-w-xl"
+          >
+            {/* Honeypot — nascosto */}
+            <p className="hidden">
+              <label>
+                Non compilare:{" "}
+                <input name="bot-field" />
+              </label>
+            </p>
+
+            {/* Tipo di contributo */}
+            <div className="space-y-2">
+              <label
+                htmlFor="tipo"
+                className="block text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
+                style={{ fontFamily: "Poppins, sans-serif" }}
+              >
+                Tipo di contributo
+              </label>
+              <select
+                id="tipo"
+                name="tipo"
+                required
+                className="w-full bg-[#181818] border border-[#2a2a2a] rounded-md px-4 py-2.5
+                           text-sm text-[#f7f3e8] focus:outline-none focus:border-[#b8dc16]
+                           transition-colors"
+                style={{ fontFamily: "Poppins, sans-serif" }}
+              >
+                <option value="">— Seleziona —</option>
+                <option value="proposta-lemma">Proposta di nuovo lemma</option>
+                <option value="segnalazione-errore">Segnalazione di errore</option>
+                <option value="voce-completa">Proposta di voce completa</option>
+                <option value="altro">Altro</option>
+              </select>
+            </div>
+
+            {/* Nome */}
+            <div className="space-y-2">
+              <label
+                htmlFor="nome"
+                className="block text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
+                style={{ fontFamily: "Poppins, sans-serif" }}
+              >
+                Nome (opzionale)
+              </label>
+              <input
+                type="text"
+                id="nome"
+                name="nome"
+                placeholder="Come ti chiami?"
+                className="w-full bg-[#181818] border border-[#2a2a2a] rounded-md px-4 py-2.5
+                           text-sm text-[#f7f3e8] placeholder:text-[#3a3a3a]
+                           focus:outline-none focus:border-[#b8dc16] transition-colors"
+                style={{ fontFamily: "Lora, serif" }}
+              />
+            </div>
+
+            {/* Email */}
+            <div className="space-y-2">
+              <label
+                htmlFor="email"
+                className="block text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
+                style={{ fontFamily: "Poppins, sans-serif" }}
+              >
+                Email (opzionale, per ricevere risposta)
+              </label>
+              <input
+                type="email"
+                id="email"
+                name="email"
+                placeholder="tua@email.it"
+                className="w-full bg-[#181818] border border-[#2a2a2a] rounded-md px-4 py-2.5
+                           text-sm text-[#f7f3e8] placeholder:text-[#3a3a3a]
+                           focus:outline-none focus:border-[#b8dc16] transition-colors"
+                style={{ fontFamily: "Lora, serif" }}
+              />
+            </div>
+
+            {/* Messaggio */}
+            <div className="space-y-2">
+              <label
+                htmlFor="messaggio"
+                className="block text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
+                style={{ fontFamily: "Poppins, sans-serif" }}
+              >
+                Messaggio
+              </label>
+              <textarea
+                id="messaggio"
+                name="messaggio"
+                required
+                rows={6}
+                placeholder="Descrivi il tuo contributo. Per proposte di lemma: scrivi il termine, il motivo per cui merita una voce e — se vuoi — una bozza di definizione."
+                className="w-full bg-[#181818] border border-[#2a2a2a] rounded-md px-4 py-2.5
+                           text-sm text-[#f7f3e8] placeholder:text-[#3a3a3a] leading-relaxed
+                           focus:outline-none focus:border-[#b8dc16] transition-colors resize-y"
+                style={{ fontFamily: "Lora, serif" }}
+              />
+            </div>
+
+            {status === "error" && (
+              <p
+                className="text-sm text-red-400"
+                style={{ fontFamily: "Lora, serif" }}
+              >
+                Si è verificato un errore. Riprova tra qualche minuto o scrivici
+                direttamente a{" "}
+                <a
+                  href="mailto:ciao@ilparoliere.online"
+                  className="underline underline-offset-2"
+                >
+                  ciao@ilparoliere.online
+                </a>
+                .
+              </p>
+            )}
+
+            <button
+              type="submit"
+              disabled={status === "sending"}
+              className="inline-flex items-center gap-2 px-5 py-2.5 rounded-md
+                         bg-[#b8dc16] text-[#0d0d0d] text-sm font-semibold
+                         hover:bg-[#c8ec26] transition-colors duration-150
+                         disabled:opacity-60 disabled:cursor-not-allowed"
+              style={{ fontFamily: "Poppins, sans-serif" }}
+            >
+              {status === "sending" ? "Invio in corso…" : "Invia contributo"}
+            </button>
+          </form>
+        )}
       </section>
 
       <hr className="border-[#2a2a2a]" />
