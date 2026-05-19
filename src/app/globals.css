@@ -14,6 +14,9 @@
     --il-lime:    #b8dc16;
     --il-magenta: #8f0060;
 
+    /* Layout */
+    --header-h: 68px; /* py-4 (32px) + SVG 34px + border 1px + 1px safety */
+
     /* Typographic scale */
     --il-text-xs:   0.8125rem;   /* 13px */
     --il-text-sm:   0.9375rem;   /* 15px */
