@@ -2,6 +2,8 @@
 // Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
+// Stylometric engine: pistakkio-paroliere-stylometric-rewriter v1.0
+// Corrected: 2026-05-19 (definition v1 was semantically wrong)
 
 import type { LemmaEntry } from "@/lib/types";
 
@@ -12,77 +14,96 @@ export const mangiaufo: LemmaEntry = {
   gender: "maschile",
 
   definition:
-    "Persona eccessivamente credulona, che abbocca senza spirito critico a qualsiasi " +
-    "notizia stravagante, teoria del complotto o storia inverosimile — specialmente " +
-    "quelle che riguardano fenomeni soprannaturali, avvistamenti di oggetti volanti " +
-    "non identificati o spiegazioni alternative alla realtà condivisa. " +
-    "Il termine è affettuosamente ironico: non indica necessariamente malafede " +
-    "ma una disposizione all'ingenuità credulona che può diventare comica.",
+    "Chi tende a vivere alle spalle degli altri, contando sull'aiuto, la generosità " +
+    "o la distrazione altrui per coprire spese che potrebbe sostenere da solo. " +
+    "Il mangiaufo non è semplicemente parsimonioso: è chi ha fatto dello scrocco " +
+    "una strategia, costruendo relazioni attorno alla disponibilità degli altri " +
+    "a pagare, offrire, provvedere.",
 
   shortDefinition:
-    "Chi crede ingenuamente a qualsiasi storia stravagante o teoria bizzarra.",
+    "Scroccone cronico, chi struttura la propria vita intorno all'aiuto — o alla generosità — degli altri.",
 
   register: ["colloquiale", "ironico"],
-  domains: ["linguaggio informale", "cultura popolare", "registro ironico"],
+  domains: ["linguaggio informale", "carattere", "relazioni sociali"],
 
   etymology:
-    "Composto italiano di mangiare e ufo (dall'inglese UFO, Unidentified Flying Object). " +
-    "Nata probabilmente negli anni Settanta-Ottanta nell'italiano parlato, " +
-    "sulla scia della popolarità del fenomeno degli avvistamenti UFO nella cultura " +
-    "di massa italiana. La struttura mangia- + sostantivo è produttiva in italiano " +
+    "Composto italiano di mangiare e ufo, quest'ultimo dall'espressione " +
+    "'a ufo' — locuzione di origine incerta, forse dal greco hyph' henos " +
+    "('a carico di uno solo') o dall'arabo ufuwan ('gratis'). " +
+    "'Mangiare a ufo' significa mangiare senza pagare, a spese altrui. " +
+    "La struttura mangia- + sostantivo è produttiva in italiano " +
     "(mangianastri, mangiadischi, mangiafuoco).",
 
   examples: [
-    "Mio zio è un mangiaufo patentato: per lui ogni nuvola strana è una spia " +
-    "del governo e ogni guasto all'auto è causato da campi magnetici alieni.",
-    "Non dirlo in giro, ma anche il più navigato dei giornalisti ha una vena " +
-    "mangiaufo sepolta da qualche parte.",
-    "Il convegno sembrava una raduno di mangiaufo, eppure c'erano fisici " +
-    "con dottorato sul palco.",
-    "In rete, il confine tra mangiaufo e scettico ironico si è fatto " +
-    "quasi impossibile da tracciare.",
+    "Al ristorante trovava sempre un pretesto per non mettere mano al portafoglio: " +
+    "da anni viveva da mangiaufo, e tutti lo sapevano tranne lui.",
+    "Non era avarizia nel senso classico — non amava i soldi per sé. " +
+    "Era mangiaufo: amava che fossero gli altri a spendere per lui.",
+    "Aveva costruito una rete di amicizie calibrate su chi poteva ospitarlo, " +
+    "sfamarlo, trasportarlo. Un mangiaufo di sistema, non di occasione.",
+    "«Lo invito?» «Se vuoi pagare tu, sì.» «Ah, è uno di quei mangiaufo.» " +
+    "«Il migliore della categoria.»",
   ],
 
   synonyms: [
     {
-      term: "credulone",
+      term: "scroccone",
       register: "colloquiale",
-      context: "più generico, non legato necessariamente al soprannaturale",
+      context:
+        "sinonimo più diretto e meno ironico; indica chi approfitta " +
+        "sistematicamente della generosità altrui",
     },
     {
-      term: "complottista",
+      term: "parassita",
       register: "comune",
       context:
-        "con sfumatura più paranoica e sistematica, non necessariamente ironica",
+        "più forte e denigratorio; implica una dipendenza strutturale " +
+        "e una mancanza di reciprocità nelle relazioni",
     },
     {
-      term: "gonzo",
+      term: "approfittatore",
+      register: "comune",
+      context:
+        "chi sfrutta le situazioni favorevoli o la disponibilità altrui, " +
+        "non necessariamente in ambito economico",
+    },
+    {
+      term: "portoghese",
       register: "colloquiale",
-      context: "ingenuo, facilmente ingannabile — senza la connotazione soprannaturale",
+      context:
+        "chi entra o consuma senza pagare, spec. nei trasporti pubblici o " +
+        "agli eventi; uso più circoscritto rispetto a mangiaufo",
     },
   ],
 
   antonyms: [
     {
-      term: "scettico",
-      register: "comune",
-      context: "chi sospende il giudizio in assenza di prove sufficienti",
+      term: "munifico",
+      register: "formale",
+      context: "chi dona e offre con generosità, spesso ostentata",
     },
     {
-      term: "razionalista",
-      register: "formale",
-      context: "chi affida la valutazione dei fatti a criteri logici verificabili",
+      term: "generoso",
+      register: "comune",
+      context: "chi condivide spontaneamente senza calcolo",
+    },
+    {
+      term: "prodigo",
+      register: "letterario",
+      context: "chi spende e offre senza risparmio, talvolta in eccesso",
     },
   ],
 
   relatedWords: [
-    "credulità",
-    "ingenuità",
-    "complottismo",
-    "pensiero magico",
-    "UFO",
-    "pseudoscienza",
-    "bufala",
+    "scroccone",
+    "scroccare",
+    "a ufo",
+    "parassitismo",
+    "approfittatore",
+    "portoghese",
+    "tirchio",
+    "avaro",
+    "dipendenza",
   ],
 
   sourceLinks: {
@@ -90,14 +111,16 @@ export const mangiaufo: LemmaEntry = {
   },
 
   paroliereNote:
-    "Mangiaufo è una delle parole più oneste della lingua italiana popolare: " +
-    "dice esattamente quello che vuole dire, senza mascherare il giudizio " +
-    "sotto strati di eufemismo. C'è qualcosa di simpatico nel termine — " +
-    "è ironico ma non feroce, scherzoso ma non cattivo. " +
-    "In un'epoca in cui la parola 'complottista' è diventata un'etichetta politica " +
-    "pesante, mangiaufo conserva una leggerezza quasi affettuosa. " +
-    "Il Paroliere lo include perché un dizionario che non tiene conto del registro " +
-    "ironico e popolare racconta solo metà della lingua.",
+    "Mangiaufo va distinto con cura da due parole che gli somigliano solo " +
+    "in superficie: il tirchio e lo scroccone. " +
+    "Il tirchio non vuole spendere i propri soldi — ma non chiede necessariamente " +
+    "quelli degli altri. Lo scroccone approfitta delle occasioni. " +
+    "Il mangiaufo fa una cosa diversa e più strutturale: costruisce la propria " +
+    "esistenza attorno alla disponibilità altrui, trasformando lo scrocco da " +
+    "comportamento occasionale in stile di vita. " +
+    "C'è una certa genialità storta in questa figura, e il termine italiano la " +
+    "coglie bene: mangiare a ufo, mangiare gratis, mangiare a spese di qualcuno " +
+    "che non ha capito — o che ha capito tutto ma non riesce a dire di no.",
 
   editorialStatus: "reviewed",
   indexable: false,
@@ -105,8 +128,8 @@ export const mangiaufo: LemmaEntry = {
   seo: {
     title: "Mangiaufo — Il Paroliere",
     description:
-      "Definizione originale di 'mangiaufo': chi crede ingenuamente a storie " +
-      "stravaganti. Con etimologia, esempi, sinonimi e nota editoriale.",
+      "Definizione originale di 'mangiaufo': chi vive alle spalle degli altri, " +
+      "scroccone cronico. Con etimologia, esempi, sinonimi e nota editoriale.",
   },
 
   createdAt: "2026-05-19",
