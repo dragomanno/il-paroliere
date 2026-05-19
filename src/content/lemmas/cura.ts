@@ -103,7 +103,7 @@ export const cura: LemmaEntry = {
     "onere e grazia insieme — è rara nelle lingue europee.",
 
   editorialStatus: "reviewed",
-  indexable: false,
+  indexable: true,
 
   seo: {
     title: "Cura — Il Paroliere",

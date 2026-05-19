@@ -16,17 +16,47 @@ import { accondiscendenza } from "./accondiscendenza";
 import { suscettibile } from "./suscettibile";
 import { aggregatore } from "./aggregatore";
 
-/** All seed lemmas in display order (alphabetical within each phase) */
+// Phase 3 — new lemmas (batch 1)
+import { boria } from "./boria";
+import { ozio } from "./ozio";
+import { rimpianto } from "./rimpianto";
+import { tangibile } from "./tangibile";
+
+// Phase 3 — new lemmas (batch 2)
+import { acume } from "./acume";
+import { effimero } from "./effimero";
+import { sgomento } from "./sgomento";
+import { tacito } from "./tacito";
+
+// Phase 3 — new lemmas (batch 3)
+import { disinvoltura } from "./disinvoltura";
+import { lacuna } from "./lacuna";
+import { periferico } from "./periferico";
+import { veemenza } from "./veemenza";
+
+/** All lemmas in display order (alphabetical) */
 export const allLemmas: LemmaEntry[] = [
   accondiscendenza,
+  acume,
   aggregatore,
   algoritmo,
+  boria,
   cura,
+  disinvoltura,
+  effimero,
   garbo,
+  lacuna,
   mangiaufo,
+  ozio,
+  periferico,
   pragmatismo,
   resilienza,
+  rimpianto,
+  sgomento,
   suscettibile,
+  tacito,
+  tangibile,
+  veemenza,
 ];
 
 /** Lookup map: slug → LemmaEntry */

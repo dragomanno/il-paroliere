@@ -118,7 +118,7 @@ export const accondiscendenza: LemmaEntry = {
     "e il contesto decide quale prevale.",
 
   editorialStatus: "reviewed",
-  indexable: false,
+  indexable: true,
 
   seo: {
     title: "Accondiscendenza — Il Paroliere",
