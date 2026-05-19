@@ -247,16 +247,14 @@ export default function FontiPage() {
           style={{ fontFamily: "Lora, serif" }}
         >
           Se ritieni che una voce di Il Paroliere violi inavvertitamente diritti
-          di terzi, apri una segnalazione sul{" "}
+          di terzi,{" "}
           <a
-            href="https://github.com/dragomanno/il-paroliere/issues"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="/contribuisci"
             className="text-[#b8dc16] hover:underline underline-offset-2"
           >
-            repository GitHub
+            invia una segnalazione
           </a>
-          . Ogni segnalazione verrà valutata e gestita prontamente.
+          {" "}tramite il modulo di contatto. Ogni segnalazione verrà valutata e gestita prontamente.
         </p>
       </section>
     </article>

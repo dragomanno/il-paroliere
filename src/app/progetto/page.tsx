@@ -167,16 +167,7 @@ export default function ProgettoPage() {
             caratterizza l'approccio di Pistakkio al web.
           </p>
           <p>
-            Il codice è aperto e disponibile su{" "}
-            <a
-              href="https://github.com/dragomanno/il-paroliere"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-[#b8dc16] hover:underline underline-offset-2"
-            >
-              GitHub
-            </a>
-            . Chiunque può contribuire, segnalare errori, proporre nuovi lemmi.
+            Il codice è aperto. Chiunque può contribuire, segnalare errori, proporre nuovi lemmi.
           </p>
         </div>
       </section>
