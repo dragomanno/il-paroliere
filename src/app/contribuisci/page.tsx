@@ -8,64 +8,6 @@ export const metadata: Metadata = {
     "migliora le definizioni. Il progetto è aperto a chi ama la lingua italiana.",
 };
 
-type ContributeWay = {
-  title: string;
-  description: string;
-  action?: { label: string; url: string; external?: boolean };
-};
-
-const modi: ContributeWay[] = [
-  {
-    title: "Proponi un lemma",
-    description:
-      "Hai una parola che meriterebbe di essere in Il Paroliere? Apri una issue " +
-      "su GitHub con il lemma proposto e una breve spiegazione del perché vale " +
-      "la pena includerlo. Le parole più interessanti sono quelle con una storia, " +
-      "una sfumatura o un uso che i dizionari standard trattano superficialmente.",
-    action: {
-      label: "Apri una issue",
-      url: "https://github.com/dragomanno/il-paroliere/issues/new",
-      external: true,
-    },
-  },
-  {
-    title: "Segnala un errore",
-    description:
-      "Hai trovato un errore in una definizione, un esempio poco convincente, " +
-      "un'etimologia inesatta? Ogni segnalazione è preziosa. Il Paroliere cresce " +
-      "per correzione progressiva, non per perfezione immediata.",
-    action: {
-      label: "Segnala su GitHub",
-      url: "https://github.com/dragomanno/il-paroliere/issues",
-      external: true,
-    },
-  },
-  {
-    title: "Scrivi una voce",
-    description:
-      "Se conosci la lingua italiana, hai senso del registro e sai distinguere " +
-      "una definizione utile da una burocratica, puoi proporre una voce completa. " +
-      "Leggi le linee guida editoriali nel repository prima di iniziare.",
-    action: {
-      label: "Leggi le linee guida",
-      url: "https://github.com/dragomanno/il-paroliere/blob/main/README.md",
-      external: true,
-    },
-  },
-  {
-    title: "Migliora il codice",
-    description:
-      "Il Paroliere è un progetto Next.js + TypeScript + Tailwind, aperto e " +
-      "documentato. Se vedi margini di miglioramento tecnico — accessibilità, " +
-      "performance, architettura — apri una pull request.",
-    action: {
-      label: "Repository GitHub",
-      url: "https://github.com/dragomanno/il-paroliere",
-      external: true,
-    },
-  },
-];
-
 export default function ContribuisciPage() {
   return (
     <article className="space-y-12">
@@ -129,65 +71,145 @@ export default function ContribuisciPage() {
 
       <hr className="border-[#2a2a2a]" />
 
-      {/* Modi per contribuire */}
+      {/* Form di contribuzione */}
       <section className="space-y-6">
         <h2
           className="text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
           style={{ fontFamily: "Poppins, sans-serif" }}
         >
-          Come puoi contribuire
+          Scrivi al team editoriale
         </h2>
-        <div className="space-y-4">
-          {modi.map((modo, i) => (
-            <div
-              key={i}
-              className="p-5 bg-[#181818] border border-[#2a2a2a] rounded-lg space-y-3"
+        <p
+          className="text-sm text-[#b8b3a7] leading-relaxed max-w-xl"
+          style={{ fontFamily: "Lora, serif" }}
+        >
+          Usa il modulo qui sotto per proporre un lemma, segnalare un errore o
+          proporre una voce completa. Leggiamo tutto; rispondiamo quando possiamo
+          essere utili.
+        </p>
+
+        {/*
+          Netlify Form — data-netlify="true" attiva il processamento lato Netlify.
+          Il campo hidden form-name è obbligatorio per Netlify Forms in SSG/SSR.
+          Le notifiche email si configurano nel pannello Netlify →
+          Site settings → Forms → Email notifications → ciao@ilparoliere.online
+        */}
+        <form
+          name="contribuzione"
+          method="POST"
+          data-netlify="true"
+          data-netlify-honeypot="bot-field"
+          className="space-y-5 max-w-xl"
+        >
+          {/* Campi obbligatori Netlify Forms */}
+          <input type="hidden" name="form-name" value="contribuzione" />
+          <p className="hidden">
+            <label>
+              Non compilare:{" "}
+              <input name="bot-field" />
+            </label>
+          </p>
+
+          {/* Tipo di contributo */}
+          <div className="space-y-2">
+            <label
+              htmlFor="tipo"
+              className="block text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
+              style={{ fontFamily: "Poppins, sans-serif" }}
             >
-              <h3
-                className="text-base font-semibold text-[#f7f3e8]"
-                style={{ fontFamily: "Poppins, sans-serif" }}
-              >
-                {modo.title}
-              </h3>
-              <p
-                className="text-sm text-[#b8b3a7] leading-relaxed"
-                style={{ fontFamily: "Lora, serif" }}
-              >
-                {modo.description}
-              </p>
-              {modo.action && (
-                <a
-                  href={modo.action.url}
-                  target={modo.action.external ? "_blank" : undefined}
-                  rel={modo.action.external ? "noopener noreferrer" : undefined}
-                  className="inline-flex items-center gap-1.5 text-sm text-[#b8dc16]
-                             hover:underline underline-offset-2 transition-colors"
-                  style={{ fontFamily: "Poppins, sans-serif" }}
-                >
-                  {modo.action.label}
-                  {modo.action.external && (
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      width="12"
-                      height="12"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      strokeWidth="2"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      aria-hidden="true"
-                    >
-                      <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
-                      <polyline points="15 3 21 3 21 9" />
-                      <line x1="10" y1="14" x2="21" y2="3" />
-                    </svg>
-                  )}
-                </a>
-              )}
-            </div>
-          ))}
-        </div>
+              Tipo di contributo
+            </label>
+            <select
+              id="tipo"
+              name="tipo"
+              required
+              className="w-full bg-[#181818] border border-[#2a2a2a] rounded-md px-4 py-2.5
+                         text-sm text-[#f7f3e8] focus:outline-none focus:border-[#b8dc16]
+                         transition-colors"
+              style={{ fontFamily: "Poppins, sans-serif" }}
+            >
+              <option value="">— Seleziona —</option>
+              <option value="proposta-lemma">Proposta di nuovo lemma</option>
+              <option value="segnalazione-errore">Segnalazione di errore</option>
+              <option value="voce-completa">Proposta di voce completa</option>
+              <option value="altro">Altro</option>
+            </select>
+          </div>
+
+          {/* Nome */}
+          <div className="space-y-2">
+            <label
+              htmlFor="nome"
+              className="block text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
+              style={{ fontFamily: "Poppins, sans-serif" }}
+            >
+              Nome (opzionale)
+            </label>
+            <input
+              type="text"
+              id="nome"
+              name="nome"
+              placeholder="Come ti chiami?"
+              className="w-full bg-[#181818] border border-[#2a2a2a] rounded-md px-4 py-2.5
+                         text-sm text-[#f7f3e8] placeholder:text-[#3a3a3a]
+                         focus:outline-none focus:border-[#b8dc16] transition-colors"
+              style={{ fontFamily: "Lora, serif" }}
+            />
+          </div>
+
+          {/* Email */}
+          <div className="space-y-2">
+            <label
+              htmlFor="email"
+              className="block text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
+              style={{ fontFamily: "Poppins, sans-serif" }}
+            >
+              Email (opzionale, per ricevere risposta)
+            </label>
+            <input
+              type="email"
+              id="email"
+              name="email"
+              placeholder="tua@email.it"
+              className="w-full bg-[#181818] border border-[#2a2a2a] rounded-md px-4 py-2.5
+                         text-sm text-[#f7f3e8] placeholder:text-[#3a3a3a]
+                         focus:outline-none focus:border-[#b8dc16] transition-colors"
+              style={{ fontFamily: "Lora, serif" }}
+            />
+          </div>
+
+          {/* Messaggio */}
+          <div className="space-y-2">
+            <label
+              htmlFor="messaggio"
+              className="block text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
+              style={{ fontFamily: "Poppins, sans-serif" }}
+            >
+              Messaggio
+            </label>
+            <textarea
+              id="messaggio"
+              name="messaggio"
+              required
+              rows={6}
+              placeholder="Descrivi il tuo contributo. Per proposte di lemma: scrivi il termine, il motivo per cui merita una voce e — se vuoi — una bozza di definizione."
+              className="w-full bg-[#181818] border border-[#2a2a2a] rounded-md px-4 py-2.5
+                         text-sm text-[#f7f3e8] placeholder:text-[#3a3a3a] leading-relaxed
+                         focus:outline-none focus:border-[#b8dc16] transition-colors resize-y"
+              style={{ fontFamily: "Lora, serif" }}
+            />
+          </div>
+
+          <button
+            type="submit"
+            className="inline-flex items-center gap-2 px-5 py-2.5 rounded-md
+                       bg-[#b8dc16] text-[#0d0d0d] text-sm font-semibold
+                       hover:bg-[#c8ec26] transition-colors duration-150"
+            style={{ fontFamily: "Poppins, sans-serif" }}
+          >
+            Invia contributo
+          </button>
+        </form>
       </section>
 
       <hr className="border-[#2a2a2a]" />

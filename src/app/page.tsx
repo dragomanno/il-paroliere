@@ -11,6 +11,12 @@ export const metadata: Metadata = {
 };
 
 export default function HomePage() {
+  // Compute letters that have at least one lemma — for the alpha nav
+  const lemmiPerLettera = new Set(
+    allLemmas.map((e) => e.lemma.toLowerCase()[0])
+  );
+  const TUTTE = "abcdefghilmnopqrstuvwxyz".split("");
+
   return (
     <div className="space-y-16">
       {/* Hero */}
@@ -46,82 +52,61 @@ export default function HomePage() {
         />
       </section>
 
-      {/* Seed lemmas */}
-      <section className="space-y-6">
+      {/* Presentazione del progetto */}
+      <section className="space-y-5 max-w-2xl">
         <h2
-          className="text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
+          className="text-2xl sm:text-3xl font-bold tracking-tight text-[#f7f3e8]"
           style={{ fontFamily: "Poppins, sans-serif" }}
         >
-          Voci disponibili
-        </h2>
-
-        <div className="grid gap-4 sm:grid-cols-1">
-          {allLemmas.map((entry) => (
-            <Link
-              key={entry.slug}
-              href={`/parola/${entry.slug}`}
-              className="group block p-5 bg-[#181818] border border-[#2a2a2a] rounded-lg
-                         hover:border-[#b8dc16] transition-colors duration-150"
-            >
-              <div className="flex flex-wrap items-baseline gap-3 mb-2">
-                <span
-                  className="text-xl font-semibold text-[#f7f3e8] group-hover:text-[#b8dc16] transition-colors"
-                  style={{ fontFamily: "Poppins, sans-serif" }}
-                >
-                  {entry.lemma}
-                </span>
-                <span
-                  className="text-xs text-[#b8b3a7]"
-                  style={{ fontFamily: "Poppins, sans-serif" }}
-                >
-                  {entry.partOfSpeech}
-                  {entry.gender ? ` · ${entry.gender}` : ""}
-                </span>
-              </div>
-              <p
-                className="text-sm text-[#b8b3a7] leading-relaxed"
-                style={{ fontFamily: "Lora, serif" }}
-              >
-                {entry.shortDefinition}
-              </p>
-              <div className="mt-3 flex flex-wrap gap-1.5">
-                {entry.domains.slice(0, 3).map((d) => (
-                  <span key={d} className="tag-domain">
-                    {d}
-                  </span>
-                ))}
-              </div>
-            </Link>
-          ))}
-        </div>
-      </section>
-
-      {/* Manifesto */}
-      <section className="border-t border-[#2a2a2a] pt-10 space-y-4">
-        <h2
-          className="text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
-          style={{ fontFamily: "Poppins, sans-serif" }}
-        >
-          Il progetto
+          Un dizionario che non copia
         </h2>
         <div
           className="space-y-4 text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           <p>
-            Il Paroliere nasce dall'idea che la lingua italiana meriti un dizionario
-            digitale aperto, editorialmente curato e legalmente pulito. Le voci sono
-            scritte da zero: nessuna definizione è copiata da fonti proprietarie.
+            La lingua italiana ha dizionari autorevoli — Treccani, De Mauro,
+            Sabatini-Coletti — costruiti nel corso di decenni con rigore filologico.
+            Il Paroliere non compete con loro. Li considera punti di riferimento
+            imprescindibili, e li linka ogni volta che è utile.
           </p>
           <p>
-            I dizionari autorevoli — Treccani, De Mauro, Sabatini-Coletti — sono
-            sorgenti da consultare e da collegare, non da riprodurre. Il Paroliere
-            li cita e li rimanda, costruendo attorno a loro uno strato di commento
-            originale.
+            Ciò che fa Il Paroliere è diverso: scrive ogni definizione da zero,
+            con una voce editoriale contemporanea che non parafrasare il passato ma
+            lo rilegge. Una parola come <em>resilienza</em> o <em>algoritmo</em> non
+            ha oggi lo stesso peso che aveva vent'anni fa. Le definizioni cambiano
+            perché la lingua cambia, e i dizionari chiusi non tengono il passo.
+          </p>
+          <p>
+            Ogni voce del Paroliere include la definizione principale, una versione
+            compatta per l'anteprima, sinonimi contestualizzati con le loro sfumature,
+            un'etimologia verificata, e una nota editoriale — il posto dove si dice
+            qualcosa che i dizionari tradizionali non dicono: perché quella parola
+            esiste, come è cambiata, cosa rivela della cultura che la usa.
+          </p>
+          <p>
+            Il contenuto è pubblicato sotto licenza{" "}
+            <a
+              href="https://creativecommons.org/licenses/by-sa/4.0/deed.it"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[#b8dc16] hover:underline underline-offset-2"
+            >
+              CC BY-SA 4.0
+            </a>
+            : chiunque può usarlo, condividerlo e migliorarlo, a patto di
+            attribuire la fonte e mantenere la stessa licenza aperta. Il codice
+            è MIT. Nessun cookie, nessun tracker, nessun paywall.
+          </p>
+          <p>
+            Il Paroliere è un progetto artigianale: cresce per cura progressiva,
+            non per automazione. Ogni lemma viene letto, riletto e validato prima
+            di entrare nel dizionario. La qualità non è negoziabile, la quantità
+            è una conseguenza — non un obiettivo.
           </p>
         </div>
         <div
-          className="flex flex-wrap gap-4 pt-2 text-sm"
+          className="flex flex-wrap gap-4 pt-1 text-sm"
           style={{ fontFamily: "Poppins, sans-serif" }}
         >
           <Link
@@ -137,8 +122,60 @@ export default function HomePage() {
             Come contribuire
           </Link>
         </div>
+      </section>
+
+      {/* Navigazione alfabetica */}
+      <section className="space-y-5">
+        <h2
+          className="text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
+          style={{ fontFamily: "Poppins, sans-serif" }}
+        >
+          Sfoglia per lettera
+        </h2>
+        <nav
+          aria-label="Navigazione alfabetica"
+          className="flex flex-wrap gap-1.5"
+        >
+          {TUTTE.map((l) => {
+            const hasContent = lemmiPerLettera.has(l);
+            return hasContent ? (
+              <Link
+                key={l}
+                href={`/lettera/${l}`}
+                className="w-10 h-10 flex items-center justify-center rounded text-sm font-semibold
+                           bg-[#181818] border border-[#2a2a2a] text-[#b8b3a7]
+                           hover:border-[#b8dc16] hover:text-[#b8dc16] transition-colors duration-150"
+                style={{ fontFamily: "Poppins, sans-serif" }}
+                title={`Lemmi con la lettera ${l.toUpperCase()}`}
+              >
+                {l.toUpperCase()}
+              </Link>
+            ) : (
+              <span
+                key={l}
+                className="w-10 h-10 flex items-center justify-center rounded text-sm font-semibold
+                           text-[#2a2a2a] cursor-default select-none"
+                style={{ fontFamily: "Poppins, sans-serif" }}
+                aria-hidden="true"
+              >
+                {l.toUpperCase()}
+              </span>
+            );
+          })}
+        </nav>
         <p
-          className="text-xs text-[#b8b3a7] pt-2"
+          className="text-xs text-[#b8b3a7]"
+          style={{ fontFamily: "Poppins, sans-serif" }}
+        >
+          {allLemmas.length} voci disponibili · le lettere in grigio saranno
+          popolate nelle prossime espansioni
+        </p>
+      </section>
+
+      {/* Colophon minimo */}
+      <section className="border-t border-[#2a2a2a] pt-8">
+        <p
+          className="text-xs text-[#b8b3a7]"
           style={{ fontFamily: "Poppins, sans-serif" }}
         >
           Contenuto editoriale —{" "}

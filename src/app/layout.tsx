@@ -96,14 +96,9 @@ export default function RootLayout({
               <Link href="/contribuisci" className="hover:text-[#b8dc16] transition-colors">
                 Contribuisci
               </Link>
-              <a
-                href="https://github.com/dragomanno/il-paroliere"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-[#b8dc16] transition-colors"
-              >
-                GitHub
-              </a>
+              <Link href="/privacy" className="hover:text-[#b8dc16] transition-colors">
+                Privacy
+              </Link>
             </nav>
 
             {/* Colophon */}
