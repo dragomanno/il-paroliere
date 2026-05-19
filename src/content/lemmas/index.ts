@@ -48,6 +48,20 @@ import { malinconia } from "./malinconia";
 import { nitido } from "./nitido";
 import { ostinazione } from "./ostinazione";
 
+// Towards 100 — batch 3
+import { acredine } from "./acredine";
+import { affabile } from "./affabile";
+import { bagliore } from "./bagliore";
+import { consuetudine } from "./consuetudine";
+import { dissimulare } from "./dissimulare";
+import { flemma } from "./flemma";
+import { grottesco } from "./grottesco";
+import { incipit } from "./incipit";
+import { labile } from "./labile";
+import { meandro } from "./meandro";
+import { nembo } from "./nembo";
+import { obliquo } from "./obliquo";
+
 // Towards 100 — batch 2
 import { perbenismo } from "./perbenismo";
 import { querulo } from "./querulo";
@@ -65,27 +79,39 @@ import { zenit } from "./zenit";
 /** All lemmas in display order (alphabetical) */
 export const allLemmas: LemmaEntry[] = [
   accondiscendenza,
+  acredine,
   acume,
+  affabile,
   aggregatore,
   algoritmo,
   ambiguita,
+  bagliore,
   boria,
   caparbio,
   connivenza,
+  consuetudine,
   cura,
   diatriba,
   disinvoltura,
+  dissimulare,
   effimero,
   eloquenza,
   fervore,
+  flemma,
   garbo,
+  grottesco,
   greve,
+  incipit,
   insolito,
+  labile,
   lacuna,
   lusinga,
   malinconia,
   mangiaufo,
+  meandro,
+  nembo,
   nitido,
+  obliquo,
   ostinazione,
   ozio,
   periferico,
