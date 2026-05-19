@@ -43,7 +43,7 @@ export default function RootLayout({
     <html lang="it">
       <body className="bg-[#111111] text-[#f7f3e8] min-h-screen flex flex-col">
         {/* Header */}
-        <header className="border-b border-[#2a2a2a] px-5 sm:px-8 lg:px-12 py-4 sticky top-0 z-40 bg-[#111111]/95 backdrop-blur-sm">
+        <header className="w-full border-b border-[#2a2a2a] px-5 sm:px-8 lg:px-12 py-4 sticky top-0 z-40 bg-[#111111]/95 backdrop-blur-sm">
           <div className="max-w-4xl mx-auto flex items-center justify-between gap-4">
             <Link
               href="/"
