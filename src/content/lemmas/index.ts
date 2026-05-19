@@ -76,6 +76,20 @@ import { meandro } from "./meandro";
 import { nembo } from "./nembo";
 import { obliquo } from "./obliquo";
 
+// Towards 100 — batch 5 (SEO/marketing)
+import { bot } from "./bot";
+import { canonicalizzazione } from "./canonicalizzazione";
+import { crawlBudget } from "./crawl-budget";
+import { hreflang } from "./hreflang";
+import { indicizzazione } from "./indicizzazione";
+import { llm } from "./llm";
+import { posizionamento } from "./posizionamento";
+import { redirect } from "./redirect";
+import { seo } from "./seo";
+import { statusCode } from "./status-code";
+import { token } from "./token";
+import { tokenizzazione } from "./tokenizzazione";
+
 // Towards 100 — batch 2
 import { perbenismo } from "./perbenismo";
 import { querulo } from "./querulo";
@@ -102,11 +116,14 @@ export const allLemmas: LemmaEntry[] = [
   atavico,
   bagliore,
   bizzoso,
+  bot,
   boria,
+  canonicalizzazione,
   caparbio,
   cifra,
   connivenza,
   consuetudine,
+  crawlBudget,
   cura,
   diatriba,
   disinvoltura,
@@ -118,10 +135,13 @@ export const allLemmas: LemmaEntry[] = [
   garbo,
   grottesco,
   greve,
+  hreflang,
   incipit,
+  indicizzazione,
   insolito,
   labile,
   lacuna,
+  llm,
   lusinga,
   malinconia,
   mangiaufo,
@@ -135,23 +155,29 @@ export const allLemmas: LemmaEntry[] = [
   parsimonia,
   periferico,
   perbenismo,
+  posizionamento,
   pragmatismo,
   querulo,
   recidivo,
+  redirect,
   resilienza,
   reticenza,
   rimpianto,
   scrupolo,
   sedimento,
+  seo,
   sfilacciato,
   sgomento,
   sorpresa,
+  statusCode,
   stoicismo,
   suscettibile,
   tacito,
   tangente,
   tangibile,
   tergiversare,
+  token,
+  tokenizzazione,
   umbratile,
   univoco,
   vacuo,
