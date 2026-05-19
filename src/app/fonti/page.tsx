@@ -8,47 +8,36 @@ export const metadata: Metadata = {
     "copiato, come vengono usate Wiktionary e le risorse aperte.",
 };
 
-type SourceEntry = {
-  name: string;
-  url: string;
-  license: string;
-  usage: string;
-  note: string;
-};
-
-const fontiAperte: SourceEntry[] = [
-  {
-    name: "Wiktionary (italiano)",
-    url: "https://it.wiktionary.org",
-    license: "CC BY-SA 4.0",
-    usage: "Collegato come fonte esterna; usato come riferimento per etimologie e forme.",
-    note:
-      "Il contenuto di Wiktionary è liberamente riutilizzabile con attribuzione. " +
-      "Il Paroliere non copia testo da Wiktionary, ma può citarlo come fonte " +
-      "e collegare le singole voci.",
-  },
-];
-
-const fontiProprietarie: { name: string; url: string; policy: string }[] = [
+// Fonti collegate nelle singole schede lemma (URL permanenti per voce)
+const fontiNelleSchede: { name: string; url: string; policy: string }[] = [
   {
     name: "Treccani",
     url: "https://www.treccani.it",
-    policy: "Collegato come riferimento esterno. Nessun testo riprodotto.",
+    policy: "Collegato nelle schede lemma dove disponibile. URL permanente per voce. Nessun testo riprodotto.",
   },
+  {
+    name: "Wiktionary (italiano)",
+    url: "https://it.wiktionary.org",
+    policy: "Collegato in tutte le schede lemma. Licenza CC BY-SA 4.0. Nessun testo riprodotto.",
+  },
+];
+
+// Dizionari di riferimento editoriale (non collegati per singola voce)
+const fontiRiferimento: { name: string; url: string; policy: string }[] = [
   {
     name: "De Mauro",
     url: "https://dizionario.internazionale.it",
-    policy: "Collegato come riferimento esterno. Nessun testo riprodotto.",
+    policy: "Fonte di riferimento editoriale. Non collegato per singola voce.",
   },
   {
     name: "Sabatini-Coletti",
     url: "https://dizionari.corriere.it",
-    policy: "Collegato come riferimento esterno. Nessun testo riprodotto.",
+    policy: "Fonte di riferimento editoriale. Non collegato per singola voce.",
   },
   {
     name: "Devoto-Oli",
     url: "https://www.mondadori.it",
-    policy: "Collegato come riferimento esterno. Nessun testo riprodotto.",
+    policy: "Fonte di riferimento editoriale. Non collegato per singola voce.",
   },
 ];
 
@@ -130,24 +119,24 @@ export default function FontiPage() {
 
       <hr className="border-[#2a2a2a]" />
 
-      {/* Fonti proprietarie */}
+      {/* Fonti collegate nelle schede lemma */}
       <section className="space-y-5">
         <h2
           className="text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
           style={{ fontFamily: "Poppins, sans-serif" }}
         >
-          Dizionari autorevoli (link only)
+          Fonti collegate nelle schede
         </h2>
         <p
           className="text-[1.0625rem] sm:text-[1.1875rem] text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
-          Le seguenti fonti sono collegate nelle schede lemma come riferimento
-          per il lettore. <strong className="text-[#f7f3e8]">Nessun testo
-          è riprodotto.</strong>
+          In ogni scheda lemma, dove disponibile, trovi un collegamento diretto
+          alla voce corrispondente su questi dizionari.{" "}
+          <strong className="text-[#f7f3e8]">Nessun testo è riprodotto.</strong>
         </p>
         <div className="space-y-3">
-          {fontiProprietarie.map((f) => (
+          {fontiNelleSchede.map((f) => (
             <div
               key={f.name}
               className="flex flex-col sm:flex-row sm:items-start gap-2 p-4
@@ -177,28 +166,31 @@ export default function FontiPage() {
 
       <hr className="border-[#2a2a2a]" />
 
-      {/* Fonti aperte */}
+      {/* Dizionari di riferimento editoriale */}
       <section className="space-y-5">
         <h2
           className="text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
           style={{ fontFamily: "Poppins, sans-serif" }}
         >
-          Risorse aperte
+          Riferimenti editoriali
         </h2>
         <p
           className="text-[1.0625rem] sm:text-[1.1875rem] text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
-          Le seguenti risorse sono disponibili con licenze aperte e possono
-          essere citate con attribuzione.
+          I seguenti dizionari sono punti di riferimento nella redazione
+          delle voci di Il Paroliere. Non sono collegati per singola voce
+          (gli URL per lemma non sono stabili), ma costituiscono parte del
+          canone lessicografico italiano di cui il progetto si avvale.
         </p>
-        <div className="space-y-4">
-          {fontiAperte.map((f) => (
+        <div className="space-y-3">
+          {fontiRiferimento.map((f) => (
             <div
               key={f.name}
-              className="p-5 bg-[#181818] border border-[#2a2a2a] rounded-lg space-y-2"
+              className="flex flex-col sm:flex-row sm:items-start gap-2 p-4
+                         bg-[#181818] border border-[#2a2a2a] rounded-lg"
             >
-              <div className="flex flex-wrap items-center gap-3">
+              <div className="sm:w-44 shrink-0">
                 <a
                   href={f.url}
                   target="_blank"
@@ -208,24 +200,12 @@ export default function FontiPage() {
                 >
                   {f.name}
                 </a>
-                <span
-                  className="text-xs px-2 py-0.5 bg-[#1a1a0a] text-[#b8dc16] border border-[#2a2a2a] rounded"
-                  style={{ fontFamily: "Poppins, sans-serif" }}
-                >
-                  {f.license}
-                </span>
               </div>
               <p
                 className="text-[0.9375rem] text-[#b8b3a7] leading-relaxed"
                 style={{ fontFamily: "Lora, serif" }}
               >
-                {f.usage}
-              </p>
-              <p
-                className="text-[0.9375rem] text-[#b8b3a7]/70 leading-relaxed"
-                style={{ fontFamily: "Lora, serif" }}
-              >
-                {f.note}
+                {f.policy}
               </p>
             </div>
           ))}
