@@ -34,19 +34,45 @@ import { lacuna } from "./lacuna";
 import { periferico } from "./periferico";
 import { veemenza } from "./veemenza";
 
+// Towards 100 — batch 1
+import { ambiguita } from "./ambiguita";
+import { caparbio } from "./caparbio";
+import { connivenza } from "./connivenza";
+import { diatriba } from "./diatriba";
+import { eloquenza } from "./eloquenza";
+import { fervore } from "./fervore";
+import { greve } from "./greve";
+import { insolito } from "./insolito";
+import { lusinga } from "./lusinga";
+import { malinconia } from "./malinconia";
+import { nitido } from "./nitido";
+import { ostinazione } from "./ostinazione";
+
 /** All lemmas in display order (alphabetical) */
 export const allLemmas: LemmaEntry[] = [
   accondiscendenza,
   acume,
   aggregatore,
   algoritmo,
+  ambiguita,
   boria,
+  caparbio,
+  connivenza,
   cura,
+  diatriba,
   disinvoltura,
   effimero,
+  eloquenza,
+  fervore,
   garbo,
+  greve,
+  insolito,
   lacuna,
+  lusinga,
+  malinconia,
   mangiaufo,
+  nitido,
+  ostinazione,
   ozio,
   periferico,
   pragmatismo,
