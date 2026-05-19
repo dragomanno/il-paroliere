@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -17,8 +18,8 @@ export const metadata: Metadata = {
     siteName: "Il Paroliere",
   },
   robots: {
-    index: false, // Phase 1: no indexing yet
-    follow: false,
+    index: true,
+    follow: true,
   },
 };
 
@@ -30,51 +31,111 @@ export default function RootLayout({
   return (
     <html lang="it">
       <body className="bg-[#111111] text-[#f7f3e8] min-h-screen flex flex-col">
-        <header className="border-b border-[#2a2a2a] px-4 sm:px-8 py-4">
-          <div className="max-w-3xl mx-auto flex items-center justify-between">
-            <a
+        {/* Header */}
+        <header className="border-b border-[#2a2a2a] px-4 sm:px-8 py-4 sticky top-0 z-40 bg-[#111111]/95 backdrop-blur-sm">
+          <div className="max-w-3xl mx-auto flex items-center justify-between gap-4">
+            <Link
               href="/"
-              className="font-ui text-lg font-semibold tracking-tight text-[#f7f3e8] hover:text-[#b8dc16] transition-colors"
+              className="font-ui text-lg font-semibold tracking-tight text-[#f7f3e8] hover:text-[#b8dc16] transition-colors shrink-0"
               style={{ fontFamily: "Poppins, sans-serif" }}
             >
               Il Paroliere
-            </a>
-            <span
-              className="text-xs text-[#b8b3a7] hidden sm:inline"
+            </Link>
+
+            {/* Desktop nav */}
+            <nav
+              className="hidden sm:flex items-center gap-5 text-sm text-[#b8b3a7]"
+              aria-label="Navigazione principale"
               style={{ fontFamily: "Poppins, sans-serif" }}
             >
-              Definizioni aperte, lingua viva.
-            </span>
+              <Link
+                href="/progetto"
+                className="hover:text-[#f7f3e8] transition-colors"
+              >
+                Progetto
+              </Link>
+              <Link
+                href="/fonti"
+                className="hover:text-[#f7f3e8] transition-colors"
+              >
+                Fonti
+              </Link>
+              <Link
+                href="/contribuisci"
+                className="hover:text-[#f7f3e8] transition-colors"
+              >
+                Contribuisci
+              </Link>
+            </nav>
           </div>
         </header>
 
+        {/* Main content */}
         <main className="flex-1 px-4 sm:px-8 py-10">
           <div className="max-w-3xl mx-auto">{children}</div>
         </main>
 
-        <footer className="border-t border-[#2a2a2a] px-4 sm:px-8 py-6 mt-auto">
-          <div className="max-w-3xl mx-auto flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
-            <p
-              className="text-xs text-[#b8b3a7]"
+        {/* Footer */}
+        <footer className="border-t border-[#2a2a2a] px-4 sm:px-8 py-8 mt-auto">
+          <div className="max-w-3xl mx-auto space-y-6">
+            {/* Nav istituzionale */}
+            <nav
+              className="flex flex-wrap gap-x-6 gap-y-2 text-sm text-[#b8b3a7]"
+              aria-label="Navigazione istituzionale"
               style={{ fontFamily: "Poppins, sans-serif" }}
             >
-              Il Paroliere è un progetto open source curato da{" "}
+              <Link href="/progetto" className="hover:text-[#b8dc16] transition-colors">
+                Il progetto
+              </Link>
+              <Link href="/fonti" className="hover:text-[#b8dc16] transition-colors">
+                Fonti
+              </Link>
+              <Link href="/licenza" className="hover:text-[#b8dc16] transition-colors">
+                Licenza
+              </Link>
+              <Link href="/contribuisci" className="hover:text-[#b8dc16] transition-colors">
+                Contribuisci
+              </Link>
               <a
-                href="https://www.pistakkio.net"
+                href="https://github.com/dragomanno/il-paroliere"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-[#b8dc16] transition-colors"
               >
-                Pistakkio®
+                GitHub
               </a>
-              . Definizioni originali — CC BY-SA 4.0. Codice — MIT.
-            </p>
-            <p
-              className="text-xs text-[#b8b3a7]"
+            </nav>
+
+            {/* Colophon */}
+            <div
+              className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 text-xs text-[#b8b3a7]"
               style={{ fontFamily: "Poppins, sans-serif" }}
             >
-              Le fonti esterne sono collegate, mai copiate.
-            </p>
+              <p>
+                Il Paroliere è un progetto open source curato da{" "}
+                <a
+                  href="https://www.pistakkio.net"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-[#b8dc16] transition-colors"
+                >
+                  Pistakkio®
+                </a>
+                . Contenuto —{" "}
+                <a
+                  href="https://creativecommons.org/licenses/by-sa/4.0/deed.it"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-[#b8dc16] transition-colors"
+                >
+                  CC BY-SA 4.0
+                </a>
+                . Codice — MIT.
+              </p>
+              <p className="text-[#b8b3a7]/60">
+                Le fonti esterne sono collegate, mai copiate.
+              </p>
+            </div>
           </div>
         </footer>
       </body>
