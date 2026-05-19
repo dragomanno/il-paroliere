@@ -38,12 +38,27 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly",
       priority: 0.7,
     },
+    {
+      url: `${BASE_URL}/privacy`,
+      lastModified: now,
+      changeFrequency: "yearly",
+      priority: 0.4,
+    },
   ];
 
+  // Letter index pages — only letters that have at least one lemma
+  const lettersWithLemmi = [
+    ...new Set(allLemmas.map((e) => e.lemma.toLowerCase()[0])),
+  ].sort();
+
+  const letterRoutes: MetadataRoute.Sitemap = lettersWithLemmi.map((l) => ({
+    url: `${BASE_URL}/lettera/${l}`,
+    lastModified: now,
+    changeFrequency: "weekly" as const,
+    priority: 0.8,
+  }));
+
   // Lemma routes — only include indexable entries
-  // Currently all lemmas are indexable: false (Phase 1-2 policy)
-  // When a lemma is promoted to indexable: true, it will automatically
-  // appear in the sitemap on next deploy.
   const lemmaRoutes: MetadataRoute.Sitemap = allLemmas
     .filter((entry) => entry.indexable)
     .map((entry) => ({
@@ -53,5 +68,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     }));
 
-  return [...staticRoutes, ...lemmaRoutes];
+  return [...staticRoutes, ...letterRoutes, ...lemmaRoutes];
 }

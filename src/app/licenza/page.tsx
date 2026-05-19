@@ -172,16 +172,7 @@ export default function LicenzaPage() {
           >
             MIT
           </a>
-          . Il repository è pubblico su{" "}
-          <a
-            href="https://github.com/dragomanno/il-paroliere"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-[#b8dc16] hover:underline underline-offset-2"
-          >
-            GitHub
-          </a>
-          .
+          . Il codice è pubblico e disponibile su richiesta.
         </p>
 
         {/* MIT text */}
