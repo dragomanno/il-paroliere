@@ -28,7 +28,7 @@ export default function MobileNav() {
         onClick={() => setOpen((v) => !v)}
         aria-label={open ? "Chiudi menu" : "Apri menu"}
         aria-expanded={open}
-        className="sm:hidden relative z-[60] flex flex-col justify-center items-center w-10 h-10 gap-[5px]
+        className="sm:hidden relative z-[200] flex flex-col justify-center items-center w-10 h-10 gap-[5px]
                    text-[#b8b3a7] hover:text-[#f7f3e8] transition-colors"
       >
         <span className={`block h-[2px] w-6 bg-current rounded-full transition-all duration-200 origin-center
@@ -39,24 +39,29 @@ export default function MobileNav() {
           ${open ? "-rotate-45 -translate-y-[7px]" : ""}`} />
       </button>
 
-      {/* Overlay — z-[55] sotto il drawer, sopra il contenuto */}
+      {/* Overlay — z-[198] sopra tutto il contenuto */}
       <div
         onClick={() => setOpen(false)}
         aria-hidden="true"
-        className={`sm:hidden fixed inset-0 z-[55] bg-black/70 transition-opacity duration-300
+        className={`sm:hidden fixed inset-0 z-[198] transition-opacity duration-300
           ${open ? "opacity-100 pointer-events-auto" : "opacity-0 pointer-events-none"}`}
+        style={{ backgroundColor: "rgba(0,0,0,0.75)" }}
       />
 
-      {/* Drawer — z-[56], background solido senza trasparenze */}
+      {/* Drawer — z-[199], sfondo solido garantito via style inline
+           isolation:isolate evita interferenze con backdrop-filter dell'header */}
       <nav
         aria-label="Navigazione mobile"
         aria-hidden={!open}
-        style={{ fontFamily: "Poppins, sans-serif", backgroundColor: "#161616" }}
+        style={{
+          fontFamily: "Poppins, sans-serif",
+          backgroundColor: "#161616",
+          isolation: "isolate",
+        }}
         className={`sm:hidden fixed top-0 right-0 h-full w-72 max-w-[80vw]
-                    z-[56] flex flex-col justify-between
+                    z-[199] flex flex-col justify-between
                     px-7 pt-24 pb-10
                     border-l border-[#2a2a2a]
-                    shadow-[−4px_0_32px_rgba(0,0,0,0.8)]
                     transition-transform duration-300 ease-in-out
                     ${open ? "translate-x-0" : "translate-x-full"}`}
       >
