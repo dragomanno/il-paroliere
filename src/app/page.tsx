@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { allLemmas } from "@/content/lemmas";
+import SearchBar from "@/components/SearchBar";
 
 export const metadata: Metadata = {
   title: "Il Paroliere — Definizioni aperte, lingua viva.",
@@ -29,56 +30,20 @@ export default function HomePage() {
           </p>
         </div>
 
-        <p className="text-base sm:text-lg text-[#b8b3a7] leading-relaxed max-w-xl font-lora" style={{ fontFamily: "Lora, serif" }}>
+        <p
+          className="text-base sm:text-lg text-[#b8b3a7] leading-relaxed max-w-xl"
+          style={{ fontFamily: "Lora, serif" }}
+        >
           Un dizionario italiano aperto e originale. Ogni voce è scritta da zero,
           senza copiare da fonti proprietarie. Definizioni precise, esempi autentici,
           note editoriali che spiegano l'uso reale delle parole.
         </p>
 
-        {/* Search slot — placeholder for Phase 3 Fuse.js */}
-        <div className="relative max-w-lg">
-          <label htmlFor="search-input" className="sr-only">
-            Cerca una parola
-          </label>
-          <div className="relative">
-            <span className="absolute left-4 top-1/2 -translate-y-1/2 text-[#b8b3a7] pointer-events-none select-none">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="18"
-                height="18"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                aria-hidden="true"
-              >
-                <circle cx="11" cy="11" r="8" />
-                <path d="m21 21-4.35-4.35" />
-              </svg>
-            </span>
-            <input
-              id="search-input"
-              type="search"
-              placeholder="Cerca una parola… (ricerca in arrivo)"
-              disabled
-              className="w-full pl-11 pr-4 py-3 bg-[#181818] border border-[#2a2a2a] rounded-lg
-                         text-[#f7f3e8] placeholder-[#b8b3a7] text-sm
-                         focus:outline-none focus:border-[#b8dc16]
-                         disabled:opacity-60 disabled:cursor-not-allowed
-                         transition-colors"
-              style={{ fontFamily: "Poppins, sans-serif" }}
-              aria-label="Ricerca interna — in costruzione"
-            />
-          </div>
-          <p
-            className="mt-2 text-xs text-[#b8b3a7]"
-            style={{ fontFamily: "Poppins, sans-serif" }}
-          >
-            Il motore di ricerca sarà attivo nella Fase 3. Per ora, sfoglia le voci.
-          </p>
-        </div>
+        {/* Live search */}
+        <SearchBar
+          placeholder="Cerca una parola… (es. resilienza, cura, algoritmo)"
+          className="max-w-lg"
+        />
       </section>
 
       {/* Seed lemmas */}
@@ -155,6 +120,23 @@ export default function HomePage() {
             originale.
           </p>
         </div>
+        <div
+          className="flex flex-wrap gap-4 pt-2 text-sm"
+          style={{ fontFamily: "Poppins, sans-serif" }}
+        >
+          <Link
+            href="/progetto"
+            className="text-[#b8dc16] hover:underline underline-offset-2 transition-colors"
+          >
+            Scopri il progetto →
+          </Link>
+          <Link
+            href="/contribuisci"
+            className="text-[#b8b3a7] hover:text-[#f7f3e8] transition-colors"
+          >
+            Come contribuire
+          </Link>
+        </div>
         <p
           className="text-xs text-[#b8b3a7] pt-2"
           style={{ fontFamily: "Poppins, sans-serif" }}
@@ -169,14 +151,12 @@ export default function HomePage() {
             CC BY-SA 4.0
           </a>
           . Codice —{" "}
-          <a
-            href="https://github.com/dragomanno/il-paroliere/blob/main/LICENSE"
-            target="_blank"
-            rel="noopener noreferrer"
+          <Link
+            href="/licenza"
             className="hover:text-[#b8dc16] transition-colors underline underline-offset-2"
           >
             MIT
-          </a>
+          </Link>
           .
         </p>
       </section>
