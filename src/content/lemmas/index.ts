@@ -76,6 +76,20 @@ import { meandro } from "./meandro";
 import { nembo } from "./nembo";
 import { obliquo } from "./obliquo";
 
+// Towards 100 — batch 6
+import { acrimonia } from "./acrimonia";
+import { banalita } from "./banalita";
+import { crepuscolo } from "./crepuscolo";
+import { demistificare } from "./demistificare";
+import { effervescente } from "./effervescente";
+import { fraintendere } from "./fraintendere";
+import { ipertrofia } from "./ipertrofia";
+import { laconico } from "./laconico";
+import { morboso } from "./morboso";
+import { noncurante } from "./noncurante";
+import { paradosso } from "./paradosso";
+import { rovello } from "./rovello";
+
 // Towards 100 — batch 5 (SEO/marketing)
 import { bot } from "./bot";
 import { canonicalizzazione } from "./canonicalizzazione";
@@ -108,6 +122,7 @@ import { zenit } from "./zenit";
 export const allLemmas: LemmaEntry[] = [
   accondiscendenza,
   acredine,
+  acrimonia,
   acume,
   affabile,
   aggregatore,
@@ -115,6 +130,7 @@ export const allLemmas: LemmaEntry[] = [
   ambiguita,
   atavico,
   bagliore,
+  banalita,
   bizzoso,
   bot,
   boria,
@@ -124,14 +140,18 @@ export const allLemmas: LemmaEntry[] = [
   connivenza,
   consuetudine,
   crawlBudget,
+  crepuscolo,
   cura,
+  demistificare,
   diatriba,
   disinvoltura,
   dissimulare,
+  effervescente,
   effimero,
   eloquenza,
   fervore,
   flemma,
+  fraintendere,
   garbo,
   grottesco,
   greve,
@@ -139,19 +159,24 @@ export const allLemmas: LemmaEntry[] = [
   incipit,
   indicizzazione,
   insolito,
+  ipertrofia,
   labile,
   lacuna,
+  laconico,
   llm,
   lusinga,
   malinconia,
   mangiaufo,
   meandro,
+  morboso,
   nembo,
   nitido,
+  noncurante,
   obliquo,
   ostinazione,
   ozio,
   palinsesto,
+  paradosso,
   parsimonia,
   periferico,
   perbenismo,
@@ -163,6 +188,7 @@ export const allLemmas: LemmaEntry[] = [
   resilienza,
   reticenza,
   rimpianto,
+  rovello,
   scrupolo,
   sedimento,
   seo,
