@@ -13,7 +13,7 @@ export default function LicenzaPage() {
     <article className="space-y-12">
       {/* Breadcrumb */}
       <nav
-        className="text-xs text-[#b8b3a7]"
+        className="text-sm text-[#b8b3a7]" 
         aria-label="Navigazione"
         style={{ fontFamily: "Poppins, sans-serif" }}
       >
@@ -33,7 +33,7 @@ export default function LicenzaPage() {
           Licenza
         </h1>
         <p
-          className="text-lg text-[#b8b3a7] leading-relaxed"
+          className="text-[1.125rem] text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           Il Paroliere usa due licenze distinte: una per il codice, una per il
@@ -61,7 +61,7 @@ export default function LicenzaPage() {
         </div>
 
         <p
-          className="text-sm text-[#b8b3a7] leading-relaxed"
+          className="text-[1.0625rem] text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           Tutto il contenuto editoriale originale di Il Paroliere — definizioni,
@@ -130,7 +130,7 @@ export default function LicenzaPage() {
             Esempio di attribuzione corretta
           </p>
           <blockquote
-            className="text-sm text-[#f7f3e8] leading-relaxed"
+            className="text-[1.0625rem] text-[#f7f3e8] leading-relaxed"
             style={{ fontFamily: "Lora, serif" }}
           >
             Definizione originale da{" "}
@@ -160,7 +160,7 @@ export default function LicenzaPage() {
         </div>
 
         <p
-          className="text-sm text-[#b8b3a7] leading-relaxed"
+          className="text-[1.0625rem] text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           Il codice sorgente di Il Paroliere è rilasciato sotto licenza{" "}
@@ -213,7 +213,7 @@ NONINFRINGEMENT.`}</pre>
           Cosa non è coperto da queste licenze
         </h2>
         <div
-          className="space-y-3 text-sm text-[#b8b3a7] leading-relaxed"
+          className="space-y-3 text-[1.0625rem] text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           <p>

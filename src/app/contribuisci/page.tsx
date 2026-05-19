@@ -40,7 +40,7 @@ export default function ContribuisciPage() {
     <article className="space-y-12">
       {/* Breadcrumb */}
       <nav
-        className="text-xs text-[#b8b3a7]"
+        className="text-sm text-[#b8b3a7]" 
         aria-label="Navigazione"
         style={{ fontFamily: "Poppins, sans-serif" }}
       >
@@ -60,7 +60,7 @@ export default function ContribuisciPage() {
           Contribuisci
         </h1>
         <p
-          className="text-lg text-[#b8b3a7] leading-relaxed max-w-xl"
+          className="text-[1.125rem] text-[#b8b3a7] leading-relaxed max-w-xl"
           style={{ fontFamily: "Lora, serif" }}
         >
           Il Paroliere è aperto a chiunque ami la lingua italiana e voglia
@@ -107,7 +107,7 @@ export default function ContribuisciPage() {
           Scrivi al team editoriale
         </h2>
         <p
-          className="text-sm text-[#b8b3a7] leading-relaxed max-w-xl"
+          className="text-[1.0625rem] text-[#b8b3a7] leading-relaxed max-w-xl"
           style={{ fontFamily: "Lora, serif" }}
         >
           Usa il modulo qui sotto per proporre un lemma, segnalare un errore o
@@ -117,7 +117,7 @@ export default function ContribuisciPage() {
 
         {status === "ok" ? (
           <div
-            className="max-w-xl rounded-md border border-[#b8dc16]/30 bg-[#b8dc16]/10 px-5 py-4 text-sm text-[#b8dc16]"
+            className="max-w-xl rounded-md border border-[#b8dc16]/30 bg-[#b8dc16]/10 px-5 py-4 text-[1rem] text-[#b8dc16]"
             style={{ fontFamily: "Lora, serif" }}
           >
             Grazie — il tuo contributo è stato inviato. Ti risponderemo se possiamo
@@ -141,7 +141,7 @@ export default function ContribuisciPage() {
             <div className="space-y-2">
               <label
                 htmlFor="tipo"
-                className="block text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
+                className="block text-sm font-semibold uppercase tracking-widest text-[#b8b3a7]"
                 style={{ fontFamily: "Poppins, sans-serif" }}
               >
                 Tipo di contributo
@@ -151,7 +151,7 @@ export default function ContribuisciPage() {
                 name="tipo"
                 required
                 className="w-full bg-[#181818] border border-[#2a2a2a] rounded-md px-4 py-2.5
-                           text-sm text-[#f7f3e8] focus:outline-none focus:border-[#b8dc16]
+                           text-[1rem] text-[#f7f3e8] focus:outline-none focus:border-[#b8dc16]
                            transition-colors"
                 style={{ fontFamily: "Poppins, sans-serif" }}
               >
@@ -167,7 +167,7 @@ export default function ContribuisciPage() {
             <div className="space-y-2">
               <label
                 htmlFor="nome"
-                className="block text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
+                className="block text-sm font-semibold uppercase tracking-widest text-[#b8b3a7]"
                 style={{ fontFamily: "Poppins, sans-serif" }}
               >
                 Nome (opzionale)
@@ -178,7 +178,7 @@ export default function ContribuisciPage() {
                 name="nome"
                 placeholder="Come ti chiami?"
                 className="w-full bg-[#181818] border border-[#2a2a2a] rounded-md px-4 py-2.5
-                           text-sm text-[#f7f3e8] placeholder:text-[#3a3a3a]
+                           text-[1rem] text-[#f7f3e8] placeholder:text-[#3a3a3a]
                            focus:outline-none focus:border-[#b8dc16] transition-colors"
                 style={{ fontFamily: "Lora, serif" }}
               />
@@ -188,7 +188,7 @@ export default function ContribuisciPage() {
             <div className="space-y-2">
               <label
                 htmlFor="email"
-                className="block text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
+                className="block text-sm font-semibold uppercase tracking-widest text-[#b8b3a7]"
                 style={{ fontFamily: "Poppins, sans-serif" }}
               >
                 Email (opzionale, per ricevere risposta)
@@ -199,7 +199,7 @@ export default function ContribuisciPage() {
                 name="email"
                 placeholder="tua@email.it"
                 className="w-full bg-[#181818] border border-[#2a2a2a] rounded-md px-4 py-2.5
-                           text-sm text-[#f7f3e8] placeholder:text-[#3a3a3a]
+                           text-[1rem] text-[#f7f3e8] placeholder:text-[#3a3a3a]
                            focus:outline-none focus:border-[#b8dc16] transition-colors"
                 style={{ fontFamily: "Lora, serif" }}
               />
@@ -209,7 +209,7 @@ export default function ContribuisciPage() {
             <div className="space-y-2">
               <label
                 htmlFor="messaggio"
-                className="block text-xs font-semibold uppercase tracking-widest text-[#b8b3a7]"
+                className="block text-sm font-semibold uppercase tracking-widest text-[#b8b3a7]"
                 style={{ fontFamily: "Poppins, sans-serif" }}
               >
                 Messaggio
@@ -221,7 +221,7 @@ export default function ContribuisciPage() {
                 rows={6}
                 placeholder="Descrivi il tuo contributo. Per proposte di lemma: scrivi il termine, il motivo per cui merita una voce e — se vuoi — una bozza di definizione."
                 className="w-full bg-[#181818] border border-[#2a2a2a] rounded-md px-4 py-2.5
-                           text-sm text-[#f7f3e8] placeholder:text-[#3a3a3a] leading-relaxed
+                           text-[1rem] text-[#f7f3e8] placeholder:text-[#3a3a3a] leading-relaxed
                            focus:outline-none focus:border-[#b8dc16] transition-colors resize-y"
                 style={{ fontFamily: "Lora, serif" }}
               />
@@ -229,7 +229,7 @@ export default function ContribuisciPage() {
 
             {status === "error" && (
               <p
-                className="text-sm text-red-400"
+                className="text-[1rem] text-red-400"
                 style={{ fontFamily: "Lora, serif" }}
               >
                 Si è verificato un errore. Riprova tra qualche minuto o scrivici
@@ -301,7 +301,7 @@ export default function ContribuisciPage() {
           Licenza dei contributi
         </h2>
         <p
-          className="text-sm text-[#b8b3a7] leading-relaxed"
+          className="text-[1.0625rem] text-[#b8b3a7] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
           Contribuendo a Il Paroliere accetti che il tuo contributo venga
