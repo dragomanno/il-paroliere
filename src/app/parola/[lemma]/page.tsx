@@ -296,26 +296,7 @@ export default async function LemmaPage({ params }: Props) {
         </>
       )}
 
-      {/* Related words */}
-      {relatedWords && relatedWords.length > 0 && (
-        <>
-          <Divider />
-          <section>
-            <SectionHeading>Parole correlate</SectionHeading>
-            <div className="flex flex-wrap gap-2">
-              {relatedWords.map((w) => (
-                <span
-                  key={w}
-                  className="px-3 py-1.5 bg-[#181818] border border-[#2a2a2a] rounded text-[0.9375rem] text-[#b8b3a7]"
-                  style={{ fontFamily: "Poppins, sans-serif" }}
-                >
-                  {w}
-                </span>
-              ))}
-            </div>
-          </section>
-        </>
-      )}
+      {/* Related words — hidden until lemma links are active */}
 
       {/* Nota del Paroliere */}
       <Divider />
