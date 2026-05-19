@@ -49,10 +49,6 @@ function Divider() {
 function SourceLinks({ links }: { links: LemmaEntry["sourceLinks"] }) {
   const entries: { label: string; url: string }[] = [];
   if (links.treccani) entries.push({ label: "Treccani", url: links.treccani });
-  if (links.demauro) entries.push({ label: "De Mauro", url: links.demauro });
-  if (links.sabatiniColetti)
-    entries.push({ label: "Sabatini-Coletti", url: links.sabatiniColetti });
-  if (links.devotoOli) entries.push({ label: "Devoto-Oli", url: links.devotoOli });
   if (links.wiktionary) entries.push({ label: "Wiktionary", url: links.wiktionary });
   if (entries.length === 0) return null;
 
