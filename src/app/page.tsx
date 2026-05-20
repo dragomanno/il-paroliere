@@ -52,7 +52,7 @@ export default async function HomePage() {
 
         {/* SearchBar — Phase 5: no lemmas prop, fetches from /api/search */}
         <SearchBar
-          placeholder="Cerca una parola… (es. resilienza, cura, algoritmo)"
+          placeholder="Cerca una parola…"
           className="max-w-lg"
         />
       </section>
