@@ -28,6 +28,22 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: entry.seo.description,
       type: "article",
       locale: "it_IT",
+      // Dynamic OG image — wired to /api/og (Phase 3+)
+      // Passes: lemma slug, shortDefinition (truncated), partOfSpeech
+      images: [
+        {
+          url: `/api/og?lemma=${encodeURIComponent(entry.lemma)}&def=${encodeURIComponent(entry.shortDefinition ?? entry.seo.description)}&pos=${encodeURIComponent(entry.partOfSpeech ?? "")}`,
+          width: 1200,
+          height: 630,
+          alt: `${entry.lemma} — Il Paroliere`,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      images: [
+        `/api/og?lemma=${encodeURIComponent(entry.lemma)}&def=${encodeURIComponent(entry.shortDefinition ?? entry.seo.description)}&pos=${encodeURIComponent(entry.partOfSpeech ?? "")}`,
+      ],
     },
   };
 }

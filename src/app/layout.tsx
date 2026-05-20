@@ -17,6 +17,18 @@ export const metadata: Metadata = {
     type: "website",
     locale: "it_IT",
     siteName: "Il Paroliere",
+    images: [
+      {
+        url: "/og-default.png",
+        width: 1200,
+        height: 630,
+        alt: "Il Paroliere — Definizioni aperte, lingua viva.",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: ["/og-default.png"],
   },
   robots: {
     index: true,
