@@ -1,18 +1,14 @@
 /**
  * Il Paroliere — DB query helpers
  *
- * Drop-in replacements for the current file-based getLemma / getAllSlugs
- * functions. Signature-compatible so page.tsx requires zero changes.
- *
- * Phase 4 activation: swap the imports in src/content/lemmas/index.ts
- * from the file-based functions to these.
+ * Phase 5: added searchLemmasFromDB() using tsvector FTS + pg_trgm fallback.
  *
  * License: MIT
  */
 
 import { getDb } from "@/lib/db/client";
 import { lemmas } from "@/db/schema";
-import { eq } from "drizzle-orm";
+import { eq, sql } from "drizzle-orm";
 import type { LemmaEntry } from "@/lib/types";
 
 /**
@@ -74,4 +70,68 @@ export async function getAllLemmasFromDB(): Promise<LemmaEntry[]> {
   const db = getDb();
   const rows = await db.select().from(lemmas);
   return rows.map(rowToLemmaEntry);
+}
+
+/**
+ * Full-text search with tsvector + pg_trgm fallback.
+ *
+ * Strategy:
+ *   1. Primary: tsvector match via plainto_tsquery('italian', query)
+ *      — handles morphology, stopwords, prefix matching with :*
+ *   2. Fallback/boost: trigram similarity on lemma column
+ *      — catches typos and partial matches (e.g. "resilenz" → "resilienza")
+ *
+ * Results are ranked by ts_rank (tsvector relevance).
+ * Maximum 8 results returned.
+ *
+ * The query is sanitised: empty strings return [].
+ */
+export async function searchLemmasFromDB(
+  query: string,
+  limit = 8
+): Promise<LemmaEntry[]> {
+  const q = query.trim();
+  if (q.length < 2) return [];
+
+  const db = getDb();
+
+  // Sanitise for tsquery: remove special chars, add prefix wildcard on last token
+  const sanitised = q.replace(/[^a-zA-ZÀ-ÿ0-9\s]/g, " ").trim();
+  // Build prefix query: each word gets :* for prefix matching
+  const tsQueryStr = sanitised
+    .split(/\s+/)
+    .filter(Boolean)
+    .map((w) => `${w}:*`)
+    .join(" & ");
+
+  try {
+    const rows = await db
+      .select()
+      .from(lemmas)
+      .where(
+        sql`
+          (
+            search_vector @@ to_tsquery('italian', ${tsQueryStr})
+            OR similarity(lemma, ${q}) > 0.2
+          )
+        `
+      )
+      .orderBy(
+        sql`
+          ts_rank(search_vector, to_tsquery('italian', ${tsQueryStr})) DESC,
+          similarity(lemma, ${q}) DESC
+        `
+      )
+      .limit(limit);
+
+    return rows.map(rowToLemmaEntry);
+  } catch {
+    // Fallback: simple ILIKE on lemma if FTS is unavailable
+    const rows = await db
+      .select()
+      .from(lemmas)
+      .where(sql`lemma ILIKE ${"%" + q + "%"}`)
+      .limit(limit);
+    return rows.map(rowToLemmaEntry);
+  }
 }
