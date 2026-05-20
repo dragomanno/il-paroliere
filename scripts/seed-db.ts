@@ -16,7 +16,7 @@ import { neon } from "@neondatabase/serverless";
 import { drizzle } from "drizzle-orm/neon-http";
 import { sql } from "drizzle-orm";
 import * as schema from "../src/db/schema";
-import { allLemmas } from "../src/content/lemmas/index";
+import { allLemmas } from "../src/content/lemmas/static";
 import type { LemmaEntry } from "../src/lib/types";
 
 const DATABASE_URL = process.env.DATABASE_URL_OWNER ?? process.env.DATABASE_URL;
