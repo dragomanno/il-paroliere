@@ -67,7 +67,7 @@ export default async function LetteraPage({
   );
 
   return (
-    <article className="space-y-12">
+    <article className="space-y-12 pt-6 sm:pt-8">
       {/* Breadcrumb */}
       <nav
         className="text-xs text-[#b8b3a7]"
