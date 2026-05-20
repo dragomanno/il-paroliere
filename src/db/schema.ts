@@ -6,8 +6,7 @@
  * maintain than 7 normalised tables, and Postgres JSONB supports indexing
  * and querying well enough for our editorial scale.
  *
- * When to normalise: if synonym/antonym full-text search becomes a
- * requirement, extract lemma_synonyms and lemma_antonyms at that point.
+ * Phase 5: added search_vector (tsvector) for FTS + pg_trgm index.
  *
  * License: MIT
  */
@@ -20,7 +19,16 @@ import {
   jsonb,
   index,
   uniqueIndex,
+  customType,
 } from "drizzle-orm/pg-core";
+
+// ─── Custom tsvector type (Drizzle doesn't ship one) ─────────────────────────
+
+const tsvector = customType<{ data: string }>({
+  dataType() {
+    return "tsvector";
+  },
+});
 
 // ─── JSONB sub-types (not stored in DB directly, just for TypeScript) ─────────
 
@@ -85,6 +93,9 @@ export const lemmas = pgTable(
     seoTitle: text("seo_title").notNull(),
     seoDescription: text("seo_description").notNull(),
 
+    // Phase 5: FTS vector — maintained by DB trigger, never set by app code
+    searchVector: tsvector("search_vector"),
+
     // Timestamps
     createdAt: timestamp("created_at", { withTimezone: true })
       .notNull()
@@ -98,6 +109,7 @@ export const lemmas = pgTable(
     index("lemmas_lemma_idx").on(table.lemma),
     index("lemmas_editorial_status_idx").on(table.editorialStatus),
     index("lemmas_indexable_idx").on(table.indexable),
+    // GIN indexes defined in migration SQL (not expressible in Drizzle for tsvector/trgm)
   ]
 );
 
