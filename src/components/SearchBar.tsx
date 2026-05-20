@@ -1,33 +1,21 @@
 "use client";
 
+/**
+ * Il Paroliere — SearchBar
+ *
+ * Phase 5: replaced Fuse.js client-side search with a fetch to /api/search.
+ * - No more lemmas prop needed — data comes from the server on every keystroke
+ * - Debounced 220ms to avoid hammering the API
+ * - Graceful fallback: if fetch fails, shows no results silently
+ *
+ * License: MIT
+ */
+
 import { useState, useEffect, useRef, useCallback } from "react";
 import { useRouter } from "next/navigation";
-import {
-  buildSearchIndex,
-  createFuseInstance,
-  searchLemmas,
-  type SearchableEntry,
-} from "@/lib/search";
-import type { LemmaEntry } from "@/lib/types";
-import type Fuse from "fuse.js";
-
-// Fuse instance is rebuilt whenever the lemmas prop changes identity.
-// In practice it is built once at first render and reused.
-let fuseInstance: Fuse<SearchableEntry> | null = null;
-let lastLemmasRef: LemmaEntry[] | null = null;
-
-function getFuse(lemmas: LemmaEntry[]): Fuse<SearchableEntry> {
-  if (!fuseInstance || lastLemmasRef !== lemmas) {
-    const index = buildSearchIndex(lemmas);
-    fuseInstance = createFuseInstance(index);
-    lastLemmasRef = lemmas;
-  }
-  return fuseInstance;
-}
+import type { SearchHit } from "@/app/api/search/route";
 
 type SearchBarProps = {
-  /** All lemmas — passed from the parent Server Component. */
-  lemmas: LemmaEntry[];
   /** Placeholder text */
   placeholder?: string;
   /** Additional CSS classes for the wrapper */
@@ -37,34 +25,59 @@ type SearchBarProps = {
 };
 
 export default function SearchBar({
-  lemmas,
   placeholder = "Cerca una parola…",
   className = "",
   autoFocus = false,
 }: SearchBarProps) {
   const router = useRouter();
   const [query, setQuery] = useState("");
-  const [results, setResults] = useState<SearchableEntry[]>([]);
+  const [results, setResults] = useState<SearchHit[]>([]);
   const [isOpen, setIsOpen] = useState(false);
   const [activeIndex, setActiveIndex] = useState(-1);
+  const [isLoading, setIsLoading] = useState(false);
 
   const inputRef = useRef<HTMLInputElement>(null);
   const dropdownRef = useRef<HTMLUListElement>(null);
   const wrapperRef = useRef<HTMLDivElement>(null);
+  const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
-  // Run search on query change
+  // Fetch results from /api/search with 220ms debounce
   useEffect(() => {
+    if (debounceRef.current) clearTimeout(debounceRef.current);
+
     if (query.trim().length < 2) {
       setResults([]);
       setIsOpen(false);
       setActiveIndex(-1);
+      setIsLoading(false);
       return;
     }
-    const found = searchLemmas(query, getFuse(lemmas));
-    setResults(found.slice(0, 6)); // max 6 results in dropdown
-    setIsOpen(found.length > 0);
-    setActiveIndex(-1);
-  }, [query, lemmas]);
+
+    setIsLoading(true);
+
+    debounceRef.current = setTimeout(async () => {
+      try {
+        const res = await fetch(
+          `/api/search?q=${encodeURIComponent(query.trim())}`,
+          { headers: { Accept: "application/json" } }
+        );
+        if (!res.ok) throw new Error("search_error");
+        const data: { hits: SearchHit[] } = await res.json();
+        setResults(data.hits);
+        setIsOpen(data.hits.length > 0);
+        setActiveIndex(-1);
+      } catch {
+        setResults([]);
+        setIsOpen(false);
+      } finally {
+        setIsLoading(false);
+      }
+    }, 220);
+
+    return () => {
+      if (debounceRef.current) clearTimeout(debounceRef.current);
+    };
+  }, [query]);
 
   // Close dropdown on outside click
   useEffect(() => {
@@ -124,21 +137,40 @@ export default function SearchBar({
       {/* Input */}
       <div className="relative">
         <span className="absolute left-4 top-1/2 -translate-y-1/2 text-[#b8b3a7] pointer-events-none">
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="18"
-            height="18"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            aria-hidden="true"
-          >
-            <circle cx="11" cy="11" r="8" />
-            <path d="m21 21-4.35-4.35" />
-          </svg>
+          {isLoading ? (
+            // Spinner while fetching
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="18"
+              height="18"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              aria-hidden="true"
+              className="animate-spin"
+            >
+              <path d="M21 12a9 9 0 1 1-6.219-8.56" />
+            </svg>
+          ) : (
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="18"
+              height="18"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              aria-hidden="true"
+            >
+              <circle cx="11" cy="11" r="8" />
+              <path d="m21 21-4.35-4.35" />
+            </svg>
+          )}
         </span>
         <input
           ref={inputRef}
@@ -215,7 +247,7 @@ export default function SearchBar({
               role="option"
               aria-selected={i === activeIndex}
               onMouseDown={(e) => {
-                e.preventDefault(); // prevent input blur before click
+                e.preventDefault();
                 navigateTo(entry.slug);
               }}
               onMouseEnter={() => setActiveIndex(i)}
