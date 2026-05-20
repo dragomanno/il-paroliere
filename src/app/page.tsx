@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllLemmasFromDB } from "@/lib/db";
 import SearchBar from "@/components/SearchBar";
+import type { LemmaEntry } from "@/lib/types";
 
 export const metadata: Metadata = {
   title: "Il Paroliere — Definizioni aperte, lingua viva.",
@@ -11,7 +12,10 @@ export const metadata: Metadata = {
 };
 
 export default async function HomePage() {
-  const allLemmas = await getAllLemmasFromDB();
+  // Graceful fallback for deploy previews without DATABASE_URL
+  const allLemmas: LemmaEntry[] = process.env.DATABASE_URL
+    ? await getAllLemmasFromDB()
+    : [];
 
   const lemmiPerLettera = new Set(
     allLemmas.map((e) => e.lemma.toLowerCase()[0])
@@ -46,7 +50,6 @@ export default async function HomePage() {
           note editoriali che spiegano l'uso reale delle parole.
         </p>
 
-        {/* Live search — receives lemmas from DB */}
         <SearchBar
           lemmas={allLemmas}
           placeholder="Cerca una parola… (es. resilienza, cura, algoritmo)"
@@ -128,11 +131,7 @@ export default async function HomePage() {
 
       {/* Navigazione alfabetica */}
       <section className="space-y-5">
-        <h2
-          className="section-label"
-        >
-          Sfoglia per lettera
-        </h2>
+        <h2 className="section-label">Sfoglia per lettera</h2>
         <nav
           aria-label="Navigazione alfabetica"
           className="flex flex-wrap gap-2"
