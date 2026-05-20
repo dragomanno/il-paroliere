@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { allLemmas } from "@/content/lemmas";
+import { getAllLemmasFromDB } from "@/lib/db";
 import SearchBar from "@/components/SearchBar";
+import type { LemmaEntry } from "@/lib/types";
 
 export const metadata: Metadata = {
   title: "Il Paroliere — Definizioni aperte, lingua viva.",
@@ -10,7 +11,12 @@ export const metadata: Metadata = {
     "curate, esempi d'uso autentici, note editoriali. Un progetto Pistakkio®.",
 };
 
-export default function HomePage() {
+export default async function HomePage() {
+  // Graceful fallback for deploy previews without DATABASE_URL
+  const allLemmas: LemmaEntry[] = process.env.DATABASE_URL
+    ? await getAllLemmasFromDB()
+    : [];
+
   const lemmiPerLettera = new Set(
     allLemmas.map((e) => e.lemma.toLowerCase()[0])
   );
@@ -44,8 +50,8 @@ export default function HomePage() {
           note editoriali che spiegano l'uso reale delle parole.
         </p>
 
-        {/* Live search */}
         <SearchBar
+          lemmas={allLemmas}
           placeholder="Cerca una parola… (es. resilienza, cura, algoritmo)"
           className="max-w-lg"
         />
@@ -125,11 +131,7 @@ export default function HomePage() {
 
       {/* Navigazione alfabetica */}
       <section className="space-y-5">
-        <h2
-          className="section-label"
-        >
-          Sfoglia per lettera
-        </h2>
+        <h2 className="section-label">Sfoglia per lettera</h2>
         <nav
           aria-label="Navigazione alfabetica"
           className="flex flex-wrap gap-2"

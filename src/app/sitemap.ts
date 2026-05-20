@@ -1,12 +1,12 @@
 import type { MetadataRoute } from "next";
-import { allLemmas } from "@/content/lemmas";
+import { getAllLemmasFromDB } from "@/lib/db";
 
 const BASE_URL = "https://ilparoliere.online";
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const now = new Date().toISOString();
 
-  // Static institutional routes
+  // Static institutional routes — always present
   const staticRoutes: MetadataRoute.Sitemap = [
     {
       url: BASE_URL,
@@ -46,27 +46,38 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ];
 
-  // Letter index pages — only letters that have at least one lemma
-  const lettersWithLemmi = [
-    ...new Set(allLemmas.map((e) => e.lemma.toLowerCase()[0])),
-  ].sort();
+  // DB-dependent routes — graceful fallback if DB is unavailable at build time
+  let letterRoutes: MetadataRoute.Sitemap = [];
+  let lemmaRoutes: MetadataRoute.Sitemap = [];
 
-  const letterRoutes: MetadataRoute.Sitemap = lettersWithLemmi.map((l) => ({
-    url: `${BASE_URL}/lettera/${l}`,
-    lastModified: now,
-    changeFrequency: "weekly" as const,
-    priority: 0.8,
-  }));
+  try {
+    if (process.env.DATABASE_URL) {
+      const allLemmas = await getAllLemmasFromDB();
 
-  // Lemma routes — only include indexable entries
-  const lemmaRoutes: MetadataRoute.Sitemap = allLemmas
-    .filter((entry) => entry.indexable)
-    .map((entry) => ({
-      url: `${BASE_URL}/parola/${entry.slug}`,
-      lastModified: entry.updatedAt ?? now,
-      changeFrequency: "monthly" as const,
-      priority: 0.9,
-    }));
+      const lettersWithLemmi = [
+        ...new Set(allLemmas.map((e) => e.lemma.toLowerCase()[0])),
+      ].sort();
+
+      letterRoutes = lettersWithLemmi.map((l) => ({
+        url: `${BASE_URL}/lettera/${l}`,
+        lastModified: now,
+        changeFrequency: "weekly" as const,
+        priority: 0.8,
+      }));
+
+      lemmaRoutes = allLemmas
+        .filter((entry) => entry.indexable)
+        .map((entry) => ({
+          url: `${BASE_URL}/parola/${entry.slug}`,
+          lastModified: entry.updatedAt ?? now,
+          changeFrequency: "monthly" as const,
+          priority: 0.9,
+        }));
+    }
+  } catch {
+    // DB unavailable at build time (e.g. deploy preview without DB vars).
+    // Sitemap will only contain static routes — acceptable for previews.
+  }
 
   return [...staticRoutes, ...letterRoutes, ...lemmaRoutes];
 }

@@ -3,5 +3,5 @@
  * License: MIT
  */
 
-export { db } from "./client";
+export { getDb } from "./client";
 export { getLemmaFromDB, getAllSlugsFromDB, getAllLemmasFromDB } from "./queries";

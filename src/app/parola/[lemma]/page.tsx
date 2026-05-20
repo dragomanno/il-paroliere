@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getLemma, getAllSlugs } from "@/content/lemmas";
+import { getLemmaFromDB, getAllSlugsFromDB } from "@/lib/db";
 import type { LemmaEntry } from "@/lib/types";
 
 type Props = {
@@ -9,12 +9,17 @@ type Props = {
 };
 
 export async function generateStaticParams() {
-  return getAllSlugs().map((slug) => ({ lemma: slug }));
+  // Graceful fallback: no DB in deploy-preview/CI → no pre-rendered pages,
+  // but the build succeeds. Production has DATABASE_URL and pre-renders all.
+  if (!process.env.DATABASE_URL) return [];
+  const slugs = await getAllSlugsFromDB();
+  return slugs.map((slug) => ({ lemma: slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { lemma: slug } = await params;
-  const entry = getLemma(slug);
+  if (!process.env.DATABASE_URL) return { title: "Il Paroliere" };
+  const entry = await getLemmaFromDB(slug);
   if (!entry) return { title: "Voce non trovata" };
 
   return {
@@ -28,8 +33,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: entry.seo.description,
       type: "article",
       locale: "it_IT",
-      // Dynamic OG image — wired to /api/og (Phase 3+)
-      // Passes: lemma slug, shortDefinition (truncated), partOfSpeech
       images: [
         {
           url: `/api/og?lemma=${encodeURIComponent(entry.lemma)}&def=${encodeURIComponent(entry.shortDefinition ?? entry.seo.description)}&pos=${encodeURIComponent(entry.partOfSpeech ?? "")}`,
@@ -105,7 +108,7 @@ function SourceLinks({ links }: { links: LemmaEntry["sourceLinks"] }) {
 
 export default async function LemmaPage({ params }: Props) {
   const { lemma: slug } = await params;
-  const entry = getLemma(slug);
+  const entry = await getLemmaFromDB(slug);
   if (!entry) notFound();
 
   const {
@@ -157,7 +160,6 @@ export default async function LemmaPage({ params }: Props) {
           </div>
         </div>
 
-        {/* Short definition as subtitle */}
         <p
           className="text-[1.1875rem] sm:text-[1.3125rem] text-[#b8b3a7] leading-relaxed font-medium"
           style={{ fontFamily: "Lora, serif", fontStyle: "italic" }}
@@ -165,7 +167,6 @@ export default async function LemmaPage({ params }: Props) {
           {shortDefinition}
         </p>
 
-        {/* Register + domain tags */}
         <div className="flex flex-wrap gap-2">
           {register.map((r) => (
             <span key={r} className="tag-register">
@@ -182,7 +183,6 @@ export default async function LemmaPage({ params }: Props) {
 
       <Divider />
 
-      {/* Definition */}
       <section>
         <SectionHeading>Definizione</SectionHeading>
         <p
@@ -193,7 +193,6 @@ export default async function LemmaPage({ params }: Props) {
         </p>
       </section>
 
-      {/* Etymology */}
       {etymology && (
         <>
           <Divider />
@@ -209,7 +208,6 @@ export default async function LemmaPage({ params }: Props) {
         </>
       )}
 
-      {/* Examples */}
       {examples.length > 0 && (
         <>
           <Divider />
@@ -230,7 +228,6 @@ export default async function LemmaPage({ params }: Props) {
         </>
       )}
 
-      {/* Synonyms */}
       {synonyms && synonyms.length > 0 && (
         <>
           <Divider />
@@ -273,7 +270,6 @@ export default async function LemmaPage({ params }: Props) {
         </>
       )}
 
-      {/* Antonyms */}
       {antonyms && antonyms.length > 0 && (
         <>
           <Divider />
@@ -308,9 +304,6 @@ export default async function LemmaPage({ params }: Props) {
         </>
       )}
 
-      {/* Related words — hidden until lemma links are active */}
-
-      {/* Nota del Paroliere */}
       <Divider />
       <section className="bg-[#181818] border border-[#2a2a2a] rounded-lg p-5 sm:p-7 space-y-3">
         <SectionHeading>Nota del Paroliere</SectionHeading>
@@ -322,7 +315,6 @@ export default async function LemmaPage({ params }: Props) {
         </p>
       </section>
 
-      {/* Source links */}
       <Divider />
       <section>
         <SectionHeading>Fonti esterne</SectionHeading>
@@ -336,7 +328,6 @@ export default async function LemmaPage({ params }: Props) {
         <SourceLinks links={sourceLinks} />
       </section>
 
-      {/* Meta footer */}
       <div
         className="pt-4 flex flex-wrap gap-4 text-sm text-[#b8b3a7]"
         style={{ fontFamily: "Poppins, sans-serif" }}
@@ -350,7 +341,6 @@ export default async function LemmaPage({ params }: Props) {
         </span>
       </div>
 
-      {/* JSON-LD structured data */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
