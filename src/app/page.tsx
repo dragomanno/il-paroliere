@@ -50,8 +50,8 @@ export default async function HomePage() {
           note editoriali che spiegano l'uso reale delle parole.
         </p>
 
+        {/* SearchBar — Phase 5: no lemmas prop, fetches from /api/search */}
         <SearchBar
-          lemmas={allLemmas}
           placeholder="Cerca una parola… (es. resilienza, cura, algoritmo)"
           className="max-w-lg"
         />
