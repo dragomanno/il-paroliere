@@ -57,7 +57,16 @@ export default function PrivacyPage() {
           <p>
             Il Paroliere è un progetto editoriale aperto curato da{" "}
             <strong className="text-[#f7f3e8]">Pistakkio® SEO Agency</strong> di
-            Fabrizio Gabrielli, con sede a Firenze (IT).
+            Fabrizio Gabrielli, con sede operativa a Firenze, Toscana, Italia, presso il{" "}
+            <a
+              href="https://www.thesocialhub.co/it/firenze-belfiore/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[#b8dc16] hover:underline underline-offset-2"
+            >
+              The Social Hub Florence Belfiore
+            </a>
+            .
           </p>
           <p>
             Contatto:{" "}
