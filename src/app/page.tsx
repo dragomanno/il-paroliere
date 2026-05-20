@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { allLemmas } from "@/content/lemmas";
+import { getAllLemmasFromDB } from "@/lib/db";
 import SearchBar from "@/components/SearchBar";
 
 export const metadata: Metadata = {
@@ -10,7 +10,9 @@ export const metadata: Metadata = {
     "curate, esempi d'uso autentici, note editoriali. Un progetto Pistakkio®.",
 };
 
-export default function HomePage() {
+export default async function HomePage() {
+  const allLemmas = await getAllLemmasFromDB();
+
   const lemmiPerLettera = new Set(
     allLemmas.map((e) => e.lemma.toLowerCase()[0])
   );
@@ -44,8 +46,9 @@ export default function HomePage() {
           note editoriali che spiegano l'uso reale delle parole.
         </p>
 
-        {/* Live search */}
+        {/* Live search — receives lemmas from DB */}
         <SearchBar
+          lemmas={allLemmas}
           placeholder="Cerca una parola… (es. resilienza, cura, algoritmo)"
           className="max-w-lg"
         />
