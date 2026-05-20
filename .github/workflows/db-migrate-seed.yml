@@ -1,0 +1,58 @@
+# Il Paroliere — DB Migration + Seed
+#
+# Runs automatically on every push to main.
+# 1. Applies any pending Drizzle migrations to Netlify DB (Neon)
+# 2. Upserts all lemmas from the file registry into the DB
+#
+# Required GitHub secret (Settings → Secrets → Actions):
+#   DATABASE_URL_OWNER — read/write Neon connection string
+#
+# Safe to re-run: seed uses upsert (ON CONFLICT DO UPDATE).
+
+name: DB Migrate & Seed
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      # Only trigger when schema or lemma content actually changes
+      - "src/db/migrations/**"
+      - "src/db/schema.ts"
+      - "src/content/lemmas/**"
+      - "scripts/seed-db.ts"
+
+  # Allow manual trigger from GitHub Actions UI
+  workflow_dispatch:
+
+jobs:
+  migrate-and-seed:
+    name: Migrate + Seed Netlify DB
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run Drizzle migrations
+        env:
+          DATABASE_URL_OWNER: ${{ secrets.DATABASE_URL_OWNER }}
+        run: npx drizzle-kit migrate
+
+      - name: Seed lemmas into DB
+        env:
+          DATABASE_URL_OWNER: ${{ secrets.DATABASE_URL_OWNER }}
+        run: npm run db:seed
+
+      - name: Confirm seed complete
+        run: echo "✅ Migration and seed completed successfully."
