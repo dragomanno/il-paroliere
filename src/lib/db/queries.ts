@@ -10,7 +10,7 @@
  * License: MIT
  */
 
-import { db } from "@/lib/db/client";
+import { getDb } from "@/lib/db/client";
 import { lemmas } from "@/db/schema";
 import { eq } from "drizzle-orm";
 import type { LemmaEntry } from "@/lib/types";
@@ -51,6 +51,7 @@ function rowToLemmaEntry(row: typeof lemmas.$inferSelect): LemmaEntry {
 export async function getLemmaFromDB(
   slug: string
 ): Promise<LemmaEntry | undefined> {
+  const db = getDb();
   const rows = await db
     .select()
     .from(lemmas)
@@ -63,12 +64,14 @@ export async function getLemmaFromDB(
 
 /** Get all slugs — used by generateStaticParams at build time. */
 export async function getAllSlugsFromDB(): Promise<string[]> {
+  const db = getDb();
   const rows = await db.select({ slug: lemmas.slug }).from(lemmas);
   return rows.map((r) => r.slug);
 }
 
 /** Get all published lemmas — used by search index and homepage chips. */
 export async function getAllLemmasFromDB(): Promise<LemmaEntry[]> {
+  const db = getDb();
   const rows = await db.select().from(lemmas);
   return rows.map(rowToLemmaEntry);
 }
