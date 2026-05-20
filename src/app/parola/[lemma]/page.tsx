@@ -131,7 +131,7 @@ export default async function LemmaPage({ params }: Props) {
   } = entry;
 
   return (
-    <article className="space-y-10">
+    <article className="space-y-10 pt-4 sm:pt-6">
       {/* Breadcrumb */}
       <nav
         className="text-sm text-[#b8b3a7]"
