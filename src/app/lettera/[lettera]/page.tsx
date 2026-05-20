@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllLemmasFromDB } from "@/lib/db";
 import { notFound } from "next/navigation";
+import type { LemmaEntry } from "@/lib/types";
 
-// All 21 Italian alphabet letters (J K W X Y included for future content)
 const LETTERE_IT = "abcdefghilmnopqrstuvz".split("");
 const LETTERE_EXTRA = "jkwxy".split("");
 const TUTTE_LETTERE = [...LETTERE_IT, ...LETTERE_EXTRA];
@@ -19,6 +19,11 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { lettera } = await params;
   const upper = lettera.toUpperCase();
+
+  if (!process.env.DATABASE_URL) {
+    return { title: `Parole con la ${upper} — Il Paroliere` };
+  }
+
   const allLemmas = await getAllLemmasFromDB();
   const count = allLemmas.filter((e) =>
     e.lemma.toLowerCase().startsWith(lettera)
@@ -46,7 +51,11 @@ export default async function LetteraPage({
 
   const lower = lettera.toLowerCase();
   const upper = lower.toUpperCase();
-  const allLemmas = await getAllLemmasFromDB();
+
+  // Graceful fallback for deploy previews without DATABASE_URL
+  const allLemmas: LemmaEntry[] = process.env.DATABASE_URL
+    ? await getAllLemmasFromDB()
+    : [];
 
   const lemmiLettera = allLemmas
     .filter((e) => e.lemma.toLowerCase().startsWith(lower))
@@ -101,12 +110,10 @@ export default async function LetteraPage({
         </p>
       </header>
 
-      {/* Navigazione alfabetica */}
       <AlphaNav current={lower} lemmiPerLettera={lemmiPerLettera} />
 
       <hr className="border-[#2a2a2a]" />
 
-      {/* Griglia lemmi */}
       {hasLemmi ? (
         <section className="space-y-4">
           <div className="grid gap-4 sm:grid-cols-1">
@@ -170,8 +177,6 @@ export default async function LetteraPage({
   );
 }
 
-// ---------- Componente navigazione alfabetica inline ----------
-
 function AlphaNav({
   current,
   lemmiPerLettera,
@@ -182,10 +187,7 @@ function AlphaNav({
   const TUTTE = "abcdefghilmnopqrstuvwxyz".split("");
 
   return (
-    <nav
-      aria-label="Navigazione alfabetica"
-      className="flex flex-wrap gap-2"
-    >
+    <nav aria-label="Navigazione alfabetica" className="flex flex-wrap gap-2">
       {TUTTE.map((l) => {
         const hasContent = lemmiPerLettera.has(l);
         const isCurrent = l === current;
