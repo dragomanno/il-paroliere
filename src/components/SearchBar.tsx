@@ -8,21 +8,26 @@ import {
   searchLemmas,
   type SearchableEntry,
 } from "@/lib/search";
-import { allLemmas } from "@/content/lemmas";
+import type { LemmaEntry } from "@/lib/types";
 import type Fuse from "fuse.js";
 
-// Build index once at module level (client-side only)
+// Fuse instance is rebuilt whenever the lemmas prop changes identity.
+// In practice it is built once at first render and reused.
 let fuseInstance: Fuse<SearchableEntry> | null = null;
+let lastLemmasRef: LemmaEntry[] | null = null;
 
-function getFuse(): Fuse<SearchableEntry> {
-  if (!fuseInstance) {
-    const index = buildSearchIndex(allLemmas);
+function getFuse(lemmas: LemmaEntry[]): Fuse<SearchableEntry> {
+  if (!fuseInstance || lastLemmasRef !== lemmas) {
+    const index = buildSearchIndex(lemmas);
     fuseInstance = createFuseInstance(index);
+    lastLemmasRef = lemmas;
   }
   return fuseInstance;
 }
 
 type SearchBarProps = {
+  /** All lemmas — passed from the parent Server Component. */
+  lemmas: LemmaEntry[];
   /** Placeholder text */
   placeholder?: string;
   /** Additional CSS classes for the wrapper */
@@ -32,6 +37,7 @@ type SearchBarProps = {
 };
 
 export default function SearchBar({
+  lemmas,
   placeholder = "Cerca una parola…",
   className = "",
   autoFocus = false,
@@ -54,11 +60,11 @@ export default function SearchBar({
       setActiveIndex(-1);
       return;
     }
-    const found = searchLemmas(query, getFuse());
+    const found = searchLemmas(query, getFuse(lemmas));
     setResults(found.slice(0, 6)); // max 6 results in dropdown
     setIsOpen(found.length > 0);
     setActiveIndex(-1);
-  }, [query]);
+  }, [query, lemmas]);
 
   // Close dropdown on outside click
   useEffect(() => {
