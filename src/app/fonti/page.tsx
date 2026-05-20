@@ -43,7 +43,7 @@ const fontiRiferimento: { name: string; url: string; policy: string }[] = [
 
 export default function FontiPage() {
   return (
-    <article className="space-y-12">
+    <article className="space-y-12 pt-6 sm:pt-8">
       {/* Breadcrumb */}
       <nav
         className="text-sm text-[#b8b3a7]" 
