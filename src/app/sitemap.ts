@@ -1,9 +1,10 @@
 import type { MetadataRoute } from "next";
-import { allLemmas } from "@/content/lemmas";
+import { getAllLemmasFromDB } from "@/lib/db";
 
 const BASE_URL = "https://ilparoliere.online";
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
+  const allLemmas = await getAllLemmasFromDB();
   const now = new Date().toISOString();
 
   // Static institutional routes
