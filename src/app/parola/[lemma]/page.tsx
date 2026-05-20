@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getLemma, getAllSlugs } from "@/content/lemmas";
+import { getLemmaFromDB, getAllSlugsFromDB } from "@/lib/db";
 import type { LemmaEntry } from "@/lib/types";
 
 type Props = {
@@ -9,12 +9,13 @@ type Props = {
 };
 
 export async function generateStaticParams() {
-  return getAllSlugs().map((slug) => ({ lemma: slug }));
+  const slugs = await getAllSlugsFromDB();
+  return slugs.map((slug) => ({ lemma: slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { lemma: slug } = await params;
-  const entry = getLemma(slug);
+  const entry = await getLemmaFromDB(slug);
   if (!entry) return { title: "Voce non trovata" };
 
   return {
@@ -105,7 +106,7 @@ function SourceLinks({ links }: { links: LemmaEntry["sourceLinks"] }) {
 
 export default async function LemmaPage({ params }: Props) {
   const { lemma: slug } = await params;
-  const entry = getLemma(slug);
+  const entry = await getLemmaFromDB(slug);
   if (!entry) notFound();
 
   const {
