@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { allLemmas } from "@/content/lemmas";
+import { getAllLemmasFromDB } from "@/lib/db";
 import { notFound } from "next/navigation";
 
 // All 21 Italian alphabet letters (J K W X Y included for future content)
@@ -19,6 +19,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { lettera } = await params;
   const upper = lettera.toUpperCase();
+  const allLemmas = await getAllLemmasFromDB();
   const count = allLemmas.filter((e) =>
     e.lemma.toLowerCase().startsWith(lettera)
   ).length;
@@ -45,12 +46,16 @@ export default async function LetteraPage({
 
   const lower = lettera.toLowerCase();
   const upper = lower.toUpperCase();
+  const allLemmas = await getAllLemmasFromDB();
 
   const lemmiLettera = allLemmas
     .filter((e) => e.lemma.toLowerCase().startsWith(lower))
     .sort((a, b) => a.lemma.localeCompare(b.lemma, "it"));
 
   const hasLemmi = lemmiLettera.length > 0;
+  const lemmiPerLettera = new Set(
+    allLemmas.map((e) => e.lemma.toLowerCase()[0])
+  );
 
   return (
     <article className="space-y-12">
@@ -97,7 +102,7 @@ export default async function LetteraPage({
       </header>
 
       {/* Navigazione alfabetica */}
-      <AlphaNav current={lower} />
+      <AlphaNav current={lower} lemmiPerLettera={lemmiPerLettera} />
 
       <hr className="border-[#2a2a2a]" />
 
@@ -167,11 +172,13 @@ export default async function LetteraPage({
 
 // ---------- Componente navigazione alfabetica inline ----------
 
-function AlphaNav({ current }: { current: string }) {
-  const lemmiPerLettera = new Set(
-    allLemmas.map((e) => e.lemma.toLowerCase()[0])
-  );
-
+function AlphaNav({
+  current,
+  lemmiPerLettera,
+}: {
+  current: string;
+  lemmiPerLettera: Set<string>;
+}) {
   const TUTTE = "abcdefghilmnopqrstuvwxyz".split("");
 
   return (
