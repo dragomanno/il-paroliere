@@ -12,6 +12,9 @@
 
 import { defineConfig } from "drizzle-kit";
 
+// drizzle-kit migrate uses a direct TCP connection (not websocket).
+// Must use the standard 'postgresql' driver here — NOT @neondatabase/serverless.
+// The app runtime (src/lib/db/client.ts) continues to use @neondatabase/serverless.
 export default defineConfig({
   schema: "./src/db/schema.ts",
   out: "./src/db/migrations",
