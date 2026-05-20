@@ -70,7 +70,7 @@ export default async function LetteraPage({
     <article className="space-y-12 pt-6 sm:pt-8">
       {/* Breadcrumb */}
       <nav
-        className="text-xs text-[#b8b3a7]"
+        className="text-sm text-[#b8b3a7]"
         aria-label="Navigazione"
         style={{ fontFamily: "Poppins, sans-serif" }}
       >
