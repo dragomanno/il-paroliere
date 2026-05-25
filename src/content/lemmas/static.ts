@@ -145,96 +145,199 @@ import { vacuo } from "./vacuo";
 import { veniale } from "./veniale";
 import { zenit } from "./zenit";
 
+// Batch v2 + v2b — 50 nuovi lemmi (2026-05-25)
+import { abside } from "./abside";
+import { ads } from "./ads";
+import { alfiereSiena } from "./alfiere-siena";
+import { barberoSiena } from "./barbero-siena";
+import { battilana } from "./battilana";
+import { cesellatura } from "./cesellatura";
+import { coltelleria } from "./coltelleria";
+import { cookie } from "./cookie";
+import { cookieConsent } from "./cookie-consent";
+import { cookieless } from "./cookieless";
+import { cookiePolicy } from "./cookie-policy";
+import { costanza } from "./costanza";
+import { coworking } from "./coworking";
+import { cpt } from "./cpt";
+import { disciplina } from "./disciplina";
+import { dragoncello } from "./dragoncello";
+import { espletamento } from "./espletamento";
+import { espoliazione } from "./espoliazione";
+import { faringalizzazione } from "./faringalizzazione";
+import { fascistello } from "./fascistello";
+import { fegatelli } from "./fegatelli";
+import { finocchiona } from "./finocchiona";
+import { gdpr } from "./gdpr";
+import { ghibellino } from "./ghibellino";
+import { glasnost } from "./glasnost";
+import { guelfo } from "./guelfo";
+import { hiking } from "./hiking";
+import { imperialeSiena } from "./imperiale-siena";
+import { insaccato } from "./insaccato";
+import { malacarne } from "./malacarne";
+import { menuHamburger } from "./menu-hamburger";
+import { modanatura } from "./modanatura";
+import { naZdarovje } from "./na-zdarovje";
+import { nasalTwang } from "./nasal-twang";
+import { ostello } from "./ostello";
+import { pellame } from "./pellame";
+import { perestrojka } from "./perestrojka";
+import { pici } from "./pici";
+import { pnrr } from "./pnrr";
+import { prioritizzazione } from "./prioritizzazione";
+import { privacyPolicy } from "./privacy-policy";
+import { radicalizzazione } from "./radicalizzazione";
+import { ribollita } from "./ribollita";
+import { rooftop } from "./rooftop";
+import { salagione } from "./salagione";
+import { salatura } from "./salatura";
+import { sanatoria } from "./sanatoria";
+import { sbalzo } from "./sbalzo";
+import { skal } from "./skal";
+import { trattaPalio } from "./tratta-palio";
+import { trekking } from "./trekking";
+import { whatsappare } from "./whatsappare";
+
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
   abitudine,
+  abside,
   accondiscendenza,
   acredine,
   acrimonia,
   acume,
+  ads,
   affabile,
   aggregatore,
+  alfiereSiena,
   algoritmo,
   ambiguita,
   ambivalenza,
   atavico,
   bagliore,
   banalita,
+  barberoSiena,
+  battilana,
   bipolare,
   bizzoso,
-  bot,
   boria,
+  bot,
   canonicalizzazione,
   caparbio,
   cauto,
+  cesellatura,
   cifra,
+  coltelleria,
   connivenza,
   consuetudine,
+  cookie,
+  cookieConsent,
+  cookieless,
+  cookiePolicy,
+  costanza,
+  coworking,
+  cpt,
   crawlBudget,
   crepuscolo,
   cura,
   declinare,
   demistificare,
   diatriba,
+  disciplina,
   disinvoltura,
   dissimulare,
+  dragoncello,
   effervescente,
   effimero,
   eloquenza,
+  espletamento,
+  espoliazione,
   eufemismo,
+  faringalizzazione,
+  fascistello,
+  fegatelli,
   fervore,
   fidelizzazione,
+  finocchiona,
   flemma,
   fraintendere,
   frastagliato,
   garbo,
+  gdpr,
+  ghibellino,
+  glasnost,
   greve,
   grottesco,
+  guelfo,
+  hiking,
   hreflang,
   impasse,
+  imperialeSiena,
   incipit,
   indicizzazione,
+  insaccato,
   insolito,
   ipertrofia,
   labile,
-  lacuna,
   laconico,
+  lacuna,
   llm,
   lucido,
   lusinga,
+  malacarne,
   malinconia,
   mangiaufo,
   meandro,
+  menuHamburger,
+  modanatura,
   morboso,
+  nasalTwang,
+  naZdarovje,
   nembo,
   nitido,
   noncurante,
   obliquo,
+  ostello,
   ostinazione,
   ozio,
   palinsesto,
   paradosso,
   parsimonia,
+  pellame,
   perbenismo,
+  perestrojka,
   periferico,
   pervicace,
+  pici,
+  pnrr,
   ponderare,
   posizionamento,
   pragmatismo,
+  prioritizzazione,
+  privacyPolicy,
   querulo,
+  radicalizzazione,
   rarefatto,
   recidivo,
   redirect,
   resilienza,
   reticenza,
+  ribollita,
   rimpianto,
+  rooftop,
   rovello,
   sagacia,
+  salagione,
+  salatura,
+  sanatoria,
+  sbalzo,
   scrupolo,
   sedimento,
   seo,
   sfilacciato,
   sgomento,
+  skal,
   solarizzazione,
   sorpresa,
   statusCode,
@@ -247,6 +350,8 @@ export const allLemmas: LemmaEntry[] = [
   token,
   tokenizzazione,
   trasparenza,
+  trattaPalio,
+  trekking,
   umbratile,
   univoco,
   vacuo,
@@ -255,6 +360,7 @@ export const allLemmas: LemmaEntry[] = [
   velleita,
   velleitario,
   veniale,
+  whatsappare,
   xenofobia,
   zenit,
   zizzania,
