@@ -54,6 +54,8 @@ export const rodomontesco: LemmaEntry = {
     "rodomontata"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/rodomontesco"
   },

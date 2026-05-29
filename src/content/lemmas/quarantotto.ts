@@ -54,6 +54,8 @@ export const quarantotto: LemmaEntry = {
     "confusione"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/quarantotto"
   },

@@ -54,6 +54,8 @@ export const pendenza: LemmaEntry = {
     "contenzioso"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/pendenza"
   },

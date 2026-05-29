@@ -48,6 +48,8 @@ export const ludopatia: LemmaEntry = {
     "addiction"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/ludopatia"
   },

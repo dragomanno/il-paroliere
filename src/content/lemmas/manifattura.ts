@@ -53,6 +53,8 @@ export const manifattura: LemmaEntry = {
     "lavorazione"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/manifattura"
   },

@@ -55,6 +55,8 @@ export const recondito: LemmaEntry = {
     "esoterico"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/rec%C3%B2ndito"
   },

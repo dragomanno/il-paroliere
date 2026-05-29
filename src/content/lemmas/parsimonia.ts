@@ -53,6 +53,8 @@ export const parsimonia: LemmaEntry = {
     "essenzialità"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/parsimonia"
   },

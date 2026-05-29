@@ -53,6 +53,8 @@ export const perseveranza: LemmaEntry = {
     "perseverare"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/perseveranza"
   },

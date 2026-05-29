@@ -54,6 +54,8 @@ export const roboante: LemmaEntry = {
     "stile"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/roboante"
   },

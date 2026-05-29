@@ -53,6 +53,8 @@ export const ammansire: LemmaEntry = {
     "domare"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/ammansire"
   },

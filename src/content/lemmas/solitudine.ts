@@ -53,6 +53,8 @@ export const solitudine: LemmaEntry = {
     "meditazione"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/solitudine"
   },

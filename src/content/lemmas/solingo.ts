@@ -52,6 +52,8 @@ export const solingo: LemmaEntry = {
     "leopardiano"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/solingo"
   },

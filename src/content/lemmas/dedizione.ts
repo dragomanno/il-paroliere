@@ -54,6 +54,8 @@ export const dedizione: LemmaEntry = {
     "cura"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/dedizione"
   },

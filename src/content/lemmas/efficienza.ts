@@ -53,6 +53,8 @@ export const efficienza: LemmaEntry = {
     "output"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/efficienza"
   },

@@ -54,6 +54,8 @@ export const malleabile: LemmaEntry = {
     "temprato"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/malleabile"
   },

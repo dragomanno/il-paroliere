@@ -54,6 +54,8 @@ export const empatia: LemmaEntry = {
     "specchio"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/empatia"
   },

@@ -55,6 +55,8 @@ export const olfatto: LemmaEntry = {
     "sinestesia"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/olfatto"
   },
