@@ -68,8 +68,8 @@ export const recondito: LemmaEntry = {
     "naturalezza; nei testi contemporanei appare raramente, quasi a custodire la " +
     "propria rarità.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Recòndito — Il Paroliere",

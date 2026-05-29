@@ -65,8 +65,8 @@ export const solitudine: LemmaEntry = {
     "tende a scivolare verso la connotazione negativa, perdendo la distinzione " +
     "cruciale tra solitudine voluta e isolamento imposto.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Solitudine — Il Paroliere",

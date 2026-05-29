@@ -64,8 +64,8 @@ export const biasimare: LemmaEntry = {
     "Oggi biasimare è un verbo di disapprovazione moderata, quasi formale; ma " +
     "conserva sotto la superficie una severità antica.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Biasimare — Il Paroliere",

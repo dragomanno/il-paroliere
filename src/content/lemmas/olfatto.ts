@@ -69,8 +69,8 @@ export const olfatto: LemmaEntry = {
     "questo il più evocativo: chi riesce a far sentire un odore in una pagina ha già " +
     "scritto qualcosa di memorabile.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Olfatto — Il Paroliere",

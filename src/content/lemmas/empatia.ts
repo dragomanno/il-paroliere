@@ -66,8 +66,8 @@ export const empatia: LemmaEntry = {
     "empátheia indicava una passione intensa, quasi un essere posseduti " +
     "dall'emozione. Quella forza originaria merita di essere recuperata.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Empatìa — Il Paroliere",

@@ -65,8 +65,8 @@ export const parsimonia: LemmaEntry = {
     "ugualmente valide, preferire la più semplice. Questo uso scientifico conferisce " +
     "alla parola una dignità intellettuale che va ben oltre il semplice risparmio.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Parsimonia — Il Paroliere",

@@ -65,8 +65,8 @@ export const imprudenza: LemmaEntry = {
     "scrittura giuridica è un errore tecnico; confonderli nel parlato comune è quasi " +
     "inevitabile.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Imprudenza — Il Paroliere",

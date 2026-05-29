@@ -65,8 +65,8 @@ export const subitaneo: LemmaEntry = {
     "quotidiana, però, suona ricercato: un segnale di registro che va usato " +
     "consapevolmente.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Subitaneo — Il Paroliere",

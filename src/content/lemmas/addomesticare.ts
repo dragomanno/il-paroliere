@@ -70,8 +70,8 @@ export const addomesticare: LemmaEntry = {
     "noi. (Fonte: Antoine de Saint-Exupéry, Le Petit Prince, 1943; trad. it. Il " +
     "Piccolo Principe — opera in pubblico dominio in molte giurisdizioni.)",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Addomesticare — Il Paroliere",

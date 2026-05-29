@@ -66,8 +66,8 @@ export const insulso: LemmaEntry = {
     "sopravvissuta intatta nei secoli. Oggi la usiamo senza saperlo ogni volta che " +
     "definiamo insulso qualcuno che, semplicemente, non sa condire le proprie parole.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Insulso — Il Paroliere",
