@@ -199,6 +199,39 @@ import { trattaPalio } from "./tratta-palio";
 import { trekking } from "./trekking";
 import { whatsappare } from "./whatsappare";
 
+// Batch 2 — 32 nuovi lemmi (2026-05-29)
+import { abnegazione } from "./abnegazione";
+import { addomesticare } from "./addomesticare";
+import { ambaradam } from "./ambaradam";
+import { amenita } from "./amenita";
+import { ammansire } from "./ammansire";
+import { biasimare } from "./biasimare";
+import { cesura } from "./cesura";
+import { dedizione } from "./dedizione";
+import { efficacia } from "./efficacia";
+import { efficienza } from "./efficienza";
+import { empatia } from "./empatia";
+import { esecrabile } from "./esecrabile";
+import { imprudenza } from "./imprudenza";
+import { inettitudine } from "./inettitudine";
+import { inetto } from "./inetto";
+import { insulso } from "./insulso";
+import { ludopatia } from "./ludopatia";
+import { malleabile } from "./malleabile";
+import { manifattura } from "./manifattura";
+import { manifatturiero } from "./manifatturiero";
+import { mellifluo } from "./mellifluo";
+import { olfatto } from "./olfatto";
+import { pendenza } from "./pendenza";
+import { perseveranza } from "./perseveranza";
+import { quarantotto } from "./quarantotto";
+import { recondito } from "./recondito";
+import { roboante } from "./roboante";
+import { rodomontesco } from "./rodomontesco";
+import { solingo } from "./solingo";
+import { solitudine } from "./solitudine";
+import { subitaneo } from "./subitaneo";
+
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
   abitudine,
@@ -364,4 +397,36 @@ export const allLemmas: LemmaEntry[] = [
   xenofobia,
   zenit,
   zizzania,
+  // Batch 2 — 32 nuovi lemmi (2026-05-29)
+  abnegazione,
+  addomesticare,
+  ambaradam,
+  amenita,
+  ammansire,
+  biasimare,
+  cesura,
+  dedizione,
+  efficacia,
+  efficienza,
+  empatia,
+  esecrabile,
+  imprudenza,
+  inettitudine,
+  inetto,
+  insulso,
+  ludopatia,
+  malleabile,
+  manifattura,
+  manifatturiero,
+  mellifluo,
+  olfatto,
+  pendenza,
+  perseveranza,
+  quarantotto,
+  recondito,
+  roboante,
+  rodomontesco,
+  solingo,
+  solitudine,
+  subitaneo,
 ];
