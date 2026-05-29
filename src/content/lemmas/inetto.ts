@@ -67,8 +67,8 @@ export const inetto: LemmaEntry = {
     "consapevolezza, non una sua mancanza. Rende il termine uno dei più carichi di " +
     "ironia tragica nella letteratura del Novecento.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Inetto — Il Paroliere",

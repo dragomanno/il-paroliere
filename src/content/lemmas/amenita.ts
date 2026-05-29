@@ -65,8 +65,8 @@ export const amenita: LemmaEntry = {
     "ironico si priva di una parola bella per descrivere un paesaggio che fa venir " +
     "voglia di fermarsi. Vale la pena tenerle entrambe in vita.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Amenità — Il Paroliere",

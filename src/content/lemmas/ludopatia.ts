@@ -61,8 +61,8 @@ export const ludopatia: LemmaEntry = {
     "leggero di quanto non sia; ma il suffisso -patia porta il peso di tutto quello " +
     "che il gioco fa quando smette di essere tale.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Ludopatia — Il Paroliere",

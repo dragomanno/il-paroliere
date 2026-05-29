@@ -65,8 +65,8 @@ export const efficienza: LemmaEntry = {
     "fare la cosa sbagliata — e questo è il tipo di paradosso che vale la pena tenere " +
     "a mente.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Efficienza — Il Paroliere",

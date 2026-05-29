@@ -65,8 +65,8 @@ export const ammansire: LemmaEntry = {
     "un'alleanza. In entrambi i casi, la direzione del potere non è mai completamente " +
     "chiara: chi si lascia ammansire sceglie, in qualche modo, di farlo.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Ammansire — Il Paroliere",

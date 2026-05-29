@@ -66,8 +66,8 @@ export const manifattura: LemmaEntry = {
     "lessico del lusso e del made in Italy come garanzia di qualità, oltre che come " +
     "categoria economica.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Manifattura — Il Paroliere",

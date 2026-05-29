@@ -62,8 +62,8 @@ export const cesura: LemmaEntry = {
     "l'idea di un taglio preciso, non di una sfumatura — e questa nettezza è " +
     "esattamente la qualità che lo rende utile anche fuori dal verso.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Cesura — Il Paroliere",

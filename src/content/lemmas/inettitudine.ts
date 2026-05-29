@@ -68,8 +68,8 @@ export const inettitudine: LemmaEntry = {
     "l'azione, l'eterno ritardo come stile esistenziale. Termine da usare con " +
     "precisione: non è sinonimo di stupidità.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Inettitudine — Il Paroliere",

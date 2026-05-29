@@ -68,8 +68,8 @@ export const ambaradam: LemmaEntry = {
     "diminuisce il valore della parola — anzi, la rende più interessante: un termine " +
     "vivo, espressivo, irriducibile a una sola storia.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Ambaradam — Il Paroliere",

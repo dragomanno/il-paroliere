@@ -64,8 +64,8 @@ export const efficacia: LemmaEntry = {
     "divulgazione scientifica. Efficacia copre entrambi i significati, e questo può " +
     "essere tanto una ricchezza quanto una fonte di confusione.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Efficacia — Il Paroliere",

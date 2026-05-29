@@ -64,8 +64,8 @@ export const solingo: LemmaEntry = {
     "con lucidità quasi crudele. Usarlo fuori dalla poesia suona anacronistico, ma è " +
     "esattamente quella distanza storica a renderlo così carico.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Solingo — Il Paroliere",

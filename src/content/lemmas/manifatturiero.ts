@@ -63,8 +63,8 @@ export const manifatturiero: LemmaEntry = {
     "diffusa — che non trova corrispondenze esatte in altri sistemi economici. Usare " +
     "manifatturiero con precisione significa anche riconoscere questa specificità.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Manifatturiero — Il Paroliere",

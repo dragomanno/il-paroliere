@@ -67,8 +67,8 @@ export const malleabile: LemmaEntry = {
     "tutto dice qualcosa di interessante su come il sapere tecnico si trasformi, e a " +
     "volte si perda, nel passaggio alla lingua comune.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Malleabile — Il Paroliere",

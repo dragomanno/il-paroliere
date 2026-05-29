@@ -66,8 +66,8 @@ export const mellifluo: LemmaEntry = {
     "dolcezza eccessiva che l'originale latino non prevedeva affatto — spia " +
     "linguistica del nostro rapporto ambivalente con la retorica e la persuasione.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Mellifluo — Il Paroliere",

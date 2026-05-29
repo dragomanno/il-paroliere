@@ -65,8 +65,8 @@ export const dedizione: LemmaEntry = {
     "la pena tenere distinti i due lemmi, perché descrivono modi diversi di stare al " +
     "mondo.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Dedizione — Il Paroliere",

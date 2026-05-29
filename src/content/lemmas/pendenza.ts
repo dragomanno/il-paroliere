@@ -66,8 +66,8 @@ export const pendenza: LemmaEntry = {
     "montagna si misura in percentuale o in gradi; nei rapporti con l'erario, si " +
     "misura in lettere raccomandate.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Pendenza — Il Paroliere",

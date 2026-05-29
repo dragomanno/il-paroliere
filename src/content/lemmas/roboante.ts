@@ -66,8 +66,8 @@ export const roboante: LemmaEntry = {
     "teatrale: usarla per descrivere un discorso vuoto introduce un piccolo corto " +
     "circuito tra il significante e il significato.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Roboante — Il Paroliere",

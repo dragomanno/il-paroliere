@@ -66,8 +66,8 @@ export const rodomontesco: LemmaEntry = {
     "forza dell'iperbole ariostesca. Usare rodomontesco oggi è sempre un piccolo " +
     "omaggio letterario, voluto o no.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Rodomontesco — Il Paroliere",

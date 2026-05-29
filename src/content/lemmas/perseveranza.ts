@@ -66,8 +66,8 @@ export const perseveranza: LemmaEntry = {
     "rilevanza scientifica, portando un termine antico nel lessico della ricerca " +
     "empirica sull'eccellenza.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Perseveranza — Il Paroliere",

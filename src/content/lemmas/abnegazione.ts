@@ -64,8 +64,8 @@ export const abnegazione: LemmaEntry = {
     "l'abnegazione può essere anche un sintomo, non solo una scelta. Usarlo senza " +
     "sfumature, oggi, è quasi una dichiarazione di posizione.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Abnegazione — Il Paroliere",

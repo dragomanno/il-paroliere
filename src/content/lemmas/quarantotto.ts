@@ -67,8 +67,8 @@ export const quarantotto: LemmaEntry = {
     "dice qualcosa sulla potenza di quel momento storico nella memoria collettiva " +
     "italiana.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Quarantotto — Il Paroliere",

@@ -66,8 +66,8 @@ export const esecrabile: LemmaEntry = {
     "radice latina — la maledizione rituale, l'esclusione solenne dalla comunità — " +
     "porta un peso semantico che nessun sinonimo rende con la stessa precisione.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Esecrabile — Il Paroliere",
