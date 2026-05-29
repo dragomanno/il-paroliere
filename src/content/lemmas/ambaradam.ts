@@ -56,6 +56,8 @@ export const ambaradam: LemmaEntry = {
     "pasticcio"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/ambaradam"
   },

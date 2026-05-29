@@ -53,6 +53,8 @@ export const abnegazione: LemmaEntry = {
     "devozione"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/abnegazione"
   },

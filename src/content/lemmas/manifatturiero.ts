@@ -51,6 +51,8 @@ export const manifatturiero: LemmaEntry = {
     "export"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/manifatturiero"
   },

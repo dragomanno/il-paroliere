@@ -55,6 +55,8 @@ export const addomesticare: LemmaEntry = {
     "familiarità"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/addomesticare"
   },

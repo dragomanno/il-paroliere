@@ -51,6 +51,8 @@ export const cesura: LemmaEntry = {
     "enjambement"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/cesura"
   },

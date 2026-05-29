@@ -53,6 +53,8 @@ export const imprudenza: LemmaEntry = {
     "avventatezza"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/imprudenza"
   },

@@ -54,6 +54,8 @@ export const insulso: LemmaEntry = {
     "inconsistente"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/insulso"
   },

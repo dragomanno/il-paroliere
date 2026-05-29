@@ -53,6 +53,8 @@ export const subitaneo: LemmaEntry = {
     "imprevisto"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/subitaneo"
   },

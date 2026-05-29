@@ -53,6 +53,8 @@ export const amenita: LemmaEntry = {
     "luogo comune"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/amenit%C3%A0"
   },

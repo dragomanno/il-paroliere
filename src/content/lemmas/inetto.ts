@@ -54,6 +54,8 @@ export const inetto: LemmaEntry = {
     "antieroismo"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/inetto"
   },

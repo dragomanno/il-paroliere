@@ -55,6 +55,8 @@ export const inettitudine: LemmaEntry = {
     "autoanalisi"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/inettitudine"
   },

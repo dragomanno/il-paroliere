@@ -53,6 +53,8 @@ export const efficacia: LemmaEntry = {
     "potenza"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/efficacia"
   },

@@ -54,6 +54,8 @@ export const mellifluo: LemmaEntry = {
     "vellutato"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/mellifluo"
   },

@@ -55,6 +55,8 @@ export const esecrabile: LemmaEntry = {
     "nefando"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/esecrabile"
   },

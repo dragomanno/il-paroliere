@@ -53,6 +53,8 @@ export const biasimare: LemmaEntry = {
     "condanna"
   ],
 
+  examples: [],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/biasimare"
   },
