@@ -4,6 +4,8 @@ import { getAllLemmasFromDB } from "@/lib/db";
 import SearchBar from "@/components/SearchBar";
 import type { LemmaEntry } from "@/lib/types";
 
+export const revalidate = 3600;
+
 export const metadata: Metadata = {
   title: "Il Paroliere — Definizioni aperte, lingua viva.",
   description:
