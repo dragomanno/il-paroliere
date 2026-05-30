@@ -6,6 +6,8 @@ import type { LemmaEntry } from "@/lib/types";
 
 const LETTERE_IT = "abcdefghilmnopqrstuvz".split("");
 const LETTERE_EXTRA = "jkwxy".split("");
+export const revalidate = 3600;
+
 const TUTTE_LETTERE = [...LETTERE_IT, ...LETTERE_EXTRA];
 
 export async function generateStaticParams() {
