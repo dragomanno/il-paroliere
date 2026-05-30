@@ -234,6 +234,50 @@ import { subitaneo } from "./subitaneo";
 
 // Batch 3 — 2026-05-30
 import { arrendevolezza } from "./arrendevolezza";
+// Batch auto — 2026-05-30
+import { pervicacia } from "./pervicacia";
+import { sostanziale } from "./sostanziale";
+import { meridiano_aggettivo } from "./meridiano-aggettivo";
+import { meridiano_sostantivo } from "./meridiano-sostantivo";
+import { levante } from "./levante";
+import { levatrice } from "./levatrice";
+import { perspicacia } from "./perspicacia";
+import { commemorazione } from "./commemorazione";
+import { salgemma } from "./salgemma";
+import { peperoncino } from "./peperoncino";
+import { curry } from "./curry";
+import { curcuma } from "./curcuma";
+import { antitesi } from "./antitesi";
+import { tesi } from "./tesi";
+import { sintesi } from "./sintesi";
+import { compendio } from "./compendio";
+import { pistacchio } from "./pistacchio";
+import { pistakkio } from "./pistakkio";
+import { populismo } from "./populismo";
+import { nazionalismo } from "./nazionalismo";
+import { nazismo } from "./nazismo";
+import { fascismo } from "./fascismo";
+import { comunismo } from "./comunismo";
+import { consumismo } from "./consumismo";
+import { pivello } from "./pivello";
+import { piumino } from "./piumino";
+import { piumone } from "./piumone";
+import { permissivismo } from "./permissivismo";
+import { nato } from "./nato";
+import { brexit } from "./brexit";
+import { liberalsocialismo } from "./liberalsocialismo";
+import { indelicatezza } from "./indelicatezza";
+import { galoppino } from "./galoppino";
+import { dissoluzione } from "./dissoluzione";
+import { dissolvimento } from "./dissolvimento";
+import { dissing } from "./dissing";
+import { cecchino } from "./cecchino";
+import { caporetto } from "./caporetto";
+import { bignami } from "./bignami";
+import { crasi } from "./crasi";
+import { antonomasia } from "./antonomasia";
+import { disgregazione } from "./disgregazione";
+import { menefreghismo } from "./menefreghismo";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -440,4 +484,48 @@ export const allLemmas: LemmaEntry[] = [
   solingo,
   solitudine,
   subitaneo,
+  // Batch auto — 2026-05-30
+  pervicacia,
+  sostanziale,
+  meridiano_aggettivo,
+  meridiano_sostantivo,
+  levante,
+  levatrice,
+  perspicacia,
+  commemorazione,
+  salgemma,
+  peperoncino,
+  curry,
+  curcuma,
+  antitesi,
+  tesi,
+  sintesi,
+  compendio,
+  pistacchio,
+  pistakkio,
+  populismo,
+  nazionalismo,
+  nazismo,
+  fascismo,
+  comunismo,
+  consumismo,
+  pivello,
+  piumino,
+  piumone,
+  permissivismo,
+  nato,
+  brexit,
+  liberalsocialismo,
+  indelicatezza,
+  galoppino,
+  dissoluzione,
+  dissolvimento,
+  dissing,
+  cecchino,
+  caporetto,
+  bignami,
+  crasi,
+  antonomasia,
+  disgregazione,
+  menefreghismo,
 ];

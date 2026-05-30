@@ -11,79 +11,59 @@ export const dissimulare: LemmaEntry = {
   partOfSpeech: "verbo",
 
   definition:
-    "Tenere nascosto ciò che si prova o si pensa, senza costruire una storia falsa: chi dissimula " +
-    "trattiene il vero invece di inventarne un altro. È una scelta attiva — spesso silenziosa — che " +
-    "richiede padronanza di sé. La distinzione rispetto alla menzogna è sottile ma precisa: il bugiardo " +
-    "fabbrica, chi dissimula semplicemente non mostra.",
+    "Nascondere o attenuare volontariamente un sentimento, un'intenzione o una " +
+    "condizione, senza arrivare alla menzogna aperta. Chi dissimula non afferma il " +
+    "falso: evita di affermare il vero, lascia che l'altro creda ciò che non è, " +
+    "mantenendo una distanza ambigua tra il proprio stato interiore e ciò che mostra " +
+    "al mondo. È una pratica relazionale antica, codificata nella trattatistica " +
+    "rinascimentale e barocca.",
 
   shortDefinition:
-    "Nascondere ciò che si è o si prova senza mentire: non si fabbrica il falso, si trattiene il vero.",
+    "Nascondere o attenuare un sentimento o un'intenzione senza mentire apertamente: " +
+    "un silenzio strategico, non una bugia.",
 
   register: ["comune", "letterario"],
-  domains: ["comunicazione", "psicologia"],
+  domains: ["psicologia", "retorica", "comportamento"],
 
   etymology:
-    "Dal latino dissimulare, composto di dis- (negazione) e simulare (fingere, imitare). " +
-    "Paradossalmente opposto a simulare: chi simula finge ciò che non è, chi dissimula nasconde ciò che è.",
+    "Dal latino dissimulare, composto di dis- (prefisso di negazione o separazione) e " +
+    "simulare (fingere, dal latino similis, simile). Dissimulare è quindi il " +
+    "contrario di simulare: mentre chi simula finge ciò che non è, chi dissimula " +
+    "nasconde ciò che è.",
 
   examples: [
-    "Dissimulò il dolore con una tale naturalezza che nessuno si accorse di nulla.",
-    "Non era nel suo stile dissimulare: preferiva il silenzio alla recita.",
-    "Dissimulare non è mentire, ma richiede una costanza che alla lunga sfianca.",
-    "I diplomatici imparano presto a dissimulare — è parte del mestiere, non dell'ipocrisia.",
   ],
 
   synonyms: [
-    {
-      term: "celare",
-      register: "formale",
-      context: "più letterario, implica nascondere con cura",
-    },
-    {
-      term: "mascherare",
-      register: "comune",
-      context: "più visivo, suggerisce una copertura attiva",
-    },
-    {
-      term: "tacere",
-      register: "comune",
-      context: "più passivo del dissimulare, senza la componente performativa",
-    },
+    { term: "fingere", register: "comune", context: "più generico, comprende sia la dissimulazione che la simulazione" },
+    { term: "celare", register: "letterario", context: "nascondere con deliberazione, con accento sull'atto del nascondere piuttosto che sul risultato" },
+    { term: "occultare", register: "comune/formale", context: "con connotazione più concreta, spesso di atti o oggetti fisici" }
   ],
 
   antonyms: [
-    {
-      term: "mostrare",
-      register: "comune",
-      context: "rendere visibile ciò che si prova o si pensa",
-    },
-    {
-      term: "rivelare",
-      register: "comune",
-      context: "portare alla luce ciò che era nascosto",
-    },
+    { term: "rivelare", register: "comune", context: "portare alla luce ciò che era nascosto" },
+    { term: "manifestare", register: "comune/letterario", context: "rendere evidente, esplicito, il proprio stato interiore" }
   ],
 
   relatedWords: [
-    "dissimulazione",
-    "dissimulatore",
-    "simulare",
-    "celare",
-    "reticenza",
-    "mascherare",
+    "menefreghismo"
   ],
 
   sourceLinks: {
-    treccani: "https://www.treccani.it/vocabolario/dissimulare/",
-    wiktionary: "https://it.wiktionary.org/wiki/dissimulare",
+    wiktionary: "https://it.wiktionary.org/wiki/dissimulare"
   },
 
   paroliereNote:
-    "Dissimulare e simulare sono etimologicamente gemelli — entrambi dalla stessa radice — " +
-    "ma percorrono direzioni opposte: uno aggiunge, l'altro trattiene. " +
-    "L'arte della dissimulazione ha una lunga storia nella trattatistica rinascimentale italiana: " +
-    "Torquato Accetto le dedicò nel 1641 un intero saggio, Della dissimulazione onesta, " +
-    "sostenendo che nascondere il vero a volte è una forma di rispetto, non di inganno.",
+    "Il punto di riferimento teorico è Torquato Accetto, che nel 1641 pubblica Della " +
+    "dissimulazione onesta — un trattatello breve e straordinario che distingue la " +
+    "dissimulazione dalla menzogna e la difende come forma di saggezza pratica in " +
+    "tempi di potere arbitrario. Per Accetto, chi dissimula non inganna: si protegge. " +
+    "Il testo è rimasto a lungo dimenticato ed è stato riscoperto nel Novecento " +
+    "grazie a Benedetto Croce, diventando un classico minore della trattatistica " +
+    "italiana. La dissimulazione, però, non è sempre una strategia consapevole. A " +
+    "volte si sovrappone all'omissione: non dire, non mostrare, non reagire. In certi " +
+    "casi questo confina con il menefreghismo — quella forma di distacco che non è " +
+    "neutralità, ma rifiuto silenzioso di partecipare.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -91,10 +71,10 @@ export const dissimulare: LemmaEntry = {
   seo: {
     title: "Dissimulare — Il Paroliere",
     description:
-      "Definizione originale di 'dissimulare': nascondere il vero senza inventare il falso. " +
-      "Con esempi, sinonimi, etimologia e nota editoriale.",
+      "Significato di dissimulare: nascondere senza mentire. Da Torquato Accetto e la " +
+      "trattatistica barocca all'uso contemporaneo.",
   },
 
-  createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  createdAt: "2026-05-30",
+  updatedAt: "2026-05-30",
 };
