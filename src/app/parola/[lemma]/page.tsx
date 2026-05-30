@@ -65,6 +65,34 @@ function Divider() {
   return <hr className="border-[#2a2a2a]" />;
 }
 
+/**
+ * Renders a lemma term as an internal link if the slug is already published,
+ * or as plain text if not. This prevents dead links to stubs/drafts.
+ *
+ * Used in synonyms, antonyms, and relatedWords sections.
+ */
+function LemmaLink({
+  term,
+  published,
+  className,
+}: {
+  term: string;
+  published: boolean;
+  className?: string;
+}) {
+  if (published) {
+    return (
+      <Link
+        href={`/parola/${term}`}
+        className={`hover:text-[#b8dc16] transition-colors underline underline-offset-2 decoration-[#b8dc16]/40 ${className ?? ""}`}
+      >
+        {term}
+      </Link>
+    );
+  }
+  return <span className={className}>{term}</span>;
+}
+
 function SourceLinks({ links }: { links: LemmaEntry["sourceLinks"] }) {
   const entries: { label: string; url: string }[] = [];
   if (links.treccani) entries.push({ label: "Treccani", url: links.treccani });
@@ -110,6 +138,13 @@ export default async function LemmaPage({ params }: Props) {
   const { lemma: slug } = await params;
   const entry = await getLemmaFromDB(slug);
   if (!entry) notFound();
+
+  // Build a Set of all published slugs for O(1) conditional link checks.
+  // Re-uses the same lightweight query already run by generateStaticParams.
+  // Falls back to empty set if DB is unavailable (preview/CI environments).
+  const publishedSlugs = new Set(
+    process.env.DATABASE_URL ? await getAllSlugsFromDB() : []
+  );
 
   const {
     lemma,
@@ -212,7 +247,7 @@ export default async function LemmaPage({ params }: Props) {
         <>
           <Divider />
           <section>
-            <SectionHeading>Esempi d'uso</SectionHeading>
+            <SectionHeading>Esempi d&apos;uso</SectionHeading>
             <ul className="space-y-4">
               {examples.map((ex, i) => (
                 <li
@@ -237,12 +272,11 @@ export default async function LemmaPage({ params }: Props) {
               {synonyms.map((s, i) => (
                 <div key={i} className="flex flex-col gap-1">
                   <div className="flex flex-wrap items-baseline gap-2">
-                    <span
+                    <LemmaLink
+                      term={s.term}
+                      published={publishedSlugs.has(s.term)}
                       className="font-semibold text-[1rem] sm:text-[1.0625rem] text-[#f7f3e8]"
-                      style={{ fontFamily: "Poppins, sans-serif" }}
-                    >
-                      {s.term}
-                    </span>
+                    />
                     {s.register && (
                       <span className="tag-register">{s.register}</span>
                     )}
@@ -279,12 +313,11 @@ export default async function LemmaPage({ params }: Props) {
               {antonyms.map((a, i) => (
                 <div key={i} className="flex flex-col gap-1">
                   <div className="flex flex-wrap items-baseline gap-2">
-                    <span
+                    <LemmaLink
+                      term={a.term}
+                      published={publishedSlugs.has(a.term)}
                       className="font-semibold text-[1rem] sm:text-[1.0625rem] text-[#f7f3e8]"
-                      style={{ fontFamily: "Poppins, sans-serif" }}
-                    >
-                      {a.term}
-                    </span>
+                    />
                     {a.register && (
                       <span className="tag-register">{a.register}</span>
                     )}
@@ -298,6 +331,25 @@ export default async function LemmaPage({ params }: Props) {
                     </p>
                   )}
                 </div>
+              ))}
+            </div>
+          </section>
+        </>
+      )}
+
+      {relatedWords && relatedWords.length > 0 && (
+        <>
+          <Divider />
+          <section>
+            <SectionHeading>Parole correlate</SectionHeading>
+            <div className="flex flex-wrap gap-2">
+              {relatedWords.map((word) => (
+                <LemmaLink
+                  key={word}
+                  term={word}
+                  published={publishedSlugs.has(word)}
+                  className="tag-pos"
+                />
               ))}
             </div>
           </section>
