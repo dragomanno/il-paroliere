@@ -278,6 +278,99 @@ import { crasi } from "./crasi";
 import { antonomasia } from "./antonomasia";
 import { disgregazione } from "./disgregazione";
 import { menefreghismo } from "./menefreghismo";
+import { resistenza } from "./resistenza";
+import { resistenzaItaliana } from "./resistenza-italiana";
+import { smielato } from "./smielato";
+import { melassa } from "./melassa";
+import { ammucchiata } from "./ammucchiata";
+import { coercizione } from "./coercizione";
+import { coartazione } from "./coartazione";
+import { coacervo } from "./coacervo";
+import { ironia } from "./ironia";
+import { coaching } from "./coaching";
+import { coach } from "./coach";
+import { mentorship } from "./mentorship";
+import { forchettone } from "./forchettone";
+import { parruccone } from "./parruccone";
+import { irpef } from "./irpef";
+import { irpeg } from "./irpeg";
+import { ires } from "./ires";
+import { deduzioneFiscale } from "./deduzione-fiscale";
+import { detrazioneIrpef } from "./detrazione-fiscale";
+import { defiscalizzazione } from "./defiscalizzazione";
+import { incentivo } from "./incentivo";
+import { investimento } from "./investimento";
+import { f24 } from "./f24";
+import { mod730 } from "./730";
+import { iprite } from "./iprite";
+import { isobara } from "./isobara";
+import { isoterma } from "./isoterma";
+import { isoipsa } from "./isoipsa";
+import { meridiano } from "./meridiano";
+import { parallelo } from "./parallelo";
+import { saturazione } from "./saturazione";
+import { motivazionale } from "./motivazionale";
+import { polarizzazione } from "./polarizzazione";
+import { plausibile } from "./plausibile";
+import { subagentico } from "./subagentico";
+import { semantica } from "./semantica";
+import { possibile } from "./possibile";
+import { probabile } from "./probabile";
+import { committenza } from "./committenza";
+import { ovvieta } from "./ovvieta";
+import { salutista } from "./salutista";
+import { irreprensibile } from "./irreprensibile";
+import { integerrimo } from "./integerrimo";
+import { pudico } from "./pudico";
+import { pudore } from "./pudore";
+import { sfrontatezza } from "./sfrontatezza";
+import { recrudescenza } from "./recrudescenza";
+import { reminiscenza } from "./reminiscenza";
+import { sentore } from "./sentore";
+import { flaccido } from "./flaccido";
+import { etereo } from "./etereo";
+import { arioso } from "./arioso";
+import { anelare } from "./anelare";
+import { alienazione } from "./alienazione";
+import { subliminale } from "./subliminale";
+import { ecumenico } from "./ecumenico";
+import { onesta } from "./onesta";
+import { probita } from "./probita";
+import { probo } from "./probo";
+import { sospetto } from "./sospetto";
+import { presentimento } from "./presentimento";
+import { levantino } from "./levantino";
+import { incazzoso } from "./incazzoso";
+import { fumino } from "./fumino";
+import { smargiasso } from "./smargiasso";
+import { kommando } from "./kommando";
+import { pasdaran } from "./pasdaran";
+import { spetsnaz } from "./spetsnaz";
+import { correttore } from "./correttore";
+import { tamburino } from "./tamburino";
+import { alfiere } from "./alfiere";
+import { podesta } from "./podesta";
+import { corporazioni } from "./corporazioni";
+import { olistico } from "./olistico";
+import { devianza } from "./devianza";
+import { epistemologia } from "./epistemologia";
+import { aporia } from "./aporia";
+import { liquidita } from "./liquidita";
+import { precursore } from "./precursore";
+import { qualunquismo } from "./qualunquismo";
+import { seminatrice } from "./seminatrice";
+import { trebbiatrice } from "./trebbiatrice";
+import { vendemmia } from "./vendemmia";
+import { olioDoliva } from "./olio-doliva";
+import { vino } from "./vino";
+import { vitigno } from "./vitigno";
+import { vinaggio } from "./vinaggio";
+import { maggiolata } from "./maggiolata";
+import { sapidita } from "./sapidita";
+import { anamnesi } from "./anamnesi";
+import { irascibile } from "./irascibile";
+import { bilioso } from "./bilioso";
+import { uvaggio } from "./uvaggio";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -528,4 +621,97 @@ export const allLemmas: LemmaEntry[] = [
   antonomasia,
   disgregazione,
   menefreghismo,
+  resistenza,
+  resistenzaItaliana,
+  smielato,
+  melassa,
+  ammucchiata,
+  coercizione,
+  coartazione,
+  coacervo,
+  ironia,
+  coaching,
+  coach,
+  mentorship,
+  forchettone,
+  parruccone,
+  irpef,
+  irpeg,
+  ires,
+  deduzioneFiscale,
+  detrazioneIrpef,
+  defiscalizzazione,
+  incentivo,
+  investimento,
+  f24,
+  mod730,
+  iprite,
+  isobara,
+  isoterma,
+  isoipsa,
+  meridiano,
+  parallelo,
+  saturazione,
+  motivazionale,
+  polarizzazione,
+  plausibile,
+  subagentico,
+  semantica,
+  possibile,
+  probabile,
+  committenza,
+  ovvieta,
+  salutista,
+  irreprensibile,
+  integerrimo,
+  pudico,
+  pudore,
+  sfrontatezza,
+  recrudescenza,
+  reminiscenza,
+  sentore,
+  flaccido,
+  etereo,
+  arioso,
+  anelare,
+  alienazione,
+  subliminale,
+  ecumenico,
+  onesta,
+  probita,
+  probo,
+  sospetto,
+  presentimento,
+  levantino,
+  incazzoso,
+  fumino,
+  smargiasso,
+  kommando,
+  pasdaran,
+  spetsnaz,
+  correttore,
+  tamburino,
+  alfiere,
+  podesta,
+  corporazioni,
+  olistico,
+  devianza,
+  epistemologia,
+  aporia,
+  liquidita,
+  precursore,
+  qualunquismo,
+  seminatrice,
+  trebbiatrice,
+  vendemmia,
+  olioDoliva,
+  vino,
+  vitigno,
+  vinaggio,
+  maggiolata,
+  sapidita,
+  anamnesi,
+  irascibile,
+  bilioso,
+  uvaggio,
 ];
