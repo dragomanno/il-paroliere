@@ -39,7 +39,7 @@ export const fumino: LemmaEntry = {
     "il termine dai sinonimi più neutri.",
 
   examples: [
-    "«\\"E son 'fumino'!\\" — la battuta di Renzo Montagnani era diventata il motto di una generazione di toscani che si riconoscevano nel tipo.»",
+    "«\"E son 'fumino'!\" — la battuta di Renzo Montagnani era diventata il motto di una generazione di toscani che si riconoscevano nel tipo.»",
     "«Mio nonno era un fumino di prim'ordine: bastava niente per farlo partire, ma durava cinque minuti e poi si sedeva a tavola come se nulla fosse.»",
     "«Non prendertela: è un fumino, lo sai. Domani ti chiama e si scusa.»",
   ],

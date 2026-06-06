@@ -31,7 +31,7 @@ export const incentivo: LemmaEntry = {
     "Dal latino incentivum, neutro sostantivato di incentivus («che dà il tono, " +
     "che inizia il canto»), da incinere («suonare, intonare»), composto di in- + " +
     "canere («cantare»). Il passaggio semantico da \"ciò che dà il ritmo\" a \"ciò " +
-    "che stimola all'azione\\" è avvenuto nel latino tardo.",
+    "che stimola all'azione\" è avvenuto nel latino tardo.",
 
   examples: [
     "«L'azienda ha introdotto un sistema di incentivi legati al raggiungimento degli obiettivi trimestrali.»",

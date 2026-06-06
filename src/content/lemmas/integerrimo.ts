@@ -36,7 +36,7 @@ export const integerrimo: LemmaEntry = {
 
   examples: [
     "«Il giudice era noto come un magistrato integerrimo: aveva resistito a pressioni politiche che avrebbero piegato chiunque altro.»",
-    "«\\"Integerrimo\\" è una parola che si usa raramente perché raramente si incontra chi la merita davvero.»",
+    '«"Integerrimo" è una parola che si usa raramente perché raramente si incontra chi la merita davvero.»',
     "«La sua reputazione di funzionario integerrimo gli aveva attirato ammirazione e inimicizie in egual misura.»",
   ],
 
