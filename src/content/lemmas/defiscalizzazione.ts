@@ -99,15 +99,11 @@ export const defiscalizzazione: LemmaEntry = {
     wiktionary: "https://it.wiktionary.org/wiki/defiscalizzazione",
   },
 
-
   paroliereNote:
-    "Defiscalizzazione è una di quelle parole che il fisco ha reso necessarie ma " +
-    "che la lingua ha adottato con una certa riluttanza: lunga, tecnica, costruita " +
-    "su un prefisso privativo che la rende meno immediata di 'sgravio' o 'esenzione'. " +
-    "Eppure resiste, perché indica qualcosa di preciso: non solo meno tasse, ma una " +
-    "scelta politica consapevole di rinunciare a gettito in cambio di un effetto atteso. " +
-    "Chi la usa sa di cosa parla; chi non la usa la sostituisce con 'agevolazione' " +
-    "o 'incentivo', perdendo la sfumatura del processo sistemico che sta dietro.",
+    "Defiscalizzazione è una parola tecnica che il fisco ha reso necessaria " +
+    "ma che la lingua ha adottato con riluttanza. Indica qualcosa di preciso: " +
+    "non solo meno tasse, ma una scelta politica di rinunciare a gettito " +
+    "in cambio di un effetto atteso nel medio-lungo periodo.",
 
   editorialStatus: "reviewed",
   indexable: true,

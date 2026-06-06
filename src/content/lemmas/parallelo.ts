@@ -64,7 +64,7 @@ export const parallelo: LemmaEntry = {
     "comprensibile perché nella vita quotidiana \"parallelo\" significa \"che corre " +
     "nella stessa direzione senza incontrarsi mai\" — e i paralleli geografici fanno " +
     "esattamente questo. I meridiani, invece, si incontrano ai poli: non sono " +
-    "davvero \"paralleli\" tra loro, anche se all'equatore sembrano equidistanti.,
+    "davvero \\"paralleli\\" tra loro, anche se all'equatore sembrano equidistanti.",
 
   editorialStatus: "reviewed",
   indexable: true,

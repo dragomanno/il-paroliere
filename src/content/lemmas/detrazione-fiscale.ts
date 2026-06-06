@@ -43,7 +43,7 @@ export const detrazioneIrpef: LemmaEntry = {
   examples: [
     "«Ho speso 2.000 euro di spese mediche: con la detrazione del 19%, recupero 370 euro direttamente dall'imposta — ma solo sulla parte eccedente la franchigia di 129 euro.»",
     "«La detrazione per gli interessi del mutuo è uno dei pochi sgravi rimasti alla classe media: vale 19% degli interessi pagati, fino a 4.000 euro all'anno.»",
-    "«Mi spettavano 800 euro di detrazione ma la mia imposta lorda era solo 600 euro: ho \"perso\" 200 euro perché non c'era abbastanza imposta da abbattere.»,
+    "«Mi spettavano 800 euro di detrazione ma la mia imposta lorda era solo 600 euro: ho \"perso\" 200 euro perché non c'era abbastanza imposta da abbattere.»",
   ],
 
   synonyms: [

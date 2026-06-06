@@ -42,7 +42,7 @@ export const qualunquismo: LemmaEntry = {
     "sistema di pensiero o comportamento.",
 
   examples: [
-    "«\"Sono tutti uguali\" è la frase manifesto del qualunquismo: suona come saggezza popolare, ma è la rinuncia a qualsiasi pensiero critico.»,
+    "«\\"Sono tutti uguali\\" è la frase manifesto del qualunquismo: suona come saggezza popolare, ma è la rinuncia a qualsiasi pensiero critico.»",
     "«Il qualunquismo non è neutralità: è una posizione politica che, non scegliendo, sceglie lo status quo.»",
     "«La crescita dell'astensionismo elettorale in Italia non è solo qualunquismo: c'è anche disillusione legittima. Ma il qualunquismo è la parte più pericolosa di quel fenomeno.»",
   ],
