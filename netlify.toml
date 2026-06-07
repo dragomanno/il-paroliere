@@ -7,3 +7,11 @@
 
 [build.environment]
   NODE_VERSION = "20"
+
+# Deploy-preview context: skip seed (DATABASE_URL_OWNER not available)
+[context.deploy-preview]
+  command = "npm run build"
+
+# Branch-deploy context: skip seed
+[context.branch-deploy]
+  command = "npm run build"

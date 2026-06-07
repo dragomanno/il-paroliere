@@ -382,6 +382,47 @@ import { genz } from "./genz";
 import { generazioneAlpha } from "./generazione-alpha";
 import { generazioneBeta } from "./generazione-beta";
 
+// BATCH-005 — Costrizione, libertà e potere (2026-06-07)
+import { consenso } from "./consenso";
+import { liberta } from "./liberta";
+import { autonomia } from "./autonomia";
+import { autodeterminazione } from "./autodeterminazione";
+import { violenza } from "./violenza";
+import { tortura } from "./tortura";
+import { liberismo } from "./liberismo";
+import { liberalismo } from "./liberalismo";
+import { liberal } from "./liberal";
+import { potere } from "./potere";
+import { autorita } from "./autorita";
+import { autorevolezza } from "./autorevolezza";
+import { diritto } from "./diritto";
+import { norma } from "./norma";
+import { normativa } from "./normativa";
+import { proprieta } from "./proprieta";
+import { esperienza } from "./esperienza";
+import { expertise } from "./expertise";
+import { eeat } from "./e-e-a-t";
+import { affidabilita } from "./affidabilita";
+import { cessione } from "./cessione";
+import { contratto } from "./contratto";
+import { appalto } from "./appalto";
+import { frode } from "./frode";
+import { evasione } from "./evasione";
+import { criminalita } from "./criminalita";
+import { delinquenza } from "./delinquenza";
+import { recidiva } from "./recidiva";
+import { ricaduta } from "./ricaduta";
+import { remissione } from "./remissione";
+import { aggravamento } from "./aggravamento";
+import { epidemia } from "./epidemia";
+import { pandemia } from "./pandemia";
+import { conflitto } from "./conflitto";
+import { coalizione } from "./coalizione";
+import { alleanza } from "./alleanza";
+import { trasformismo } from "./trasformismo";
+import { portaborse } from "./portaborse";
+import { politica } from "./politica";
+
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
   abitudine,
@@ -733,4 +774,45 @@ export const allLemmas: LemmaEntry[] = [
   genz,
   generazioneAlpha,
   generazioneBeta,
+  // BATCH-005 — Costrizione, libertà e potere (2026-06-07)
+  consenso,
+  liberta,
+  autonomia,
+  autodeterminazione,
+  violenza,
+  tortura,
+  liberismo,
+  liberalismo,
+  liberal,
+  potere,
+  autorita,
+  autorevolezza,
+  diritto,
+  norma,
+  normativa,
+  proprieta,
+  esperienza,
+  expertise,
+  eeat,
+  affidabilita,
+  cessione,
+  contratto,
+  appalto,
+  frode,
+  evasione,
+  criminalita,
+  delinquenza,
+  recidiva,
+  ricaduta,
+  remissione,
+  aggravamento,
+  epidemia,
+  pandemia,
+  conflitto,
+  coalizione,
+  alleanza,
+  trasformismo,
+  portaborse,
+  politica,
 ];
+
