@@ -50,7 +50,7 @@ export const alleanza: LemmaEntry = {
     { term: "inimicizia", register: "neutro", context: "relazione strutturalmente ostile" },
     { term: "neutralità", register: "politico", context: "scelta di non schierarsi con nessuna parte" },
   ],
-  relatedWords: ["coalizione", "conflitto", "potere", "consenso", "palio-di-siena", "norma", "diritto"],
+  relatedWords: ["coalizione", "conflitto", "potere", "consenso", "palio-di-siena", "norma", "diritto", "autorita", "liberalismo", "liberta", "politica", "trasformismo"],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/alleanza",
     treccani: "https://www.treccani.it/vocabolario/alleanza/",

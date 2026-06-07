@@ -41,7 +41,7 @@ export const norma: LemmaEntry = {
     { term: "deroga", register: "tecnico-giuridico", context: "scostamento autorizzato dalla norma generale" },
     { term: "arbitrio", register: "formale", context: "azione senza vincoli normativi" },
   ],
-  relatedWords: ["normativa", "diritto", "legge", "autorita", "contratto"],
+  relatedWords: ["normativa", "diritto", "legge", "autorita", "contratto", "coalizione", "epidemia", "pandemia"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/norma/",
     wiktionary: "https://it.wiktionary.org/wiki/norma",

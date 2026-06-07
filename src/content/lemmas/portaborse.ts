@@ -45,7 +45,7 @@ export const portaborse: LemmaEntry = {
     { term: "consigliere", register: "formale", context: "collaboratore con funzione autonoma e consultiva" },
     { term: "tecnico indipendente", register: "formale", context: "esperto che opera senza dipendenza politica" },
   ],
-  relatedWords: ["politica", "potere", "trasformismo", "autorita", "servile"],
+  relatedWords: ["politica", "potere", "trasformismo", "autorita", "servile", "consenso", "diritto", "liberalismo", "liberta", "norma"],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/portaborse",
     treccani: "https://www.treccani.it/vocabolario/portaborse/",

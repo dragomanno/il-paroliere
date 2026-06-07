@@ -52,7 +52,7 @@ export const contratto: LemmaEntry = {
     { term: "rescissione", register: "tecnico-giuridico", context: "scioglimento per squilibrio originario" },
     { term: "vizio", register: "tecnico-giuridico", context: "difetto che incide sulla validità" },
   ],
-  relatedWords: ["cessione", "appalto", "norma", "diritto", "proprieta", "frode"],
+  relatedWords: ["cessione", "appalto", "norma", "diritto", "proprieta", "frode", "evasione", "normativa"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/contratto",
     wiktionary: "https://it.wiktionary.org/wiki/contratto",

@@ -41,7 +41,7 @@ export const violenza: LemmaEntry = {
     { term: "dialogo", register: "standard", context: "confronto verbale come alternativa alla forza" },
     { term: "consenso", register: "formale", context: "accordo libero che esclude la coercizione" },
   ],
-  relatedWords: ["tortura", "coercizione", "potere", "diritto", "violazione", "conflitto"],
+  relatedWords: ["tortura", "coercizione", "potere", "diritto", "violazione", "conflitto", "criminalita"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/violenza/",
     wiktionary: "https://it.wiktionary.org/wiki/violenza",

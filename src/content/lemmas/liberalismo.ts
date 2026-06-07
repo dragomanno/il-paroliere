@@ -40,7 +40,7 @@ export const liberalismo: LemmaEntry = {
     { term: "totalitarismo", register: "politico", context: "regime che non ammette sfera privata fuori dal controllo statale" },
     { term: "collettivismo", register: "politico", context: "primato del gruppo o dello Stato sull'individuo" },
   ],
-  relatedWords: ["liberal", "liberismo", "liberta", "diritto", "autonomia", "democrazia", "norma"],
+  relatedWords: ["liberal", "liberismo", "liberta", "diritto", "autonomia", "democrazia", "norma", "alleanza", "conflitto", "portaborse", "trasformismo"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/liberalismo/",
     wiktionary: "https://it.wiktionary.org/wiki/liberalismo",

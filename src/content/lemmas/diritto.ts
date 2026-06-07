@@ -41,7 +41,7 @@ export const diritto: LemmaEntry = {
     { term: "illecito", register: "tecnico-giuridico", context: "atto contrario alle norme giuridiche" },
     { term: "arbitrio", register: "formale", context: "esercizio del potere senza vincoli normativi" },
   ],
-  relatedWords: ["norma", "normativa", "legge", "proprieta", "contratto", "autorita", "liberta"],
+  relatedWords: ["norma", "normativa", "legge", "proprieta", "contratto", "autorita", "liberta", "cessione", "criminalita", "recidiva", "remissione", "violenza"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/diritto/",
     wiktionary: "https://it.wiktionary.org/wiki/diritto",

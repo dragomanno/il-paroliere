@@ -45,7 +45,7 @@ export const coalizione: LemmaEntry = {
     { term: "scissione", register: "politico", context: "separazione formale di una componente" },
     { term: "opposizione", register: "politico", context: "posizione di contrasto rispetto alla maggioranza" },
   ],
-  relatedWords: ["alleanza", "conflitto", "potere", "autorita", "consenso", "politica", "liberalismo"],
+  relatedWords: ["alleanza", "conflitto", "potere", "autorita", "consenso", "politica", "liberalismo", "diritto", "liberta", "norma", "trasformismo"],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/coalizione",
     treccani: "https://www.treccani.it/vocabolario/coalizione/",

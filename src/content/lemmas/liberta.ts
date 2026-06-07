@@ -37,7 +37,7 @@ export const liberta: LemmaEntry = {
     { term: "coercizione", register: "formale", context: "imposizione forzata della volontà altrui" },
     { term: "autoritarismo", register: "politico", context: "sistema che comprime le libertà civili" },
   ],
-  relatedWords: ["autonomia", "diritto", "consenso", "violenza", "liberalismo", "liberismo", "autodeterminazione"],
+  relatedWords: ["autonomia", "diritto", "consenso", "violenza", "liberalismo", "liberismo", "autodeterminazione", "alleanza", "coalizione", "conflitto", "portaborse", "trasformismo"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/liberta/",
     wiktionary: "https://it.wiktionary.org/wiki/libert%C3%A0",

@@ -40,7 +40,7 @@ export const autorita: LemmaEntry = {
     { term: "anarchia", register: "politico", context: "assenza di autorità e gerarchia" },
     { term: "illegittimità", register: "tecnico-giuridico", context: "mancanza di fondamento normativo o consensuale" },
   ],
-  relatedWords: ["potere", "autorevole", "norma", "diritto", "consenso"],
+  relatedWords: ["potere", "autorevole", "norma", "diritto", "consenso", "autorevolezza", "coalizione", "conflitto", "epidemia", "esperienza", "pandemia", "politica", "portaborse"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/autorita/",
     wiktionary: "https://it.wiktionary.org/wiki/autorit%C3%A0",

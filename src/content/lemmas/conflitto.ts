@@ -45,7 +45,7 @@ export const conflitto: LemmaEntry = {
     { term: "armonia", register: "neutro", context: "coesistenza ordinata di interessi diversi" },
     { term: "coalizione", register: "politico", context: "alleanza temporanea che supera le divergenze" },
   ],
-  relatedWords: ["coalizione", "alleanza", "potere", "autorita", "violenza", "norma", "diritto"],
+  relatedWords: ["coalizione", "alleanza", "potere", "autorita", "violenza", "norma", "diritto", "consenso", "liberalismo", "liberta"],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/conflitto",
     treccani: "https://www.treccani.it/vocabolario/conflitto/",

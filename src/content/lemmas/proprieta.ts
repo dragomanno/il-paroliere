@@ -40,7 +40,7 @@ export const proprieta: LemmaEntry = {
     { term: "espropriazione", register: "tecnico-giuridico", context: "trasferimento coattivo della proprietà per pubblica utilità" },
     { term: "comproprietà", register: "tecnico-giuridico", context: "proprietà condivisa tra più soggetti" },
   ],
-  relatedWords: ["diritto", "norma", "contratto", "cessione", "liberismo"],
+  relatedWords: ["diritto", "norma", "contratto", "cessione", "liberismo", "appalto"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/proprieta/",
     wiktionary: "https://it.wiktionary.org/wiki/propriet%C3%A0",

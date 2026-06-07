@@ -40,7 +40,7 @@ export const consenso: LemmaEntry = {
     { term: "coercizione", register: "formale", context: "imposizione che annulla la libertà di scelta" },
     { term: "rifiuto", register: "standard", context: "diniego esplicito" },
   ],
-  relatedWords: ["liberta", "autonomia", "diritto", "coercizione", "democrazia"],
+  relatedWords: ["liberta", "autonomia", "diritto", "coercizione", "democrazia", "alleanza", "autodeterminazione", "coalizione", "politica", "potere"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/consenso/",
     wiktionary: "https://it.wiktionary.org/wiki/consenso",

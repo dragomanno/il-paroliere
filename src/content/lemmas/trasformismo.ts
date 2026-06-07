@@ -46,7 +46,7 @@ export const trasformismo: LemmaEntry = {
     { term: "coerenza", register: "neutro", context: "fedeltà alle proprie posizioni nel tempo" },
     { term: "fedeltà programmatica", register: "politico", context: "rispetto del mandato elettorale e del programma" },
   ],
-  relatedWords: ["politica", "coalizione", "alleanza", "potere", "liberalismo", "norma"],
+  relatedWords: ["politica", "coalizione", "alleanza", "potere", "liberalismo", "norma", "autorita", "consenso", "diritto", "liberta"],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/trasformismo",
     treccani: "https://www.treccani.it/vocabolario/trasformismo/",
