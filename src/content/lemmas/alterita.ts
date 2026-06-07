@@ -68,6 +68,7 @@ export const alterita: LemmaEntry = {
     "razzismo",
     "pregiudizio",
     "migrazione",
+    "accoglienza",
   ],
 
   sourceLinks: {

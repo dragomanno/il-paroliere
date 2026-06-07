@@ -73,6 +73,7 @@ export const xenofobia: LemmaEntry = {
     "pregiudizio",
     "alterità",
     "migrazione",
+    "accoglienza",
   ],
 
   sourceLinks: {

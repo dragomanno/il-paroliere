@@ -12,17 +12,22 @@ export const migrazione: LemmaEntry = {
   gender: "femminile",
 
   definition:
-    "Spostamento di individui o gruppi da un luogo a un altro, con l'intenzione o la necessità di " +
-    "stabilirsi altrove. Il termine si applica sia ai movimenti umani — interni a un paese o tra " +
-    "paesi diversi, volontari o forzati — sia agli spostamenti stagionali di specie animali. " +
-    "Nel lessico contemporaneo la migrazione umana è diventata oggetto di dibattito politico " +
-    "intenso, spesso con una distanza considerevole tra il fenomeno reale e le sue rappresentazioni.",
+    "Spostamento di individui o gruppi da un luogo a un altro con l'intenzione o la necessità di " +
+    "stabilirsi altrove. In demografia e diritto internazionale si distinguono la migrazione interna " +
+    "(all'interno di uno stesso paese) e quella internazionale (tra paesi diversi); la migrazione " +
+    "volontaria (mosssa da scelte economiche, familiari o personali) e quella forzata (causata da " +
+    "guerre, persecuzioni, disastri ambientali o violazioni dei diritti fondamentali). " +
+    "Le cause sono quasi sempre multiple e intrecciate: separare «migrante economico» da " +
+    "«rifugiato» è una distinzione giuridica necessaria — perché determina diritti e procedure " +
+    "diverse — ma non sempre corrisponde alla complessità delle storie individuali. " +
+    "Il termine si applica anche agli spostamenti stagionali di specie animali, con la stessa " +
+    "neutralità descrittiva con cui si dovrebbe usare in ambito umano.",
 
   shortDefinition:
-    "Spostamento da un luogo a un altro con intenzione di stabilirsi; nel lessico contemporaneo, mobilità umana tra paesi.",
+    "Spostamento da un luogo a un altro con intenzione di stabilirsi; comprende movimenti volontari e forzati, interni e internazionali.",
 
-  register: ["comune", "tecnico", "politico"],
-  domains: ["sociologia", "geopolitica", "biologia", "storia"],
+  register: ["comune", "tecnico", "giuridico"],
+  domains: ["demografia", "diritto internazionale", "sociologia", "storia", "biologia"],
 
   etymology:
     "Dal latino migratio, -onis, derivato di migrare ('spostarsi', 'trasferirsi'). " +
@@ -31,10 +36,10 @@ export const migrazione: LemmaEntry = {
     "con le grandi emigrazioni atlantiche.",
 
   examples: [
-    "La migrazione italiana verso le Americhe tra fine Ottocento e primo Novecento ha coinvolto oltre quattro milioni di persone.",
-    "Distinguere migrazione economica da migrazione forzata è importante sul piano giuridico, ma nella realtà le cause si sovrappongono spesso.",
-    "Le rondini percorrono ogni anno migliaia di chilometri: anche la biologia usa lo stesso termine per descrivere un movimento guidato da necessità.",
-    "Ogni onda migratoria ha incontrato resistenza e poi integrazione: è quasi una legge della storia, se si ha il tempo di guardarla.",
+    "Tra il 1880 e il 1930 circa cinque milioni di italiani emigrarono negli Stati Uniti, in Argentina e in Brasile: era migrazione economica, ma anche fuga dalla miseria e dalla violenza politica.",
+    "Il diritto internazionale distingue il rifugiato — che ha diritto alla protezione per persecuzioni documentate — dal migrante economico, che rientra nelle politiche di ingresso di ciascun paese.",
+    "Le rondini percorrono ogni anno migliaia di chilometri: anche la biologia usa il termine migrazione per descrivere un movimento stagionale guidato da necessità.",
+    "Gestire la migrazione richiede strumenti diversi a seconda del tipo: accordi di rimpatrio, programmi di integrazione, canali legali di ingresso, protezione dei richiedenti asilo — non esiste una risposta unica.",
   ],
 
   synonyms: [
@@ -75,9 +80,10 @@ export const migrazione: LemmaEntry = {
     "razzismo",
     "pregiudizio",
     "alterità",
-    "diaspora",
+    "accoglienza",
     "rifugiato",
     "integrazione",
+    "diaspora",
   ],
 
   sourceLinks: {
@@ -86,10 +92,13 @@ export const migrazione: LemmaEntry = {
   },
 
   paroliereNote:
-    "Migrazione è una parola neutra che il dibattito politico ha caricato di valenze. " +
-    "Vale la pena ricordare che l'Italia è storicamente un paese di emigranti prima che di immigrati: " +
-    "a fine Ottocento i migranti italiani venivano descritti in America con gli stessi argomenti " +
-    "che oggi si usano per descrivere i migranti che arrivano in Italia.",
+    "Migrazione è una parola descrittiva che il dibattito pubblico ha trasformato in un campo " +
+    "minato. Vale la pena tenere separati tre piani che spesso vengono mescolati: il piano " +
+    "empirico (quante persone si spostano, per quali motivi, con quali effetti documentati), " +
+    "il piano giuridico (quali diritti e obblighi si attivano in base alla categoria di ingresso) " +
+    "e il piano politico (quali scelte uno Stato decide di compiere nell'esercizio della sua " +
+    "sovranità, nel rispetto degli obblighi internazionali). Confondere i tre piani produce " +
+    "semplificazioni che servono alla retorica, non alla comprensione.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -97,7 +106,7 @@ export const migrazione: LemmaEntry = {
   seo: {
     title: "Migrazione — definizione e uso | Il Paroliere",
     description:
-      "Migrazione: spostamento umano o animale verso un nuovo luogo di residenza. Definizione originale con etimologia, esempi e nota storica.",
+      "Migrazione: spostamento umano volontario o forzato verso un nuovo luogo di residenza. Definizione chiara con distinzioni giuridiche, esempi storici ed etimologia.",
   },
 
   createdAt: "2026-06-08",

@@ -74,6 +74,7 @@ export const razzismo: LemmaEntry = {
     "fascismo",
     "nazismo",
     "discriminazione",
+    "accoglienza",
   ],
 
   sourceLinks: {
