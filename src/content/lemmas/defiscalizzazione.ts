@@ -49,22 +49,22 @@ export const defiscalizzazione: LemmaEntry = {
   synonyms: [
     {
       term: "sgravio fiscale",
-      register: ["comune"],
+      register: "comune",
       context: "generico",
     },
     {
       term: "esenzione fiscale",
-      register: ["tecnico-fiscale"],
+      register: "tecnico-fiscale",
       context: "esenzione totale",
     },
     {
       term: "agevolazione tributaria",
-      register: ["tecnico-fiscale"],
+      register: "tecnico-fiscale",
       context: "termine formale",
     },
     {
       term: "incentivo fiscale",
-      register: ["economico"],
+      register: "economico",
       context: "come strumento di politica",
     },
   ],
@@ -72,12 +72,12 @@ export const defiscalizzazione: LemmaEntry = {
   antonyms: [
     {
       term: "fiscalizzazione",
-      register: ["tecnico-fiscale"],
+      register: "tecnico-fiscale",
       context: "processo inverso",
     },
     {
       term: "inasprimento fiscale",
-      register: ["comune"],
+      register: "comune",
       context: "aumento del carico tributario",
     },
   ],

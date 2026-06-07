@@ -46,17 +46,17 @@ export const maggiolata: LemmaEntry = {
   synonyms: [
     {
       term: "festa di maggio",
-      register: ["comune"],
+      register: "comune",
       context: "denominazione descrittiva",
     },
     {
       term: "infioritata",
-      register: ["regionale"],
+      register: "regionale",
       context: "variante floreale",
     },
     {
       term: "calendimaggio",
-      register: ["comune"],
+      register: "comune",
       context: "variante del nome, usata specialmente in Umbria",
     },
   ],

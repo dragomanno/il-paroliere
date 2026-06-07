@@ -52,22 +52,22 @@ export const saturazione: LemmaEntry = {
   synonyms: [
     {
       term: "riempimento totale",
-      register: ["tecnico-scientifico"],
+      register: "tecnico-scientifico",
       context: "senso fisico-chimico",
     },
     {
       term: "punto di saturazione",
-      register: ["tecnico-scientifico"],
+      register: "tecnico-scientifico",
       context: "soglia critica",
     },
     {
       term: "esaurimento",
-      register: ["comune"],
+      register: "comune",
       context: "senso psicologico",
     },
     {
       term: "insofferenza",
-      register: ["comune"],
+      register: "comune",
       context: "senso psicologico figurato",
     },
   ],
@@ -75,12 +75,12 @@ export const saturazione: LemmaEntry = {
   antonyms: [
     {
       term: "assorbimento",
-      register: ["tecnico-scientifico"],
+      register: "tecnico-scientifico",
       context: "capacità residua",
     },
     {
       term: "freschezza",
-      register: ["comune"],
+      register: "comune",
       context: "senso figurato contrario",
     },
   ],

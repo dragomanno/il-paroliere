@@ -48,22 +48,22 @@ export const alienazione: LemmaEntry = {
   synonyms: [
     {
       term: "estraneazione",
-      register: ["filosofico"],
+      register: "filosofico",
       context: "il diventare estranei a se stessi",
     },
     {
       term: "distacco",
-      register: ["comune"],
+      register: "comune",
       context: "separazione emotiva o identitaria",
     },
     {
       term: "sradicamento",
-      register: ["comune"],
+      register: "comune",
       context: "perdita del senso di appartenenza",
     },
     {
       term: "cessione",
-      register: ["giuridico"],
+      register: "giuridico",
       context: "trasferimento di proprietà",
     },
   ],
@@ -71,22 +71,22 @@ export const alienazione: LemmaEntry = {
   antonyms: [
     {
       term: "appartenenza",
-      register: ["comune"],
+      register: "comune",
       context: "sentirsi parte di qualcosa",
     },
     {
       term: "identificazione",
-      register: ["psicologico"],
+      register: "psicologico",
       context: "riconoscersi in ciò che si fa o si è",
     },
     {
       term: "autenticità",
-      register: ["comune"],
+      register: "comune",
       context: "essere fedeli a se stessi",
     },
     {
       term: "anelare",
-      register: ["letterario"],
+      register: "letterario",
       context: "polo opposto: chi anela è ancora connesso al proprio ideale",
     },
   ],

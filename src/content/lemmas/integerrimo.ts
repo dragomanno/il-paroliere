@@ -43,27 +43,27 @@ export const integerrimo: LemmaEntry = {
   synonyms: [
     {
       term: "integro",
-      register: ["comune"],
+      register: "comune",
       context: "forma base, meno assoluta",
     },
     {
       term: "incorruttibile",
-      register: ["formale"],
+      register: "formale",
       context: "chi non cede alla corruzione",
     },
     {
       term: "irreprensibile",
-      register: ["formale"],
+      register: "formale",
       context: "con sfumatura esterna, osservabile",
     },
     {
       term: "virtuoso",
-      register: ["formale"],
+      register: "formale",
       context: "di virtù morale solida",
     },
     {
       term: "retto",
-      register: ["comune"],
+      register: "comune",
       context: "di condotta dritta e corretta",
     },
   ],
@@ -71,22 +71,22 @@ export const integerrimo: LemmaEntry = {
   antonyms: [
     {
       term: "corrotto",
-      register: ["comune"],
+      register: "comune",
       context: "ceduto a pratiche illecite",
     },
     {
       term: "venale",
-      register: ["comune"],
+      register: "comune",
       context: "guidato dal tornaconto economico",
     },
     {
       term: "compromesso",
-      register: ["comune"],
+      register: "comune",
       context: "che ha ceduto a pressioni esterne",
     },
     {
       term: "disonesto",
-      register: ["comune"],
+      register: "comune",
       context: "privo di rettitudine",
     },
   ],

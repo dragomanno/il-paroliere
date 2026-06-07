@@ -49,17 +49,17 @@ export const uvaggio: LemmaEntry = {
   synonyms: [
     {
       term: "miscela di uve",
-      register: ["descrittivo"],
+      register: "descrittivo",
       context: "denominazione descrittiva non tecnica",
     },
     {
       term: "blend di vitigni",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "anglicismo di uso internazionale",
     },
     {
       term: "assemblaggio pre-fermentativo",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "denominazione tecnica descrittiva",
     },
   ],
@@ -67,12 +67,12 @@ export const uvaggio: LemmaEntry = {
   antonyms: [
     {
       term: "monovitigno",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "vino da un solo vitigno",
     },
     {
       term: "vino varietale",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "prodotto da un solo vitigno senza blend",
     },
   ],

@@ -43,17 +43,17 @@ export const salutista: LemmaEntry = {
   synonyms: [
     {
       term: "attento alla salute",
-      register: ["neutro"],
+      register: "neutro",
       context: "uso non giudicante",
     },
     {
       term: "salutofilo",
-      register: ["ironico"],
+      register: "ironico",
       context: "chi fa della salute una passione",
     },
     {
       term: "benessere-dipendente",
-      register: ["ironico"],
+      register: "ironico",
       context: "uso colloquiale spregiativo",
     },
   ],
@@ -61,17 +61,17 @@ export const salutista: LemmaEntry = {
   antonyms: [
     {
       term: "sedentario",
-      register: ["comune"],
+      register: "comune",
       context: "chi non si muove né si cura",
     },
     {
       term: "intemperante",
-      register: ["formale"],
+      register: "formale",
       context: "chi non conosce moderazione",
     },
     {
       term: "fatalista",
-      register: ["comune"],
+      register: "comune",
       context: "chi non si preoccupa della salute",
     },
   ],

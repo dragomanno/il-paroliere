@@ -40,22 +40,22 @@ export const mentorship: LemmaEntry = {
   synonyms: [
     {
       term: "mentoring",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "come processo, quasi-sinonimo nel parlato comune",
     },
     {
       term: "tutoraggio",
-      register: ["comune"],
+      register: "comune",
       context: "parziale, meno preciso",
     },
     {
       term: "affiancamento professionale",
-      register: ["professionale"],
+      register: "professionale",
       context: "con enfasi sull'aspetto pratico",
     },
     {
       term: "guida mentoriale",
-      register: ["formale"],
+      register: "formale",
       context: "con enfasi sul ruolo del mentor",
     },
   ],
@@ -63,12 +63,12 @@ export const mentorship: LemmaEntry = {
   antonyms: [
     {
       term: "autoformazione",
-      register: ["comune"],
+      register: "comune",
       context: "apprendimento senza guida esterna",
     },
     {
       term: "apprendimento isolato",
-      register: ["comune"],
+      register: "comune",
       context: "percorso senza figure di riferimento",
     },
   ],

@@ -46,22 +46,22 @@ export const smargiasso: LemmaEntry = {
   synonyms: [
     {
       term: "fanfarone",
-      register: ["comune"],
+      register: "comune",
       context: "chi parla troppo e promette senza mantenere",
     },
     {
       term: "gradasso",
-      register: ["comune"],
+      register: "comune",
       context: "chi si comporta con arroganza millantata",
     },
     {
       term: "millantatore",
-      register: ["comune"],
+      register: "comune",
       context: "chi si vanta di meriti inesistenti",
     },
     {
       term: "rodomonte",
-      register: ["letterario"],
+      register: "letterario",
       context: "variante letteraria con genealogia ariostesca",
     },
   ],
@@ -69,17 +69,17 @@ export const smargiasso: LemmaEntry = {
   antonyms: [
     {
       term: "modesto",
-      register: ["comune"],
+      register: "comune",
       context: "chi non ostenta",
     },
     {
       term: "sobrio",
-      register: ["comune"],
+      register: "comune",
       context: "comportamento misurato",
     },
     {
       term: "discreto",
-      register: ["comune"],
+      register: "comune",
       context: "chi non si mette in mostra",
     },
   ],

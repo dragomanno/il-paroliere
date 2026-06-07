@@ -43,27 +43,27 @@ export const onesta: LemmaEntry = {
   synonyms: [
     {
       term: "correttezza",
-      register: ["comune"],
+      register: "comune",
       context: "rispetto delle regole e delle aspettative",
     },
     {
       term: "rettitudine",
-      register: ["formale"],
+      register: "formale",
       context: "condotta dritta e irreprensibile",
     },
     {
       term: "lealtà",
-      register: ["comune"],
+      register: "comune",
       context: "fedeltà agli impegni e alle persone",
     },
     {
       term: "sincerità",
-      register: ["comune"],
+      register: "comune",
       context: "assenza di finzione nel rapporto",
     },
     {
       term: "trasparenza",
-      register: ["comune"],
+      register: "comune",
       context: "assenza di segreti o doppi fondi",
     },
   ],
@@ -71,22 +71,22 @@ export const onesta: LemmaEntry = {
   antonyms: [
     {
       term: "disonestà",
-      register: ["comune"],
+      register: "comune",
       context: "condotta ingannevole o sleale",
     },
     {
       term: "malafede",
-      register: ["comune"],
+      register: "comune",
       context: "intenzione consapevolmente scorretta",
     },
     {
       term: "inganno",
-      register: ["comune"],
+      register: "comune",
       context: "azione volta a trarre in errore",
     },
     {
       term: "ipocrisia",
-      register: ["comune"],
+      register: "comune",
       context: "fingere virtù che non si hanno",
     },
   ],

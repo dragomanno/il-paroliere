@@ -40,22 +40,22 @@ export const coartazione: LemmaEntry = {
   synonyms: [
     {
       term: "coercizione",
-      register: ["giuridico"],
+      register: "giuridico",
       context: "quasi-sinonimo, più esteriore e meccanico",
     },
     {
       term: "costrizione",
-      register: ["comune"],
+      register: "comune",
       context: "atto del costringere",
     },
     {
       term: "compressione",
-      register: ["comune"],
+      register: "comune",
       context: "in senso fisico",
     },
     {
       term: "restringimento",
-      register: ["comune"],
+      register: "comune",
       context: "in senso fisico e medico",
     },
   ],
@@ -63,17 +63,17 @@ export const coartazione: LemmaEntry = {
   antonyms: [
     {
       term: "libertà",
-      register: ["comune"],
+      register: "comune",
       context: "assenza di costrizione",
     },
     {
       term: "autodeterminazione",
-      register: ["formale"],
+      register: "formale",
       context: "capacità di scegliere senza condizionamenti",
     },
     {
       term: "espansione",
-      register: ["comune"],
+      register: "comune",
       context: "in senso fisico, opposto di restringimento",
     },
   ],

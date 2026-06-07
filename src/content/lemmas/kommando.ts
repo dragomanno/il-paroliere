@@ -45,17 +45,17 @@ export const kommando: LemmaEntry = {
   synonyms: [
     {
       term: "reparto speciale",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "unità militare d'élite",
     },
     {
       term: "commando",
-      register: ["giornalistico"],
+      register: "giornalistico",
       context: "grafia anglofona alternativa",
     },
     {
       term: "gruppo armato",
-      register: ["giornalistico"],
+      register: "giornalistico",
       context: "in senso terroristico",
     },
   ],
@@ -63,12 +63,12 @@ export const kommando: LemmaEntry = {
   antonyms: [
     {
       term: "esercito regolare",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "forza convenzionale",
     },
     {
       term: "forza convenzionale",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "opposto dell'élite specializzata",
     },
   ],

@@ -50,27 +50,27 @@ export const etereo: LemmaEntry = {
   synonyms: [
     {
       term: "impalpabile",
-      register: ["comune"],
+      register: "comune",
       context: "che non si lascia afferrare",
     },
     {
       term: "aereo",
-      register: ["letterario"],
+      register: "letterario",
       context: "leggero come l'aria",
     },
     {
       term: "arioso",
-      register: ["comune"],
+      register: "comune",
       context: "aperto, che respira — più fisico di etereo",
     },
     {
       term: "diafano",
-      register: ["letterario"],
+      register: "letterario",
       context: "quasi trasparente, di luce sottile",
     },
     {
       term: "celestiale",
-      register: ["letterario"],
+      register: "letterario",
       context: "che appartiene alla sfera celeste",
     },
   ],
@@ -78,22 +78,22 @@ export const etereo: LemmaEntry = {
   antonyms: [
     {
       term: "terreno",
-      register: ["comune"],
+      register: "comune",
       context: "legato alla materia e alla gravità",
     },
     {
       term: "carnale",
-      register: ["comune"],
+      register: "comune",
       context: "di una fisicità intensa e palpabile",
     },
     {
       term: "pesante",
-      register: ["comune"],
+      register: "comune",
       context: "senza leggerezza né grazia",
     },
     {
       term: "flaccido",
-      register: ["estetico"],
+      register: "estetico",
       context: "per contrasto: privo di tono e tensione",
     },
   ],

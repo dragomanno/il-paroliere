@@ -47,22 +47,22 @@ export const fumino: LemmaEntry = {
   synonyms: [
     {
       term: "incazzoso",
-      register: ["colloquiale"],
+      register: "colloquiale",
       context: "sinonimo di registro più marcato",
     },
     {
       term: "irascibile",
-      register: ["comune"],
+      register: "comune",
       context: "corrispettivo formale",
     },
     {
       term: "collerico",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "termine tecnico-umorale",
     },
     {
       term: "incazzatello",
-      register: ["colloquiale"],
+      register: "colloquiale",
       context: "variante attenuata",
     },
   ],
@@ -70,17 +70,17 @@ export const fumino: LemmaEntry = {
   antonyms: [
     {
       term: "calmo",
-      register: ["comune"],
+      register: "comune",
       context: "temperamento opposto",
     },
     {
       term: "posato",
-      register: ["comune"],
+      register: "comune",
       context: "comportamento opposto",
     },
     {
       term: "bonaccione",
-      register: ["colloquiale"],
+      register: "colloquiale",
       context: "tipo umano opposto",
     },
   ],

@@ -43,32 +43,32 @@ export const resistenza: LemmaEntry = {
   synonyms: [
     {
       term: "opposizione",
-      register: ["comune"],
+      register: "comune",
       context: "in senso figurato",
     },
     {
       term: "contrasto",
-      register: ["comune"],
+      register: "comune",
       context: "in senso figurato",
     },
     {
       term: "ostinazione",
-      register: ["comune"],
+      register: "comune",
       context: "in senso figurato",
     },
     {
       term: "tenacia",
-      register: ["comune"],
+      register: "comune",
       context: "in senso figurato",
     },
     {
       term: "perseveranza",
-      register: ["comune"],
+      register: "comune",
       context: "in senso figurato",
     },
     {
       term: "impedenza",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "in elettrotecnica, più preciso tecnicamente",
     },
   ],
@@ -76,22 +76,22 @@ export const resistenza: LemmaEntry = {
   antonyms: [
     {
       term: "arrendevolezza",
-      register: ["comune"],
+      register: "comune",
       context: "disposizione a cedere",
     },
     {
       term: "cedimento",
-      register: ["comune"],
+      register: "comune",
       context: "atto del cedere",
     },
     {
       term: "acquiescenza",
-      register: ["formale"],
+      register: "formale",
       context: "accettazione passiva",
     },
     {
       term: "capitolazione",
-      register: ["comune"],
+      register: "comune",
       context: "resa formale",
     },
   ],

@@ -48,12 +48,12 @@ export const spetsnaz: LemmaEntry = {
   synonyms: [
     {
       term: "forze speciali russe",
-      register: ["comune"],
+      register: "comune",
       context: "denominazione descrittiva",
     },
     {
       term: "reparti speciali",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "denominazione generica",
     },
   ],
@@ -61,12 +61,12 @@ export const spetsnaz: LemmaEntry = {
   antonyms: [
     {
       term: "esercito regolare",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "forza convenzionale opposta",
     },
     {
       term: "forza convenzionale",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "opposto delle forze speciali",
     },
   ],

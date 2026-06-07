@@ -50,27 +50,27 @@ export const irascibile: LemmaEntry = {
   synonyms: [
     {
       term: "collerico",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "il temperamento umorale equivalente",
     },
     {
       term: "iracondo",
-      register: ["letterario"],
+      register: "letterario",
       context: "più letterario e intenso",
     },
     {
       term: "bilioso",
-      register: ["comune"],
+      register: "comune",
       context: "più cronico e stagnante",
     },
     {
       term: "fumino",
-      register: ["colloquiale toscano"],
+      register: "colloquiale toscano",
       context: "variante bonaria e regionale",
     },
     {
       term: "incazzoso",
-      register: ["colloquiale volgare"],
+      register: "colloquiale volgare",
       context: "corrispettivo nel registro basso",
     },
   ],
@@ -78,17 +78,17 @@ export const irascibile: LemmaEntry = {
   antonyms: [
     {
       term: "paziente",
-      register: ["comune"],
+      register: "comune",
       context: "chi tollera con calma",
     },
     {
       term: "flemmatico",
-      register: ["comune"],
+      register: "comune",
       context: "di temperamento lento e controllato",
     },
     {
       term: "imperturbabile",
-      register: ["comune"],
+      register: "comune",
       context: "chi non si scompone",
     },
   ],

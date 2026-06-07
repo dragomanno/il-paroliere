@@ -46,22 +46,22 @@ export const sospetto: LemmaEntry = {
   synonyms: [
     {
       term: "diffidenza",
-      register: ["comune"],
+      register: "comune",
       context: "atteggiamento di guardia verso qualcuno o qualcosa",
     },
     {
       term: "dubbio",
-      register: ["comune"],
+      register: "comune",
       context: "incertezza su ciò che è vero",
     },
     {
       term: "perplessità",
-      register: ["comune"],
+      register: "comune",
       context: "disagio di fronte a qualcosa che non quadra",
     },
     {
       term: "indizio",
-      register: ["giuridico"],
+      register: "giuridico",
       context: "segnale che orienta verso una conclusione",
     },
   ],
@@ -69,17 +69,17 @@ export const sospetto: LemmaEntry = {
   antonyms: [
     {
       term: "certezza",
-      register: ["comune"],
+      register: "comune",
       context: "conoscenza verificata",
     },
     {
       term: "fiducia",
-      register: ["comune"],
+      register: "comune",
       context: "credenza positiva nell'altro",
     },
     {
       term: "evidenza",
-      register: ["comune"],
+      register: "comune",
       context: "prova visibile e indiscutibile",
     },
   ],

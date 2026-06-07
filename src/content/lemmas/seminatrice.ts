@@ -43,12 +43,12 @@ export const seminatrice: LemmaEntry = {
   synonyms: [
     {
       term: "macchina seminatrice",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "denominazione completa",
     },
     {
       term: "semina meccanica",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "il processo meccanico",
     },
   ],

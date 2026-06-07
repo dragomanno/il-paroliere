@@ -50,17 +50,17 @@ export const pasdaran: LemmaEntry = {
   synonyms: [
     {
       term: "Guardie della Rivoluzione",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "traduzione del nome ufficiale",
     },
     {
       term: "Sepah",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "abbreviazione ufficiale persiana",
     },
     {
       term: "guardiani ideologici",
-      register: ["figurato"],
+      register: "figurato",
       context: "uso figurato nel parlato politico",
     },
   ],
@@ -68,12 +68,12 @@ export const pasdaran: LemmaEntry = {
   antonyms: [
     {
       term: "Artesh",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "esercito regolare iraniano, distinto dai Pasdaran",
     },
     {
       term: "riformatori",
-      register: ["politico"],
+      register: "politico",
       context: "corrente interna opposta in Iran",
     },
   ],

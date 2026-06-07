@@ -45,27 +45,27 @@ export const anelare: LemmaEntry = {
   synonyms: [
     {
       term: "aspirare",
-      register: ["comune"],
+      register: "comune",
       context: "tendere verso qualcosa di desiderato",
     },
     {
       term: "tendere verso",
-      register: ["comune"],
+      register: "comune",
       context: "muoversi in direzione di un ideale",
     },
     {
       term: "bramare",
-      register: ["comune"],
+      register: "comune",
       context: "con connotazione più carnale e possessiva",
     },
     {
       term: "agognare",
-      register: ["letterario"],
+      register: "letterario",
       context: "con sfumatura di dolore e distanza",
     },
     {
       term: "vagheggiare",
-      register: ["letterario"],
+      register: "letterario",
       context: "più passivo, quasi sognante",
     },
   ],
@@ -73,17 +73,17 @@ export const anelare: LemmaEntry = {
   antonyms: [
     {
       term: "rassegnarsi",
-      register: ["comune"],
+      register: "comune",
       context: "accettare la situazione senza aspirare oltre",
     },
     {
       term: "rinunciare",
-      register: ["comune"],
+      register: "comune",
       context: "abbandonare un'aspirazione",
     },
     {
       term: "desistere",
-      register: ["formale"],
+      register: "formale",
       context: "smettere di tendere verso qualcosa",
     },
   ],

@@ -48,22 +48,22 @@ export const plausibile: LemmaEntry = {
   synonyms: [
     {
       term: "verosimile",
-      register: ["comune"],
+      register: "comune",
       context: "simile ma con sfumatura narrativa",
     },
     {
       term: "credibile",
-      register: ["comune"],
+      register: "comune",
       context: "degno di credito",
     },
     {
       term: "ragionevole",
-      register: ["comune"],
+      register: "comune",
       context: "conforme alla ragione",
     },
     {
       term: "sostenibile",
-      register: ["formale"],
+      register: "formale",
       context: "difendibile razionalmente",
     },
   ],
@@ -71,17 +71,17 @@ export const plausibile: LemmaEntry = {
   antonyms: [
     {
       term: "implausibile",
-      register: ["comune"],
+      register: "comune",
       context: "che non regge all'esame razionale",
     },
     {
       term: "inverosimile",
-      register: ["comune"],
+      register: "comune",
       context: "che non sembra vero",
     },
     {
       term: "assurdo",
-      register: ["comune"],
+      register: "comune",
       context: "contrario alla logica",
     },
   ],

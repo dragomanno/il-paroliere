@@ -45,22 +45,22 @@ export const ecumenico: LemmaEntry = {
   synonyms: [
     {
       term: "universale",
-      register: ["comune"],
+      register: "comune",
       context: "che vale per tutti",
     },
     {
       term: "trasversale",
-      register: ["comune"],
+      register: "comune",
       context: "che attraversa le divisioni di parte",
     },
     {
       term: "inclusivo",
-      register: ["comune"],
+      register: "comune",
       context: "che non esclude nessuno",
     },
     {
       term: "cattolico",
-      register: ["etimologico"],
+      register: "etimologico",
       context: "nel senso greco di «per tutti»",
     },
   ],
@@ -68,17 +68,17 @@ export const ecumenico: LemmaEntry = {
   antonyms: [
     {
       term: "settario",
-      register: ["comune"],
+      register: "comune",
       context: "che appartiene solo a una setta o fazione",
     },
     {
       term: "esclusivo",
-      register: ["comune"],
+      register: "comune",
       context: "che include solo alcuni",
     },
     {
       term: "partigiano",
-      register: ["comune"],
+      register: "comune",
       context: "di parte, non imparziale",
     },
   ],

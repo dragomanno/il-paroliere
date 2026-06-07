@@ -43,27 +43,27 @@ export const forchettone: LemmaEntry = {
   synonyms: [
     {
       term: "parruccone",
-      register: ["colloquiale"],
+      register: "colloquiale",
       context: "più storico-letterario, con radice ideologica",
     },
     {
       term: "reazionario",
-      register: ["politico"],
+      register: "politico",
       context: "più marcatamente politico",
     },
     {
       term: "conservatore",
-      register: ["comune"],
+      register: "comune",
       context: "attaccato ai valori e modi del passato",
     },
     {
       term: "passatista",
-      register: ["comune"],
+      register: "comune",
       context: "chi guarda solo al passato",
     },
     {
       term: "laudator temporis acti",
-      register: ["letterario"],
+      register: "letterario",
       context: "latinismo ironico per chi loda i tempi andati",
     },
   ],
@@ -71,17 +71,17 @@ export const forchettone: LemmaEntry = {
   antonyms: [
     {
       term: "innovatore",
-      register: ["comune"],
+      register: "comune",
       context: "chi porta idee e pratiche nuove",
     },
     {
       term: "progressista",
-      register: ["comune"],
+      register: "comune",
       context: "chi sostiene il cambiamento",
     },
     {
       term: "aperto al cambiamento",
-      register: ["comune"],
+      register: "comune",
       context: "chi accetta e abbraccia il nuovo",
     },
   ],

@@ -48,17 +48,17 @@ export const sapidita: LemmaEntry = {
   synonyms: [
     {
       term: "mineralità",
-      register: ["enologico"],
+      register: "enologico",
       context: "in enologia",
     },
     {
       term: "umami",
-      register: ["gastronomico"],
+      register: "gastronomico",
       context: "in gastronomia, il quinto gusto fondamentale",
     },
     {
       term: "saporosità",
-      register: ["comune"],
+      register: "comune",
       context: "qualità di avere sapore pieno",
     },
   ],
@@ -66,12 +66,12 @@ export const sapidita: LemmaEntry = {
   antonyms: [
     {
       term: "insipidità",
-      register: ["comune"],
+      register: "comune",
       context: "mancanza di sapore",
     },
     {
       term: "piattezza",
-      register: ["enologico"],
+      register: "enologico",
       context: "in enologia, vino privo di struttura",
     },
   ],

@@ -47,22 +47,22 @@ export const bilioso: LemmaEntry = {
   synonyms: [
     {
       term: "acrimonioso",
-      register: ["comune colto"],
+      register: "comune colto",
       context: "pieno di acrimonia, amarezza persistente",
     },
     {
       term: "astioso",
-      register: ["comune"],
+      register: "comune",
       context: "portatore di astio cronico",
     },
     {
       term: "risentito",
-      register: ["comune"],
+      register: "comune",
       context: "che porta rancore",
     },
     {
       term: "scontroso",
-      register: ["comune"],
+      register: "comune",
       context: "di carattere difficile e chiuso",
     },
   ],
@@ -70,17 +70,17 @@ export const bilioso: LemmaEntry = {
   antonyms: [
     {
       term: "gioviale",
-      register: ["comune"],
+      register: "comune",
       context: "di carattere allegro e aperto",
     },
     {
       term: "bonario",
-      register: ["comune"],
+      register: "comune",
       context: "di carattere mite e gentile",
     },
     {
       term: "ottimista",
-      register: ["comune"],
+      register: "comune",
       context: "orientato positivamente",
     },
   ],

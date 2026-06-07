@@ -46,12 +46,12 @@ export const subagentico: LemmaEntry = {
   synonyms: [
     {
       term: "multi-agente",
-      register: ["tecnico-specialistico"],
+      register: "tecnico-specialistico",
       context: "architettura a più agenti coordinati",
     },
     {
       term: "a orchestrazione distribuita",
-      register: ["tecnico-specialistico"],
+      register: "tecnico-specialistico",
       context: "per sistemi con agente orchestratore",
     },
   ],
@@ -59,7 +59,7 @@ export const subagentico: LemmaEntry = {
   antonyms: [
     {
       term: "monolitico",
-      register: ["tecnico-specialistico"],
+      register: "tecnico-specialistico",
       context: "architettura a singolo agente",
     },
   ],

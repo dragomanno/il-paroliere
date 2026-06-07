@@ -50,17 +50,17 @@ export const epistemologia: LemmaEntry = {
   synonyms: [
     {
       term: "teoria della conoscenza",
-      register: ["comune"],
+      register: "comune",
       context: "denominazione descrittiva equivalente",
     },
     {
       term: "gnoseologia",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "termine equivalente, più classico",
     },
     {
       term: "filosofia della scienza",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "parzialmente equivalente",
     },
   ],
@@ -68,7 +68,7 @@ export const epistemologia: LemmaEntry = {
   antonyms: [
     {
       term: "dogmatismo",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "posizione opposta: la conoscenza è certa e non interrogabile",
     },
   ],

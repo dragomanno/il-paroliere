@@ -41,27 +41,27 @@ export const sentore: LemmaEntry = {
   synonyms: [
     {
       term: "presentimento",
-      register: ["comune"],
+      register: "comune",
       context: "più emotivo e carico, spesso verso qualcosa di grave",
     },
     {
       term: "indizio",
-      register: ["comune"],
+      register: "comune",
       context: "segnale parziale verso una conclusione",
     },
     {
       term: "impressione",
-      register: ["comune"],
+      register: "comune",
       context: "percezione soggettiva non verificata",
     },
     {
       term: "fiuto",
-      register: ["colloquiale"],
+      register: "colloquiale",
       context: "capacità intuitiva quasi animale",
     },
     {
       term: "avvisaglia",
-      register: ["comune"],
+      register: "comune",
       context: "primo segnale di qualcosa che arriva",
     },
   ],
@@ -69,17 +69,17 @@ export const sentore: LemmaEntry = {
   antonyms: [
     {
       term: "certezza",
-      register: ["comune"],
+      register: "comune",
       context: "conoscenza verificata e piena",
     },
     {
       term: "conferma",
-      register: ["comune"],
+      register: "comune",
       context: "validazione di un'ipotesi",
     },
     {
       term: "evidenza",
-      register: ["comune"],
+      register: "comune",
       context: "prova visibile e chiara",
     },
   ],

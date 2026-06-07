@@ -45,22 +45,22 @@ export const probabile: LemmaEntry = {
   synonyms: [
     {
       term: "verosimile",
-      register: ["comune"],
+      register: "comune",
       context: "con sfumatura narrativa",
     },
     {
       term: "atteso",
-      register: ["comune"],
+      register: "comune",
       context: "che ci si aspetta",
     },
     {
       term: "prevedibile",
-      register: ["comune"],
+      register: "comune",
       context: "che si può prevedere",
     },
     {
       term: "plausibile",
-      register: ["formale"],
+      register: "formale",
       context: "con meno evidenza del probabile",
     },
   ],
@@ -68,17 +68,17 @@ export const probabile: LemmaEntry = {
   antonyms: [
     {
       term: "improbabile",
-      register: ["comune"],
+      register: "comune",
       context: "che ha poche probabilità",
     },
     {
       term: "inatteso",
-      register: ["comune"],
+      register: "comune",
       context: "che non ci si aspetta",
     },
     {
       term: "impossibile",
-      register: ["comune"],
+      register: "comune",
       context: "per assenza assoluta di possibilità",
     },
   ],

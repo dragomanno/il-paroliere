@@ -46,12 +46,12 @@ export const investimento: LemmaEntry = {
   synonyms: [
     {
       term: "allocazione di capitale",
-      register: ["finanziario"],
+      register: "finanziario",
       context: "senso tecnico",
     },
     {
       term: "impiego di risorse",
-      register: ["economico"],
+      register: "economico",
       context: "senso generale",
     },
   ],
@@ -59,12 +59,12 @@ export const investimento: LemmaEntry = {
   antonyms: [
     {
       term: "consumo",
-      register: ["economico"],
+      register: "economico",
       context: "spesa che non genera valore futuro",
     },
     {
       term: "disinvestimento",
-      register: ["finanziario"],
+      register: "finanziario",
       context: "liquidazione di asset",
     },
   ],

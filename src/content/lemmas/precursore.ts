@@ -52,22 +52,22 @@ export const precursore: LemmaEntry = {
   synonyms: [
     {
       term: "pioniere",
-      register: ["comune"],
+      register: "comune",
       context: "chi apre la strada",
     },
     {
       term: "anticipatore",
-      register: ["comune"],
+      register: "comune",
       context: "chi viene prima del suo tempo",
     },
     {
       term: "visionario",
-      register: ["comune"],
+      register: "comune",
       context: "chi vede oltre il presente",
     },
     {
       term: "apripista",
-      register: ["comune"],
+      register: "comune",
       context: "chi traccia il percorso per gli altri",
     },
   ],
@@ -75,12 +75,12 @@ export const precursore: LemmaEntry = {
   antonyms: [
     {
       term: "epigono",
-      register: ["comune"],
+      register: "comune",
       context: "chi viene dopo e imita",
     },
     {
       term: "seguace",
-      register: ["comune"],
+      register: "comune",
       context: "chi segue la strada già tracciata",
     },
   ],

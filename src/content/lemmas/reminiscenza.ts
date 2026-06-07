@@ -51,22 +51,22 @@ export const reminiscenza: LemmaEntry = {
   synonyms: [
     {
       term: "ricordo vago",
-      register: ["comune"],
+      register: "comune",
       context: "memoria non nitida né volontaria",
     },
     {
       term: "memoria involontaria",
-      register: ["psicologico"],
+      register: "psicologico",
       context: "ricordo innescato senza intenzione",
     },
     {
       term: "anamnesi",
-      register: ["filosofico-medico"],
+      register: "filosofico-medico",
       context: "in senso platonico e clinico",
     },
     {
       term: "eco mnemonica",
-      register: ["letterario"],
+      register: "letterario",
       context: "risonanza di un ricordo lontano",
     },
   ],
@@ -74,17 +74,17 @@ export const reminiscenza: LemmaEntry = {
   antonyms: [
     {
       term: "oblio",
-      register: ["comune"],
+      register: "comune",
       context: "dimenticanza totale",
     },
     {
       term: "amnesia",
-      register: ["medico"],
+      register: "medico",
       context: "perdita della memoria",
     },
     {
       term: "apprendimento ex novo",
-      register: ["filosofico"],
+      register: "filosofico",
       context: "in senso platonico: acquisire ciò che non si sapeva",
     },
   ],

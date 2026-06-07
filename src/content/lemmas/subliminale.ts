@@ -45,17 +45,17 @@ export const subliminale: LemmaEntry = {
   synonyms: [
     {
       term: "inconscio",
-      register: ["psicologico"],
+      register: "psicologico",
       context: "al di sotto della coscienza, in senso ampio",
     },
     {
       term: "pre-cosciente",
-      register: ["psicoanalitico"],
+      register: "psicoanalitico",
       context: "accessibile ma non ancora cosciente",
     },
     {
       term: "occulto",
-      register: ["comune"],
+      register: "comune",
       context: "nascosto, non manifesto",
     },
   ],
@@ -63,17 +63,17 @@ export const subliminale: LemmaEntry = {
   antonyms: [
     {
       term: "cosciente",
-      register: ["comune"],
+      register: "comune",
       context: "di cui si è pienamente consapevoli",
     },
     {
       term: "esplicito",
-      register: ["comune"],
+      register: "comune",
       context: "dichiarato apertamente",
     },
     {
       term: "manifesto",
-      register: ["comune"],
+      register: "comune",
       context: "visibile e percepibile",
     },
   ],

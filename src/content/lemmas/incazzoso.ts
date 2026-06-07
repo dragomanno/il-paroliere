@@ -42,22 +42,22 @@ export const incazzoso: LemmaEntry = {
   synonyms: [
     {
       term: "irascibile",
-      register: ["comune"],
+      register: "comune",
       context: "corrispettivo formale",
     },
     {
       term: "collerico",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "termine tecnico-umorale",
     },
     {
       term: "fumino",
-      register: ["colloquiale toscano"],
+      register: "colloquiale toscano",
       context: "variante regionale bonaria",
     },
     {
       term: "bilioso",
-      register: ["comune"],
+      register: "comune",
       context: "con sfumatura di amarezza cronica",
     },
   ],
@@ -65,17 +65,17 @@ export const incazzoso: LemmaEntry = {
   antonyms: [
     {
       term: "calmo",
-      register: ["comune"],
+      register: "comune",
       context: "temperamento opposto",
     },
     {
       term: "paziente",
-      register: ["comune"],
+      register: "comune",
       context: "atteggiamento opposto",
     },
     {
       term: "flemmatico",
-      register: ["comune"],
+      register: "comune",
       context: "temperamento opposto",
     },
   ],

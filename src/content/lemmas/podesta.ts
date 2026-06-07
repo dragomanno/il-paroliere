@@ -49,17 +49,17 @@ export const podesta: LemmaEntry = {
   synonyms: [
     {
       term: "sindaco",
-      register: ["comune"],
+      register: "comune",
       context: "nel senso funzionale moderno equivalente",
     },
     {
       term: "magistrato comunale",
-      register: ["storico"],
+      register: "storico",
       context: "in senso medievale",
     },
     {
       term: "commissario prefettizio",
-      register: ["moderno"],
+      register: "moderno",
       context: "termine moderno per figure nominate dall'alto",
     },
   ],

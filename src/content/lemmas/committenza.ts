@@ -45,22 +45,22 @@ export const committenza: LemmaEntry = {
   synonyms: [
     {
       term: "committente",
-      register: ["formale"],
+      register: "formale",
       context: "il soggetto specifico",
     },
     {
       term: "cliente",
-      register: ["comune"],
+      register: "comune",
       context: "uso generico",
     },
     {
       term: "mandante",
-      register: ["giuridico"],
+      register: "giuridico",
       context: "contesto contrattuale",
     },
     {
       term: "appaltante",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "contesto di appalto",
     },
   ],
@@ -68,17 +68,17 @@ export const committenza: LemmaEntry = {
   antonyms: [
     {
       term: "esecutore",
-      register: ["comune"],
+      register: "comune",
       context: "chi realizza l'opera",
     },
     {
       term: "appaltatore",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "chi riceve l'appalto",
     },
     {
       term: "fornitore",
-      register: ["comune"],
+      register: "comune",
       context: "chi eroga il servizio",
     },
   ],

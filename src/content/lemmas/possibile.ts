@@ -44,17 +44,17 @@ export const possibile: LemmaEntry = {
   synonyms: [
     {
       term: "fattibile",
-      register: ["comune"],
+      register: "comune",
       context: "realizzabile praticamente",
     },
     {
       term: "ipotizzabile",
-      register: ["formale"],
+      register: "formale",
       context: "che si può ipotizzare",
     },
     {
       term: "concepibile",
-      register: ["filosofico"],
+      register: "filosofico",
       context: "che la mente può concepire",
     },
   ],
@@ -62,12 +62,12 @@ export const possibile: LemmaEntry = {
   antonyms: [
     {
       term: "impossibile",
-      register: ["comune"],
+      register: "comune",
       context: "escluso dalla logica o dalla realtà",
     },
     {
       term: "necessario",
-      register: ["filosofico"],
+      register: "filosofico",
       context: "ciò che non può non essere",
     },
   ],

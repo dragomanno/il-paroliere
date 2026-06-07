@@ -46,17 +46,17 @@ export const vinaggio: LemmaEntry = {
   synonyms: [
     {
       term: "assemblaggio",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "termine francese di uso internazionale",
     },
     {
       term: "blending",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "anglicismo di uso internazionale",
     },
     {
       term: "taglio",
-      register: ["comune"],
+      register: "comune",
       context: "termine meno tecnico, talvolta con connotazione spregiativa",
     },
   ],

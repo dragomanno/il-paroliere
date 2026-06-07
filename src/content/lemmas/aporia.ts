@@ -50,17 +50,17 @@ export const aporia: LemmaEntry = {
   synonyms: [
     {
       term: "impasse concettuale",
-      register: ["comune colto"],
+      register: "comune colto",
       context: "blocco irrisolvibile nel pensiero",
     },
     {
       term: "contraddizione irrisolvibile",
-      register: ["comune"],
+      register: "comune",
       context: "paradosso senza soluzione",
     },
     {
       term: "vicolo cieco intellettuale",
-      register: ["comune"],
+      register: "comune",
       context: "situazione senza via d'uscita concettuale",
     },
   ],

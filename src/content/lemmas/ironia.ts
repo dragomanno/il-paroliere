@@ -39,27 +39,27 @@ export const ironia: LemmaEntry = {
   synonyms: [
     {
       term: "sarcasmo",
-      register: ["comune"],
+      register: "comune",
       context: "più aggressivo e unilaterale",
     },
     {
       term: "dissimulazione",
-      register: ["formale"],
+      register: "formale",
       context: "occultare il vero significato",
     },
     {
       term: "allusione",
-      register: ["comune"],
+      register: "comune",
       context: "riferimento indiretto",
     },
     {
       term: "antifrasi",
-      register: ["tecnico"],
+      register: "tecnico",
       context: "termine tecnico-retorico per il dire il contrario",
     },
     {
       term: "umorismo sottile",
-      register: ["comune"],
+      register: "comune",
       context: "con componente umoristica leggera",
     },
   ],
@@ -67,17 +67,17 @@ export const ironia: LemmaEntry = {
   antonyms: [
     {
       term: "letteralità",
-      register: ["comune"],
+      register: "comune",
       context: "il dire esattamente ciò che si intende",
     },
     {
       term: "franchezza",
-      register: ["comune"],
+      register: "comune",
       context: "apertura diretta senza dissimulazione",
     },
     {
       term: "sincerità diretta",
-      register: ["comune"],
+      register: "comune",
       context: "comunicazione senza doppio piano",
     },
   ],

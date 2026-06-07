@@ -49,12 +49,12 @@ export const detrazioneIrpef: LemmaEntry = {
   synonyms: [
     {
       term: "sgravio fiscale",
-      register: ["comune"],
+      register: "comune",
       context: "generico",
     },
     {
       term: "sconto sull'imposta",
-      register: ["comune"],
+      register: "comune",
       context: "uso informale",
     },
   ],
@@ -62,7 +62,7 @@ export const detrazioneIrpef: LemmaEntry = {
   antonyms: [
     {
       term: "imposta piena",
-      register: ["tecnico-fiscale"],
+      register: "tecnico-fiscale",
       context: "tassazione senza sgravi",
     },
   ],

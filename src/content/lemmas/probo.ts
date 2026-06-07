@@ -36,27 +36,27 @@ export const probo: LemmaEntry = {
   synonyms: [
     {
       term: "onesto",
-      register: ["comune"],
+      register: "comune",
       context: "forma più quotidiana e accessibile",
     },
     {
       term: "integro",
-      register: ["comune"],
+      register: "comune",
       context: "moralmente intatto",
     },
     {
       term: "retto",
-      register: ["comune"],
+      register: "comune",
       context: "di condotta dritta",
     },
     {
       term: "irreprensibile",
-      register: ["formale"],
+      register: "formale",
       context: "a cui non si può muovere obiezione",
     },
     {
       term: "integerrimo",
-      register: ["elevato"],
+      register: "elevato",
       context: "superlativo: di rettitudine assoluta",
     },
   ],
@@ -64,22 +64,22 @@ export const probo: LemmaEntry = {
   antonyms: [
     {
       term: "disonesto",
-      register: ["comune"],
+      register: "comune",
       context: "privo di rettitudine",
     },
     {
       term: "corrotto",
-      register: ["comune"],
+      register: "comune",
       context: "ceduto a pratiche illecite",
     },
     {
       term: "venale",
-      register: ["comune"],
+      register: "comune",
       context: "guidato dal tornaconto",
     },
     {
       term: "doppio",
-      register: ["comune"],
+      register: "comune",
       context: "che si comporta diversamente a seconda delle convenienze",
     },
   ],
