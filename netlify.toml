@@ -2,7 +2,7 @@
   package = "@netlify/plugin-nextjs"
 
 [build]
-  command = "npm run build && npm run db:seed"
+  command = "npm run db:seed && npm run build"
   publish = ".next"
 
 [build.environment]
