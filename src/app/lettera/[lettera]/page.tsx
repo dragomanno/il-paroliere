@@ -186,7 +186,7 @@ function AlphaNav({
   current: string;
   lemmiPerLettera: Set<string>;
 }) {
-  const TUTTE = "abcdefghilmnopqrstuvwxyz".split("");
+  const TUTTE = "abcdefghijklmnopqrstuvwxyz".split("");
 
   return (
     <nav aria-label="Navigazione alfabetica" className="flex flex-wrap gap-2">

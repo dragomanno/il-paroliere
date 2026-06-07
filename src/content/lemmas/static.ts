@@ -373,6 +373,15 @@ import { bilioso } from "./bilioso";
 import { uvaggio } from "./uvaggio";
 import { incazzatello } from "./incazzatello";
 
+// BATCH-GEN-LANGUAGE-01 — linguaggio generazionale (2026-06-07)
+import { boomer } from "./boomer";
+import { retrogrado } from "./retrogrado";
+import { genx } from "./genx";
+import { millennial } from "./millennial";
+import { genz } from "./genz";
+import { generazioneAlpha } from "./generazione-alpha";
+import { generazioneBeta } from "./generazione-beta";
+
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
   abitudine,
@@ -716,4 +725,12 @@ export const allLemmas: LemmaEntry[] = [
   bilioso,
   uvaggio,
   incazzatello,
+  // BATCH-GEN-LANGUAGE-01 — linguaggio generazionale (2026-06-07)
+  boomer,
+  retrogrado,
+  genx,
+  millennial,
+  genz,
+  generazioneAlpha,
+  generazioneBeta,
 ];
