@@ -41,22 +41,22 @@ export const sfrontatezza: LemmaEntry = {
   synonyms: [
     {
       term: "impudenza",
-      register: "comune",
+      register: ["comune"],
       context: "assenza di vergogna o rispetto",
     },
     {
       term: "faccia tosta",
-      register: "colloquiale",
+      register: ["colloquiale"],
       context: "ardire senza ritegno",
     },
     {
       term: "sfacciataggine",
-      register: "comune",
+      register: ["comune"],
       context: "mancanza di rispetto nel comportamento",
     },
     {
       term: "spudoratezza",
-      register: "comune",
+      register: ["comune"],
       context: "totale assenza di pudore",
     },
   ],
@@ -64,22 +64,22 @@ export const sfrontatezza: LemmaEntry = {
   antonyms: [
     {
       term: "pudore",
-      register: "comune",
+      register: ["comune"],
       context: "senso del limite e del riserbo",
     },
     {
       term: "ritegno",
-      register: "comune",
+      register: ["comune"],
       context: "freno interiore al comportamento",
     },
     {
       term: "discrezione",
-      register: "comune",
+      register: ["comune"],
       context: "rispetto dei limiti altrui",
     },
     {
       term: "modestia",
-      register: "comune",
+      register: ["comune"],
       context: "assenza di ostentazione",
     },
   ],

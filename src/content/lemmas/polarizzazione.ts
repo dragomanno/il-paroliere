@@ -46,17 +46,17 @@ export const polarizzazione: LemmaEntry = {
   synonyms: [
     {
       term: "divisione",
-      register: "comune",
+      register: ["comune"],
       context: "in senso politico-sociale",
     },
     {
       term: "radicalizzazione",
-      register: "comune",
+      register: ["comune"],
       context: "in senso politico",
     },
     {
       term: "orientamento",
-      register: "tecnico-scientifico",
+      register: ["tecnico-scientifico"],
       context: "in senso fisico",
     },
   ],
@@ -64,12 +64,12 @@ export const polarizzazione: LemmaEntry = {
   antonyms: [
     {
       term: "convergenza",
-      register: "comune",
+      register: ["comune"],
       context: "in senso politico",
     },
     {
       term: "moderazione",
-      register: "comune",
+      register: ["comune"],
       context: "in senso politico",
     },
   ],

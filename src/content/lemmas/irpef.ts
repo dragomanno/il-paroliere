@@ -47,12 +47,12 @@ export const irpef: LemmaEntry = {
   synonyms: [
     {
       term: "imposta sul reddito",
-      register: "comune",
+      register: ["comune"],
       context: "denominazione generica",
     },
     {
       term: "tassazione diretta sul reddito",
-      register: "tecnico-fiscale",
+      register: ["tecnico-fiscale"],
       context: "accezione descrittiva",
     },
   ],
@@ -60,7 +60,7 @@ export const irpef: LemmaEntry = {
   antonyms: [
     {
       term: "IVA",
-      register: "tecnico-fiscale",
+      register: ["tecnico-fiscale"],
       context: "imposta indiretta sui consumi",
     },
   ],

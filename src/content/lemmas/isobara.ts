@@ -44,12 +44,12 @@ export const isobara: LemmaEntry = {
   synonyms: [
     {
       term: "linee isobariche",
-      register: "tecnico-scientifico",
+      register: ["tecnico-scientifico"],
       context: "termine alternativo",
     },
     {
       term: "curve di uguale pressione",
-      register: "tecnico-scientifico",
+      register: ["tecnico-scientifico"],
       context: "denominazione descrittiva",
     },
   ],

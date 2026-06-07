@@ -53,12 +53,12 @@ export const alfiere: LemmaEntry = {
   synonyms: [
     {
       term: "portabandiera",
-      register: "comune",
+      register: ["comune"],
       context: "generico, insufficiente nel contesto senese",
     },
     {
       term: "gonfaloniere",
-      register: "storico",
+      register: ["storico"],
       context: "termine storico equivalente",
     },
   ],
@@ -66,7 +66,7 @@ export const alfiere: LemmaEntry = {
   antonyms: [
     {
       term: "sbandieratore",
-      register: "comune",
+      register: ["comune"],
       context: "⚠️ termine da non usare nel contesto senese: è riduttivo e generico",
     },
   ],

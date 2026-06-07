@@ -50,17 +50,17 @@ export const devianza: LemmaEntry = {
   synonyms: [
     {
       term: "anomalia",
-      register: "comune",
+      register: ["comune"],
       context: "in senso statistico e generale",
     },
     {
       term: "scostamento",
-      register: "tecnico",
+      register: ["tecnico"],
       context: "in senso statistico",
     },
     {
       term: "trasgressione",
-      register: "comune",
+      register: ["comune"],
       context: "in senso sociologico",
     },
   ],
@@ -68,12 +68,12 @@ export const devianza: LemmaEntry = {
   antonyms: [
     {
       term: "conformità",
-      register: "comune",
+      register: ["comune"],
       context: "aderenza alla norma",
     },
     {
       term: "normalità",
-      register: "comune",
+      register: ["comune"],
       context: "stato di non-devianza",
     },
   ],

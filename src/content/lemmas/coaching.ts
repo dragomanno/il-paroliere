@@ -40,17 +40,17 @@ export const coaching: LemmaEntry = {
   synonyms: [
     {
       term: "accompagnamento",
-      register: "comune",
+      register: ["comune"],
       context: "parziale, meno tecnico",
     },
     {
       term: "facilitazione",
-      register: "tecnico",
+      register: ["tecnico"],
       context: "enfasi sul ruolo del coach come facilitatore",
     },
     {
       term: "affiancamento",
-      register: "professionale",
+      register: ["professionale"],
       context: "parziale, meno tecnico",
     },
   ],
@@ -58,17 +58,17 @@ export const coaching: LemmaEntry = {
   antonyms: [
     {
       term: "formazione frontale",
-      register: "tecnico",
+      register: ["tecnico"],
       context: "trasmissione unidirezionale di contenuti",
     },
     {
       term: "didattica tradizionale",
-      register: "comune",
+      register: ["comune"],
       context: "il docente dà le risposte",
     },
     {
       term: "direttività",
-      register: "tecnico",
+      register: ["tecnico"],
       context: "indicare cosa fare invece di facilitare",
     },
   ],

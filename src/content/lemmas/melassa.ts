@@ -40,22 +40,22 @@ export const melassa: LemmaEntry = {
   synonyms: [
     {
       term: "sciroppo",
-      register: "comune",
+      register: ["comune"],
       context: "senso letterale",
     },
     {
       term: "sentimentalismo",
-      register: "comune",
+      register: ["comune"],
       context: "senso figurato",
     },
     {
       term: "zuccherosità",
-      register: "comune",
+      register: ["comune"],
       context: "eccesso di dolcezza",
     },
     {
       term: "viscosità",
-      register: "comune",
+      register: ["comune"],
       context: "in senso figurato di lentezza appiccicosa",
     },
   ],
@@ -63,17 +63,17 @@ export const melassa: LemmaEntry = {
   antonyms: [
     {
       term: "concisione",
-      register: "comune",
+      register: ["comune"],
       context: "in senso figurato",
     },
     {
       term: "agilità",
-      register: "comune",
+      register: ["comune"],
       context: "in senso figurato",
     },
     {
       term: "secchezza",
-      register: "comune",
+      register: ["comune"],
       context: "in senso figurato di stile asciutto",
     },
   ],

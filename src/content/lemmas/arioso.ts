@@ -41,22 +41,22 @@ export const arioso: LemmaEntry = {
   synonyms: [
     {
       term: "ventilato",
-      register: "comune",
+      register: ["comune"],
       context: "con buona circolazione d'aria",
     },
     {
       term: "luminoso",
-      register: "comune",
+      register: ["comune"],
       context: "pieno di luce e apertura",
     },
     {
       term: "spazioso",
-      register: "comune",
+      register: ["comune"],
       context: "ampio, non oppressivo",
     },
     {
       term: "etereo",
-      register: "estetico",
+      register: ["estetico"],
       context: "più metafisico e impalpabile di arioso",
     },
   ],
@@ -64,22 +64,22 @@ export const arioso: LemmaEntry = {
   antonyms: [
     {
       term: "soffocante",
-      register: "comune",
+      register: ["comune"],
       context: "privo di aria e spazio",
     },
     {
       term: "claustrofobico",
-      register: "comune",
+      register: ["comune"],
       context: "oppressivo per mancanza di spazio",
     },
     {
       term: "ridondante",
-      register: "estetico",
+      register: ["estetico"],
       context: "in estetica: troppo pieno, senza respiro",
     },
     {
       term: "denso",
-      register: "estetico",
+      register: ["estetico"],
       context: "compresso, senza spazio tra gli elementi",
     },
   ],

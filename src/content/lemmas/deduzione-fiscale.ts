@@ -46,17 +46,17 @@ export const deduzioneFiscale: LemmaEntry = {
   synonyms: [
     {
       term: "abbattimento del reddito imponibile",
-      register: "tecnico-fiscale",
+      register: ["tecnico-fiscale"],
       context: "accezione tecnica",
     },
     {
       term: "riduzione della base imponibile",
-      register: "tecnico-fiscale",
+      register: ["tecnico-fiscale"],
       context: "accezione tecnica",
     },
     {
       term: "sgravio fiscale",
-      register: "comune",
+      register: ["comune"],
       context: "generico",
     },
   ],
@@ -64,7 +64,7 @@ export const deduzioneFiscale: LemmaEntry = {
   antonyms: [
     {
       term: "tassazione piena",
-      register: "tecnico-fiscale",
+      register: ["tecnico-fiscale"],
       context: "imponibilità totale senza riduzioni",
     },
   ],

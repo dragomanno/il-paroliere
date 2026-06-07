@@ -37,32 +37,32 @@ export const smielato: LemmaEntry = {
   synonyms: [
     {
       term: "mellifluo",
-      register: "letterario",
+      register: ["letterario"],
       context: "quasi-sinonimo di registro più elevato",
     },
     {
       term: "zuccheroso",
-      register: "colloquiale",
+      register: ["colloquiale"],
       context: "eccesso di dolcezza",
     },
     {
       term: "untuoso",
-      register: "colloquiale",
+      register: ["colloquiale"],
       context: "con sfumatura di falsità",
     },
     {
       term: "melato",
-      register: "comune",
+      register: ["comune"],
       context: "sapore o tono di miele",
     },
     {
       term: "adulatorio",
-      register: "formale",
+      register: ["formale"],
       context: "che lusinga per interesse",
     },
     {
       term: "leccapiedi",
-      register: "spregiativo",
+      register: ["spregiativo"],
       context: "in senso più marcatamente spregiativo",
     },
   ],
@@ -70,27 +70,27 @@ export const smielato: LemmaEntry = {
   antonyms: [
     {
       term: "brusco",
-      register: "comune",
+      register: ["comune"],
       context: "tono secco e diretto",
     },
     {
       term: "schietto",
-      register: "comune",
+      register: ["comune"],
       context: "senza artifici",
     },
     {
       term: "ruvido",
-      register: "comune",
+      register: ["comune"],
       context: "privo di dolcezze",
     },
     {
       term: "diretto",
-      register: "comune",
+      register: ["comune"],
       context: "senza mediazioni affettate",
     },
     {
       term: "asciutto",
-      register: "comune",
+      register: ["comune"],
       context: "essenziale, senza ornamenti",
     },
   ],

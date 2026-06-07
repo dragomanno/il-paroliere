@@ -55,17 +55,17 @@ export const liquidita: LemmaEntry = {
   synonyms: [
     {
       term: "fluidità",
-      register: "comune",
+      register: ["comune"],
       context: "in senso bauminiano",
     },
     {
       term: "instabilità",
-      register: "comune",
+      register: ["comune"],
       context: "in senso bauminiano",
     },
     {
       term: "disponibilità di cassa",
-      register: "finanziario",
+      register: ["finanziario"],
       context: "in senso economico",
     },
   ],
@@ -73,12 +73,12 @@ export const liquidita: LemmaEntry = {
   antonyms: [
     {
       term: "solidità",
-      register: "comune",
+      register: ["comune"],
       context: "in senso bauminiano: la modernità delle istituzioni stabili",
     },
     {
       term: "illiquidità",
-      register: "finanziario",
+      register: ["finanziario"],
       context: "in senso economico",
     },
   ],

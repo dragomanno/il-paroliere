@@ -49,17 +49,17 @@ export const corporazioni: LemmaEntry = {
   synonyms: [
     {
       term: "Arti",
-      register: "storico",
+      register: ["storico"],
       context: "termine specifico fiorentino e toscano",
     },
     {
       term: "gilde",
-      register: "storico",
+      register: ["storico"],
       context: "termine nordeuropeo equivalente",
     },
     {
       term: "ordini professionali",
-      register: "moderno",
+      register: ["moderno"],
       context: "analogia parziale moderna",
     },
   ],

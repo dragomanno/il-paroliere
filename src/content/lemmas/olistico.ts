@@ -47,17 +47,17 @@ export const olistico: LemmaEntry = {
   synonyms: [
     {
       term: "integrale",
-      register: "comune",
+      register: ["comune"],
       context: "che abbraccia il tutto",
     },
     {
       term: "sistemico",
-      register: "tecnico",
+      register: ["tecnico"],
       context: "che considera il sistema nel suo complesso",
     },
     {
       term: "globale",
-      register: "comune",
+      register: ["comune"],
       context: "che riguarda l'insieme",
     },
   ],
@@ -65,17 +65,17 @@ export const olistico: LemmaEntry = {
   antonyms: [
     {
       term: "riduzionista",
-      register: "tecnico",
+      register: ["tecnico"],
       context: "che scompone per analizzare le parti",
     },
     {
       term: "analitico",
-      register: "comune",
+      register: ["comune"],
       context: "che procede per scomposizione",
     },
     {
       term: "settoriale",
-      register: "comune",
+      register: ["comune"],
       context: "che riguarda solo una parte",
     },
   ],

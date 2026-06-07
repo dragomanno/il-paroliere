@@ -50,22 +50,22 @@ export const resistenzaItaliana: LemmaEntry = {
   synonyms: [
     {
       term: "Resistenza partigiana",
-      register: "storico",
+      register: ["storico"],
       context: "con enfasi sulla componente armata",
     },
     {
       term: "Lotta di Liberazione",
-      register: "storico",
+      register: ["storico"],
       context: "denominazione formale del periodo",
     },
     {
       term: "movimento partigiano",
-      register: "comune",
+      register: ["comune"],
       context: "riferimento alle formazioni armate",
     },
     {
       term: "antifascismo militante",
-      register: "storico",
+      register: ["storico"],
       context: "con enfasi ideologica",
     },
   ],
@@ -73,17 +73,17 @@ export const resistenzaItaliana: LemmaEntry = {
   antonyms: [
     {
       term: "collaborazionismo",
-      register: "storico",
+      register: ["storico"],
       context: "cooperazione con l'occupante",
     },
     {
       term: "fascismo di Salò",
-      register: "storico",
+      register: ["storico"],
       context: "la Repubblica Sociale Italiana",
     },
     {
       term: "aderenza alla RSI",
-      register: "storico",
+      register: ["storico"],
       context: "scelta di allinearsi con il regime fantoccio",
     },
   ],

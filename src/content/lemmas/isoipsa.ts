@@ -44,17 +44,17 @@ export const isoipsa: LemmaEntry = {
   synonyms: [
     {
       term: "curve di livello",
-      register: "comune",
+      register: ["comune"],
       context: "denominazione più diffusa in italiano",
     },
     {
       term: "curve altimetriche",
-      register: "tecnico-scientifico",
+      register: ["tecnico-scientifico"],
       context: "denominazione alternativa",
     },
     {
       term: "curve di quota",
-      register: "tecnico-scientifico",
+      register: ["tecnico-scientifico"],
       context: "denominazione alternativa",
     },
   ],

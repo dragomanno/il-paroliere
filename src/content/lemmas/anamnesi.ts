@@ -52,17 +52,17 @@ export const anamnesi: LemmaEntry = {
   synonyms: [
     {
       term: "storia clinica",
-      register: "medico",
+      register: ["medico"],
       context: "in medicina",
     },
     {
       term: "storia del paziente",
-      register: "medico",
+      register: ["medico"],
       context: "in medicina",
     },
     {
       term: "rimemorazione",
-      register: "filosofico",
+      register: ["filosofico"],
       context: "in filosofia platonica",
     },
   ],
@@ -70,7 +70,7 @@ export const anamnesi: LemmaEntry = {
   antonyms: [
     {
       term: "amnesia",
-      register: "comune",
+      register: ["comune"],
       context: "etimologicamente il contrario diretto: a-mnesia",
     },
   ],

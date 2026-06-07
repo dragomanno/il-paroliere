@@ -41,32 +41,32 @@ export const ammucchiata: LemmaEntry = {
   synonyms: [
     {
       term: "coacervo",
-      register: "formale",
+      register: ["formale"],
       context: "senso politico, più formale e letterario",
     },
     {
       term: "accozzaglia",
-      register: "colloquiale",
+      register: ["colloquiale"],
       context: "insieme disomogeneo",
     },
     {
       term: "guazzabuglio",
-      register: "colloquiale",
+      register: ["colloquiale"],
       context: "miscuglio confuso",
     },
     {
       term: "carrozzone",
-      register: "colloquiale",
+      register: ["colloquiale"],
       context: "in senso politico-giornalistico",
     },
     {
       term: "minestrone",
-      register: "colloquiale",
+      register: ["colloquiale"],
       context: "miscuglio incoerente",
     },
     {
       term: "mucchio",
-      register: "comune",
+      register: ["comune"],
       context: "senso letterale",
     },
   ],
@@ -74,17 +74,17 @@ export const ammucchiata: LemmaEntry = {
   antonyms: [
     {
       term: "coalizione organica",
-      register: "formale",
+      register: ["formale"],
       context: "alleanza con coerenza ideologica",
     },
     {
       term: "alleanza coerente",
-      register: "formale",
+      register: ["formale"],
       context: "unione fondata su progetto condiviso",
     },
     {
       term: "blocco ideologico",
-      register: "formale",
+      register: ["formale"],
       context: "schieramento con identità chiara",
     },
   ],

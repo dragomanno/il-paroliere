@@ -38,27 +38,27 @@ export const coercizione: LemmaEntry = {
   synonyms: [
     {
       term: "coartazione",
-      register: "formale",
+      register: ["formale"],
       context: "quasi-sinonimo, più letterario e con sfumatura psicologica",
     },
     {
       term: "costrizione",
-      register: "comune",
+      register: ["comune"],
       context: "atto del costringere",
     },
     {
       term: "imposizione",
-      register: "comune",
+      register: ["comune"],
       context: "obbligo imposto dall'esterno",
     },
     {
       term: "pressione",
-      register: "comune",
+      register: ["comune"],
       context: "spinta che vincola la volontà",
     },
     {
       term: "violenza psicologica",
-      register: "comune",
+      register: ["comune"],
       context: "coercizione esercitata per via psichica",
     },
   ],
@@ -66,22 +66,22 @@ export const coercizione: LemmaEntry = {
   antonyms: [
     {
       term: "consenso",
-      register: "giuridico",
+      register: ["giuridico"],
       context: "adesione libera e volontaria",
     },
     {
       term: "libera scelta",
-      register: "comune",
+      register: ["comune"],
       context: "decisione non condizionata",
     },
     {
       term: "autonomia",
-      register: "formale",
+      register: ["formale"],
       context: "capacità di autodeterminarsi",
     },
     {
       term: "spontaneità",
-      register: "comune",
+      register: ["comune"],
       context: "agire senza costrizione esterna",
     },
   ],

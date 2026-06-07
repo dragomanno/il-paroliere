@@ -45,22 +45,22 @@ export const levantino: LemmaEntry = {
   synonyms: [
     {
       term: "passionale",
-      register: "comune",
+      register: ["comune"],
       context: "temperamento",
     },
     {
       term: "focoso",
-      register: "comune",
+      register: ["comune"],
       context: "temperamento",
     },
     {
       term: "esuberante",
-      register: "comune",
+      register: ["comune"],
       context: "comportamento",
     },
     {
       term: "fumino",
-      register: "colloquiale toscano",
+      register: ["colloquiale toscano"],
       context: "in senso più colloquiale toscano",
     },
   ],
@@ -68,17 +68,17 @@ export const levantino: LemmaEntry = {
   antonyms: [
     {
       term: "flemmatico",
-      register: "comune",
+      register: ["comune"],
       context: "temperamento opposto",
     },
     {
       term: "riservato",
-      register: "comune",
+      register: ["comune"],
       context: "comportamento",
     },
     {
       term: "nordico",
-      register: "comune",
+      register: ["comune"],
       context: "stereotipo opposto per contrasto",
     },
   ],

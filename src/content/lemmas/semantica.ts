@@ -54,7 +54,7 @@ export const semantica: LemmaEntry = {
   synonyms: [
     {
       term: "semasiologia",
-      register: "tecnico-scientifico",
+      register: ["tecnico-scientifico"],
       context: "studio del significato dal segno al concetto",
     },
   ],
@@ -62,12 +62,12 @@ export const semantica: LemmaEntry = {
   antonyms: [
     {
       term: "sintassi",
-      register: "tecnico",
+      register: ["tecnico"],
       context: "studia la forma e la struttura, non il significato",
     },
     {
       term: "fonologia",
-      register: "tecnico",
+      register: ["tecnico"],
       context: "studia i suoni, non i significati",
     },
   ],

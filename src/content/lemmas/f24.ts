@@ -49,12 +49,12 @@ export const f24: LemmaEntry = {
   synonyms: [
     {
       term: "modello di versamento unificato",
-      register: "tecnico-fiscale",
+      register: ["tecnico-fiscale"],
       context: "denominazione ufficiale",
     },
     {
       term: "bollettino fiscale",
-      register: "comune",
+      register: ["comune"],
       context: "impreciso ma diffuso nel parlato",
     },
   ],

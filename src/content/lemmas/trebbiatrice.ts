@@ -46,12 +46,12 @@ export const trebbiatrice: LemmaEntry = {
   synonyms: [
     {
       term: "mietitrebbiatrice",
-      register: "tecnico",
+      register: ["tecnico"],
       context: "il sistema integrato moderno che miete e trebbia",
     },
     {
       term: "battitrice",
-      register: "regionale",
+      register: ["regionale"],
       context: "termine alternativo regionale",
     },
   ],

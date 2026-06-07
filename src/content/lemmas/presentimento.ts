@@ -49,22 +49,22 @@ export const presentimento: LemmaEntry = {
   synonyms: [
     {
       term: "presagio",
-      register: "comune",
+      register: ["comune"],
       context: "segno anticipatore di qualcosa che verrà",
     },
     {
       term: "premonizione",
-      register: "comune",
+      register: ["comune"],
       context: "con sfumatura quasi soprannaturale",
     },
     {
       term: "intuizione anticipatoria",
-      register: "psicologico",
+      register: ["psicologico"],
       context: "elaborazione non conscia di segnali deboli",
     },
     {
       term: "sentore",
-      register: "comune",
+      register: ["comune"],
       context: "più neutro e sensoriale, meno emotivo",
     },
   ],
@@ -72,17 +72,17 @@ export const presentimento: LemmaEntry = {
   antonyms: [
     {
       term: "certezza a posteriori",
-      register: "comune",
+      register: ["comune"],
       context: "conoscenza acquisita dopo l'evento",
     },
     {
       term: "rassicurazione",
-      register: "comune",
+      register: ["comune"],
       context: "sensazione che tutto vada bene",
     },
     {
       term: "sorpresa totale",
-      register: "comune",
+      register: ["comune"],
       context: "evento completamente imprevisto",
     },
   ],

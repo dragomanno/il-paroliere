@@ -46,17 +46,17 @@ export const motivazionale: LemmaEntry = {
   synonyms: [
     {
       term: "ispirante",
-      register: "comune",
+      register: ["comune"],
       context: "senso positivo",
     },
     {
       term: "stimolante",
-      register: "comune",
+      register: ["comune"],
       context: "senso positivo",
     },
     {
       term: "energizzante",
-      register: "comune",
+      register: ["comune"],
       context: "senso positivo",
     },
   ],
@@ -64,12 +64,12 @@ export const motivazionale: LemmaEntry = {
   antonyms: [
     {
       term: "demotivante",
-      register: "comune",
+      register: ["comune"],
       context: "effetto opposto",
     },
     {
       term: "scoraggiante",
-      register: "comune",
+      register: ["comune"],
       context: "effetto opposto",
     },
   ],

@@ -53,12 +53,12 @@ export const mod730: LemmaEntry = {
   synonyms: [
     {
       term: "dichiarazione dei redditi semplificata",
-      register: "tecnico-fiscale",
+      register: ["tecnico-fiscale"],
       context: "denominazione descrittiva",
     },
     {
       term: "730 precompilato",
-      register: "comune",
+      register: ["comune"],
       context: "variante specifica dal 2015",
     },
   ],
@@ -66,7 +66,7 @@ export const mod730: LemmaEntry = {
   antonyms: [
     {
       term: "modello Redditi PF",
-      register: "tecnico-fiscale",
+      register: ["tecnico-fiscale"],
       context: "per chi ha redditi complessi o partita IVA",
     },
   ],

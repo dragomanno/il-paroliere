@@ -42,22 +42,22 @@ export const irreprensibile: LemmaEntry = {
   synonyms: [
     {
       term: "ineccepibile",
-      register: "formale",
+      register: ["formale"],
       context: "a cui non si può eccepire nulla",
     },
     {
       term: "impeccabile",
-      register: "comune",
+      register: ["comune"],
       context: "senza pecche né difetti",
     },
     {
       term: "esemplare",
-      register: "comune",
+      register: ["comune"],
       context: "degno di essere imitato",
     },
     {
       term: "inattaccabile",
-      register: "comune",
+      register: ["comune"],
       context: "che non offre appigli alla critica",
     },
   ],
@@ -65,17 +65,17 @@ export const irreprensibile: LemmaEntry = {
   antonyms: [
     {
       term: "riprovevole",
-      register: "formale",
+      register: ["formale"],
       context: "degno di biasimo",
     },
     {
       term: "censurabile",
-      register: "formale",
+      register: ["formale"],
       context: "che merita censura",
     },
     {
       term: "difettoso",
-      register: "comune",
+      register: ["comune"],
       context: "che presenta mancanze",
     },
   ],

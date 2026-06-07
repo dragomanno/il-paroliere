@@ -45,17 +45,17 @@ export const recrudescenza: LemmaEntry = {
   synonyms: [
     {
       term: "riacutizzazione",
-      register: "medico",
+      register: ["medico"],
       context: "termine tecnico in ambito clinico",
     },
     {
       term: "aggravamento improvviso",
-      register: "comune",
+      register: ["comune"],
       context: "peggioramento inaspettato",
     },
     {
       term: "riaccendersi",
-      register: "figurato",
+      register: ["figurato"],
       context: "ripresa di intensità di un fenomeno",
     },
   ],
@@ -63,17 +63,17 @@ export const recrudescenza: LemmaEntry = {
   antonyms: [
     {
       term: "attenuazione",
-      register: "comune",
+      register: ["comune"],
       context: "diminuzione di intensità",
     },
     {
       term: "remissione",
-      register: "medico",
+      register: ["medico"],
       context: "scomparsa dei sintomi",
     },
     {
       term: "miglioramento",
-      register: "comune",
+      register: ["comune"],
       context: "evoluzione positiva",
     },
   ],

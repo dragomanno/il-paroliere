@@ -41,22 +41,22 @@ export const probita: LemmaEntry = {
   synonyms: [
     {
       term: "integrità morale",
-      register: "comune",
+      register: ["comune"],
       context: "completezza etica senza compromessi",
     },
     {
       term: "rettitudine",
-      register: "formale",
+      register: ["formale"],
       context: "condotta dritta e corretta in ogni circostanza",
     },
     {
       term: "onestà",
-      register: "comune",
+      register: ["comune"],
       context: "forma più quotidiana e accessibile",
     },
     {
       term: "virtù civica",
-      register: "filosofico",
+      register: ["filosofico"],
       context: "in senso repubblicano e istituzionale",
     },
   ],
@@ -64,17 +64,17 @@ export const probita: LemmaEntry = {
   antonyms: [
     {
       term: "corruzione",
-      register: "comune",
+      register: ["comune"],
       context: "cedimento ai comportamenti illeciti",
     },
     {
       term: "venalità",
-      register: "comune",
+      register: ["comune"],
       context: "orientamento al tornaconto economico",
     },
     {
       term: "malafede",
-      register: "comune",
+      register: ["comune"],
       context: "intenzione consapevolmente scorretta",
     },
   ],

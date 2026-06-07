@@ -46,27 +46,27 @@ export const pudore: LemmaEntry = {
   synonyms: [
     {
       term: "riserbo",
-      register: "comune",
+      register: ["comune"],
       context: "atteggiamento di chi si trattiene dall'esporsi",
     },
     {
       term: "discrezione",
-      register: "comune",
+      register: ["comune"],
       context: "rispetto dei propri e altrui limiti",
     },
     {
       term: "ritrosia",
-      register: "comune",
+      register: ["comune"],
       context: "resistenza a esporsi o a cedere",
     },
     {
       term: "modestia",
-      register: "comune",
+      register: ["comune"],
       context: "assenza di ostentazione",
     },
     {
       term: "verecondia",
-      register: "arcaico-letterario",
+      register: ["arcaico-letterario"],
       context: "pudore con sfumatura di rispetto reverenziale",
     },
   ],
@@ -74,22 +74,22 @@ export const pudore: LemmaEntry = {
   antonyms: [
     {
       term: "sfrontatezza",
-      register: "comune",
+      register: ["comune"],
       context: "impudenza ostentata",
     },
     {
       term: "impudenza",
-      register: "comune",
+      register: ["comune"],
       context: "assenza di pudore",
     },
     {
       term: "esibizionismo",
-      register: "comune",
+      register: ["comune"],
       context: "desiderio di mostrarsi",
     },
     {
       term: "sfacciataggine",
-      register: "comune",
+      register: ["comune"],
       context: "mancanza totale di riserbo",
     },
   ],

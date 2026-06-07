@@ -50,12 +50,12 @@ export const qualunquismo: LemmaEntry = {
   synonyms: [
     {
       term: "antipolitica",
-      register: "comune",
+      register: ["comune"],
       context: "rifiuto della politica come categoria",
     },
     {
       term: "populismo",
-      register: "politico",
+      register: ["politico"],
       context: "parzialmente sovrapposto nel rifiuto delle élite",
     },
   ],
@@ -63,12 +63,12 @@ export const qualunquismo: LemmaEntry = {
   antonyms: [
     {
       term: "impegno civile",
-      register: "comune",
+      register: ["comune"],
       context: "partecipazione attiva alla vita pubblica",
     },
     {
       term: "militanza",
-      register: "politico",
+      register: ["politico"],
       context: "coinvolgimento attivo in una causa",
     },
   ],

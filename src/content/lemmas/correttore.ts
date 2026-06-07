@@ -47,12 +47,12 @@ export const correttore: LemmaEntry = {
   synonyms: [
     {
       term: "parroco di Contrada",
-      register: "descrittivo",
+      register: ["descrittivo"],
       context: "denominazione descrittiva non tecnica",
     },
     {
       term: "cappellano",
-      register: "ecclesiastico generico",
+      register: ["ecclesiastico generico"],
       context: "termine meno preciso nel contesto senese",
     },
   ],

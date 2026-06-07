@@ -46,22 +46,22 @@ export const iprite: LemmaEntry = {
   synonyms: [
     {
       term: "gas mostarda",
-      register: "comune",
+      register: ["comune"],
       context: "denominazione più diffusa in italiano e inglese",
     },
     {
       term: "gas di senape",
-      register: "comune",
+      register: ["comune"],
       context: "denominazione alternativa per l'odore",
     },
     {
       term: "sulfuro di bis(2-cloroetile)",
-      register: "tecnico-scientifico",
+      register: ["tecnico-scientifico"],
       context: "nome chimico IUPAC",
     },
     {
       term: "HS",
-      register: "tecnico-scientifico",
+      register: ["tecnico-scientifico"],
       context: "sigla militare",
     },
   ],

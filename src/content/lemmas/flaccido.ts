@@ -42,22 +42,22 @@ export const flaccido: LemmaEntry = {
   synonyms: [
     {
       term: "floscio",
-      register: "comune",
+      register: ["comune"],
       context: "molle, senza struttura",
     },
     {
       term: "ipotonico",
-      register: "medico",
+      register: ["medico"],
       context: "con tono muscolare ridotto",
     },
     {
       term: "fiacco",
-      register: "figurato",
+      register: ["figurato"],
       context: "privo di energia o vigore",
     },
     {
       term: "inconsistente",
-      register: "figurato",
+      register: ["figurato"],
       context: "senza sostanza né forza",
     },
   ],
@@ -65,22 +65,22 @@ export const flaccido: LemmaEntry = {
   antonyms: [
     {
       term: "tonico",
-      register: "comune",
+      register: ["comune"],
       context: "con buon tono muscolare",
     },
     {
       term: "turgido",
-      register: "comune",
+      register: ["comune"],
       context: "pieno, gonfio, vitale",
     },
     {
       term: "elastico",
-      register: "comune",
+      register: ["comune"],
       context: "che ritorna alla forma originale",
     },
     {
       term: "vigoroso",
-      register: "figurato",
+      register: ["figurato"],
       context: "pieno di forza ed energia",
     },
   ],

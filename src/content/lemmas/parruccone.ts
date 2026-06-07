@@ -47,32 +47,32 @@ export const parruccone: LemmaEntry = {
   synonyms: [
     {
       term: "forchettone",
-      register: "colloquiale",
+      register: ["colloquiale"],
       context: "più quotidiano e bonario, meno ideologico",
     },
     {
       term: "reazionario",
-      register: "politico",
+      register: ["politico"],
       context: "più marcatamente politico",
     },
     {
       term: "conservatore",
-      register: "comune",
+      register: ["comune"],
       context: "attaccato ai valori del passato",
     },
     {
       term: "passatista",
-      register: "comune",
+      register: ["comune"],
       context: "chi guarda solo indietro",
     },
     {
       term: "laudator temporis acti",
-      register: "letterario",
+      register: ["letterario"],
       context: "latinismo ironico per chi loda i tempi andati",
     },
     {
       term: "retrograde",
-      register: "colloquiale",
+      register: ["colloquiale"],
       context: "anglicismo occasionale nel parlato giovanile",
     },
   ],
@@ -80,22 +80,22 @@ export const parruccone: LemmaEntry = {
   antonyms: [
     {
       term: "progressista",
-      register: "comune",
+      register: ["comune"],
       context: "chi crede nel cambiamento",
     },
     {
       term: "innovatore",
-      register: "comune",
+      register: ["comune"],
       context: "chi porta novità",
     },
     {
       term: "riformatore",
-      register: "comune",
+      register: ["comune"],
       context: "chi agisce per modificare l'esistente",
     },
     {
       term: "uomo del suo tempo",
-      register: "comune",
+      register: ["comune"],
       context: "chi è in sintonia con l'epoca in cui vive",
     },
   ],

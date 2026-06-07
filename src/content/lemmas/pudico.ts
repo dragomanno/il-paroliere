@@ -41,22 +41,22 @@ export const pudico: LemmaEntry = {
   synonyms: [
     {
       term: "riservato",
-      register: "comune",
+      register: ["comune"],
       context: "che non si mette in mostra",
     },
     {
       term: "discreto",
-      register: "comune",
+      register: ["comune"],
       context: "che rispetta i limiti dell'intimità",
     },
     {
       term: "modesto",
-      register: "comune",
+      register: ["comune"],
       context: "senza ostentazione",
     },
     {
       term: "verecondo",
-      register: "arcaico-letterario",
+      register: ["arcaico-letterario"],
       context: "che prova verecondia",
     },
   ],
@@ -64,17 +64,17 @@ export const pudico: LemmaEntry = {
   antonyms: [
     {
       term: "sfrontato",
-      register: "comune",
+      register: ["comune"],
       context: "che non conosce pudore",
     },
     {
       term: "impudico",
-      register: "comune",
+      register: ["comune"],
       context: "privo di pudore",
     },
     {
       term: "esibizionista",
-      register: "comune",
+      register: ["comune"],
       context: "che ama mostrarsi",
     },
   ],

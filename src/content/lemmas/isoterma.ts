@@ -45,12 +45,12 @@ export const isoterma: LemmaEntry = {
   synonyms: [
     {
       term: "linee isotermiche",
-      register: "tecnico-scientifico",
+      register: ["tecnico-scientifico"],
       context: "termine alternativo",
     },
     {
       term: "curve di uguale temperatura",
-      register: "tecnico-scientifico",
+      register: ["tecnico-scientifico"],
       context: "denominazione descrittiva",
     },
   ],

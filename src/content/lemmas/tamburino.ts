@@ -48,7 +48,7 @@ export const tamburino: LemmaEntry = {
   synonyms: [
     {
       term: "percussionista",
-      register: "generico",
+      register: ["generico"],
       context: "insufficiente nel contesto senese specifico",
     },
   ],

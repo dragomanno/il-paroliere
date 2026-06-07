@@ -43,27 +43,27 @@ export const ovvieta: LemmaEntry = {
   synonyms: [
     {
       term: "banalità",
-      register: "comune",
+      register: ["comune"],
       context: "piattezza per mancanza di qualità",
     },
     {
       term: "luogo comune",
-      register: "comune",
+      register: ["comune"],
       context: "affermazione scontata e condivisa",
     },
     {
       term: "lapalissata",
-      register: "ironico",
+      register: ["ironico"],
       context: "verità di evidenza imbarazzante",
     },
     {
       term: "truismo",
-      register: "formale",
+      register: ["formale"],
       context: "affermazione trivialmente vera",
     },
     {
       term: "tautologia",
-      register: "tecnico",
+      register: ["tecnico"],
       context: "ripetizione logica dello stesso concetto",
     },
   ],
@@ -71,17 +71,17 @@ export const ovvieta: LemmaEntry = {
   antonyms: [
     {
       term: "originalità",
-      register: "comune",
+      register: ["comune"],
       context: "qualità di ciò che è nuovo",
     },
     {
       term: "insight",
-      register: "comune",
+      register: ["comune"],
       context: "osservazione acuta e illuminante",
     },
     {
       term: "acutezza",
-      register: "comune",
+      register: ["comune"],
       context: "capacità di vedere ciò che non è ovvio",
     },
   ],

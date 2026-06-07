@@ -39,27 +39,27 @@ export const coacervo: LemmaEntry = {
   synonyms: [
     {
       term: "ammucchiata",
-      register: "colloquiale",
+      register: ["colloquiale"],
       context: "più colloquiale e spregiativo",
     },
     {
       term: "guazzabuglio",
-      register: "colloquiale",
+      register: ["colloquiale"],
       context: "miscuglio confuso",
     },
     {
       term: "accozzaglia",
-      register: "colloquiale",
+      register: ["colloquiale"],
       context: "insieme eterogeneo e disomogeneo",
     },
     {
       term: "miscuglio",
-      register: "comune",
+      register: ["comune"],
       context: "insieme di cose diverse mescolate",
     },
     {
       term: "accumulazione",
-      register: "retorico",
+      register: ["retorico"],
       context: "figura retorica dell'accumulo (sinatroismos)",
     },
   ],
@@ -67,22 +67,22 @@ export const coacervo: LemmaEntry = {
   antonyms: [
     {
       term: "sistema",
-      register: "comune",
+      register: ["comune"],
       context: "insieme organizzato con coerenza",
     },
     {
       term: "ordine",
-      register: "comune",
+      register: ["comune"],
       context: "disposizione secondo un criterio",
     },
     {
       term: "coerenza",
-      register: "comune",
+      register: ["comune"],
       context: "unità logica degli elementi",
     },
     {
       term: "struttura",
-      register: "comune",
+      register: ["comune"],
       context: "organizzazione con ruoli definiti",
     },
   ],
