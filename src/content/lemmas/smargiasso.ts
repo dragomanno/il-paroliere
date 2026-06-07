@@ -40,7 +40,7 @@ export const smargiasso: LemmaEntry = {
   examples: [
     "«Davanti agli amici era uno smargiasso che prometteva imprese impossibili; da solo, evitava accuratamente qualsiasi situazione di rischio.»",
     "«Il Capitano della Commedia dell'Arte è l'archetipo dello smargiasso: bravate, spacconate, e poi la fuga alla prima difficoltà reale.»",
-    '«"Non fare lo smargiasso" gli disse il nonno. "Chi vale davvero non ha bisogno di dirtelo."»',
+    '«Non fare lo smargiasso gli disse il nonno. Chi vale davvero non ha bisogno di dirtelo.»',
   ],
 
   synonyms: [

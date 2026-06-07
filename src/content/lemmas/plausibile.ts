@@ -39,7 +39,7 @@ export const plausibile: LemmaEntry = {
 
   examples: [
     "«L'ipotesi che il documento fosse stato alterato è plausibile: le date non tornano e l'inchiostro è diverso.»",
-    '«"È plausibile che il mercato si stabilizzi nel terzo trimestre" disse l\'analista — il che significava: non lo so, ma non è una previsione assurda.»',
+    '«È plausibile che il mercato si stabilizzi nel terzo trimestre disse l\'analista — il che significava: non lo so, ma non è una previsione assurda.»',
     "«Non ti sto chiedendo la certezza: ti chiedo se la tua teoria è almeno plausibile alla luce dei dati che abbiamo.»",
     "«In un'aula di tribunale, una difesa plausibile è sufficiente a introdurre il ragionevole dubbio; non deve essere la spiegazione più probabile.»",
     "«Il piano era plausibile sulla carta: non garantiva il successo, ma aveva abbastanza logica interna da meritare una prova.»",
