@@ -67,6 +67,13 @@ import { tangente } from "./tangente";
 import { univoco } from "./univoco";
 import { velleitario } from "./velleitario";
 import { xenofobia } from "./xenofobia";
+import { xenofobo } from "./xenofobo";
+import { etnocentrismo } from "./etnocentrismo";
+import { razzismo } from "./razzismo";
+import { pregiudizio } from "./pregiudizio";
+import { alterita } from "./alterita";
+import { migrazione } from "./migrazione";
+import { accoglienza } from "./accoglienza";
 import { zizzania } from "./zizzania";
 
 // Towards 100 — batch 3
@@ -596,6 +603,13 @@ export const allLemmas: LemmaEntry[] = [
   veniale,
   whatsappare,
   xenofobia,
+  xenofobo,
+  etnocentrismo,
+  razzismo,
+  pregiudizio,
+  alterita,
+  migrazione,
+  accoglienza,
   zenit,
   zizzania,
   // Batch 2 — 32 nuovi lemmi (2026-05-29)
