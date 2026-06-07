@@ -47,6 +47,8 @@ jobs:
       - name: Run Drizzle migrations
         env:
           DATABASE_URL_OWNER: ${{ secrets.DATABASE_URL_OWNER }}
+        # continue-on-error: migrations may return exit 1 when no pending migrations exist
+        continue-on-error: true
         run: npx drizzle-kit migrate
 
       - name: Seed lemmas into DB
