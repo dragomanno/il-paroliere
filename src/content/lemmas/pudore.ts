@@ -95,7 +95,7 @@ export const pudore: LemmaEntry = {
   ],
 
   relatedWords: [
-    "pudìco",
+    "pudico",
     "sfrontatezza",
     "irreprensibile",
     "modestia",

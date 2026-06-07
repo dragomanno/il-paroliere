@@ -60,11 +60,11 @@ export const f24: LemmaEntry = {
   ],
 
   relatedWords: [
-    "IRPEF",
-    "IRES",
+    "irpef",
+    "ires",
     "730",
-    "deduzione fiscale",
-    "detrazione fiscale",
+    "deduzione-fiscale",
+    "detrazione-fiscale",
     "codice tributo",
     "compensazione fiscale",
     "Agenzia delle Entrate",

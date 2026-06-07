@@ -100,6 +100,7 @@ export const smielato: LemmaEntry = {
     "adulazione",
     "ipocrisia",
     "affettazione",
+    "mellifluo",
   ],
 
   sourceLinks: {

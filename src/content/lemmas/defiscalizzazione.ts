@@ -83,15 +83,13 @@ export const defiscalizzazione: LemmaEntry = {
   ],
 
   relatedWords: [
-    "IRPEF",
-    "deduzione fiscale",
-    "detrazione fiscale",
+    "irpef",
+    "deduzione-fiscale",
+    "detrazione-fiscale",
     "investimento",
     "incentivo",
     "agevolazione",
-    "credito d'imposta",
-    "zona franca",
-    "ZES",
+    "credito d",
   ],
 
   sourceLinks: {

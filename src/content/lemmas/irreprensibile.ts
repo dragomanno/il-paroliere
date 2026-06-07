@@ -82,9 +82,9 @@ export const irreprensibile: LemmaEntry = {
 
   relatedWords: [
     "integerrimo",
-    "probità",
+    "probita",
     "probo",
-    "onestà",
+    "onesta",
     "correttezza",
     "etica",
     "condotta",

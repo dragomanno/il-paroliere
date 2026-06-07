@@ -86,8 +86,10 @@ export const incazzoso: LemmaEntry = {
     "levantino",
     "ira",
     "collera",
-    "irascibilità",
+    "irascibilita",
     "carattere",
+    "irascibile",
+    "bilioso",
   ],
 
   sourceLinks: {

@@ -77,7 +77,7 @@ export const anamnesi: LemmaEntry = {
 
   relatedWords: [
     "epistemologia",
-    "aporìa",
+    "aporia",
     "amnesia",
     "Platone",
     "Menone",

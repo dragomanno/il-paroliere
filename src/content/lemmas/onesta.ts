@@ -92,7 +92,7 @@ export const onesta: LemmaEntry = {
   ],
 
   relatedWords: [
-    "probità",
+    "probita",
     "probo",
     "integerrimo",
     "irreprensibile",

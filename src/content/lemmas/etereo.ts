@@ -109,6 +109,7 @@ export const etereo: LemmaEntry = {
     "Pre-Raffaelliti",
     "Botticelli",
     "Klimt",
+    "flaccido",
   ],
 
   sourceLinks: {

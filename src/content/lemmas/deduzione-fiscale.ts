@@ -70,8 +70,8 @@ export const deduzioneFiscale: LemmaEntry = {
   ],
 
   relatedWords: [
-    "detrazione fiscale",
-    "IRPEF",
+    "detrazione-fiscale",
+    "irpef",
     "defiscalizzazione",
     "investimento",
     "aliquota marginale",

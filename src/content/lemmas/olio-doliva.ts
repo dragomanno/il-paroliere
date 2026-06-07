@@ -49,7 +49,7 @@ export const olioDoliva: LemmaEntry = {
 
   relatedWords: [
     "vino",
-    "sapidità",
+    "sapidita",
     "vendemmia",
     "oliva",
     "frantoio",

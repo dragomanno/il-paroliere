@@ -68,16 +68,15 @@ export const detrazioneIrpef: LemmaEntry = {
   ],
 
   relatedWords: [
-    "deduzione fiscale",
-    "IRPEF",
+    "deduzione-fiscale",
+    "irpef",
     "defiscalizzazione",
-    "F24",
+    "f24",
     "730",
     "decalage",
     "franchigia",
     "bonus fiscale",
-    "credito d'imposta",
-    "aliquota",
+    "credito d",
   ],
 
   sourceLinks: {

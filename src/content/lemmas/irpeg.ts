@@ -37,11 +37,11 @@ export const irpeg: LemmaEntry = {
   ],
 
   relatedWords: [
-    "IRPEF",
-    "IRES",
+    "irpef",
+    "ires",
     "IRAP",
-    "deduzione fiscale",
-    "detrazione fiscale",
+    "deduzione-fiscale",
+    "detrazione-fiscale",
     "persone giuridiche",
     "società di capitali",
     "aliquota proporzionale",

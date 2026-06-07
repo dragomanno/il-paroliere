@@ -56,7 +56,7 @@ export const vino: LemmaEntry = {
     "uvaggio",
     "vendemmia",
     "olio-doliva",
-    "sapidità",
+    "sapidita",
     "mosto",
     "fermentazione",
     "cantina",

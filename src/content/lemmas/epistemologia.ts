@@ -74,8 +74,8 @@ export const epistemologia: LemmaEntry = {
   ],
 
   relatedWords: [
-    "aporìa",
-    "liquidità",
+    "aporia",
+    "liquidita",
     "olistico",
     "semantica",
     "gnoseologia",

@@ -85,8 +85,8 @@ export const probo: LemmaEntry = {
   ],
 
   relatedWords: [
-    "probità",
-    "onestà",
+    "probita",
+    "onesta",
     "integerrimo",
     "irreprensibile",
     "virtù",

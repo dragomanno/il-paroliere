@@ -88,7 +88,7 @@ export const precursore: LemmaEntry = {
   relatedWords: [
     "perspicace",
     "perspicacia",
-    "liquidità",
+    "liquidita",
     "innovazione",
     "visione",
     "timing",

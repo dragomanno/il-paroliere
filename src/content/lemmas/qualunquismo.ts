@@ -76,10 +76,7 @@ export const qualunquismo: LemmaEntry = {
   relatedWords: [
     "menefreghismo",
     "Guglielmo Giannini",
-    "Fronte dell'Uomo Qualunque",
-    "astensionismo",
-    "antipolitica",
-    "cinismo",
+    "Fronte dell",
     "populismo",
   ],
 

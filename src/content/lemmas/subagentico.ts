@@ -68,7 +68,7 @@ export const subagentico: LemmaEntry = {
     "agente AI",
     "agente orchestratore",
     "sotto-agente",
-    "LLM",
+    "llm",
     "RAG",
     "tool use",
     "LangGraph",

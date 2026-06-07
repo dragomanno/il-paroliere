@@ -105,6 +105,9 @@ export const resistenza: LemmaEntry = {
     "circuito",
     "partigiano",
     "resilienza",
+    "ostinazione",
+    "perseveranza",
+    "arrendevolezza",
   ],
 
   sourceLinks: {

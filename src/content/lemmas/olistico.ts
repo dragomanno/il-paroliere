@@ -83,7 +83,7 @@ export const olistico: LemmaEntry = {
   relatedWords: [
     "epistemologia",
     "semantica",
-    "liquidità",
+    "liquidita",
     "riduzionismo",
     "sistemico",
     "emergenza",

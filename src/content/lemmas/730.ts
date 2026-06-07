@@ -72,17 +72,12 @@ export const mod730: LemmaEntry = {
   ],
 
   relatedWords: [
-    "IRPEF",
-    "F24",
-    "deduzione fiscale",
-    "detrazione fiscale",
+    "irpef",
+    "f24",
+    "deduzione-fiscale",
+    "detrazione-fiscale",
     "CU",
-    "sostituto d'imposta",
-    "rimborso fiscale",
-    "Agenzia delle Entrate",
-    "CAF",
-    "modello Redditi PF",
-    "saldo e acconto",
+    "sostituto d",
   ],
 
   sourceLinks: {

@@ -86,7 +86,7 @@ export const sfrontatezza: LemmaEntry = {
 
   relatedWords: [
     "pudore",
-    "pudìco",
+    "pudico",
     "impudenza",
     "sfacciataggine",
     "arroganza",

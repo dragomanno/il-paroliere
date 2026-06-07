@@ -94,6 +94,7 @@ export const fumino: LemmaEntry = {
     "collera",
     "carattere",
     "umorismo regionale",
+    "irascibile",
   ],
 
   sourceLinks: {

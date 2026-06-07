@@ -86,7 +86,7 @@ export const levantino: LemmaEntry = {
   relatedWords: [
     "fumino",
     "incazzoso",
-    "Levante",
+    "levante",
     "Balcani",
     "Mediterraneo",
     "temperamento",

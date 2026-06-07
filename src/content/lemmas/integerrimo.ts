@@ -93,9 +93,9 @@ export const integerrimo: LemmaEntry = {
 
   relatedWords: [
     "irreprensibile",
-    "probità",
+    "probita",
     "probo",
-    "onestà",
+    "onesta",
     "integrità",
     "incorruttibilità",
     "etica pubblica",

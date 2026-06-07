@@ -65,7 +65,7 @@ export const corporazioni: LemmaEntry = {
   ],
 
   relatedWords: [
-    "podestà",
+    "podesta",
     "correttore",
     "guelfi",
     "comune medievale",

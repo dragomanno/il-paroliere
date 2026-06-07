@@ -66,12 +66,12 @@ export const irpef: LemmaEntry = {
   ],
 
   relatedWords: [
-    "IRPEG",
-    "deduzione fiscale",
-    "detrazione fiscale",
+    "irpeg",
+    "deduzione-fiscale",
+    "detrazione-fiscale",
     "defiscalizzazione",
     "IRAP",
-    "IRES",
+    "ires",
     "scaglioni",
     "aliquota",
     "imponibile",

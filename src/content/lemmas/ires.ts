@@ -42,17 +42,14 @@ export const ires: LemmaEntry = {
   ],
 
   relatedWords: [
-    "IRPEF",
-    "IRPEG",
+    "irpef",
+    "irpeg",
     "IRAP",
-    "deduzione fiscale",
-    "detrazione fiscale",
-    "F24",
+    "deduzione-fiscale",
+    "detrazione-fiscale",
+    "f24",
     "società di capitali",
-    "reddito d'impresa",
-    "bilancio",
-    "Unico SC",
-    "Agenzia delle Entrate",
+    "reddito d",
   ],
 
   sourceLinks: {

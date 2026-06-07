@@ -83,6 +83,7 @@ export const polarizzazione: LemmaEntry = {
     "populismo",
     "echo chamber",
     "tribalismo",
+    "radicalizzazione",
   ],
 
   sourceLinks: {

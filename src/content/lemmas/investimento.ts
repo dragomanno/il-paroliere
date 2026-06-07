@@ -72,10 +72,10 @@ export const investimento: LemmaEntry = {
   relatedWords: [
     "defiscalizzazione",
     "incentivo",
-    "deduzione fiscale",
+    "deduzione-fiscale",
     "rendimento",
     "rischio",
-    "liquidità",
+    "liquidita",
     "asset",
     "capitale",
     "ROI",
