@@ -22,7 +22,7 @@ export default async function HomePage() {
   const lemmiPerLettera = new Set(
     allLemmas.map((e) => e.lemma.toLowerCase()[0])
   );
-  const TUTTE = "abcdefghilmnopqrstuvwxyz".split("");
+  const TUTTE = "abcdefghijklmnopqrstuvwxyz".split("");
 
   return (
     <div className="space-y-16 sm:space-y-20">
