@@ -35,9 +35,9 @@ export const ovvieta: LemmaEntry = {
     "sta sulla strada», quindi ciò che chiunque incontra senza doverlo cercare.",
 
   examples: [
-    "«\"Il cliente ha sempre ragione\" è un'ovvietà del marketing che nasconde più problemi di quanti ne risolva.»",
+    "«\"Il cliente ha sempre ragione\" è un'ovvietà del marketing che nasconde più problemi di quanti ne risolva.»,
     "«Il suo discorso era una sequenza di ovvietà ben confezionate: nulla di sbagliato, nulla di utile.»",
-    "«Dire che \"bisogna migliorare la qualità della vita\" senza spiegare come è un'ovvietà elevata a programma politico.»",
+    "«Dire che \"bisogna migliorare la qualità della vita\" senza spiegare come è un'ovvietà elevata a programma politico.»,
   ],
 
   synonyms: [

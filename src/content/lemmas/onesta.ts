@@ -37,7 +37,7 @@ export const onesta: LemmaEntry = {
   examples: [
     "«L'onestà intellettuale richiede di cambiare idea quando si scopre di aver torto: è la virtù più difficile e meno praticata.»",
     "«Apprezzava la sua onestà brutale: preferiva una verità scomoda a una gentilezza menzognera.»",
-    "«\"Onestà è la miglior politica\" recita il proverbio inglese; nella pratica, però, spesso paga meno dell'opportunismo.»",
+    "«\"Onestà è la miglior politica\" recita il proverbio inglese; nella pratica, però, spesso paga meno dell'opportunismo.»,
   ],
 
   synonyms: [

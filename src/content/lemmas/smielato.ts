@@ -31,7 +31,7 @@ export const smielato: LemmaEntry = {
   examples: [
     "«Rispose con un tono talmente smielato che tutti capirono che stava mentendo.»",
     "«Non sopporto i discorsi smielati del capo ogni volta che vuole chiederci uno straordinario.»",
-    "«"Tesoooro, sei bellissima" disse lui con quella vocina smielata che la faceva rabbrividire.»",
+    "«\"Tesoooro, sei bellissima\" disse lui con quella vocina smielata che la faceva rabbrividire.»,
   ],
 
   synonyms: [

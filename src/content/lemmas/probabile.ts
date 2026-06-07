@@ -39,7 +39,7 @@ export const probabile: LemmaEntry = {
     "«È probabile che il treno arrivi in ritardo: ha già accumulato 20 minuti di ritardo a Bologna.»",
     "«La diagnosi più probabile è una frattura da stress: lo confermano i sintomi e la storia del paziente, anche prima della radiografia.»",
     "«Nel processo civile è sufficiente che la versione del ricorrente sia più probabile di quella del convenuto: non serve la certezza assoluta.»",
-    "«\"Probabile\" in meteorologia significa circa 70-80% di probabilità: non è una promessa, ma è molto più di una possibilità.»",
+    "«\"Probabile\" in meteorologia significa circa 70-80% di probabilità: non è una promessa, ma è molto più di una possibilità.»,
   ],
 
   synonyms: [
