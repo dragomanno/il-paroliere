@@ -40,10 +40,10 @@ export const defiscalizzazione: LemmaEntry = {
     "inclusione di oneri nel regime fiscale).",
 
   examples: [
-    "«Il governo ha annunciato la defiscalizzazione parziale degli straordinari per i lavoratori del settore manifatturiero.»",
-    "«Le zone economiche speciali prevedono una defiscalizzazione temporanea per attrarre investimenti nelle aree depresse.»",
-    "«La defiscalizzazione dei contributi previdenziali per le nuove assunzioni ha spinto molte aziende ad aumentare l'organico.»",
-    "«In senso lato, quella legge aveva operato una sorta di defiscalizzazione morale del fenomeno: tolto il marchio d'infamia, era diventato semplicemente un dato.»",
+    "Il governo ha annunciato la defiscalizzazione parziale degli straordinari per i lavoratori del settore manifatturiero.",
+    "Le zone economiche speciali prevedono una defiscalizzazione temporanea per attrarre investimenti nelle aree depresse.",
+    "La defiscalizzazione dei contributi previdenziali per le nuove assunzioni ha spinto molte aziende ad aumentare l'organico.",
+    "In senso lato, quella legge aveva operato una sorta di defiscalizzazione morale del fenomeno: tolto il marchio d'infamia, era diventato semplicemente un dato.",
   ],
 
   synonyms: [

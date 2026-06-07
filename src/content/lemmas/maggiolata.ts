@@ -38,9 +38,9 @@ export const maggiolata: LemmaEntry = {
     "suffisso -ata che indica un'azione collettiva o festiva legata a ciò che precede.",
 
   examples: [
-    "«La maggiolata di Pienza si svolge ogni anno la prima domenica di maggio: i vicoli del centro storico vengono tappezzati di petali la notte prima.»",
-    "«Cantare le maggiolate era un'usanza che i giovani di campagna mantenevano fino agli anni Cinquanta: poi il dopoguerra e l'urbanizzazione le spazzarono via quasi ovunque.»",
-    "«La maggiolata è anche un genere poetico medievale: i trovatori provenzali e poi i poeti italiani del Duecento cantavano il maggio come metafora del rinnovamento dell'amore.»",
+    "La maggiolata di Pienza si svolge ogni anno la prima domenica di maggio: i vicoli del centro storico vengono tappezzati di petali la notte prima.",
+    "Cantare le maggiolate era un'usanza che i giovani di campagna mantenevano fino agli anni Cinquanta: poi il dopoguerra e l'urbanizzazione le spazzarono via quasi ovunque.",
+    "La maggiolata è anche un genere poetico medievale: i trovatori provenzali e poi i poeti italiani del Duecento cantavano il maggio come metafora del rinnovamento dell'amore.",
   ],
 
   synonyms: [

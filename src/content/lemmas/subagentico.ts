@@ -38,9 +38,9 @@ export const subagentico: LemmaEntry = {
     "anni 2020.",
 
   examples: [
-    "«Il sistema di ricerca utilizza un'architettura subagentìca: un agente orchestratore riceve la domanda dell'utente, attiva tre sotto-agenti specializzati (ricerca web, analisi documenti, sintesi) e integra i risultati in un'unica risposta.»",
-    "«L'utilizzo subagentico di modelli linguistici permette di superare i limiti della finestra di contesto: ogni sotto-agente lavora su una porzione del problema, senza dover tenere tutto in memoria simultaneamente.»",
-    "«I framework come LangGraph o AutoGen sono progettati esplicitamente per abilitare flussi di lavoro subagentici in cui la supervisione umana può essere minima o assente.»",
+    "Il sistema di ricerca utilizza un'architettura subagentìca: un agente orchestratore riceve la domanda dell'utente, attiva tre sotto-agenti specializzati (ricerca web, analisi documenti, sintesi) e integra i risultati in un'unica risposta.",
+    "L'utilizzo subagentico di modelli linguistici permette di superare i limiti della finestra di contesto: ogni sotto-agente lavora su una porzione del problema, senza dover tenere tutto in memoria simultaneamente.",
+    "I framework come LangGraph o AutoGen sono progettati esplicitamente per abilitare flussi di lavoro subagentici in cui la supervisione umana può essere minima o assente.",
   ],
 
   synonyms: [

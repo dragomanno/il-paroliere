@@ -36,9 +36,9 @@ export const isoipsa: LemmaEntry = {
     "Stesso prefisso iso- di → isobare e → isoterme.",
 
   examples: [
-    "«Sulla carta topografica, le isoipse ravvicinate sul versante nord indicano una parete quasi verticale: terreno da alpinisti, non da escursionisti.»",
-    "«L'equidistanza delle isoipse su questa carta è di 50 metri: ogni curva di livello rappresenta un dislivello di 50 metri rispetto alla successiva.»",
-    "«Imparare a leggere le isoipse significa imparare a vedere il paesaggio da una carta piatta: è una delle competenze fondamentali dell'orientamento.»",
+    "Sulla carta topografica, le isoipse ravvicinate sul versante nord indicano una parete quasi verticale: terreno da alpinisti, non da escursionisti.",
+    "L'equidistanza delle isoipse su questa carta è di 50 metri: ogni curva di livello rappresenta un dislivello di 50 metri rispetto alla successiva.",
+    "Imparare a leggere le isoipse significa imparare a vedere il paesaggio da una carta piatta: è una delle competenze fondamentali dell'orientamento.",
   ],
 
   synonyms: [

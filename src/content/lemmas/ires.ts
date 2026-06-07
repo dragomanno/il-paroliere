@@ -36,9 +36,9 @@ export const ires: LemmaEntry = {
     "12 dicembre 2003, in vigore dal 1° gennaio 2004 in sostituzione dell'IRPEG.",
 
   examples: [
-    "«La società ha chiuso l'esercizio con un utile di 500.000 euro: l'IRES al 24% comporterà un'imposta di 120.000 euro.»",
-    "«La riforma del 2004 ha sostituito l'IRPEG con l'IRES, abbassando l'aliquota dal 34% al 33% iniziale, poi ridotta ulteriormente al 24%.»",
-    "«Le società in perdita non pagano IRES nell'esercizio, ma possono riportare la perdita negli esercizi successivi per ridurre la base imponibile futura.»",
+    "La società ha chiuso l'esercizio con un utile di 500.000 euro: l'IRES al 24% comporterà un'imposta di 120.000 euro.",
+    "La riforma del 2004 ha sostituito l'IRPEG con l'IRES, abbassando l'aliquota dal 34% al 33% iniziale, poi ridotta ulteriormente al 24%.",
+    "Le società in perdita non pagano IRES nell'esercizio, ma possono riportare la perdita negli esercizi successivi per ridurre la base imponibile futura.",
   ],
 
   relatedWords: [

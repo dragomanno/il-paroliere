@@ -39,9 +39,9 @@ export const correttore: LemmaEntry = {
     "funzione di guidare e correggere una comunità religiosa.",
 
   examples: [
-    "«Il Correttore della Contrada dell'Onda benedì il cavallo e il fantino nella cappella della Contrada, come vuole la tradizione del giorno del Palio.»",
-    "«Non è solo un parroco: il Correttore a Siena è una figura di riferimento per tutta la vita della Contrada, dal battesimo dei bambini contradaioli alla morte dei vecchi.»",
-    "«La funzione del Correttore come recuperatore sociale non è mai stata abolita: anche oggi, la Contrada è spesso l'unica rete che non abbandona nessuno.»",
+    "Il Correttore della Contrada dell'Onda benedì il cavallo e il fantino nella cappella della Contrada, come vuole la tradizione del giorno del Palio.",
+    "Non è solo un parroco: il Correttore a Siena è una figura di riferimento per tutta la vita della Contrada, dal battesimo dei bambini contradaioli alla morte dei vecchi.",
+    "La funzione del Correttore come recuperatore sociale non è mai stata abolita: anche oggi, la Contrada è spesso l'unica rete che non abbandona nessuno.",
   ],
 
   synonyms: [

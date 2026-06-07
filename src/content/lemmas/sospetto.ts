@@ -37,10 +37,10 @@ export const sospetto: LemmaEntry = {
     "con una certa inquietudine.",
 
   examples: [
-    "«Aveva un sospetto che qualcosa non tornasse nei conti, ma non riusciva ancora a mettere il dito sul punto preciso.»",
-    "«Il sospetto è il peggiore dei veleni nelle relazioni: avvelena anche ciò che era sano.»",
-    "«Lasciare una persona nel sospetto senza darle la possibilità di difendersi è una forma sottile di ingiustizia.»",
-    "«Quel ritardo inspiegabile lo rese immediatamente sospetto agli occhi degli investigatori.»",
+    "Aveva un sospetto che qualcosa non tornasse nei conti, ma non riusciva ancora a mettere il dito sul punto preciso.",
+    "Il sospetto è il peggiore dei veleni nelle relazioni: avvelena anche ciò che era sano.",
+    "Lasciare una persona nel sospetto senza darle la possibilità di difendersi è una forma sottile di ingiustizia.",
+    "Quel ritardo inspiegabile lo rese immediatamente sospetto agli occhi degli investigatori.",
   ],
 
   synonyms: [

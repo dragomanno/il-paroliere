@@ -37,9 +37,9 @@ export const anelare: LemmaEntry = {
     "exhale e dell'italiano alito, alitare.",
 
   examples: [
-    "«Anelava a una vita diversa: non sapeva ancora come sarebbe stata, ma sapeva che quella non era.»",
-    "«Anelare alla giustizia non basta: bisogna anche lavorare per costruirla, giorno per giorno, senza aspettare che arrivi da sola.»",
-    "«C'è nell'adolescenza un'anelazione al futuro che l'età adulta dimentica quasi sempre troppo in fretta.»",
+    "Anelava a una vita diversa: non sapeva ancora come sarebbe stata, ma sapeva che quella non era.",
+    "Anelare alla giustizia non basta: bisogna anche lavorare per costruirla, giorno per giorno, senza aspettare che arrivi da sola.",
+    "C'è nell'adolescenza un'anelazione al futuro che l'età adulta dimentica quasi sempre troppo in fretta.",
   ],
 
   synonyms: [

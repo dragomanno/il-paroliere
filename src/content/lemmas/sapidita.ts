@@ -40,9 +40,9 @@ export const sapidita: LemmaEntry = {
     "lingua italiana: lo stesso verbo latino ha generato sapiente, sapido, insipido, sapienza.",
 
   examples: [
-    "«Il Vermentino di Gallura DOCG è uno dei vini italiani più sapidi: la mineralità vulcanica del terreno si sente chiaramente nella persistenza salina in bocca.»",
-    "«La sapidità del Parmigiano Reggiano stagionato 36 mesi è il risultato della concentrazione di glutammato libero: è il motivo per cui basta una scaglia per trasformare un piatto semplice.»",
-    "«Nella degustazione, sapidità non è sinonimo di salinità: è una sensazione più complessa, che riguarda la pienezza e la persistenza del sapore.»",
+    "Il Vermentino di Gallura DOCG è uno dei vini italiani più sapidi: la mineralità vulcanica del terreno si sente chiaramente nella persistenza salina in bocca.",
+    "La sapidità del Parmigiano Reggiano stagionato 36 mesi è il risultato della concentrazione di glutammato libero: è il motivo per cui basta una scaglia per trasformare un piatto semplice.",
+    "Nella degustazione, sapidità non è sinonimo di salinità: è una sensazione più complessa, che riguarda la pienezza e la persistenza del sapore.",
   ],
 
   synonyms: [

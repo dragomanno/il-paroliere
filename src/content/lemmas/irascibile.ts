@@ -42,9 +42,9 @@ export const irascibile: LemmaEntry = {
     "della filosofia tomista.",
 
   examples: [
-    "«Era un uomo gentile, ma irascibile: bastava un'attesa di cinque minuti per vederlo trasformarsi.»",
-    "«Il direttore irascibile terrorizzava i colleghi non perché fosse crudele, ma perché nessuno sapeva mai cosa avrebbe scatenato la prossima reazione.»",
-    "«Con l'età era diventato più irascibile: le piccole seccature che prima ignorava ora lo mettevano fuori dai gangheri.»",
+    "Era un uomo gentile, ma irascibile: bastava un'attesa di cinque minuti per vederlo trasformarsi.",
+    "Il direttore irascibile terrorizzava i colleghi non perché fosse crudele, ma perché nessuno sapeva mai cosa avrebbe scatenato la prossima reazione.",
+    "Con l'età era diventato più irascibile: le piccole seccature che prima ignorava ora lo mettevano fuori dai gangheri.",
   ],
 
   synonyms: [

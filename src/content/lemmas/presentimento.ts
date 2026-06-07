@@ -41,9 +41,9 @@ export const presentimento: LemmaEntry = {
     "premonizione, preludio.",
 
   examples: [
-    "«Aveva avuto un presentimento cupo tutta la mattina, senza riuscire a spiegarselo: poi arrivò la telefonata.»",
-    "«I presentimenti non sono magia: spesso il cervello elabora segnali deboli — un tono di voce, un comportamento anomalo — prima che la coscienza li formuli.»",
-    "«C'è qualcosa di straziante nel presentimento letterario: il lettore sa già ciò che il personaggio teme di sapere.»",
+    "Aveva avuto un presentimento cupo tutta la mattina, senza riuscire a spiegarselo: poi arrivò la telefonata.",
+    "I presentimenti non sono magia: spesso il cervello elabora segnali deboli — un tono di voce, un comportamento anomalo — prima che la coscienza li formuli.",
+    "C'è qualcosa di straziante nel presentimento letterario: il lettore sa già ciò che il personaggio teme di sapere.",
   ],
 
   synonyms: [

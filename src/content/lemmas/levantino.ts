@@ -37,9 +37,9 @@ export const levantino: LemmaEntry = {
     "mediterraneo.",
 
   examples: [
-    "«Ha un temperamento tutto levantino: ti abbraccia come un fratello e cinque minuti dopo urla come se lo stessi assassinando.»",
-    "«Il bazar aveva quell'atmosfera levantina inconfondibile: odori sovrapposti, voci alte, contrattazione come forma d'arte.»",
-    "«Dai Balcani in poi trovi quel modo levantino di stare al mondo: tutto più caldo, più rumoroso, più fisico.»",
+    "Ha un temperamento tutto levantino: ti abbraccia come un fratello e cinque minuti dopo urla come se lo stessi assassinando.",
+    "Il bazar aveva quell'atmosfera levantina inconfondibile: odori sovrapposti, voci alte, contrattazione come forma d'arte.",
+    "Dai Balcani in poi trovi quel modo levantino di stare al mondo: tutto più caldo, più rumoroso, più fisico.",
   ],
 
   synonyms: [

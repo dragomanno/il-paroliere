@@ -41,9 +41,9 @@ export const uvaggio: LemmaEntry = {
     "Stesso meccanismo di vinaggio, filtraggio, imbottigliaggio.",
 
   examples: [
-    "«Il Chianti Classico tradizionale nasce da un uvaggio a base Sangiovese con percentuali variabili di Canaiolo e, storicamente, Malvasia: quest'ultima è stata poi rimossa dai disciplinari moderni.»",
-    "«La differenza tra uvaggio e vinaggio non è sottile: nel primo si mescolano le uve prima di fare il vino, nel secondo si mescolano i vini già fatti. Il risultato finale può sembrare simile, ma i processi fermentativi e i profili aromatici sono diversi.»",
-    "«Nell'uvaggio del Bordeaux rosso classico, Cabernet Sauvignon, Merlot e Cabernet Franc vengono uniti prima della fermentazione: è una delle pratiche più antiche dell'enologia europea.»",
+    "Il Chianti Classico tradizionale nasce da un uvaggio a base Sangiovese con percentuali variabili di Canaiolo e, storicamente, Malvasia: quest'ultima è stata poi rimossa dai disciplinari moderni.",
+    "La differenza tra uvaggio e vinaggio non è sottile: nel primo si mescolano le uve prima di fare il vino, nel secondo si mescolano i vini già fatti. Il risultato finale può sembrare simile, ma i processi fermentativi e i profili aromatici sono diversi.",
+    "Nell'uvaggio del Bordeaux rosso classico, Cabernet Sauvignon, Merlot e Cabernet Franc vengono uniti prima della fermentazione: è una delle pratiche più antiche dell'enologia europea.",
   ],
 
   synonyms: [

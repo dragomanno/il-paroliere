@@ -28,9 +28,9 @@ export const probo: LemmaEntry = {
     "il probo è colui che ha superato ogni prova morale.",
 
   examples: [
-    "«Era un uomo probo nel senso più pieno: non per convenienza né per paura del giudizio altrui, ma perché non sapeva essere altrimenti.»",
-    "«Il codice deontologico richiede che il professionista sia probo e irreprensibile nella condotta, pubblica e privata.»",
-    "«In un mondo che premia spesso l'opportunismo, un uomo probo rischia di passare per ingenuo.»",
+    "Era un uomo probo nel senso più pieno: non per convenienza né per paura del giudizio altrui, ma perché non sapeva essere altrimenti.",
+    "Il codice deontologico richiede che il professionista sia probo e irreprensibile nella condotta, pubblica e privata.",
+    "In un mondo che premia spesso l'opportunismo, un uomo probo rischia di passare per ingenuo.",
   ],
 
   synonyms: [

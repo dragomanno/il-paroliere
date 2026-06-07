@@ -42,9 +42,9 @@ export const epistemologia: LemmaEntry = {
     "fondata e giustificata, non la credenza.",
 
   examples: [
-    "«L'epistemologia di Heidegger non separa il soggetto conoscente dal mondo in cui è immerso: non possiamo capire come conosciamo senza capire come siamo-nel-mondo.»",
-    "«Adorno sosteneva che la ragione illuminista aveva tradito se stessa: l'epistemologia della modernità aveva prodotto Auschwitz tanto quanto aveva prodotto la penicillina.»",
-    "«La domanda epistemologica fondamentale della post-modernità è: se non esistono metanarrativi credibili, su quale fondamento costruiamo la conoscenza e l'etica?»",
+    "L'epistemologia di Heidegger non separa il soggetto conoscente dal mondo in cui è immerso: non possiamo capire come conosciamo senza capire come siamo-nel-mondo.",
+    "Adorno sosteneva che la ragione illuminista aveva tradito se stessa: l'epistemologia della modernità aveva prodotto Auschwitz tanto quanto aveva prodotto la penicillina.",
+    "La domanda epistemologica fondamentale della post-modernità è: se non esistono metanarrativi credibili, su quale fondamento costruiamo la conoscenza e l'etica?",
   ],
 
   synonyms: [

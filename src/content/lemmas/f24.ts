@@ -41,9 +41,9 @@ export const f24: LemmaEntry = {
     "modello specifico.",
 
   examples: [
-    "«Ho pagato le tasse con l'F24: ho usato il credito IVA dell'anno scorso per compensare l'acconto IRPEF.»",
-    "«Il commercialista mi ha mandato l'F24 precompilato: basta portarlo in banca o pagarlo online entro il 16 giugno.»",
-    "«Senza i codici tributo corretti, l'F24 viene rifiutato: ogni imposta ha il suo numero identificativo preciso.»",
+    "Ho pagato le tasse con l'F24: ho usato il credito IVA dell'anno scorso per compensare l'acconto IRPEF.",
+    "Il commercialista mi ha mandato l'F24 precompilato: basta portarlo in banca o pagarlo online entro il 16 giugno.",
+    "Senza i codici tributo corretti, l'F24 viene rifiutato: ogni imposta ha il suo numero identificativo preciso.",
   ],
 
   synonyms: [

@@ -45,9 +45,9 @@ export const mod730: LemmaEntry = {
     "l'→ F24.",
 
   examples: [
-    "«Ho fatto il 730 online in mezz'ora: il precompilato aveva già tutto, ho solo aggiunto le spese mediche che non erano state caricate.»",
-    "«Il rimborso IRPEF mi arriverà in busta paga a luglio: questo è il vantaggio del 730 rispetto al modello Redditi.»",
-    "«Ho aperto la partita IVA a marzo: quest'anno non posso più usare il 730, devo passare al modello Redditi PF.»",
+    "Ho fatto il 730 online in mezz'ora: il precompilato aveva già tutto, ho solo aggiunto le spese mediche che non erano state caricate.",
+    "Il rimborso IRPEF mi arriverà in busta paga a luglio: questo è il vantaggio del 730 rispetto al modello Redditi.",
+    "Ho aperto la partita IVA a marzo: quest'anno non posso più usare il 730, devo passare al modello Redditi PF.",
   ],
 
   synonyms: [

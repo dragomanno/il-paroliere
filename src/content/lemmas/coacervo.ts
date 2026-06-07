@@ -31,9 +31,9 @@ export const coacervo: LemmaEntry = {
     "Termine attestato già in Cicerone, usato sia in senso concreto sia retorico.",
 
   examples: [
-    "«La proposta di legge era un coacervo di norme contraddittorie accumulate senza logica sistematica.»",
-    "«Quel romanzo è un coacervo di citazioni colte e rimandi oscuri che finiscono per soffocare la storia.»",
-    "«La coalizione di governo sembrava un coacervo di interessi incompatibili destinato a implodere presto.»",
+    "La proposta di legge era un coacervo di norme contraddittorie accumulate senza logica sistematica.",
+    "Quel romanzo è un coacervo di citazioni colte e rimandi oscuri che finiscono per soffocare la storia.",
+    "La coalizione di governo sembrava un coacervo di interessi incompatibili destinato a implodere presto.",
   ],
 
   synonyms: [

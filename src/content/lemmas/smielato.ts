@@ -29,9 +29,9 @@ export const smielato: LemmaEntry = {
     "popolare e colloquiale; l'uso figurato è attestato almeno dall'Ottocento.",
 
   examples: [
-    "«Rispose con un tono talmente smielato che tutti capirono che stava mentendo.»",
-    "«Non sopporto i discorsi smielati del capo ogni volta che vuole chiederci uno straordinario.»",
-    '«Tesoooro, sei bellissima disse lui con quella vocina smielata che la faceva rabbrividire.»',
+    "Rispose con un tono talmente smielato che tutti capirono che stava mentendo.",
+    "Non sopporto i discorsi smielati del capo ogni volta che vuole chiederci uno straordinario.",
+    'Tesoooro, sei bellissima disse lui con quella vocina smielata che la faceva rabbrividire.',
   ],
 
   synonyms: [

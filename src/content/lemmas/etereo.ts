@@ -41,10 +41,10 @@ export const etereo: LemmaEntry = {
     "Aristotele lo chiamava quinta essentia — un elemento celeste, immutabile e perfetto.",
 
   examples: [
-    "«Aveva una bellezza eterea: quel tipo di volto che non invecchia mai perché sembra già aldilà del tempo.»",
-    "«Il dipinto era etereo nel senso più preciso: non c'era peso né ombra dura, solo luce che si scioglieva in luce.»",
-    "«Era uno di quei giovani uomini dalla bellezza eterea che Caravaggio non avrebbe disdegnato e che Botticelli avrebbe dipinto come angelo.»",
-    "«La sua voce aveva qualcosa di etereo: leggera, acuta, sospesa nell'aria come se non volesse atterrare.»",
+    "Aveva una bellezza eterea: quel tipo di volto che non invecchia mai perché sembra già aldilà del tempo.",
+    "Il dipinto era etereo nel senso più preciso: non c'era peso né ombra dura, solo luce che si scioglieva in luce.",
+    "Era uno di quei giovani uomini dalla bellezza eterea che Caravaggio non avrebbe disdegnato e che Botticelli avrebbe dipinto come angelo.",
+    "La sua voce aveva qualcosa di etereo: leggera, acuta, sospesa nell'aria come se non volesse atterrare.",
   ],
 
   synonyms: [

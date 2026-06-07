@@ -39,9 +39,9 @@ export const vendemmia: LemmaEntry = {
     "letteralmente «raccogliere il vino».",
 
   examples: [
-    "«La vendemmia del 2019 in Toscana fu eccezionale: un'estate calda e asciutta aveva prodotto uve di concentrazione straordinaria.»",
-    "«Ogni anno a settembre, la vendemmia trasforma le colline del Chianti in un paesaggio umano oltre che naturale: decine di persone nei filari, il profumo del mosto nell'aria.»",
-    "«La vendemmia manuale è ancora la scelta dei produttori di Brunello: ogni grappolo viene scelto a mano, ogni acino conta.»",
+    "La vendemmia del 2019 in Toscana fu eccezionale: un'estate calda e asciutta aveva prodotto uve di concentrazione straordinaria.",
+    "Ogni anno a settembre, la vendemmia trasforma le colline del Chianti in un paesaggio umano oltre che naturale: decine di persone nei filari, il profumo del mosto nell'aria.",
+    "La vendemmia manuale è ancora la scelta dei produttori di Brunello: ogni grappolo viene scelto a mano, ogni acino conta.",
   ],
 
   relatedWords: [

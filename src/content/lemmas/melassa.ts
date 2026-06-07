@@ -32,9 +32,9 @@ export const melassa: LemmaEntry = {
     "zucchero nei secoli XVI-XVII.",
 
   examples: [
-    "«La melassa di canna integrale ha un sapore intenso, quasi amaro, molto diverso dallo zucchero raffinato.»",
-    "«Quel romanzo è pura melassa: troppe lacrime, troppi abbracci, zero tensione narrativa.»",
-    "«La riunione si era trasformata in una melassa di buoni propositi senza alcuna decisione concreta.»",
+    "La melassa di canna integrale ha un sapore intenso, quasi amaro, molto diverso dallo zucchero raffinato.",
+    "Quel romanzo è pura melassa: troppe lacrime, troppi abbracci, zero tensione narrativa.",
+    "La riunione si era trasformata in una melassa di buoni propositi senza alcuna decisione concreta.",
   ],
 
   synonyms: [

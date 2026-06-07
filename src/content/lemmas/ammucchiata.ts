@@ -33,9 +33,9 @@ export const ammucchiata: LemmaEntry = {
     "latino tardo muculum di origine incerta (forse germanica o preromana).",
 
   examples: [
-    "«Il governo era una vera ammucchiata: sette partiti che non si sopportavano ma non volevano andare all'opposizione.»",
-    "«Quella coalizione non era nata da un'idea condivisa ma da una pura ammucchiata elettorale.»",
-    "«In fondo alla cantina c'era una solita ammucchiata di roba vecchia che nessuno voleva buttare.»",
+    "Il governo era una vera ammucchiata: sette partiti che non si sopportavano ma non volevano andare all'opposizione.",
+    "Quella coalizione non era nata da un'idea condivisa ma da una pura ammucchiata elettorale.",
+    "In fondo alla cantina c'era una solita ammucchiata di roba vecchia che nessuno voleva buttare.",
   ],
 
   synonyms: [

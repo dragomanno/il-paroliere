@@ -39,10 +39,10 @@ export const alienazione: LemmaEntry = {
     "etimologico di alieno, inalienabile, alienista (vecchio termine per psichiatra).",
 
   examples: [
-    "«Marx descriveva l'alienazione come la condizione fondamentale del lavoro capitalistico: il lavoratore produce ricchezza che non gli appartiene.»",
-    "«Sentiva una profonda alienazione dalla città in cui viveva: tutto le sembrava estraneo, costruito per qualcun altro.»",
-    "«L'alienazione del bene immobile deve essere fatta per atto pubblico davanti a un notaio: così dice il codice civile.»",
-    "«I social media possono produrre una forma di alienazione paradossale: più condividi, meno sei presente a te stesso.»",
+    "Marx descriveva l'alienazione come la condizione fondamentale del lavoro capitalistico: il lavoratore produce ricchezza che non gli appartiene.",
+    "Sentiva una profonda alienazione dalla città in cui viveva: tutto le sembrava estraneo, costruito per qualcun altro.",
+    "L'alienazione del bene immobile deve essere fatta per atto pubblico davanti a un notaio: così dice il codice civile.",
+    "I social media possono produrre una forma di alienazione paradossale: più condividi, meno sei presente a te stesso.",
   ],
 
   synonyms: [

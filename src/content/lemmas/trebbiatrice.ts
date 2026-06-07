@@ -38,9 +38,9 @@ export const trebbiatrice: LemmaEntry = {
     "denti usato per battere il grano) + suffisso -trice.",
 
   examples: [
-    "«La trebbiatrice arrivava in fattoria a luglio: era l'evento dell'estate, tutta la famiglia e i vicini si mobilitavano per la trebbia.»",
-    "«La moderna mietitrebbiatrice fa in poche ore quello che richiedeva giorni di lavoro manuale e una trebbiatrice trainata da buoi.»",
-    "«Il pasto della trebbia era il più abbondante dell'anno: la fatica condivisa si celebrava con cibo condiviso, e i contadini di poderi diversi si ritrovavano intorno alla stessa tavola.»",
+    "La trebbiatrice arrivava in fattoria a luglio: era l'evento dell'estate, tutta la famiglia e i vicini si mobilitavano per la trebbia.",
+    "La moderna mietitrebbiatrice fa in poche ore quello che richiedeva giorni di lavoro manuale e una trebbiatrice trainata da buoi.",
+    "Il pasto della trebbia era il più abbondante dell'anno: la fatica condivisa si celebrava con cibo condiviso, e i contadini di poderi diversi si ritrovavano intorno alla stessa tavola.",
   ],
 
   synonyms: [

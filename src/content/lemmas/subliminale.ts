@@ -36,10 +36,10 @@ export const subliminale: LemmaEntry = {
     "dalla psicanalisi e dalla psicologia della percezione del Novecento.",
 
   examples: [
-    "«Il filmato conteneva immagini subliminali inserite a 1/24 di secondo: visivamente impercettibili ma registrate dal cervello.»",
-    "«C'era nella sua voce qualcosa di subliminale che metteva a disagio senza che si riuscisse a capire esattamente perché.»",
-    "«Il marketing subliminale è vietato in Italia dalla legge: ogni messaggio pubblicitario deve essere riconoscibile come tale.»",
-    "«Certi bias cognitivi operano a livello subliminale: influenzano le nostre scelte prima ancora che le elaboriamo consciamente.»",
+    "Il filmato conteneva immagini subliminali inserite a 1/24 di secondo: visivamente impercettibili ma registrate dal cervello.",
+    "C'era nella sua voce qualcosa di subliminale che metteva a disagio senza che si riuscisse a capire esattamente perché.",
+    "Il marketing subliminale è vietato in Italia dalla legge: ogni messaggio pubblicitario deve essere riconoscibile come tale.",
+    "Certi bias cognitivi operano a livello subliminale: influenzano le nostre scelte prima ancora che le elaboriamo consciamente.",
   ],
 
   synonyms: [

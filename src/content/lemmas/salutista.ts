@@ -35,9 +35,9 @@ export const salutista: LemmaEntry = {
     "indica appartenenza a una tendenza, una pratica o un movimento.",
 
   examples: [
-    "«È diventato così salutista che alle cene porta il suo contenitore con il cibo preparato a casa.»",
-    "«Non sono un salutista, ma cerco di mangiare bene e muovermi almeno tre volte a settimana.»",
-    "«Il mercato del benessere si è espanso enormemente grazie alla crescente cultura salutista degli ultimi vent'anni.»",
+    "È diventato così salutista che alle cene porta il suo contenitore con il cibo preparato a casa.",
+    "Non sono un salutista, ma cerco di mangiare bene e muovermi almeno tre volte a settimana.",
+    "Il mercato del benessere si è espanso enormemente grazie alla crescente cultura salutista degli ultimi vent'anni.",
   ],
 
   synonyms: [

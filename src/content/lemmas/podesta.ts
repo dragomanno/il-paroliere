@@ -41,9 +41,9 @@ export const podesta: LemmaEntry = {
     "Il termine indica chi detiene il potere esecutivo.",
 
   examples: [
-    "«Il podestà medievale di Firenze era scelto fuori dalla città per evitare che si alleasse con una delle fazioni in conflitto.»",
-    "«Con la legge del 1926, Mussolini abolì i sindaci eletti e li sostituì con i podestà: fine del governo locale democratico in Italia.»",
-    "«Il podestà fascista di Siena era responsabile non solo dell'amministrazione comunale ma anche dell'organizzazione del Palio, che il regime usò come strumento di propaganda nazionalista.»",
+    "Il podestà medievale di Firenze era scelto fuori dalla città per evitare che si alleasse con una delle fazioni in conflitto.",
+    "Con la legge del 1926, Mussolini abolì i sindaci eletti e li sostituì con i podestà: fine del governo locale democratico in Italia.",
+    "Il podestà fascista di Siena era responsabile non solo dell'amministrazione comunale ma anche dell'organizzazione del Palio, che il regime usò come strumento di propaganda nazionalista.",
   ],
 
   synonyms: [

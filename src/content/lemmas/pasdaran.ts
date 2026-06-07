@@ -42,9 +42,9 @@ export const pasdaran: LemmaEntry = {
     "«i custodi» — della rivoluzione islamica.",
 
   examples: [
-    "«I Pasdaran iraniani sono stati designati organizzazione terroristica dagli Stati Uniti nel 2019 — una classificazione senza precedenti per un'entità militare statale.»",
-    "«La Forza Quds, braccio operativo dei Pasdaran, coordina il sostegno iraniano a Hezbollah e alle milizie sciite in Iraq.»",
-    '«Nel linguaggio politico italiano, "i pasdaran del partito" indica i difensori più rigidi dell\'ortodossia interna — un uso figurato ormai consolidato, ma da usare consapevolmente.»',
+    "I Pasdaran iraniani sono stati designati organizzazione terroristica dagli Stati Uniti nel 2019 — una classificazione senza precedenti per un'entità militare statale.",
+    "La Forza Quds, braccio operativo dei Pasdaran, coordina il sostegno iraniano a Hezbollah e alle milizie sciite in Iraq.",
+    'Nel linguaggio politico italiano, "i pasdaran del partito" indica i difensori più rigidi dell\'ortodossia interna — un uso figurato ormai consolidato, ma da usare consapevolmente.',
   ],
 
   synonyms: [

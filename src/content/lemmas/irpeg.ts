@@ -32,8 +32,8 @@ export const irpeg: LemmaEntry = {
     "il D.Lgs. 344/2003.",
 
   examples: [
-    "«Quando fu fondata la società, nel 1995, l'IRPEG era ancora l'imposta di riferimento per i redditi societari.»",
-    "«La riforma del 2004 abolì l'IRPEG e introdusse l'IRES, riducendo anche l'aliquota dal 34% al 33%.»",
+    "Quando fu fondata la società, nel 1995, l'IRPEG era ancora l'imposta di riferimento per i redditi societari.",
+    "La riforma del 2004 abolì l'IRPEG e introdusse l'IRES, riducendo anche l'aliquota dal 34% al 33%.",
   ],
 
   relatedWords: [

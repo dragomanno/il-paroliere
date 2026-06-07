@@ -42,9 +42,9 @@ export const devianza: LemmaEntry = {
     "letteralmente «uscire dalla strada». Lo stesso campo di deviazione, deviato, deviare.",
 
   examples: [
-    "«La devianza standard di quella distribuzione era molto alta: i valori erano dispersi in modo ampio attorno alla media.»",
-    "«Merton sosteneva che la devianza criminale nelle società capitalistiche fosse spesso una risposta razionale all'impossibilità di raggiungere gli obiettivi culturali con i mezzi legittimi disponibili.»",
-    "«Ciò che una società considera devianza cambia nel tempo: l'omosessualità era classificata come devianza psichiatrica fino al 1973 nel DSM americano — poi è stata rimossa, non perché le persone fossero cambiate, ma perché la norma era cambiata.»",
+    "La devianza standard di quella distribuzione era molto alta: i valori erano dispersi in modo ampio attorno alla media.",
+    "Merton sosteneva che la devianza criminale nelle società capitalistiche fosse spesso una risposta razionale all'impossibilità di raggiungere gli obiettivi culturali con i mezzi legittimi disponibili.",
+    "Ciò che una società considera devianza cambia nel tempo: l'omosessualità era classificata come devianza psichiatrica fino al 1973 nel DSM americano — poi è stata rimossa, non perché le persone fossero cambiate, ma perché la norma era cambiata.",
   ],
 
   synonyms: [

@@ -34,9 +34,9 @@ export const coach: LemmaEntry = {
     "moderna.",
 
   examples: [
-    "«Si era trovata un buon coach: dopo ogni sessione usciva più chiara su quello che voleva davvero.»",
-    "«Non aveva bisogno di un coach che le facesse le domande giuste, aveva bisogno di un mentor che le dicesse dove guardare.»",
-    "«Il suo mentor le aveva aperto porte che non avrebbe mai trovato da sola.»",
+    "Si era trovata un buon coach: dopo ogni sessione usciva più chiara su quello che voleva davvero.",
+    "Non aveva bisogno di un coach che le facesse le domande giuste, aveva bisogno di un mentor che le dicesse dove guardare.",
+    "Il suo mentor le aveva aperto porte che non avrebbe mai trovato da sola.",
   ],
 
   relatedWords: [

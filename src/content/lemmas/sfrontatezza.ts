@@ -33,9 +33,9 @@ export const sfrontatezza: LemmaEntry = {
     "che gioca sulla stessa metafora del volto come sede della vergogna.",
 
   examples: [
-    "«Rispose con una sfrontatezza che lasciò tutti a bocca aperta: nessuno si aspettava tanta arroganza.»",
-    "«La sfrontatezza con cui aveva preso il merito del lavoro altrui era quasi ammirevole nella sua impudenza.»",
-    "«C'è una sfrontatezza tutta contemporanea nel mostrarsi sui social senza filtri: a volte è autenticità, a volte è solo mancanza di senso del limite.»",
+    "Rispose con una sfrontatezza che lasciò tutti a bocca aperta: nessuno si aspettava tanta arroganza.",
+    "La sfrontatezza con cui aveva preso il merito del lavoro altrui era quasi ammirevole nella sua impudenza.",
+    "C'è una sfrontatezza tutta contemporanea nel mostrarsi sui social senza filtri: a volte è autenticità, a volte è solo mancanza di senso del limite.",
   ],
 
   synonyms: [

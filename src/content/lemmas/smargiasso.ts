@@ -38,9 +38,9 @@ export const smargiasso: LemmaEntry = {
     "presente nella Commedia dell'Arte come tipo fisso.",
 
   examples: [
-    "«Davanti agli amici era uno smargiasso che prometteva imprese impossibili; da solo, evitava accuratamente qualsiasi situazione di rischio.»",
-    "«Il Capitano della Commedia dell'Arte è l'archetipo dello smargiasso: bravate, spacconate, e poi la fuga alla prima difficoltà reale.»",
-    '«Non fare lo smargiasso gli disse il nonno. Chi vale davvero non ha bisogno di dirtelo.»',
+    "Davanti agli amici era uno smargiasso che prometteva imprese impossibili; da solo, evitava accuratamente qualsiasi situazione di rischio.",
+    "Il Capitano della Commedia dell'Arte è l'archetipo dello smargiasso: bravate, spacconate, e poi la fuga alla prima difficoltà reale.",
+    'Non fare lo smargiasso gli disse il nonno. Chi vale davvero non ha bisogno di dirtelo.',
   ],
 
   synonyms: [

@@ -37,10 +37,10 @@ export const investimento: LemmaEntry = {
     "linguaggio mercantile europeo.",
 
   examples: [
-    "«Comprare un appartamento da ristrutturare e affittare è un investimento immobiliare a lungo termine.»",
-    "«La formazione professionale è il miglior investimento che si possa fare su se stessi, con un rendimento che nessun mercato finanziario può garantire.»",
-    "«Quell'azienda ha aumentato gli investimenti in ricerca e sviluppo del 30% rispetto all'anno precedente.»",
-    "«Non è una spesa: è un investimento» — formula retorica ubiqua nel marketing, spesso usata per giustificare qualsiasi acquisto.",
+    "Comprare un appartamento da ristrutturare e affittare è un investimento immobiliare a lungo termine.",
+    "La formazione professionale è il miglior investimento che si possa fare su se stessi, con un rendimento che nessun mercato finanziario può garantire.",
+    "Quell'azienda ha aumentato gli investimenti in ricerca e sviluppo del 30% rispetto all'anno precedente.",
+    "Non è una spesa: è un investimento — formula retorica ubiqua nel marketing, spesso usata per giustificare qualsiasi acquisto.",
   ],
 
   synonyms: [

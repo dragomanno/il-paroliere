@@ -31,9 +31,9 @@ export const ironia: LemmaEntry = {
     "derivato di eirein («dire»). Passato nel latino ironia e da lì nelle lingue romanze.",
 
   examples: [
-    '«Che bel lavoro hai fatto disse con ironia guardando il disastro lasciato dalla ristrutturazione.»',
-    "«L'ironia del destino volle che proprio lui, che aveva sempre schivato le riunioni, fosse nominato responsabile delle assemblee.»",
-    "«L'ironia socratica non era derisione: era uno strumento filosofico per portare l'interlocutore a riconoscere i propri limiti.»",
+    'Che bel lavoro hai fatto disse con ironia guardando il disastro lasciato dalla ristrutturazione.',
+    "L'ironia del destino volle che proprio lui, che aveva sempre schivato le riunioni, fosse nominato responsabile delle assemblee.",
+    "L'ironia socratica non era derisione: era uno strumento filosofico per portare l'interlocutore a riconoscere i propri limiti.",
   ],
 
   synonyms: [

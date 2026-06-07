@@ -44,9 +44,9 @@ export const anamnesi: LemmaEntry = {
     "della memoria madre delle Muse). Letteralmente: «rimemorazione, recupero della memoria».",
 
   examples: [
-    "«Una buona anamnesi vale più di mille esami: il medico che sa ascoltare il paziente arriva alla diagnosi prima e meglio di chi affida tutto alla tecnologia.»",
-    "«Nel Menone, Socrate usa l'anamnesi platonica per dimostrare che lo schiavo «sa già» la geometria: la conoscenza non viene dall'esterno, viene dal ricordo dell'anima.»",
-    "«L'anamnesi familiare rivelò una storia di cardiopatie su tre generazioni: informazione che cambiò completamente l'approccio terapeutico.»",
+    "Una buona anamnesi vale più di mille esami: il medico che sa ascoltare il paziente arriva alla diagnosi prima e meglio di chi affida tutto alla tecnologia.",
+    "Nel Menone, Socrate usa l'anamnesi platonica per dimostrare che lo schiavo sa già la geometria: la conoscenza non viene dall'esterno, viene dal ricordo dell'anima.",
+    "L'anamnesi familiare rivelò una storia di cardiopatie su tre generazioni: informazione che cambiò completamente l'approccio terapeutico.",
   ],
 
   synonyms: [

@@ -36,9 +36,9 @@ export const isobara: LemmaEntry = {
     "isoipse, isotopi).",
 
   examples: [
-    "«Guardando le isobare sulla carta meteorologica, si vede chiaramente che sull'Italia settentrionale sta arrivando una depressione atlantica.»",
-    "«Le isobare molto ravvicinate sul Mar del Nord indicano venti forti e mare agitato.»",
-    "«Un anticiclone si riconosce perché le isobare formano cerchi chiusi con la pressione più alta al centro.»",
+    "Guardando le isobare sulla carta meteorologica, si vede chiaramente che sull'Italia settentrionale sta arrivando una depressione atlantica.",
+    "Le isobare molto ravvicinate sul Mar del Nord indicano venti forti e mare agitato.",
+    "Un anticiclone si riconosce perché le isobare formano cerchi chiusi con la pressione più alta al centro.",
   ],
 
   synonyms: [

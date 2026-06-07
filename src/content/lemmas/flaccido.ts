@@ -34,9 +34,9 @@ export const flaccido: LemmaEntry = {
     "di flosco, con cui condivide il significato di base.",
 
   examples: [
-    "«Dopo sei settimane di immobilità forzata, i muscoli della coscia erano diventati flaccidi e avevano perso quasi un terzo del volume.»",
-    "«La risposta del governo fu flaccida: molte parole, nessuna misura concreta.»",
-    "«La paralisi flaccida che seguì all'incidente era di origine spinale: il tono muscolare era completamente assente.»",
+    "Dopo sei settimane di immobilità forzata, i muscoli della coscia erano diventati flaccidi e avevano perso quasi un terzo del volume.",
+    "La risposta del governo fu flaccida: molte parole, nessuna misura concreta.",
+    "La paralisi flaccida che seguì all'incidente era di origine spinale: il tono muscolare era completamente assente.",
   ],
 
   synonyms: [

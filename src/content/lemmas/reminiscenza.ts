@@ -42,10 +42,10 @@ export const reminiscenza: LemmaEntry = {
     "paziente — un'eredità terminologica diretta dalla filosofia platonica.",
 
   examples: [
-    "«Quel profumo di legno e cera gli provocò una reminiscenza improvvisa: la casa della nonna, i pomeriggi d'estate, un senso di sicurezza ormai perduto.»",
-    "«Nel Menone, Platone usa la reminiscenza per rispondere a uno dei problemi più antichi della filosofia: come è possibile cercare ciò che non si conosce? La risposta è che lo si conosce già — e lo si sta ricordando.»",
-    "«Certi paesaggi della Toscana hanno reminiscenze medievali che resistono ai secoli e alle stagioni turistiche.»",
-    "«Proust ha costruito su un'idea strutturalmente platonica — la reminiscenza involontaria innescata da un sapore, un odore, una luce — l'intera architettura della Recherche.»",
+    "Quel profumo di legno e cera gli provocò una reminiscenza improvvisa: la casa della nonna, i pomeriggi d'estate, un senso di sicurezza ormai perduto.",
+    "Nel Menone, Platone usa la reminiscenza per rispondere a uno dei problemi più antichi della filosofia: come è possibile cercare ciò che non si conosce? La risposta è che lo si conosce già — e lo si sta ricordando.",
+    "Certi paesaggi della Toscana hanno reminiscenze medievali che resistono ai secoli e alle stagioni turistiche.",
+    "Proust ha costruito su un'idea strutturalmente platonica — la reminiscenza involontaria innescata da un sapore, un odore, una luce — l'intera architettura della Recherche.",
   ],
 
   synonyms: [

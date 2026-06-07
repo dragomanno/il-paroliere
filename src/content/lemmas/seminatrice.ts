@@ -35,9 +35,9 @@ export const seminatrice: LemmaEntry = {
     "dei nomi di macchine e strumenti.",
 
   examples: [
-    "«La seminatrice di precisione permette di distribuire i semi di mais a distanza esatta di 75 cm tra le file, ottimizzando lo spazio e riducendo la competizione tra le piante.»",
-    "«Prima dell'avvento della seminatrice meccanica, la semina del grano richiedeva squadre di lavoratori che percorrevano i campi per giorni.»",
-    "«La seminatrice a righe è ancora la macchina base per la coltivazione del frumento: semplice, affidabile, adatta a terreni di ogni tipo.»",
+    "La seminatrice di precisione permette di distribuire i semi di mais a distanza esatta di 75 cm tra le file, ottimizzando lo spazio e riducendo la competizione tra le piante.",
+    "Prima dell'avvento della seminatrice meccanica, la semina del grano richiedeva squadre di lavoratori che percorrevano i campi per giorni.",
+    "La seminatrice a righe è ancora la macchina base per la coltivazione del frumento: semplice, affidabile, adatta a terreni di ogni tipo.",
   ],
 
   synonyms: [

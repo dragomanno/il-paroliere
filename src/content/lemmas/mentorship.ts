@@ -32,9 +32,9 @@ export const mentorship: LemmaEntry = {
     "partnership).",
 
   examples: [
-    "«La mentorship con la direttrice creativa era durata tre anni: non era un programma formale, era una relazione vera.»",
-    "«Nei programmi aziendali moderni si parla spesso di mentoring come processo, ma il valore autentico sta nella mentorship, nel legame umano che si costruisce nel tempo.»",
-    "«Cercava una mentorship, non un corso: voleva qualcuno che la guardasse crescere, non qualcuno che le spiegasse come si fa.»",
+    "La mentorship con la direttrice creativa era durata tre anni: non era un programma formale, era una relazione vera.",
+    "Nei programmi aziendali moderni si parla spesso di mentoring come processo, ma il valore autentico sta nella mentorship, nel legame umano che si costruisce nel tempo.",
+    "Cercava una mentorship, non un corso: voleva qualcuno che la guardasse crescere, non qualcuno che le spiegasse come si fa.",
   ],
 
   synonyms: [

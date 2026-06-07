@@ -38,9 +38,9 @@ export const deduzioneFiscale: LemmaEntry = {
     "del diritto tributario moderno.",
 
   examples: [
-    "«I 3.000 euro versati al fondo pensione sono una deduzione: abbassano il reddito imponibile e mi fanno risparmiare tanto più quanto più alta è la mia aliquota.»",
-    "«La deduzione dei contributi previdenziali è automatica per i lavoratori dipendenti: non bisogna fare nulla nel 730.»",
-    "«Una deduzione da 1.000 euro vale 430 euro di risparmio per chi guadagna molto e solo 230 euro per chi guadagna poco: è uno dei meccanismi che rende il sistema fiscale meno progressivo di quanto sembri.»",
+    "I 3.000 euro versati al fondo pensione sono una deduzione: abbassano il reddito imponibile e mi fanno risparmiare tanto più quanto più alta è la mia aliquota.",
+    "La deduzione dei contributi previdenziali è automatica per i lavoratori dipendenti: non bisogna fare nulla nel 730.",
+    "Una deduzione da 1.000 euro vale 430 euro di risparmio per chi guadagna molto e solo 230 euro per chi guadagna poco: è uno dei meccanismi che rende il sistema fiscale meno progressivo di quanto sembri.",
   ],
 
   synonyms: [

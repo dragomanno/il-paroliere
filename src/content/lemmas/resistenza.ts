@@ -33,11 +33,11 @@ export const resistenza: LemmaEntry = {
     "è attestato in italiano già nel Trecento.",
 
   examples: [
-    "«La resistenza dei materiali compositi è molto superiore a quella dell'acciaio tradizionale.»",
-    "«Il circuito non funzionava: la resistenza era bruciata.»",
-    "«Una resistenza di 100 ohm limita il passaggio di corrente in modo significativo.»",
-    "«Quella donna oppose una resistenza silenziosa ma ostinata a ogni tentativo di piegarla.»",
-    "«I partigiani della Resistenza pagarono un prezzo altissimo in vite umane.»",
+    "La resistenza dei materiali compositi è molto superiore a quella dell'acciaio tradizionale.",
+    "Il circuito non funzionava: la resistenza era bruciata.",
+    "Una resistenza di 100 ohm limita il passaggio di corrente in modo significativo.",
+    "Quella donna oppose una resistenza silenziosa ma ostinata a ogni tentativo di piegarla.",
+    "I partigiani della Resistenza pagarono un prezzo altissimo in vite umane.",
   ],
 
   synonyms: [

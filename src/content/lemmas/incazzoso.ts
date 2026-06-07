@@ -34,9 +34,9 @@ export const incazzoso: LemmaEntry = {
     "La costruzione è parallela a pauroso, geloso, nervoso.",
 
   examples: [
-    "«Attenzione a come glielo dici: è una persona incazzosa, prende fuoco in un secondo.»",
-    "«Non sono incazzoso di carattere, ma certe ingiustizie mi fanno perdere la pazienza.»",
-    "«Era un tipo incazzoso ma leale: si arrabbiava spesso, ma non portava rancore.»",
+    "Attenzione a come glielo dici: è una persona incazzosa, prende fuoco in un secondo.",
+    "Non sono incazzoso di carattere, ma certe ingiustizie mi fanno perdere la pazienza.",
+    "Era un tipo incazzoso ma leale: si arrabbiava spesso, ma non portava rancore.",
   ],
 
   synonyms: [

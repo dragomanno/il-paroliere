@@ -39,9 +39,9 @@ export const irpef: LemmaEntry = {
     "del 29 settembre 1973, in vigore dal 1° gennaio 1974.",
 
   examples: [
-    "«Con il conguaglio di marzo ho scoperto di dover versare altri 800 euro di IRPEF: non avevo conteggiato bene le detrazioni.»",
-    "«L'IRPEF è un'imposta progressiva: chi guadagna di più paga un'aliquota più alta sugli scaglioni superiori.»",
-    "«Prima dell'IRPEF, l'ILOR colpiva i redditi di impresa e di capitale con logiche diverse e spesso sovrapposte.»",
+    "Con il conguaglio di marzo ho scoperto di dover versare altri 800 euro di IRPEF: non avevo conteggiato bene le detrazioni.",
+    "L'IRPEF è un'imposta progressiva: chi guadagna di più paga un'aliquota più alta sugli scaglioni superiori.",
+    "Prima dell'IRPEF, l'ILOR colpiva i redditi di impresa e di capitale con logiche diverse e spesso sovrapposte.",
   ],
 
   synonyms: [

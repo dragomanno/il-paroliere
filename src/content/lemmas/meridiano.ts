@@ -38,9 +38,9 @@ export const meridiano: LemmaEntry = {
     "meridiano era il cerchio che il sole attraversa a mezzogiorno.",
 
   examples: [
-    "«Roma si trova approssimativamente sul 12° meridiano Est.»",
-    "«Il meridiano di Greenwich fu adottato come riferimento universale nel 1884 durante la Conferenza internazionale di Washington.»",
-    "«I meridiani convergono ai poli: due punti sulla stessa latitudine equatoriale possono distare migliaia di chilometri anche se separati da pochi gradi di meridiano.»",
+    "Roma si trova approssimativamente sul 12° meridiano Est.",
+    "Il meridiano di Greenwich fu adottato come riferimento universale nel 1884 durante la Conferenza internazionale di Washington.",
+    "I meridiani convergono ai poli: due punti sulla stessa latitudine equatoriale possono distare migliaia di chilometri anche se separati da pochi gradi di meridiano.",
   ],
 
   relatedWords: [

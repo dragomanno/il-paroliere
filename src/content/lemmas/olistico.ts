@@ -39,9 +39,9 @@ export const olistico: LemmaEntry = {
     "sudafricano Jan Christian Smuts nel 1926 nel libro Holism and Evolution.",
 
   examples: [
-    "«La medicina cinese tradizionale è strutturalmente olistica: non tratta il sintomo ma la persona, nel suo equilibrio complessivo tra mente, corpo e ambiente.»",
-    "«Un approccio olistico alla formazione aziendale non si limita alle competenze tecniche: considera motivazione, relazioni, cultura organizzativa e benessere delle persone come sistema integrato.»",
-    '«Olistico è una parola bellissima che il marketing ha quasi distrutto: sentirla in una pubblicità di creme o integratori è ormai quasi automaticamente sospetto.»',
+    "La medicina cinese tradizionale è strutturalmente olistica: non tratta il sintomo ma la persona, nel suo equilibrio complessivo tra mente, corpo e ambiente.",
+    "Un approccio olistico alla formazione aziendale non si limita alle competenze tecniche: considera motivazione, relazioni, cultura organizzativa e benessere delle persone come sistema integrato.",
+    'Olistico è una parola bellissima che il marketing ha quasi distrutto: sentirla in una pubblicità di creme o integratori è ormai quasi automaticamente sospetto.',
   ],
 
   synonyms: [

@@ -37,10 +37,10 @@ export const pudore: LemmaEntry = {
     "(«vergognarsi, provare imbarazzo»). Lo stesso campo di impudico, pudicizia, impudenza.",
 
   examples: [
-    "«Raccontò la sua malattia con un pudore che commosse tutti: nessun dettaglio inutile, nessuna ricerca di commiserazione.»",
-    "«C'è un pudore tutto italiano verso il denaro: si parla di tutto tranne che di quanto si guadagna.»",
-    "«Il ritratto era pudìco nella sua nudità: nessuna provocazione, solo una presenza silenziosa e dignitosa.»",
-    "«Aveva uno sguardo pudìco che sembrava chiedere scusa per il fatto stesso di essere guardato.»",
+    "Raccontò la sua malattia con un pudore che commosse tutti: nessun dettaglio inutile, nessuna ricerca di commiserazione.",
+    "C'è un pudore tutto italiano verso il denaro: si parla di tutto tranne che di quanto si guadagna.",
+    "Il ritratto era pudìco nella sua nudità: nessuna provocazione, solo una presenza silenziosa e dignitosa.",
+    "Aveva uno sguardo pudìco che sembrava chiedere scusa per il fatto stesso di essere guardato.",
   ],
 
   synonyms: [

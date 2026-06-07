@@ -37,9 +37,9 @@ export const ecumenico: LemmaEntry = {
     "campo etimologico di ecologia, economia, diocesi.",
 
   examples: [
-    "«Il Concilio Vaticano II fu un momento ecumenico decisivo: aprì la Chiesa cattolica al dialogo con le altre confessioni cristiane.»",
-    "«Il film ricevette un'accoglienza ecumenica: piacque alla critica intellettuale, al grande pubblico e persino a chi di cinema non si interessa normalmente.»",
-    "«Papa Francesco ha fatto dell'apertura ecumenica uno dei pilastri del suo pontificato.»",
+    "Il Concilio Vaticano II fu un momento ecumenico decisivo: aprì la Chiesa cattolica al dialogo con le altre confessioni cristiane.",
+    "Il film ricevette un'accoglienza ecumenica: piacque alla critica intellettuale, al grande pubblico e persino a chi di cinema non si interessa normalmente.",
+    "Papa Francesco ha fatto dell'apertura ecumenica uno dei pilastri del suo pontificato.",
   ],
 
   synonyms: [

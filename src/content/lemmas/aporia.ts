@@ -42,9 +42,9 @@ export const aporia: LemmaEntry = {
     "L'accento cade sulla seconda sillaba: apo-rì-a.",
 
   examples: [
-    "«Il dialogo Eutifrone di Platone è un classico aporico: Socrate smonta ogni definizione di pietà proposta da Eutifrone, e alla fine nessuno sa più cos'è la pietà — ma almeno sa di non saperlo.»",
-    "«L'aporìa del dono in Derrida: perché un dono sia autentico, il donatore non deve aspettarsi riconoscenza — ma se sa di star dando, è già entrato in una logica di scambio. Il dono puro è impossibile, eppure continuiamo a darlo.»",
-    "«Di fronte all'aporìa del libero arbitrio e della responsabilità morale, la filosofia non offre una soluzione: offre la consapevolezza della complessità.»",
+    "Il dialogo Eutifrone di Platone è un classico aporico: Socrate smonta ogni definizione di pietà proposta da Eutifrone, e alla fine nessuno sa più cos'è la pietà — ma almeno sa di non saperlo.",
+    "L'aporìa del dono in Derrida: perché un dono sia autentico, il donatore non deve aspettarsi riconoscenza — ma se sa di star dando, è già entrato in una logica di scambio. Il dono puro è impossibile, eppure continuiamo a darlo.",
+    "Di fronte all'aporìa del libero arbitrio e della responsabilità morale, la filosofia non offre una soluzione: offre la consapevolezza della complessità.",
   ],
 
   synonyms: [

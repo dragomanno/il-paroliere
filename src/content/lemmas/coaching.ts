@@ -32,9 +32,9 @@ export const coaching: LemmaEntry = {
     "nell'ambito universitario.",
 
   examples: [
-    "«L'azienda ha assunto un coach esterno per aiutare il team di vendita a migliorare la gestione dello stress e la comunicazione.»",
-    "«Dopo sei mesi di coaching, aveva capito da sola dove voleva andare: non si aspettava di trovare le risposte guardando dentro di sé.»",
-    "«Non aveva bisogno di un coach che le facesse le domande giuste, aveva bisogno di un mentor che le dicesse dove guardare.»",
+    "L'azienda ha assunto un coach esterno per aiutare il team di vendita a migliorare la gestione dello stress e la comunicazione.",
+    "Dopo sei mesi di coaching, aveva capito da sola dove voleva andare: non si aspettava di trovare le risposte guardando dentro di sé.",
+    "Non aveva bisogno di un coach che le facesse le domande giuste, aveva bisogno di un mentor che le dicesse dove guardare.",
   ],
 
   synonyms: [

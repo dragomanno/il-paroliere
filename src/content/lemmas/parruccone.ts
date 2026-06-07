@@ -39,9 +39,9 @@ export const parruccone: LemmaEntry = {
     "politico-culturale.",
 
   examples: [
-    "«I parrucconi del Consiglio comunale bloccarono il progetto urbanistico per tre anni.»",
-    "«Non essere un parruccone: quella legge fu scritta cinquant'anni fa, il mondo è cambiato.»",
-    "«Il teatro era frequentato da una certa fauna di parrucconi che fischiavano ogni volta che qualcuno osava mettere in scena uno spettacolo contemporaneo.»",
+    "I parrucconi del Consiglio comunale bloccarono il progetto urbanistico per tre anni.",
+    "Non essere un parruccone: quella legge fu scritta cinquant'anni fa, il mondo è cambiato.",
+    "Il teatro era frequentato da una certa fauna di parrucconi che fischiavano ogni volta che qualcuno osava mettere in scena uno spettacolo contemporaneo.",
   ],
 
   synonyms: [

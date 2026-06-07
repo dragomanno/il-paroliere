@@ -42,9 +42,9 @@ export const olioDoliva: LemmaEntry = {
     "greco-latina.",
 
   examples: [
-    "«L'olio DOP Toscano ha un disciplinare che prevede una percentuale minima di coltivazioni locali come Frantoio, Moraiolo e Leccino.»",
-    "«La differenza tra un olio extravergine di qualità e uno scadente si sente immediatamente: amaro, piccante, fruttato nell'uno; piatto, rancido o difettoso nell'altro.»",
-    "«Un olio di nuova produzione — il cosiddetto olio nuovo, spremuto a novembre — ha un'intensità aromatica e una pungenza che si attenua nel corso dei mesi.»",
+    "L'olio DOP Toscano ha un disciplinare che prevede una percentuale minima di coltivazioni locali come Frantoio, Moraiolo e Leccino.",
+    "La differenza tra un olio extravergine di qualità e uno scadente si sente immediatamente: amaro, piccante, fruttato nell'uno; piatto, rancido o difettoso nell'altro.",
+    "Un olio di nuova produzione — il cosiddetto olio nuovo, spremuto a novembre — ha un'intensità aromatica e una pungenza che si attenua nel corso dei mesi.",
   ],
 
   relatedWords: [

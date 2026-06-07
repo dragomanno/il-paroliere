@@ -37,9 +37,9 @@ export const vitigno: LemmaEntry = {
     "appartenenza o derivazione. Vitigno è letteralmente «ciò che appartiene alla vite».",
 
   examples: [
-    "«Il Sangiovese è il vitigno più coltivato in Italia: dalla sua uva nascono vini molto diversi, dal Chianti più semplice al Brunello di Montalcino più complesso.»",
-    "«La fillossera del XIX secolo distrusse quasi tutti i vigneti europei: fu necessario innestare i vitigni nobili europei su portainnesti americani resistenti al parassita.»",
-    "«L'Italia è il paese con il maggior numero di vitigni autoctoni al mondo: una biodiversità enologica unica che si traduce in una diversità di vini irriproducibile altrove.»",
+    "Il Sangiovese è il vitigno più coltivato in Italia: dalla sua uva nascono vini molto diversi, dal Chianti più semplice al Brunello di Montalcino più complesso.",
+    "La fillossera del XIX secolo distrusse quasi tutti i vigneti europei: fu necessario innestare i vitigni nobili europei su portainnesti americani resistenti al parassita.",
+    "L'Italia è il paese con il maggior numero di vitigni autoctoni al mondo: una biodiversità enologica unica che si traduce in una diversità di vini irriproducibile altrove.",
   ],
 
   relatedWords: [

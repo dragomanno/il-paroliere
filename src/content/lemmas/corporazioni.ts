@@ -41,9 +41,9 @@ export const corporazioni: LemmaEntry = {
     "mestiere riuniti in un'unica entità giuridica e sociale.",
 
   examples: [
-    "«Le corporazioni delle Arti Maggiori di Firenze controllavano non solo il commercio della lana e della seta, ma anche l'accesso alle cariche politiche del Comune.»",
-    "«L'apprendista entrava nella corporazione da bambino e ci restava per tutta la vita: era la sua famiglia professionale, il suo sistema di previdenza, la sua identità sociale.»",
-    "«Il sistema delle corporazioni medievali fu smantellato in Italia solo tra la fine del XVIII e il XIX secolo, con l'arrivo delle idee liberali e napoleoniche.»",
+    "Le corporazioni delle Arti Maggiori di Firenze controllavano non solo il commercio della lana e della seta, ma anche l'accesso alle cariche politiche del Comune.",
+    "L'apprendista entrava nella corporazione da bambino e ci restava per tutta la vita: era la sua famiglia professionale, il suo sistema di previdenza, la sua identità sociale.",
+    "Il sistema delle corporazioni medievali fu smantellato in Italia solo tra la fine del XVIII e il XIX secolo, con l'arrivo delle idee liberali e napoleoniche.",
   ],
 
   synonyms: [

@@ -34,9 +34,9 @@ export const irreprensibile: LemmaEntry = {
     "ripreso». Reprehendere è lo stesso verbo di rimproverare attraverso il francese antico.",
 
   examples: [
-    "«La sua condotta professionale era sempre stata irreprensibile: nessuno aveva mai avuto nulla da obiettare.»",
-    "«Un servizio irreprensibile non basta più per distinguersi: oggi i clienti si aspettano qualcosa di memorabile, non solo di corretto.»",
-    "«L'arbitro diresse la partita in modo irreprensibile: nessuna delle due squadre ebbe motivo di protestare.»",
+    "La sua condotta professionale era sempre stata irreprensibile: nessuno aveva mai avuto nulla da obiettare.",
+    "Un servizio irreprensibile non basta più per distinguersi: oggi i clienti si aspettano qualcosa di memorabile, non solo di corretto.",
+    "L'arbitro diresse la partita in modo irreprensibile: nessuna delle due squadre ebbe motivo di protestare.",
   ],
 
   synonyms: [

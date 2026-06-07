@@ -37,9 +37,9 @@ export const isoterma: LemmaEntry = {
     "Stesso prefisso iso- di → isobare e → isoipse.",
 
   examples: [
-    "«Le isoterme di gennaio mostrano chiaramente come il clima mediterraneo protegga l'Italia meridionale dal freddo invernale rispetto all'Europa centrale.»",
-    "«L'isoterma degli 0°C in quota — la cosiddetta quota dello zero termico — è un parametro fondamentale per prevedere neve o pioggia in montagna.»",
-    "«In fisica, una trasformazione isoterma di un gas avviene a temperatura costante: la pressione e il volume variano ma il prodotto pV resta invariato (legge di Boyle).»",
+    "Le isoterme di gennaio mostrano chiaramente come il clima mediterraneo protegga l'Italia meridionale dal freddo invernale rispetto all'Europa centrale.",
+    "L'isoterma degli 0°C in quota — la cosiddetta quota dello zero termico — è un parametro fondamentale per prevedere neve o pioggia in montagna.",
+    "In fisica, una trasformazione isoterma di un gas avviene a temperatura costante: la pressione e il volume variano ma il prodotto pV resta invariato (legge di Boyle).",
   ],
 
   synonyms: [

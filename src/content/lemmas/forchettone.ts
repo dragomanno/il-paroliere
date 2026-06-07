@@ -35,9 +35,9 @@ export const forchettone: LemmaEntry = {
     "alla modernità.",
 
   examples: [
-    "«Non invitarlo a discutere di tecnologia: è un forchettone che non riesce nemmeno a mandare un'email senza aiuto.»",
-    "«La commissione era piena di forchettoni: nessuna idea nuova aveva speranza di passare.»",
-    "«Tira fuori il forchettone dal cassetto, che stasera abbiamo l'arrosto per venti persone.»",
+    "Non invitarlo a discutere di tecnologia: è un forchettone che non riesce nemmeno a mandare un'email senza aiuto.",
+    "La commissione era piena di forchettoni: nessuna idea nuova aveva speranza di passare.",
+    "Tira fuori il forchettone dal cassetto, che stasera abbiamo l'arrosto per venti persone.",
   ],
 
   synonyms: [

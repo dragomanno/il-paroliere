@@ -39,9 +39,9 @@ export const bilioso: LemmaEntry = {
     "venire la bile»).",
 
   examples: [
-    "«Era un critico bilioso: nelle sue recensioni non c'era mai nulla di buono, solo acredine sistematica.»",
-    "«Dopo anni di delusioni professionali era diventato bilioso: guardava il successo degli altri con un cinismo che non riusciva più a nascondere.»",
-    '«Non essere così bilioso gli disse la sorella. Non è che il mondo ce l\'abbia con te. Ma lui non ci credeva.»',
+    "Era un critico bilioso: nelle sue recensioni non c'era mai nulla di buono, solo acredine sistematica.",
+    "Dopo anni di delusioni professionali era diventato bilioso: guardava il successo degli altri con un cinismo che non riusciva più a nascondere.",
+    'Non essere così bilioso gli disse la sorella. Non è che il mondo ce l\'abbia con te. Ma lui non ci credeva.',
   ],
 
   synonyms: [

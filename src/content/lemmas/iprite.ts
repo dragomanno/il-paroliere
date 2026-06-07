@@ -38,9 +38,9 @@ export const iprite: LemmaEntry = {
     "1917. Il suffisso -ite è tipico dei composti chimici e degli agenti minerali.",
 
   examples: [
-    "«I soldati esposti all'iprite non avvertivano subito il danno: le ustioni si manifestavano ore dopo l'esposizione.»",
-    "«L'iprite fu responsabile di alcune delle lesioni più atroci della Grande Guerra, molte delle quali lasciarono i sopravvissuti ciechi o con danni permanenti ai polmoni.»",
-    "«Anche durante la Seconda Guerra Mondiale alcune potenze mantennero scorte di iprite come deterrente, senza usarla su larga scala.»",
+    "I soldati esposti all'iprite non avvertivano subito il danno: le ustioni si manifestavano ore dopo l'esposizione.",
+    "L'iprite fu responsabile di alcune delle lesioni più atroci della Grande Guerra, molte delle quali lasciarono i sopravvissuti ciechi o con danni permanenti ai polmoni.",
+    "Anche durante la Seconda Guerra Mondiale alcune potenze mantennero scorte di iprite come deterrente, senza usarla su larga scala.",
   ],
 
   synonyms: [

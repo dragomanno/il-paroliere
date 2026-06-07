@@ -37,9 +37,9 @@ export const kommando: LemmaEntry = {
     "all'inglese come commando durante la Seconda Guerra Mondiale e da lì nell'italiano.",
 
   examples: [
-    "«Il kommando delle forze speciali penetrò nell'edificio in meno di quattro minuti, neutralizzando i sequestratori.»",
-    "«Il sequestro e l'uccisione di Aldo Moro fu eseguita da un kommando delle Brigate Rosse il 16 marzo 1978, dopo 55 giorni di prigionia.»",
-    "«Un kommando terroristico aveva preso il controllo dell'aeroporto nelle prime ore del mattino.»",
+    "Il kommando delle forze speciali penetrò nell'edificio in meno di quattro minuti, neutralizzando i sequestratori.",
+    "Il sequestro e l'uccisione di Aldo Moro fu eseguita da un kommando delle Brigate Rosse il 16 marzo 1978, dopo 55 giorni di prigionia.",
+    "Un kommando terroristico aveva preso il controllo dell'aeroporto nelle prime ore del mattino.",
   ],
 
   synonyms: [

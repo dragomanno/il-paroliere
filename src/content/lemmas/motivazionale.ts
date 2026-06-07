@@ -37,10 +37,10 @@ export const motivazionale: LemmaEntry = {
     "del termine nel lessico professionale italiano.",
 
   examples: [
-    "«Il discorso del CEO era chiaramente motivazionale: nessun piano concreto, ma molta energia in sala.»",
-    "«Il marketing motivazionale non vende il prodotto: vende la versione migliore di te che lo usa.»",
-    "«Ha tappezzato il suo ufficio di poster motivazionali con frasi di personaggi che probabilmente non hanno mai detto quelle cose.»",
-    "«Il programma di coaching includeva sessioni motivazionali mensili per mantenere alta l'energia del team.»",
+    "Il discorso del CEO era chiaramente motivazionale: nessun piano concreto, ma molta energia in sala.",
+    "Il marketing motivazionale non vende il prodotto: vende la versione migliore di te che lo usa.",
+    "Ha tappezzato il suo ufficio di poster motivazionali con frasi di personaggi che probabilmente non hanno mai detto quelle cose.",
+    "Il programma di coaching includeva sessioni motivazionali mensili per mantenere alta l'energia del team.",
   ],
 
   synonyms: [

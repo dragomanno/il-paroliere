@@ -44,9 +44,9 @@ export const precursore: LemmaEntry = {
     "(«correre»). Lo stesso campo di precorrere, precorrere i tempi, cursore.",
 
   examples: [
-    "«Tesla era un precursore assoluto: la corrente alternata, la trasmissione wireless di energia, il motore elettrico — tutto anticipato di decenni rispetto alla capacità del mondo di capirlo e usarlo.»",
-    "«Uno startupper può essere un precursore o un imprenditore di successo: la differenza è spesso solo il timing. Google Reader era un prodotto perfetto per un mondo che non era ancora arrivato.»",
-    "«Nietzsche fu un precursore del pensiero del Novecento: molte delle sue intuizioni sulla morale, il potere e il linguaggio anticiparono Foucault, Derrida e la filosofia post-strutturalista.»",
+    "Tesla era un precursore assoluto: la corrente alternata, la trasmissione wireless di energia, il motore elettrico — tutto anticipato di decenni rispetto alla capacità del mondo di capirlo e usarlo.",
+    "Uno startupper può essere un precursore o un imprenditore di successo: la differenza è spesso solo il timing. Google Reader era un prodotto perfetto per un mondo che non era ancora arrivato.",
+    "Nietzsche fu un precursore del pensiero del Novecento: molte delle sue intuizioni sulla morale, il potere e il linguaggio anticiparono Foucault, Derrida e la filosofia post-strutturalista.",
   ],
 
   synonyms: [

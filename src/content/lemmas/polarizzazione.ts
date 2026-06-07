@@ -37,10 +37,10 @@ export const polarizzazione: LemmaEntry = {
     "greco pólos («asse, perno»).",
 
   examples: [
-    "«Il filtro polarizzato sugli occhiali da sole riduce i riflessi bloccando la luce orientata orizzontalmente.»",
-    "«La polarizzazione della batteria si riduce quando la si lascia a riposo: le cariche si ridistribuiscono.»",
-    "«La polarizzazione politica degli ultimi anni ha reso impossibile qualsiasi compromesso legislativo: non ci sono più parlamentari di centro.»",
-    "«I social media amplificano la polarizzazione: gli algoritmi mostrano solo ciò che rinforza le opinioni già esistenti, creando camere d'eco.»",
+    "Il filtro polarizzato sugli occhiali da sole riduce i riflessi bloccando la luce orientata orizzontalmente.",
+    "La polarizzazione della batteria si riduce quando la si lascia a riposo: le cariche si ridistribuiscono.",
+    "La polarizzazione politica degli ultimi anni ha reso impossibile qualsiasi compromesso legislativo: non ci sono più parlamentari di centro.",
+    "I social media amplificano la polarizzazione: gli algoritmi mostrano solo ciò che rinforza le opinioni già esistenti, creando camere d'eco.",
   ],
 
   synonyms: [

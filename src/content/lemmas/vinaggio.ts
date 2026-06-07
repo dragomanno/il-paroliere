@@ -38,9 +38,9 @@ export const vinaggio: LemmaEntry = {
     "un'operazione tecnica. Lo stesso meccanismo di imbottigliaggio, filtraggio, travaso.",
 
   examples: [
-    "«Il vinaggio tra Sangiovese e Merlot è alla base di molti Supertuscans: l'internazionale Merlot ammorbidisce i tannini aspri del Sangiovese giovane.»",
-    "«Il vinaggio non è una frode: è una tecnica enologica che richiede competenza e sensibilità. La frode è quando si viola il disciplinare o si aggiungono vini non consentiti.»",
-    "«Nei grandi Champagne non millesimati, il vinaggio tra annate diverse è fondamentale per mantenere uno stile costante di maison.»",
+    "Il vinaggio tra Sangiovese e Merlot è alla base di molti Supertuscans: l'internazionale Merlot ammorbidisce i tannini aspri del Sangiovese giovane.",
+    "Il vinaggio non è una frode: è una tecnica enologica che richiede competenza e sensibilità. La frode è quando si viola il disciplinare o si aggiungono vini non consentiti.",
+    "Nei grandi Champagne non millesimati, il vinaggio tra annate diverse è fondamentale per mantenere uno stile costante di maison.",
   ],
 
   synonyms: [

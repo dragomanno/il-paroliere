@@ -33,9 +33,9 @@ export const arioso: LemmaEntry = {
     "-oso («pieno di, che ha la qualità di»): letteralmente «pieno di aria, che respira».",
 
   examples: [
-    "«L'appartamento era piccolo ma arioso: soffitti alti, finestre grandi, niente arredi inutili.»",
-    "«La composizione era ariosa nel senso migliore: ogni strumento aveva il suo spazio, nessuno soffocava l'altro.»",
-    "«Quel tipo di scrittura ariosa, dove le frasi brevi si alternano ai silenzi, era molto più difficile da ottenere di quanto sembrasse.»",
+    "L'appartamento era piccolo ma arioso: soffitti alti, finestre grandi, niente arredi inutili.",
+    "La composizione era ariosa nel senso migliore: ogni strumento aveva il suo spazio, nessuno soffocava l'altro.",
+    "Quel tipo di scrittura ariosa, dove le frasi brevi si alternano ai silenzi, era molto più difficile da ottenere di quanto sembrasse.",
   ],
 
   synonyms: [

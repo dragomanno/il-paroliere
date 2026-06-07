@@ -32,9 +32,9 @@ export const coartazione: LemmaEntry = {
     "medico è un prestito neoclassico del XIX secolo.",
 
   examples: [
-    "«Il filosofo sosteneva che ogni forma di governo implica una qualche coartazione della libertà individuale.»",
-    "«Il bambino era nato con una coartazione aortica che richiedeva un intervento chirurgico entro il primo anno di vita.»",
-    "«Agire per coartazione significa non agire liberamente: il gesto perde la sua valenza morale.»",
+    "Il filosofo sosteneva che ogni forma di governo implica una qualche coartazione della libertà individuale.",
+    "Il bambino era nato con una coartazione aortica che richiedeva un intervento chirurgico entro il primo anno di vita.",
+    "Agire per coartazione significa non agire liberamente: il gesto perde la sua valenza morale.",
   ],
 
   synonyms: [

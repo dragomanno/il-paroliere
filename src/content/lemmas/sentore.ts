@@ -33,9 +33,9 @@ export const sentore: LemmaEntry = {
     "di senso, sensazione, consenso, sentimento.",
 
   examples: [
-    "«Aveva avuto un vago sentore che qualcosa non andasse, ma non riusciva a mettere il dito su nulla di preciso.»",
-    "«C'era nell'aria un sentore di temporale: non ancora nuvole, ma quella qualità dell'aria che i vecchi contadini riconoscono.»",
-    "«Il primo sentore dello scandalo arrivò da una fonte anonima: niente di verificabile, solo l'odore di qualcosa che stava per emergere.»",
+    "Aveva avuto un vago sentore che qualcosa non andasse, ma non riusciva a mettere il dito su nulla di preciso.",
+    "C'era nell'aria un sentore di temporale: non ancora nuvole, ma quella qualità dell'aria che i vecchi contadini riconoscono.",
+    "Il primo sentore dello scandalo arrivò da una fonte anonima: niente di verificabile, solo l'odore di qualcosa che stava per emergere.",
   ],
 
   synonyms: [

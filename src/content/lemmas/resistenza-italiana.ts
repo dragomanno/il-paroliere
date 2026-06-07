@@ -41,10 +41,10 @@ export const resistenzaItaliana: LemmaEntry = {
     "e si è consolidato nel dopoguerra come nome proprio del periodo.",
 
   examples: [
-    "«Il 25 aprile è la Festa della Liberazione: ricorda la fine della Resistenza armata e l'inizio dell'Italia repubblicana.»",
-    "«Mio nonno era stato partigiano sulle montagne della Val d'Ossola; non ne parlava mai, ma teneva una fotografia appesa alla parete.»",
-    "«Gli IMI che rifiutarono di aderire alla RSI praticarono una forma di Resistenza passiva che non ha nulla da invidiare alla lotta armata.»",
-    "«La Resistenza non fu solo una guerra: fu la prima discussione collettiva sull'Italia che voleva diventare.»",
+    "Il 25 aprile è la Festa della Liberazione: ricorda la fine della Resistenza armata e l'inizio dell'Italia repubblicana.",
+    "Mio nonno era stato partigiano sulle montagne della Val d'Ossola; non ne parlava mai, ma teneva una fotografia appesa alla parete.",
+    "Gli IMI che rifiutarono di aderire alla RSI praticarono una forma di Resistenza passiva che non ha nulla da invidiare alla lotta armata.",
+    "La Resistenza non fu solo una guerra: fu la prima discussione collettiva sull'Italia che voleva diventare.",
   ],
 
   synonyms: [

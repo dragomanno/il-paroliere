@@ -36,10 +36,10 @@ export const recrudescenza: LemmaEntry = {
     "guarito, aperto». L'immagine è quella di una ferita che si riapre.",
 
   examples: [
-    "«La recrudescenza dei contagi durante l'inverno aveva vanificato i progressi dei mesi precedenti.»",
-    "«Una recrudescenza della violenza nei quartieri periferici aveva riacceso il dibattito sulla sicurezza urbana.»",
-    "«Il medico spiegò che quella recrudescenza dei sintomi non era inaspettata: succede spesso nelle fasi intermedie della terapia.»",
-    "«La recrudescenza del nazionalismo in Europa non era un fatto nuovo: era un'idea mai morta che aveva aspettato il momento giusto.»",
+    "La recrudescenza dei contagi durante l'inverno aveva vanificato i progressi dei mesi precedenti.",
+    "Una recrudescenza della violenza nei quartieri periferici aveva riacceso il dibattito sulla sicurezza urbana.",
+    "Il medico spiegò che quella recrudescenza dei sintomi non era inaspettata: succede spesso nelle fasi intermedie della terapia.",
+    "La recrudescenza del nazionalismo in Europa non era un fatto nuovo: era un'idea mai morta che aveva aspettato il momento giusto.",
   ],
 
   synonyms: [

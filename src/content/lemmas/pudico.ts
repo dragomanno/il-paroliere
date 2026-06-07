@@ -33,9 +33,9 @@ export const pudico: LemmaEntry = {
     "pudicizia, impudenza.",
 
   examples: [
-    "«Il ritratto era pudìco nella sua nudità: nessuna provocazione, solo una presenza silenziosa e dignitosa.»",
-    "«Aveva uno sguardo pudìco che sembrava chiedere scusa per il fatto stesso di essere guardato.»",
-    "«Raccontò la propria storia con un tono pudìco che commosse più di qualsiasi dettaglio esplicito.»",
+    "Il ritratto era pudìco nella sua nudità: nessuna provocazione, solo una presenza silenziosa e dignitosa.",
+    "Aveva uno sguardo pudìco che sembrava chiedere scusa per il fatto stesso di essere guardato.",
+    "Raccontò la propria storia con un tono pudìco che commosse più di qualsiasi dettaglio esplicito.",
   ],
 
   synonyms: [

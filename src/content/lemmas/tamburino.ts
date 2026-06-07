@@ -40,9 +40,9 @@ export const tamburino: LemmaEntry = {
     "indica sia lo strumento sia il suonatore.",
 
   examples: [
-    "«I tamburini delle Contrade senesi si sfidano durante i campionati di tamburinazione: non è folklore, è virtuosismo puro.»",
-    "«Quel tamburino della Contrada della Tartuca aveva cominciato a suonare a sei anni: a trenta era già una leggenda.»",
-    "«Il ritmo del tamburino guida ogni passo dell'alfiere: senza quella base ritmica, le figure con la bandiera perdono la loro struttura.»",
+    "I tamburini delle Contrade senesi si sfidano durante i campionati di tamburinazione: non è folklore, è virtuosismo puro.",
+    "Quel tamburino della Contrada della Tartuca aveva cominciato a suonare a sei anni: a trenta era già una leggenda.",
+    "Il ritmo del tamburino guida ogni passo dell'alfiere: senza quella base ritmica, le figure con la bandiera perdono la loro struttura.",
   ],
 
   synonyms: [

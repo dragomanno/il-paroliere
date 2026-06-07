@@ -37,9 +37,9 @@ export const committenza: LemmaEntry = {
     "sia l'azione sia il soggetto che la esercita.",
 
   examples: [
-    "«La committenza pubblica italiana ha finanziato negli anni Cinquanta e Sessanta alcune delle architetture più significative del dopoguerra.»",
-    "«Il progettista si trovò in conflitto con la committenza: il cliente voleva ridurre i costi, l'architetto non voleva compromettere l'integrità strutturale.»",
-    "«La committenza medicea trasformò Firenze in un laboratorio dell'arte rinascimentale: senza quella capacità di investimento culturale, Botticelli e Michelangelo sarebbero stati diversi.»",
+    "La committenza pubblica italiana ha finanziato negli anni Cinquanta e Sessanta alcune delle architetture più significative del dopoguerra.",
+    "Il progettista si trovò in conflitto con la committenza: il cliente voleva ridurre i costi, l'architetto non voleva compromettere l'integrità strutturale.",
+    "La committenza medicea trasformò Firenze in un laboratorio dell'arte rinascimentale: senza quella capacità di investimento culturale, Botticelli e Michelangelo sarebbero stati diversi.",
   ],
 
   synonyms: [

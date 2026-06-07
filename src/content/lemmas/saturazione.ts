@@ -42,11 +42,11 @@ export const saturazione: LemmaEntry = {
     "da satur («pieno, sazio»). Stesso campo semantico di sazio, saziare, insaziabile.",
 
   examples: [
-    "«L'umidità relativa al 100% indica la saturazione dell'aria: l'acqua non può più evaporare e tende a condensare.»",
-    "«La saturazione del mercato degli smartphone ha rallentato le vendite: tutti ce l'hanno già.»",
-    "«Dopo tre ore di riunione, aveva raggiunto la saturazione: non riusciva più ad ascoltare nulla.»",
-    "«La cantina non era areata da mesi: la fermentazione del vino aveva saturato l'aria di CO₂ fino a rendere pericoloso l'accesso senza maschera.»",
-    "«I vigili del fuoco intervennero prima che la concentrazione di gas raggiungesse il limite di saturazione esplosiva: un'altra mezz'ora e la scintilla dell'interruttore avrebbe fatto saltare il palazzo.»",
+    "L'umidità relativa al 100% indica la saturazione dell'aria: l'acqua non può più evaporare e tende a condensare.",
+    "La saturazione del mercato degli smartphone ha rallentato le vendite: tutti ce l'hanno già.",
+    "Dopo tre ore di riunione, aveva raggiunto la saturazione: non riusciva più ad ascoltare nulla.",
+    "La cantina non era areata da mesi: la fermentazione del vino aveva saturato l'aria di CO₂ fino a rendere pericoloso l'accesso senza maschera.",
+    "I vigili del fuoco intervennero prima che la concentrazione di gas raggiungesse il limite di saturazione esplosiva: un'altra mezz'ora e la scintilla dell'interruttore avrebbe fatto saltare il palazzo.",
   ],
 
   synonyms: [

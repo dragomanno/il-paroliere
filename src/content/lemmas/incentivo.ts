@@ -34,9 +34,9 @@ export const incentivo: LemmaEntry = {
     "che stimola all'azione\" è avvenuto nel latino tardo.",
 
   examples: [
-    "«L'azienda ha introdotto un sistema di incentivi legati al raggiungimento degli obiettivi trimestrali.»",
-    "«Il bonus fiscale sulle ristrutturazioni è un incentivo pubblico a migliorare l'efficienza energetica degli edifici.»",
-    "«Senza un incentivo chiaro, le persone tendono a mantenere il comportamento già consolidato.»",
+    "L'azienda ha introdotto un sistema di incentivi legati al raggiungimento degli obiettivi trimestrali.",
+    "Il bonus fiscale sulle ristrutturazioni è un incentivo pubblico a migliorare l'efficienza energetica degli edifici.",
+    "Senza un incentivo chiaro, le persone tendono a mantenere il comportamento già consolidato.",
   ],
 
   relatedWords: [

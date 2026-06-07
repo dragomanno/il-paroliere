@@ -30,9 +30,9 @@ export const coercizione: LemmaEntry = {
     "Termine tecnico del diritto romano, già presente nei testi classici.",
 
   examples: [
-    "«Il contratto fu annullato perché stipulato sotto coercizione: la parte debole non aveva altra scelta.»",
-    "«Firmare una confessione sotto coercizione non ha valore probatorio in un ordinamento democratico.»",
-    "«La coercizione statale è legittima solo entro i limiti previsti dalla legge e in proporzione al fine perseguito.»",
+    "Il contratto fu annullato perché stipulato sotto coercizione: la parte debole non aveva altra scelta.",
+    "Firmare una confessione sotto coercizione non ha valore probatorio in un ordinamento democratico.",
+    "La coercizione statale è legittima solo entro i limiti previsti dalla legge e in proporzione al fine perseguito.",
   ],
 
   synonyms: [

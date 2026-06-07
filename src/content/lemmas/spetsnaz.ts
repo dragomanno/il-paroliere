@@ -40,9 +40,9 @@ export const spetsnaz: LemmaEntry = {
     "per designare i reparti non convenzionali sovietici.",
 
   examples: [
-    "«Le unità Spetsnaz dell'FSB gestirono l'assalto al teatro Dubrovka nel 2002: l'operazione liberò molti ostaggi ma causò la morte di circa 130 persone, soprattutto per l'uso del gas narcotizzante.»",
-    "«I reparti Spetsnaz del GRU sono stati accusati di operazioni clandestine in Ucraina, Georgia e in diversi paesi europei.»",
-    "«L'addestramento Spetsnaz è considerato tra i più duri al mondo: combatte in condizioni estreme, con risorse minime e obiettivi ad altissimo rischio.»",
+    "Le unità Spetsnaz dell'FSB gestirono l'assalto al teatro Dubrovka nel 2002: l'operazione liberò molti ostaggi ma causò la morte di circa 130 persone, soprattutto per l'uso del gas narcotizzante.",
+    "I reparti Spetsnaz del GRU sono stati accusati di operazioni clandestine in Ucraina, Georgia e in diversi paesi europei.",
+    "L'addestramento Spetsnaz è considerato tra i più duri al mondo: combatte in condizioni estreme, con risorse minime e obiettivi ad altissimo rischio.",
   ],
 
   synonyms: [

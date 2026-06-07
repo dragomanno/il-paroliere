@@ -45,9 +45,9 @@ export const vino: LemmaEntry = {
     "scandinavo). Uno dei prestiti più antichi della civiltà mediterranea.",
 
   examples: [
-    "«Il Brunello di Montalcino DOCG non può essere commercializzato prima di cinque anni dalla vendemmia — sei per la Riserva: è uno dei periodi di affinamento più lunghi tra i vini italiani.»",
-    "«Il Sassicaia è tecnicamente un IGT Bolgheri, ma è considerato tra i grandi vini italiani: la classificazione formale non sempre coincide con la qualità reale.»",
-    "«La differenza tra un Chianti DOC e un Chianti Classico DOCG non è solo geografica: è di disciplinare, di rese, di controlli, di storia.»",
+    "Il Brunello di Montalcino DOCG non può essere commercializzato prima di cinque anni dalla vendemmia — sei per la Riserva: è uno dei periodi di affinamento più lunghi tra i vini italiani.",
+    "Il Sassicaia è tecnicamente un IGT Bolgheri, ma è considerato tra i grandi vini italiani: la classificazione formale non sempre coincide con la qualità reale.",
+    "La differenza tra un Chianti DOC e un Chianti Classico DOCG non è solo geografica: è di disciplinare, di rese, di controlli, di storia.",
   ],
 
   relatedWords: [

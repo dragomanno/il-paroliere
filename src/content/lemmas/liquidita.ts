@@ -47,9 +47,9 @@ export const liquidita: LemmaEntry = {
     "chiaro»). Lo stesso campo di liquore, liquame, deliquio.",
 
   examples: [
-    "«Bauman descriveva la modernità liquida come la condizione di chi è costretto a costruire la propria identità ogni giorno, senza le certezze solide che le generazioni precedenti avevano — nel bene e nel male.»",
-    "«L'amore liquido di Bauman non è l'amore romantico: è la relazione che si vuole intensa ma non vincolante, connessa ma non dipendente, presente ma facilmente revocabile.»",
-    "«La liquidità finanziaria di un'azienda misura la sua capacità di sopravvivere nel breve termine: un'azienda profittevole ma illiquida può fallire.»",
+    "Bauman descriveva la modernità liquida come la condizione di chi è costretto a costruire la propria identità ogni giorno, senza le certezze solide che le generazioni precedenti avevano — nel bene e nel male.",
+    "L'amore liquido di Bauman non è l'amore romantico: è la relazione che si vuole intensa ma non vincolante, connessa ma non dipendente, presente ma facilmente revocabile.",
+    "La liquidità finanziaria di un'azienda misura la sua capacità di sopravvivere nel breve termine: un'azienda profittevole ma illiquida può fallire.",
   ],
 
   synonyms: [

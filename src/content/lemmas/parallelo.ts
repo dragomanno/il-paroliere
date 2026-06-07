@@ -35,9 +35,9 @@ export const parallelo: LemmaEntry = {
     "geometrico-geografico è attestato già in Strabone e Tolomeo.",
 
   examples: [
-    "«Il 45° parallelo Nord passa per il nord Italia, attraverso Torino e Venezia.»",
-    "«A differenza dei meridiani, i paralleli non si restringono verso i poli: sono cerchi completi di diametro diverso.»",
-    "«Il Tropico del Cancro è il parallelo più a nord in cui il sole può trovarsi allo zenit a mezzogiorno.»",
+    "Il 45° parallelo Nord passa per il nord Italia, attraverso Torino e Venezia.",
+    "A differenza dei meridiani, i paralleli non si restringono verso i poli: sono cerchi completi di diametro diverso.",
+    "Il Tropico del Cancro è il parallelo più a nord in cui il sole può trovarsi allo zenit a mezzogiorno.",
   ],
 
   relatedWords: [

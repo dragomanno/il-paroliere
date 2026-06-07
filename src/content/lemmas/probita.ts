@@ -33,9 +33,9 @@ export const probita: LemmaEntry = {
     "probare («mettere alla prova, approvare»): colui che ha superato la prova morale.",
 
   examples: [
-    "«La sua probità era leggendaria nel palazzo di giustizia: in trent'anni di carriera, nessuno aveva mai potuto muovergli un'obiezione.»",
-    "«La legge richiede ai candidati di dimostrare requisiti di probità e onorabilità prima di essere iscritti all'albo.»",
-    "«Probità non è fare il bene quando conviene: è farlo anche quando costa qualcosa.»",
+    "La sua probità era leggendaria nel palazzo di giustizia: in trent'anni di carriera, nessuno aveva mai potuto muovergli un'obiezione.",
+    "La legge richiede ai candidati di dimostrare requisiti di probità e onorabilità prima di essere iscritti all'albo.",
+    "Probità non è fare il bene quando conviene: è farlo anche quando costa qualcosa.",
   ],
 
   synonyms: [
