@@ -12,7 +12,7 @@ export const tamburino: LemmaEntry = {
   gender: "maschile",
 
   definition:
-    "Nel contesto del Palio di Siena e delle Contrade, il tamburino è il percussionista che " +
+    "Nel contesto del Palio di Siena e delle Contrade, il tamburino è l'uomo che " +
     "suona il tamburo durante le cerimonie, i cortei storici e la sfilata in Piazza del Campo " +
     "prima della corsa. Ma dire semplicemente «suona il tamburo» è riduttivo al punto da essere " +
     "fuorviante. I tamburini senesi eseguono figure ritmiche di altissima complessità tecnica, " +
@@ -40,7 +40,7 @@ export const tamburino: LemmaEntry = {
     "indica sia lo strumento sia il suonatore.",
 
   examples: [
-    "I tamburini delle Contrade senesi si sfidano durante i campionati di tamburinazione: non è folklore, è virtuosismo puro.",
+    "I tamburini delle Contrade di Siena si allenano durante tutto l'arco dell'anno e insegnano ai giovani novizi l'arte del tamburo senese: non è folklore, è amore per la propria Contrada.»",
     "Quel tamburino della Contrada della Tartuca aveva cominciato a suonare a sei anni: a trenta era già una leggenda.",
     "Il ritmo del tamburino guida ogni passo dell'alfiere: senza quella base ritmica, le figure con la bandiera perdono la loro struttura.",
   ],
@@ -88,5 +88,5 @@ export const tamburino: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-06-08",
 };
