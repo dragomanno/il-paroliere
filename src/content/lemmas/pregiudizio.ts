@@ -75,6 +75,7 @@ export const pregiudizio: LemmaEntry = {
     "migrazione",
     "discriminazione",
     "stereotipo",
+    "accoglienza",
   ],
 
   sourceLinks: {

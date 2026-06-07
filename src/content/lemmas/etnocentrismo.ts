@@ -16,13 +16,21 @@ export const etnocentrismo: LemmaEntry = {
     "i comportamenti della propria. Non è necessariamente ostile — spesso opera in modo inconsapevole " +
     "— ma produce una gerarchia implicita in cui il proprio gruppo funge da punto zero del confronto. " +
     "In antropologia è distinto dalla xenofobia per l'assenza di paura: l'etnocentrismo giudica, " +
-    "non teme.",
+    "non teme. " +
+    "Claude Lévi-Strauss ha affrontato il problema in modo radicale nel saggio «Razza e storia» " +
+    "(1952): ogni cultura tende a rigettare come barbaro ciò che è al di fuori di sé, ma questa " +
+    "reazione — per quanto universale — non costituisce un fondamento per classificare le civiltà " +
+    "su una scala evolutiva. Per Lévi-Strauss la diversità culturale non è un ostacolo da " +
+    "superare né una gerarchia da stabilire: è la condizione stessa della creatività storica " +
+    "dell'umanità. Le culture si sviluppano attraverso il contatto, la coalizione e lo scambio, " +
+    "non nell'isolamento. L'etnocentrismo, in questa lettura, non è solo un errore morale: " +
+    "è un errore epistemologico — impoverisce chi giudica prima ancora di danneggiare chi viene giudicato.",
 
   shortDefinition:
-    "Tendenza a valutare le altre culture usando la propria come metro di giudizio implicito.",
+    "Tendenza a valutare le altre culture usando la propria come metro implicito; per Lévi-Strauss, un errore epistemologico che impoverisce chi lo commette.",
 
   register: ["tecnico", "comune"],
-  domains: ["antropologia", "sociologia", "psicologia sociale"],
+  domains: ["antropologia", "sociologia", "psicologia sociale", "filosofia"],
 
   etymology:
     "Composto del greco éthnos ('popolo', 'nazione') e del latino centrum ('centro'). " +
@@ -31,6 +39,7 @@ export const etnocentrismo: LemmaEntry = {
 
   examples: [
     "Lo storico riconobbe che il suo approccio era viziato da etnocentrismo: ogni civiltà non europea veniva misurata in base al modello romano.",
+    "In «Razza e storia» Lévi-Strauss dimostra che il «primitivo» non è una fase evolutiva inferiore: è un'altra risposta, ugualmente complessa, alle stesse domande fondamentali.",
     "L'etnocentrismo non è solo coloniale: anche il confronto tra regioni italiane può produrre giudizi etnocentrici sottili.",
     "Distinguere etnocentrismo da relativismo culturale è uno degli esercizi fondamentali della formazione antropologica.",
   ],
@@ -68,6 +77,7 @@ export const etnocentrismo: LemmaEntry = {
     "pregiudizio",
     "alterità",
     "migrazione",
+    "accoglienza",
   ],
 
   sourceLinks: {
@@ -76,9 +86,11 @@ export const etnocentrismo: LemmaEntry = {
   },
 
   paroliereNote:
-    "Sumner inventò il termine per descrivere qualcosa di universale: ogni gruppo umano tende a " +
-    "vedersi come normale e gli altri come deviazioni. La difficoltà non è riconoscerlo negli altri — " +
-    "è riconoscerlo in se stessi. L'etnocentrismo più insidioso non urla: sussurra.",
+    "Lévi-Strauss scrisse «Razza e storia» su commissione dell'UNESCO, in un momento in cui " +
+    "il mondo stava ancora cercando le parole per elaborare lo sterminio nazista. La sua risposta " +
+    "non fu un elogio sentimentale della diversità: fu un'argomentazione rigorosa per cui " +
+    "l'etnocentrismo è prima di tutto un danno per chi lo pratica. Chi giudica gli altri " +
+    "a partire da un unico metro perde la capacità di comprendere — e quindi di imparare.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -86,7 +98,7 @@ export const etnocentrismo: LemmaEntry = {
   seo: {
     title: "Etnocentrismo — definizione e uso | Il Paroliere",
     description:
-      "Etnocentrismo: tendenza a giudicare le altre culture usando la propria come metro. Definizione originale con esempi, etimologia e nota editoriale.",
+      "Etnocentrismo: tendenza a giudicare le altre culture usando la propria come metro. Con Lévi-Strauss, Sumner, esempi originali ed etimologia.",
   },
 
   createdAt: "2026-06-08",

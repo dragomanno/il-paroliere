@@ -66,6 +66,7 @@ export const xenofobo: LemmaEntry = {
     "etnocentrismo",
     "alterità",
     "migrazione",
+    "accoglienza",
   ],
 
   sourceLinks: {
