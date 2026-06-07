@@ -36,7 +36,7 @@ export const possibile: LemmaEntry = {
 
   examples: [
     "«È possibile che l'universo contenga altre forme di vita intelligente: non lo esclude nulla di ciò che sappiamo.»",
-    '«"È possibile" — quando lo dice un politico, di solito significa "non voglio impegnarmi ma non posso dire di no".»',
+    '«È possibile — quando lo dice un politico, di solito significa "non voglio impegnarmi ma non posso dire di no".»',
     "«Tecnicamente è possibile scalare quella parete senza attrezzatura: non è detto che sia ragionevole farlo.»",
     "«Il possibile e il plausibile non sono la stessa cosa: molte cose sono possibili senza essere plausibili.»",
   ],
