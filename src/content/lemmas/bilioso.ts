@@ -106,15 +106,14 @@ export const bilioso: LemmaEntry = {
   },
 
   paroliereNote:
-    "Bilioso è la parola giusta per descrivere un tipo di carattere che né irascibile né " +
-    "scontroso catturano con la stessa precisione: il bilioso non reagisce agli stimoli — " +
-    "porta con sé una riserva permanente di scontento che non dipende da ciò che accade nel " +
-    "momento, ma da come il mondo gli ha fatto supporre di essere fatto. È un risentimento " +
-    "ontologico, quasi. La parola porta con sé anche tutta la ricchezza della medicina " +
-    "umorale: chi dice bilioso sta usando, probabilmente senza saperlo, una categoria che " +
-    "risale a Ippocrate. E quella categoria continua a descrivere qualcosa di reale, due " +
-    "millenni e mezzo dopo.",
-
+    "Bilioso è la parola giusta per descrivere un tipo di carattere che né la parola " +
+    "irascibile, né scontroso catturano con la stessa precisione: il bilioso non reagisce " +
+    "agli stimoli — porta con sé una riserva permanente di scontento che non dipende da " +
+    "ciò che accade nel momento, ma da come il mondo gli ha fatto supporre di essere fatto. " +
+    "È un risentimento ontologico, quasi. La parola porta con sé anche tutta la ricchezza " +
+    "della medicina umorale: chi dice bilioso sta usando, probabilmente senza saperlo, una " +
+    "categoria che risale a Ippocrate. E quella categoria continua a descrivere qualcosa di " +
+    "reale, due millenni e mezzo dopo.",
   editorialStatus: "reviewed",
   indexable: true,
 
