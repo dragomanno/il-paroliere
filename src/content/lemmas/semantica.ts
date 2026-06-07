@@ -45,7 +45,7 @@ export const semantica: LemmaEntry = {
     "coniato dal linguista Michel Bréal nel 1883.",
 
   examples: [
-    "«La semantica studia non solo le parole ma le relazioni tra i significati: perché \"cane\" e \"cagna\" non sono intercambiabili in tutti i contesti?»",
+    '«La semantica studia non solo le parole ma le relazioni tra i significati: perché "cane" e "cagna" non sono intercambiabili in tutti i contesti?»',
     "«Il web semantico non è una tecnologia ma un'architettura: i dati non si leggono solo, si comprendono.»",
     "«In SEO, la semantica è diventata fondamentale: Google non cerca parole chiave, cerca risposte coerenti a domande reali.»",
     "«La semantica di quella frase era ambigua: letteralmente diceva una cosa, ma tutti capivano il contrario.»",
