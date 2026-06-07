@@ -98,5 +98,5 @@ export const xenofobia: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-06-08",
 };
