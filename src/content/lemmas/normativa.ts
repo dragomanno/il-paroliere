@@ -12,10 +12,10 @@ export const normativa: LemmaEntry = {
   gender: "femminile",
   definition:
     "Insieme coordinato di norme che disciplinano un determinato settore, attività o materia. " +
-    "Il termine è più ampio di *legge* (che designa un atto normativo specifico approvato dal Parlamento) " +
-    "e più specifico di *diritto* (che indica l'intero sistema giuridico). " +
+    "Il termine è più ampio di **legge** (che designa un atto normativo specifico approvato dal Parlamento) " +
+    "e più specifico di **diritto** (che indica l'intero sistema giuridico). " +
     "La normativa comprende fonti di diverso rango: leggi ordinarie, decreti legislativi, regolamenti " +
-    "ministeriali, circolari, direttive europee recepite. In ambito tecnico, *normativa* può indicare " +
+    "ministeriali, circolari, direttive europee recepite. In ambito tecnico, **normativa** può indicare " +
     "anche l'insieme di standard e specifiche tecniche (normativa ISO, normativa antincendio). " +
     "Nel linguaggio amministrativo e giornalistico italiano, il termine è diventato di uso comune " +
     "come sinonimo più generico di 'insieme di regole applicabili a una fattispecie'.",
@@ -23,7 +23,7 @@ export const normativa: LemmaEntry = {
   register: ["tecnico-giuridico", "formale", "linguaggio amministrativo"],
   domains: ["diritto", "linguaggio amministrativo"],
   etymology:
-    "Derivato dell'aggettivo *normativo* (dal latino *norma* + suffisso *-ativus*), " +
+    "Derivato dell'aggettivo **normativo** (dal latino *norma* + suffisso *-ativus*), " +
     "sostantivato al femminile. Il suo uso prevalente come sostantivo è un'evoluzione recente " +
     "del linguaggio burocratico-amministrativo italiano del XX secolo.",
   examples: [
@@ -46,11 +46,11 @@ export const normativa: LemmaEntry = {
     wiktionary: "https://it.wiktionary.org/wiki/normativa",
   },
   paroliereNote:
-    "Il termine *normativa* è criticato da alcuni puristi come tecnicismo burocratico ridondante " +
-    "(si preferisce *legge*, *regolamento*, *disciplina*), ma è ormai stabilmente radicato nell'italiano " +
+    "Il termine **normativa** è criticato da alcuni puristi come tecnicismo burocratico ridondante " +
+    "(si preferisce **legge**, **regolamento**, **disciplina**), ma è ormai stabilmente radicato nell'italiano " +
     "giuridico e amministrativo. Utile per riferirsi all'insieme eterogeneo di fonti che governano " +
-    "un settore senza doverle elencare tutte. Distinzione pratica: una *legge* è approvata dal Parlamento; " +
-    "un *regolamento* è adottato dal governo o da enti pubblici; la *normativa* comprende entrambi " +
+    "un settore senza doverle elencare tutte. Distinzione pratica: una **legge** è approvata dal Parlamento; " +
+    "un **regolamento** è adottato dal governo o da enti pubblici; la **normativa** comprende entrambi " +
     "e anche le norme tecniche private (UNI, ISO) quando hanno valore vincolante per contratto o legge.",
   editorialStatus: "reviewed",
   indexable: true,
@@ -59,5 +59,5 @@ export const normativa: LemmaEntry = {
     description: "Normativa: insieme di norme che disciplinano un settore, di rango diverso (leggi, decreti, regolamenti). Linguaggio giuridico e amministrativo.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-06-08",
 };
