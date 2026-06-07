@@ -66,24 +66,42 @@ function Divider() {
 }
 
 /**
- * Renders a lemma term as an internal link if the slug is already published,
- * or as plain text if not. This prevents dead links to stubs/drafts.
+ * Normalises a display term to a URL slug.
+ * Mirrors the slug convention used in LemmaEntry:
+ *   - lowercase
+ *   - spaces → hyphens
+ *   - accented chars preserved (they are valid in Next.js dynamic routes)
+ *
+ * Examples:
+ *   "GenX"            → "genx"
+ *   "Generazione Alpha" → "generazione-alpha"
+ *   "e-commerce"      → "e-commerce"
+ *   "retrogrado"      → "retrogrado"
+ */
+function termToSlug(term: string): string {
+  return term.toLowerCase().replace(/\s+/g, "-");
+}
+
+/**
+ * Renders a lemma term as an internal link if the normalised slug is already
+ * published, or as plain text if not. This prevents dead links to stubs/drafts.
  *
  * Used in synonyms, antonyms, and relatedWords sections.
  */
 function LemmaLink({
   term,
-  published,
+  publishedSlugs,
   className,
 }: {
   term: string;
-  published: boolean;
+  publishedSlugs: Set<string>;
   className?: string;
 }) {
-  if (published) {
+  const slug = termToSlug(term);
+  if (publishedSlugs.has(slug)) {
     return (
       <Link
-        href={`/parola/${term}`}
+        href={`/parola/${slug}`}
         className={`hover:text-[#b8dc16] transition-colors underline underline-offset-2 decoration-[#b8dc16]/40 ${className ?? ""}`}
       >
         {term}
@@ -274,7 +292,7 @@ export default async function LemmaPage({ params }: Props) {
                   <div className="flex flex-wrap items-baseline gap-2">
                     <LemmaLink
                       term={s.term}
-                      published={publishedSlugs.has(s.term)}
+                      publishedSlugs={publishedSlugs}
                       className="font-semibold text-[1rem] sm:text-[1.0625rem] text-[#f7f3e8]"
                     />
                     {s.register && (
@@ -315,7 +333,7 @@ export default async function LemmaPage({ params }: Props) {
                   <div className="flex flex-wrap items-baseline gap-2">
                     <LemmaLink
                       term={a.term}
-                      published={publishedSlugs.has(a.term)}
+                      publishedSlugs={publishedSlugs}
                       className="font-semibold text-[1rem] sm:text-[1.0625rem] text-[#f7f3e8]"
                     />
                     {a.register && (
@@ -347,7 +365,7 @@ export default async function LemmaPage({ params }: Props) {
                 <LemmaLink
                   key={word}
                   term={word}
-                  published={publishedSlugs.has(word)}
+                  publishedSlugs={publishedSlugs}
                   className="tag-pos"
                 />
               ))}
