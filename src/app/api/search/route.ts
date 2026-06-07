@@ -52,8 +52,9 @@ export async function GET(req: NextRequest) {
       { hits, query: q },
       {
         headers: {
-          // Cache for 60s on CDN — search results are stable enough
-          "Cache-Control": "public, s-maxage=60, stale-while-revalidate=300",
+          // No CDN cache: each query is unique, Vary: * prevents stale hits
+          "Cache-Control": "no-store",
+          "Vary": "*",
         },
       }
     );
