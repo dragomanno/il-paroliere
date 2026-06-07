@@ -371,6 +371,7 @@ import { anamnesi } from "./anamnesi";
 import { irascibile } from "./irascibile";
 import { bilioso } from "./bilioso";
 import { uvaggio } from "./uvaggio";
+import { incazzatello } from "./incazzatello";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -714,4 +715,5 @@ export const allLemmas: LemmaEntry[] = [
   irascibile,
   bilioso,
   uvaggio,
+  incazzatello,
 ];
