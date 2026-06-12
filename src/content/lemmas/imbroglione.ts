@@ -35,12 +35,14 @@ export const imbroglione: LemmaEntry = {
     { term: "impostore", register: "comune-formale", context: "chi si spaccia per ciò che non è" },
     { term: "furbacchione", register: "colloquiale", context: "con sfumatura più bonaria, quasi affettuosa" },
     { term: "farabutto", register: "comune", context: "quando l'inganno è espressione di natura morale, non solo di metodo" },
+    { term: "malacarne", register: "popolare", context: "uso figurato per persona di basso valore morale, registro più crudo" },
+    { term: "birbante", register: "colloquiale", context: "furfante di basso livello, con sfumatura più leggera o ironica" },
   ],
   antonyms: [
     { term: "leale", register: "comune", context: "chi agisce in modo trasparente e corretto" },
     { term: "onesto", register: "comune", context: "di condotta retta, senza inganni" },
   ],
-  relatedWords: ["truffa", "raggiro", "imbroglio", "farabutto", "mascalzone", "scaltrezza"],
+  relatedWords: ["truffa", "raggiro", "imbroglio", "farabutto", "mascalzone", "birbante", "malacarne", "scaltrezza"],
   sourceLinks: {},
   paroliereNote:
     "La differenza tra imbroglione e farabutto è la differenza tra il metodo e la natura. " +

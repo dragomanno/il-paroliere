@@ -36,12 +36,14 @@ export const mascalzone: LemmaEntry = {
     { term: "furfante", register: "comune", context: "con sfumatura più antica e letteraria" },
     { term: "birbante", register: "colloquiale", context: "più leggero, spesso ironico o persino affettuoso" },
     { term: "canaglia", register: "comune", context: "con forza espressiva simile, ma registro leggermente più elevato" },
+    { term: "imbroglione", register: "colloquiale", context: "enfasi sul metodo dell'inganno più che sulla condotta complessiva" },
+    { term: "malacarne", register: "popolare", context: "uso figurato, registro più crudo e diretto" },
   ],
   antonyms: [
     { term: "galantuomo", register: "comune", context: "uomo di condotta irreprensibile" },
     { term: "leale", register: "comune", context: "chi agisce con trasparenza e rispetto" },
   ],
-  relatedWords: ["slealtà", "furfante", "farabutto", "birbante", "canaglia", "disonestà"],
+  relatedWords: ["slealtà", "furfante", "farabutto", "imbroglione", "birbante", "malacarne", "canaglia", "disonestà"],
   sourceLinks: {},
   paroliereNote:
     "Mascalzone si fischia, farabutto si pronuncia a denti stretti. " +

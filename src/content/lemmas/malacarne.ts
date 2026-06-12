@@ -29,9 +29,10 @@ export const malacarne: LemmaEntry = {
     "Non fidarti di lui: è un malacarne di quelli che sorridono in faccia e ti fregano alle spalle.",
   ],
   synonyms: [
-    { term: "farabutto", register: "colloquiale", context: "persona senza scrupoli" },
-    { term: "imbroglione", register: "colloquiale", context: "chi inganna con astuzia" },
-    { term: "mascalzone", register: "colloquiale", context: "individuo disonesto e spregevole" },
+    { term: "farabutto", register: "colloquiale", context: "persona senza scrupoli, condanna morale strutturale" },
+    { term: "imbroglione", register: "colloquiale", context: "chi inganna con astuzia sistematica" },
+    { term: "mascalzone", register: "colloquiale", context: "individuo disonesto e spregevole, registro teatrale-popolare" },
+    { term: "birbante", register: "colloquiale", context: "furfante di basso livello, registro più leggero o ironico" },
   ],
   antonyms: [],
   relatedWords: ["farabutto", "imbroglione", "mascalzone", "birbante"],

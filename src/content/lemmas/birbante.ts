@@ -36,12 +36,15 @@ export const birbante: LemmaEntry = {
     { term: "furfante", register: "comune", context: "con registro leggermente più negativo e letterario" },
     { term: "mascalzone", register: "colloquiale", context: "più pesante, meno ironico" },
     { term: "discolo", register: "comune-formale", context: "chi non vuole stare alle regole, specie in ambito scolastico" },
+    { term: "farabutto", register: "comune", context: "quando il giudizio morale diventa strutturale e senza attenuanti" },
+    { term: "imbroglione", register: "colloquiale", context: "chi inganna con metodo sistematico, senza la leggerezza del birbante" },
+    { term: "malacarne", register: "popolare", context: "uso figurato per persona di basso valore morale, registro più duro" },
   ],
   antonyms: [
     { term: "onesto", register: "comune", context: "di condotta retta" },
     { term: "per bene", register: "colloquiale", context: "di comportamento corretto e rispettoso" },
   ],
-  relatedWords: ["monello", "furfante", "mascalzone", "birba", "discolo", "dispettoso"],
+  relatedWords: ["monello", "furfante", "mascalzone", "farabutto", "imbroglione", "malacarne", "birba", "discolo", "dispettoso"],
   sourceLinks: {},
   paroliereNote:
     "Birbante è l'unico lemma del cluster che ha cambiato segno nel tempo senza perdere vitalità. " +
