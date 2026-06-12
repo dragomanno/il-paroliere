@@ -72,6 +72,8 @@ export const bagliore: LemmaEntry = {
     "fulgore",
     "guizzo",
     "luminosità",
+    "oscurità",
+    "penombra",
   ],
 
   sourceLinks: {

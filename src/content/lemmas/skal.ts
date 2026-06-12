@@ -15,7 +15,7 @@ export const skal: LemmaEntry = {
   examples: [],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["na zdarovje", "salute", "brindisi"],
+  relatedWords: ["na zdarovje", "salute", "alla salute", "brindisi", "Zum Wohl", "Cheers"],
   sourceLinks: { wiktionary: "https://sv.wiktionary.org/wiki/sk%C3%A5l" },
   paroliereNote:
     "Il rituale del contatto visivo durante lo skål non è un vezzo folkloristico: in molte culture nordiche evitare lo sguardo mentre si brinda è considerato maleducato, quasi un segno di disonestà. Un piccolo gesto che racconta molto su come una cultura costruisce la fiducia.",

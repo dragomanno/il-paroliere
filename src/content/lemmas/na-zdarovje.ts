@@ -15,7 +15,7 @@ export const naZdarovje: LemmaEntry = {
   examples: [],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["skål", "salute", "brindisi", "russo"],
+  relatedWords: ["skål", "salute", "alla salute", "brindisi", "Zum Wohl", "Cheers", "russo"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/na_zdorovye" },
   paroliereNote:
     "La forma italiana na zdarovje è una traslitterazione approssimativa — fonetica, non scientifica — che nel parlato quotidiano è diventata la versione standard. Chi la usa raramente sa che in russo il brindisi alla salute ha un doppio uso: quello conviviale e quello come risposta galante a un grazie.",
