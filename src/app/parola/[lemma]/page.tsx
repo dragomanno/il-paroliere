@@ -70,16 +70,28 @@ function Divider() {
  * Mirrors the slug convention used in LemmaEntry:
  *   - lowercase
  *   - spaces → hyphens
- *   - accented chars preserved (they are valid in Next.js dynamic routes)
+ *   - special/accented chars stripped to ASCII equivalent
+ *     (Italian accents: à→a, è→e, é→e, ì→i, ò→o, ù→u)
+ *     (Nordic chars: å→a, ä→a, ö→o, ø→o)
  *
  * Examples:
  *   "GenX"            → "genx"
  *   "Generazione Alpha" → "generazione-alpha"
  *   "e-commerce"      → "e-commerce"
- *   "retrogrado"      → "retrogrado"
+ *   "skål"            → "skal"
+ *   "slealtà"         → "slealta"
  */
 function termToSlug(term: string): string {
-  return term.toLowerCase().replace(/\s+/g, "-");
+  return term
+    .toLowerCase()
+    .replace(/[àáâã]/g, "a")
+    .replace(/[èéêë]/g, "e")
+    .replace(/[ìíîï]/g, "i")
+    .replace(/[òóôõ]/g, "o")
+    .replace(/[ùúûü]/g, "u")
+    .replace(/[åä]/g, "a")
+    .replace(/[öø]/g, "o")
+    .replace(/\s+/g, "-");
 }
 
 /**
