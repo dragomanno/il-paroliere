@@ -127,6 +127,7 @@ import { declinare } from "./declinare";
 import { eufemismo } from "./eufemismo";
 import { fidelizzazione } from "./fidelizzazione";
 import { frastagliato } from "./frastagliato";
+import { imbroglione } from "./imbroglione";
 import { impasse } from "./impasse";
 import { lucido } from "./lucido";
 import { pervicace } from "./pervicace";
@@ -171,6 +172,7 @@ import { disciplina } from "./disciplina";
 import { dragoncello } from "./dragoncello";
 import { espletamento } from "./espletamento";
 import { espoliazione } from "./espoliazione";
+import { farabutto } from "./farabutto";
 import { faringalizzazione } from "./faringalizzazione";
 import { fascistello } from "./fascistello";
 import { fegatelli } from "./fegatelli";
@@ -213,6 +215,7 @@ import { ambaradam } from "./ambaradam";
 import { amenita } from "./amenita";
 import { ammansire } from "./ammansire";
 import { biasimare } from "./biasimare";
+import { birbante } from "./birbante";
 import { cesura } from "./cesura";
 import { dedizione } from "./dedizione";
 import { efficacia } from "./efficacia";
@@ -225,6 +228,7 @@ import { inetto } from "./inetto";
 import { insulso } from "./insulso";
 import { ludopatia } from "./ludopatia";
 import { malleabile } from "./malleabile";
+import { mascalzone } from "./mascalzone";
 import { manifattura } from "./manifattura";
 import { manifatturiero } from "./manifatturiero";
 import { mellifluo } from "./mellifluo";
@@ -451,6 +455,7 @@ export const allLemmas: LemmaEntry[] = [
   banalita,
   barberoSiena,
   battilana,
+  birbante,
   bipolare,
   bizzoso,
   boria,
@@ -486,6 +491,7 @@ export const allLemmas: LemmaEntry[] = [
   espletamento,
   espoliazione,
   eufemismo,
+  farabutto,
   faringalizzazione,
   fascistello,
   fegatelli,
@@ -504,6 +510,7 @@ export const allLemmas: LemmaEntry[] = [
   guelfo,
   hiking,
   hreflang,
+  imbroglione,
   impasse,
   imperialeSiena,
   incipit,
@@ -520,6 +527,7 @@ export const allLemmas: LemmaEntry[] = [
   malacarne,
   malinconia,
   malleabile,
+  mascalzone,
   mangiaufo,
   meandro,
   menuHamburger,
