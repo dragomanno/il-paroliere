@@ -39,7 +39,7 @@ export const farabutto: LemmaEntry = {
     { term: "galantuomo", register: "comune", context: "uomo onesto e di parola" },
     { term: "integerrimo", register: "formale", context: "di integrità morale assoluta" },
   ],
-  relatedWords: ["canaglia", "mascalzone", "imbroglione", "birbante", "malacarne", "disonestà"],
+  relatedWords: ["canaglia", "mascalzone", "imbroglione", "birbante", "malacarne", "malandrino", "furfante", "disonestà"],
   sourceLinks: {},
   paroliereNote:
     "Farabutto è il termine che non lascia scampo. Gli altri lemmi del cluster — imbroglione, mascalzone, birbante — " +

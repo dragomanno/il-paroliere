@@ -43,7 +43,7 @@ export const mascalzone: LemmaEntry = {
     { term: "galantuomo", register: "comune", context: "uomo di condotta irreprensibile" },
     { term: "leale", register: "comune", context: "chi agisce con trasparenza e rispetto" },
   ],
-  relatedWords: ["slealtà", "furfante", "farabutto", "imbroglione", "birbante", "malacarne", "canaglia", "disonestà"],
+  relatedWords: ["slealtà", "furfante", "farabutto", "imbroglione", "birbante", "malacarne", "malandrino", "canaglia", "disonestà"],
   sourceLinks: {},
   paroliereNote:
     "Mascalzone si fischia, farabutto si pronuncia a denti stretti. " +
