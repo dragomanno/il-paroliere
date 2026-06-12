@@ -447,6 +447,19 @@ import { politica } from "./politica";
 import { terrorismo } from "./terrorismo";
 import { incursione } from "./incursione";
 import { sabotaggio } from "./sabotaggio";
+import { abbagliare } from "./abbagliare";
+import { lampo } from "./lampo";
+import { barlume } from "./barlume";
+import { fulgore } from "./fulgore";
+import { guizzo } from "./guizzo";
+import { luminosita } from "./luminosita";
+import { oscurita } from "./oscurita";
+import { penombra } from "./penombra";
+import { saluteBrindisi } from "./salute-brindisi";
+import { allaSalute } from "./alla-salute";
+import { brindisi } from "./brindisi";
+import { zumWohl } from "./zum-wohl";
+import { cheers } from "./cheers";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -466,6 +479,14 @@ export const allLemmas: LemmaEntry[] = [
   arrendevolezza,
   atavico,
   bagliore,
+  abbagliare,
+  lampo,
+  barlume,
+  fulgore,
+  guizzo,
+  luminosita,
+  oscurita,
+  penombra,
   banalita,
   barberoSiena,
   battilana,
@@ -559,6 +580,11 @@ export const allLemmas: LemmaEntry[] = [
   morboso,
   nasalTwang,
   naZdarovje,
+  saluteBrindisi,
+  allaSalute,
+  brindisi,
+  zumWohl,
+  cheers,
   nembo,
   nitido,
   noncurante,
