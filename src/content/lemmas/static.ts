@@ -444,6 +444,9 @@ import { alleanza } from "./alleanza";
 import { trasformismo } from "./trasformismo";
 import { portaborse } from "./portaborse";
 import { politica } from "./politica";
+import { terrorismo } from "./terrorismo";
+import { incursione } from "./incursione";
+import { sabotaggio } from "./sabotaggio";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -782,6 +785,9 @@ export const allLemmas: LemmaEntry[] = [
   fumino,
   smargiasso,
   kommando,
+  terrorismo,
+  incursione,
+  sabotaggio,
   pasdaran,
   spetsnaz,
   correttore,
