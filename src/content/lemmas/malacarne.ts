@@ -35,7 +35,7 @@ export const malacarne: LemmaEntry = {
     { term: "birbante", register: "colloquiale", context: "furfante di basso livello, registro più leggero o ironico" },
   ],
   antonyms: [],
-  relatedWords: ["farabutto", "imbroglione", "mascalzone", "birbante"],
+  relatedWords: ["farabutto", "imbroglione", "mascalzone", "birbante", "malandrino", "furfante", "canaglia"],
   sourceLinks: {},
   paroliereNote:
     "Malacarne porta con sé l'odore della bottega: nasce come giudizio sul valore della carne, " +

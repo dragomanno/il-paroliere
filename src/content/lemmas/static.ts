@@ -11,6 +11,7 @@
 import type { LemmaEntry } from "@/lib/types";
 
 // Phase 1 — seed lemmas
+import { furfante } from "./furfante";
 import { garbo } from "./garbo";
 import { cura } from "./cura";
 import { algoritmo } from "./algoritmo";
@@ -106,6 +107,7 @@ import { rovello } from "./rovello";
 
 // Towards 100 — batch 5 (SEO/marketing)
 import { bot } from "./bot";
+import { canaglia } from "./canaglia";
 import { canonicalizzazione } from "./canonicalizzazione";
 import { crawlBudget } from "./crawl-budget";
 import { hreflang } from "./hreflang";
@@ -114,6 +116,7 @@ import { llm } from "./llm";
 import { posizionamento } from "./posizionamento";
 import { redirect } from "./redirect";
 import { seo } from "./seo";
+import { slealta } from "./slealta";
 import { statusCode } from "./status-code";
 import { token } from "./token";
 import { tokenizzazione } from "./tokenizzazione";
@@ -168,6 +171,7 @@ import { cookiePolicy } from "./cookie-policy";
 import { costanza } from "./costanza";
 import { coworking } from "./coworking";
 import { cpt } from "./cpt";
+import { disonesta } from "./disonesta";
 import { disciplina } from "./disciplina";
 import { dragoncello } from "./dragoncello";
 import { espletamento } from "./espletamento";
@@ -184,7 +188,14 @@ import { guelfo } from "./guelfo";
 import { hiking } from "./hiking";
 import { imperialeSiena } from "./imperiale-siena";
 import { insaccato } from "./insaccato";
+import { malaccio } from "./malaccio";
 import { malacarne } from "./malacarne";
+import { malacreanza } from "./malacreanza";
+import { malafemmina } from "./malafemmina";
+import { malandrino } from "./malandrino";
+import { malavita } from "./malavita";
+import { malevolenza } from "./malevolenza";
+import { malfidato } from "./malfidato";
 import { menuHamburger } from "./menu-hamburger";
 import { modanatura } from "./modanatura";
 import { naZdarovje } from "./na-zdarovje";
@@ -460,6 +471,7 @@ export const allLemmas: LemmaEntry[] = [
   bizzoso,
   boria,
   bot,
+  canaglia,
   canonicalizzazione,
   caparbio,
   cauto,
@@ -481,6 +493,7 @@ export const allLemmas: LemmaEntry[] = [
   declinare,
   demistificare,
   diatriba,
+  disonesta,
   disciplina,
   disinvoltura,
   dissimulare,
@@ -501,6 +514,7 @@ export const allLemmas: LemmaEntry[] = [
   flemma,
   fraintendere,
   frastagliato,
+  furfante,
   garbo,
   gdpr,
   ghibellino,
@@ -524,7 +538,14 @@ export const allLemmas: LemmaEntry[] = [
   llm,
   lucido,
   lusinga,
+  malaccio,
   malacarne,
+  malacreanza,
+  malafemmina,
+  malandrino,
+  malavita,
+  malevolenza,
+  malfidato,
   malinconia,
   malleabile,
   mascalzone,
@@ -581,6 +602,7 @@ export const allLemmas: LemmaEntry[] = [
   scrupolo,
   sedimento,
   seo,
+  slealta,
   sfilacciato,
   sgomento,
   skal,

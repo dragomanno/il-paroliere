@@ -44,7 +44,7 @@ export const birbante: LemmaEntry = {
     { term: "onesto", register: "comune", context: "di condotta retta" },
     { term: "per bene", register: "colloquiale", context: "di comportamento corretto e rispettoso" },
   ],
-  relatedWords: ["monello", "furfante", "mascalzone", "farabutto", "imbroglione", "malacarne", "birba", "discolo", "dispettoso"],
+  relatedWords: ["monello", "furfante", "mascalzone", "farabutto", "imbroglione", "malacarne", "malandrino", "canaglia", "birba", "discolo", "dispettoso"],
   sourceLinks: {},
   paroliereNote:
     "Birbante è l'unico lemma del cluster che ha cambiato segno nel tempo senza perdere vitalità. " +
