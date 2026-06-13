@@ -35,7 +35,7 @@ export const pudicizia: LemmaEntry = {
     "Nell’iconografia classica, la Pudicizia era rappresentata come figura velata: il gesto del velo come metafora del contegno che copre senza nascondere.",
     "La pudicizia non è puritanesimo: il puritanesimo è ossessione per il peccato, la pudicizia è semplicemente la scelta di non esibire ciò che si considera intimo.",
     "Definire pudicizia quello che è semplicemente repressione sessuale è un errore semantico e storico: le due cose hanno radici diverse e conseguenze diverse.",
-    "In certi contesti letterari ottocenteschi, la pudicizia era il codice con cui si descriveva tutto ciò che una «donna per bene» non avrebbe mai fatto — il che dice più sulla società che sulla virtù.",
+    "In certi contesti letterari ottocenteschi, la pudicizia era il codice con cui si descriveva tutto ciò che una “donna per bene” non avrebbe mai fatto — il che dice più sulla società che sulla virtù.",
   ],
 
   synonyms: [

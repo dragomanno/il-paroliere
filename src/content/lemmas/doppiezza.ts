@@ -35,7 +35,7 @@ export const doppiezza: LemmaEntry = {
     "La doppiezza di un negoziatore si rivela quando i termini concordati in privato non coincidono con quelli annunciati pubblicamente.",
     "In politica, la doppiezza è quasi istituzionalizzata: si dice una cosa agli elettori e un’altra agli alleati, una cosa in campagna elettorale e un’altra al governo.",
     "La doppiezza non richiede necessariamente cattive intenzioni: a volte è solo il risultato di non aver mai fatto il lavoro di capire cosa si vuole davvero.",
-    "Riconoscere la doppiezza in se stessi è difficile: spesso si racconta come «adattamento al contesto», che può essere vero — ma può anche essere la razionalizzazione di una coerenza che non c’è.",
+    "Riconoscere la doppiezza in se stessi è difficile: spesso si racconta come “adattamento al contesto”, che può essere vero — ma può anche essere la razionalizzazione di una coerenza che non c’è.",
   ],
 
   synonyms: [

@@ -34,7 +34,7 @@ export const opportunismo: LemmaEntry = {
   examples: [
     "In politica, l’opportunismo si manifesta quando un parlamentare vota sempre con la maggioranza, qualunque essa sia: il suo bussola è il potere, non il programma.",
     "C’è un opportunismo di sopravvivenza — fare ciò che serve per non essere distrutto dal sistema — che è diverso dall’opportunismo come stile di vita.",
-    "In biologia, i microrganismi «opportunisti» sfruttano le debolezze del sistema immunitario: il termine tecnico è neutro, ma la metafora applicata alle persone non lo è mai.",
+    "In biologia, i microrganismi “opportunisti” sfruttano le debolezze del sistema immunitario: il termine tecnico è neutro, ma la metafora applicata alle persone non lo è mai.",
     "La differenza tra pragmatismo e opportunismo è sottile ma importante: il pragmatico adatta i mezzi ai fini, l’opportunista adatta anche i fini alle circostanze.",
   ],
 

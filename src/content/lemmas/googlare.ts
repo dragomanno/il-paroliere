@@ -32,7 +32,7 @@ export const googlare: LemmaEntry = {
     "nel 1998; «googlare» si diffonde nell’italiano parlato nei primi anni Duemila.",
 
   examples: [
-    "«Non lo so, googla» è diventata la risposta standard a qualsiasi domanda fattuale — il che ha cambiato il modo in cui ci aspettiamo di essere aiutati dagli altri.",
+    "Non lo so, googla è diventata la risposta standard a qualsiasi domanda fattuale — il che ha cambiato il modo in cui ci aspettiamo di essere aiutati dagli altri.",
     "Googlare qualcuno prima di un appuntamento è diventata norma: non è stalking, è gestione dell’incertezza in un mondo in cui le informazioni sono disponibili.",
     "La differenza tra googlare e ricercare è la stessa tra guardare e leggere: uno è veloce e superficie, l’altro è lento e profondo.",
     "I bambini che crescono googlando hanno un accesso all’informazione senza precedenti e un’abitudine alla risposta istantanea che la lettura lenta fatica a soddisfare.",

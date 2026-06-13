@@ -32,7 +32,7 @@ export const millantatore: LemmaEntry = {
     "stabile, non occasionale.",
 
   examples: [
-    "Il classico millantatore da bar è quello che conosce personalmente «il direttore», il quale può «sistemare» qualsiasi problema — senza che questa conoscenza si materializzi mai.",
+    "Il classico millantatore da bar è quello che conosce personalmente “il direttore”, il quale può “sistemare” qualsiasi problema — senza che questa conoscenza si materializzi mai.",
     "Il millantatore di credito non è solo un bugiardo: è qualcuno che ha capito come funziona un sistema in cui le relazioni contano più delle competenze, e ne approfitta.",
     "Smascherare un millantatore richiede pazienza: bisogna aspettare che la promessa diventi dovuta, e poi verificare se si mantiene.",
     "Nella cultura d’impresa, il millantatore si annida nei pitch deck: numeri gonfiati, roadmap irrealistiche, mercati totali addressable che includono chiunque respiri.",

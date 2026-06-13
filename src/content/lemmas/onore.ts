@@ -33,7 +33,7 @@ export const onore: LemmaEntry = {
 
   examples: [
     "Nelle società mediterranee tradizionali, l’onore era patrimonio collettivo della famiglia: il gesto di uno ricadeva su tutti, nel bene e nel male.",
-    "Il duello come istituzione nacque per «riparare» l’onore offeso: un sistema brutale fondato sulla logica che la violenza potesse ripristinare una stima perduta.",
+    "Il duello come istituzione nacque per “riparare” l’onore offeso: un sistema brutale fondato sulla logica che la violenza potesse ripristinare una stima perduta.",
     "Nella cultura camorristica, il codice d’onore interno è rigidissimo — verso gli affiliati. La sua applicazione selettiva è la prova che non era mai stato un principio universale.",
     "Rinunciare a un vantaggio per non tradire una promessa data: questo è onore nella vita quotidiana, senza codici e senza testimoni.",
   ],
