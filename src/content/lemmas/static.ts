@@ -496,6 +496,38 @@ import { fatalismo } from "./fatalismo";
 import { cinismo } from "./cinismo";
 import { indifferenzaCivile } from "./indifferenza-civile";
 import { astensionismo } from "./astensionismo";
+// BATCH-007 — Etica, virtù e vizi (2026-06-13)
+import { integrita } from "./integrita";
+import { incorruttibilita } from "./incorruttibilita";
+import { correttezza } from "./correttezza";
+import { onore } from "./onore";
+import { lealta } from "./lealta";
+import { fiducia } from "./fiducia";
+import { vergogna } from "./vergogna";
+import { verecondia } from "./verecondia";
+import { modestia } from "./modestia";
+import { ritrosia } from "./ritrosia";
+import { pudicizia } from "./pudicizia";
+import { riserbo } from "./riserbo";
+import { intimita } from "./intimita";
+import { arroganza } from "./arroganza";
+import { impudenza } from "./impudenza";
+import { sfacciataggine } from "./sfacciataggine";
+import { spudoratezza } from "./spudoratezza";
+import { bravata } from "./bravata";
+import { millanteria } from "./millanteria";
+import { fanfarone } from "./fanfarone";
+import { gradasso } from "./gradasso";
+import { spaccone } from "./spaccone";
+import { millantatore } from "./millantatore";
+import { opportunismo } from "./opportunismo";
+import { ipocrisia } from "./ipocrisia";
+import { adulazione } from "./adulazione";
+import { malafede } from "./malafede";
+import { doppiezza } from "./doppiezza";
+import { messaggiare } from "./messaggiare";
+import { googlare } from "./googlare";
+import { twittare } from "./twittare";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -961,5 +993,37 @@ export const allLemmas: LemmaEntry[] = [
   cinismo,
   indifferenzaCivile,
   astensionismo,
+  // BATCH-007 — Etica, virtù e vizi (2026-06-13)
+  integrita,
+  incorruttibilita,
+  correttezza,
+  onore,
+  lealta,
+  fiducia,
+  vergogna,
+  verecondia,
+  modestia,
+  ritrosia,
+  pudicizia,
+  riserbo,
+  intimita,
+  arroganza,
+  impudenza,
+  sfacciataggine,
+  spudoratezza,
+  bravata,
+  millanteria,
+  fanfarone,
+  gradasso,
+  spaccone,
+  millantatore,
+  opportunismo,
+  ipocrisia,
+  adulazione,
+  malafede,
+  doppiezza,
+  messaggiare,
+  googlare,
+  twittare,
 ];
 
