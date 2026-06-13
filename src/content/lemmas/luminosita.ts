@@ -1,4 +1,4 @@
-// Il Paroliere — Lemma: luminosità
+// Il Paroliere â Lemma: luminositÃ 
 // Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
@@ -16,13 +16,13 @@ export const luminosita: LemmaEntry = {
     "ambiente — stabile e misurabile, a differenza del bagliore che è evento. In fotografia " +
     "e in fisica è parametro tecnico preciso. In senso figurato indica chiarezza di carattere, " +
     "trasparenza interiore: una persona dalla luminosità rara è quella in cui non si trovano " +
-    "zone d'ombra.",
+    "zone d’ombra.",
 
   shortDefinition:
     "Quantità o qualità della luce di un oggetto o ambiente; in fotografia parametro tecnico; in senso figurato, chiarezza di carattere.",
 
   register: ["comune", "tecnico", "letterario"],
-  domains: ["percezione", "fisica", "fotografia", "figurato"],
+  domains: ["percezione", "fisica", "fotografia", "estetica", "figurato"],
 
   etymology:
     "Da luminoso (dal latino luminosus, derivato di lumen, luce) + suffisso astratto -ità. " +
@@ -30,9 +30,9 @@ export const luminosita: LemmaEntry = {
     "nel Novecento.",
 
   examples: [
-    "La luminosità dell'appartamento era il suo punto di forza: tre esposizioni diverse, sole tutto il giorno.",
+    "La luminosità dell’appartamento era il suo punto di forza: tre esposizioni diverse, sole tutto il giorno.",
     "Aumenta la luminosità dello schermo: non riesco a vedere bene con questa luce esterna.",
-    "C'era in lei una luminosità tranquilla — non abbagliava, ma illuminava chi le stava vicino.",
+    "C’era in lei una luminosità tranquilla — non abbagliava, ma illuminava chi le stava vicino.",
   ],
 
   synonyms: [
@@ -75,6 +75,9 @@ export const luminosita: LemmaEntry = {
     "guizzo",
     "oscurità",
     "penombra",
+    "ombra",
+    "diafano",
+    "contrasto-estetico",
   ],
 
   sourceLinks: {
@@ -100,5 +103,5 @@ export const luminosita: LemmaEntry = {
   },
 
   createdAt: "2026-06-12",
-  updatedAt: "2026-06-12",
+  updatedAt: "2026-06-13",
 };
