@@ -35,8 +35,8 @@ export const anamnesi: LemmaEntry = {
     "in Platone, la dottrina per cui conoscere è ricordare ciò che l'anima sapeva prima " +
     "di incarnarsi.",
 
-  register: ["tecnico (medicina, filosofia)", "raro nel parlato comune"],
-  domains: ["medicina", "filosofia platonica", "psicologia clinica"],
+  register: ["tecnico (medicina, filosofia)", "raro nel parlato comune", "comune (uso esteso)"],
+  domains: ["medicina", "filosofia platonica", "psicologia clinica", "diritto", "ricerca sociale"],
 
   etymology:
     "Dal greco anámnēsis (ἀνάμνησις), da ana- («di nuovo, verso l'alto») + mnēsis " +
@@ -47,6 +47,7 @@ export const anamnesi: LemmaEntry = {
     "Una buona anamnesi vale più di mille esami: il medico che sa ascoltare il paziente arriva alla diagnosi prima e meglio di chi affida tutto alla tecnologia.",
     "Nel Menone, Socrate usa l'anamnesi platonica per dimostrare che lo schiavo sa già la geometria: la conoscenza non viene dall'esterno, viene dal ricordo dell'anima.",
     "L'anamnesi familiare rivelò una storia di cardiopatie su tre generazioni: informazione che cambiò completamente l'approccio terapeutico.",
+    "Prima di avviare la consulenza, il commercialista ha fatto un'anamnesi dell'azienda: bilanci, contenziosi, struttura societaria — solo allora ha potuto dare un consiglio utile.",
   ],
 
   synonyms: [
@@ -115,5 +116,5 @@ export const anamnesi: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-06-13",
 };
