@@ -64,8 +64,20 @@ export type LemmaEntry = {
     note?: string;
   }[];
 
-  /** Related lexical concepts — may later support semantic graphs. */
-  relatedWords?: string[];
+  /**
+   * Related lexical concepts.
+   * Supports both plain strings (legacy) and structured objects (interlinking).
+   * Structured form enables semantic graph navigation: { slug, label, relation }.
+   */
+  relatedWords?: (
+    | string
+    | {
+        slug?: string;
+        label: string;
+        term?: string;
+        relation?: string;
+      }
+  )[];
 
   /**
    * External authoritative dictionary links.
