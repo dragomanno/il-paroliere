@@ -10,6 +10,7 @@ import { getDb } from "@/lib/db/client";
 import { lemmas } from "@/db/schema";
 import { eq, sql } from "drizzle-orm";
 import type { LemmaEntry } from "@/lib/types";
+import type { RelatedWordRecord } from "@/db/schema";
 
 /**
  * Map a DB row to the LemmaEntry type used throughout the app.
@@ -29,7 +30,7 @@ function rowToLemmaEntry(row: typeof lemmas.$inferSelect): LemmaEntry {
     examples: (row.examples as string[]) ?? [],
     synonyms: (row.synonyms as LemmaEntry["synonyms"]) ?? [],
     antonyms: (row.antonyms as LemmaEntry["antonyms"]) ?? [],
-    relatedWords: (row.relatedWords as string[]) ?? [],
+    relatedWords: (row.relatedWords as RelatedWordRecord[]) ?? [],
     sourceLinks: (row.sourceLinks as LemmaEntry["sourceLinks"]) ?? {},
     paroliereNote: row.paroliereNote,
     editorialStatus: row.editorialStatus as LemmaEntry["editorialStatus"],

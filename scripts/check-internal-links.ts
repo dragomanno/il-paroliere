@@ -32,7 +32,14 @@ function collectTerms(entry: LemmaEntry): string[] {
   const terms: string[] = [];
   if (entry.synonyms) terms.push(...entry.synonyms.map((s) => s.term));
   if (entry.antonyms) terms.push(...entry.antonyms.map((a) => a.term));
-  if (entry.relatedWords) terms.push(...entry.relatedWords);
+  if (entry.relatedWords)
+    terms.push(
+      ...entry.relatedWords
+        .map((w) =>
+          typeof w === "string" ? w : (w.slug ?? w.label ?? w.term ?? "")
+        )
+        .filter(Boolean)
+    );
   return [...new Set(terms)]; // deduplicate
 }
 

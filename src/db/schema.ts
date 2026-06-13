@@ -47,6 +47,16 @@ export type SourceLinksRecord = {
   wiktionary?: string;
 };
 
+/** Structured relatedWords entry — supports both plain strings and interlinking objects. */
+export type RelatedWordRecord =
+  | string
+  | {
+      slug?: string;
+      label?: string;
+      term?: string;
+      relation?: string;
+    };
+
 // ─── Main table ───────────────────────────────────────────────────────────────
 
 export const lemmas = pgTable(
@@ -70,7 +80,7 @@ export const lemmas = pgTable(
     register: jsonb("register").$type<string[]>().notNull().default([]),
     domains: jsonb("domains").$type<string[]>().notNull().default([]),
     examples: jsonb("examples").$type<string[]>().notNull().default([]),
-    relatedWords: jsonb("related_words").$type<string[]>().default([]),
+    relatedWords: jsonb("related_words").$type<RelatedWordRecord[]>().default([]),
 
     // Structured JSONB arrays
     synonyms: jsonb("synonyms").$type<SynonymRecord[]>().default([]),
