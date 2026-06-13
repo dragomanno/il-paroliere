@@ -373,14 +373,27 @@ export default async function LemmaPage({ params }: Props) {
           <section>
             <SectionHeading>Parole correlate</SectionHeading>
             <div className="flex flex-wrap gap-2">
-              {relatedWords.map((word) => (
-                <LemmaLink
-                  key={word}
-                  term={word}
-                  publishedSlugs={publishedSlugs}
-                  className="tag-pos"
-                />
-              ))}
+              {relatedWords.map((word, i) => {
+                // Normalise: supports both plain string and structured object
+                const displayTerm =
+                  typeof word === "string"
+                    ? word
+                    : (word.label ?? word.term ?? word.slug ?? "");
+                const slugOverride =
+                  typeof word === "string" ? undefined : word.slug;
+                const relation =
+                  typeof word === "string" ? undefined : word.relation;
+                if (!displayTerm) return null;
+                return (
+                  <span key={`${displayTerm}-${i}`} title={relation ?? undefined}>
+                    <LemmaLink
+                      term={slugOverride ?? displayTerm}
+                      publishedSlugs={publishedSlugs}
+                      className="tag-pos"
+                    />
+                  </span>
+                );
+              })}
             </div>
           </section>
         </>
