@@ -58,8 +58,8 @@ export const spudoratezza: LemmaEntry = {
     "La domanda non è se la spudoratezza faccia male a chi la subisce — fa sempre " +
     "male — ma cosa dice di chi la pratica.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "spudoratezza — l’assenza totale di pudore tra etica e comunicazione pubblica",

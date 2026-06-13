@@ -83,8 +83,8 @@ export const fatalismo: LemmaEntry = {
     "risposta, anche quando è storicamente giustificata, tende a perpetuare le condizioni " +
     "che l'hanno generata.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "fatalismo — destino, rassegnazione e responsabilità tra filosofia e vita civile",

@@ -55,8 +55,8 @@ export const respiro: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "respiro — significato fisiologico ed estetico del prendere fiato",

@@ -63,8 +63,8 @@ export const trauma: LemmaEntry = {
   paroliereNote:
     "Il trauma non coincide con il dolore in sé, ma con il modo in cui un dolore rompe le mappe con cui leggevamo il mondo: ciò che prima sembrava sicuro non lo è più, ciò che prima era pensabile diventa indicibile. Per questo non basta “passarci sopra” né dire che il tempo guarirà tutto; da solo, il tempo può trasformare il trauma in un nodo muto che continua a stringere. Il lemma ricorda che nominare un'esperienza come traumatica non è richiedere indulgenza, ma chiedere strumenti adeguati per non essere costretti a riviverla all'infinito.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "trauma — quando l'esperienza lascia ferite profonde",

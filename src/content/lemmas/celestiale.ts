@@ -56,8 +56,8 @@ export const celestiale: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "celestiale — significato, etimologia e uso estetico del termine",

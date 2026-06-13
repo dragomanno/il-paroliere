@@ -54,8 +54,8 @@ export const levita: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "levità — significato, etimologia e differenza con leggerezza",

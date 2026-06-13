@@ -60,8 +60,8 @@ export const gradasso: LemmaEntry = {
     "è malvagio: è vuoto. E il vuoto, quando fa tanto rumore, è più difficile da " +
     "ignorare del pieno.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "gradasso — dal re saraceno di Boiardo al tipo umano che fa il grande",

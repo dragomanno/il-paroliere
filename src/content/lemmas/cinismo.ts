@@ -82,8 +82,8 @@ export const cinismo: LemmaEntry = {
     "all'eccesso. Il cinico contemporaneo non ha credenze — ha solo l'aria di chi le ha " +
     "avute e le ha perse. Il che è molto meno interessante.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "cinismo — da Diogene alla postura contemporanea che rifiuta ogni valore",

@@ -68,8 +68,8 @@ export const percezione: LemmaEntry = {
   paroliereNote:
     "La percezione è spesso presentata come una finestra sul mondo, ma assomiglia di più a una traduzione: seleziona, accentua, taglia. Dire “questa è solo una percezione” non significa svalutarla, bensì ricordare che tra ciò che accade e ciò che ci appare c'è il filtro di un corpo, di una storia, di un contesto sociale. Nella vita pubblica, giocare con la percezione è diventato un mestiere: cambiare luci, parole, inquadrature per spostare l'attenzione di pochi gradi. Il lemma invita a considerare non solo cosa vediamo, ma anche chi ha preparato la scena.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "percezione — come costruiamo ciò che vediamo",

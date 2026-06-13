@@ -56,8 +56,8 @@ export const tonicita: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "tonicità — significato in fisiologia, fisioterapia e critica estetica",

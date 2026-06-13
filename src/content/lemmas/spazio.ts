@@ -55,8 +55,8 @@ export const spazio: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "spazio — significato in fisica, architettura, filosofia ed estetica",

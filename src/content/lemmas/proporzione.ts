@@ -55,8 +55,8 @@ export const proporzione: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "proporzione — significato in matematica, architettura ed estetica",

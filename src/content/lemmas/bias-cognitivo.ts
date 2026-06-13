@@ -63,8 +63,8 @@ export const biasCognitivo: LemmaEntry = {
   paroliereNote:
     "Parlare di bias cognitivi significa riconoscere che molti errori non sono “distrazioni” occasionali, ma modi ricorrenti di pensare che ci risparmiano fatica al prezzo di una certa ingiustizia verso il mondo. Il lemma è diventato di moda, talvolta usato come etichetta rassicurante (“non è colpa mia, è un bias”), ma la sua forza sta altrove: invita a sospendere la sicurezza del primo giudizio e a chiederci chi ci guadagna da queste deviazioni. Nei feed digitali, dove tutto è progettato per catturare attenzione e confermare identità, riconoscere i bias non li elimina, ma può impedire che siano solo altri a usarli contro di noi.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "bias cognitivo — quando la mente devia",

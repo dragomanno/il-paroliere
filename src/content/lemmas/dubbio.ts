@@ -68,8 +68,8 @@ export const dubbio: LemmaEntry = {
   paroliereNote:
     "Il dubbio è spesso raccontato come nemico della serenità, perché si insinua dove pensavamo di avere risposte ferme. Eppure, senza dubbio, molte conquiste scientifiche, giuridiche e personali non sarebbero mai arrivate: qualcuno ha dovuto chiedersi se “davvero è così” quando tutti davano per scontato il contrario. Il rischio è restare prigionieri di un dubbio che non si lascia mai verificare, trasformandosi in alibi per non scegliere. Il lemma invita a trattare il dubbio come un passaggio necessario, da attraversare con strumenti adeguati, invece che come uno stato d'animo da zittire o glorificare a priori.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "dubbio — quando sospendere l'assenso diventa necessario",

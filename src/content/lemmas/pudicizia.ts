@@ -60,8 +60,8 @@ export const pudicizia: LemmaEntry = {
     "che non è vergogna ma cura di sé. Recuperare quel nucleo richiede di separarlo " +
     "dalla storia di oppressione che lo ha usato come strumento.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "pudicizia — contegno corporeo tra virtù storica e decostruzione contemporanea",

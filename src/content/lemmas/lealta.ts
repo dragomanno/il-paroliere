@@ -61,8 +61,8 @@ export const lealta: LemmaEntry = {
     "consapevolezza che la lealtà senza riserva — la lealtà incondizionata — è la " +
     "prima cosa che i sistemi autoritari richiedono ai loro seguaci.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "lealtà — fedeltà scelta, non obbedienza: tra virtù e vizio",

@@ -68,8 +68,8 @@ export const indizio: LemmaEntry = {
   paroliereNote:
     "L'indizio piace perché trasforma il mondo in un giallo: ogni dettaglio può essere un pezzo di trama. Ma il rischio è vedere indizi ovunque, dimenticando che sono tali solo dentro una storia che li collega. Nel diritto e nella ricerca scientifica contano tanto gli indizi che puntano in una direzione quanto quelli che la contraddicono, che spesso vengono trascurati. Il lemma suggerisce di trattare gli indizi come inviti a indagare meglio, non come scorciatoie per arrivare alla conclusione che desideriamo.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "indizio — tracce che orientano senza dimostrare",

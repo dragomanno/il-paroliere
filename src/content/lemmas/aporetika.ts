@@ -76,8 +76,8 @@ export const aporetika: LemmaEntry = {
     "veloci e le sintesi immediate, l'aporetika è quasi un atto di resistenza — la scelta " +
     "di non risolvere in anticipo ciò che non si è ancora capito davvero.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "aporetika — il pensiero che riconosce il proprio limite",

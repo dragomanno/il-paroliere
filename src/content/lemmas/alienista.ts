@@ -68,8 +68,8 @@ export const alienista: LemmaEntry = {
     "\u00abalienato\u00bb significava togliergli la parola — e affidarla all'alienista. Basterebbe " +
     "questo per capire quanto pesi la nomenclatura in psichiatria.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "alienista — il medico dei matti nell'Ottocento e la psichiatria delle origini",

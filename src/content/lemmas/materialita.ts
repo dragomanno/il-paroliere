@@ -57,8 +57,8 @@ export const materialita: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "materialità — significato in filosofia, estetica e diritto",

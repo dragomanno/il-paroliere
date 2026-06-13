@@ -56,8 +56,8 @@ export const turgido: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "turgido — significato in botanica, anatomia e retorica",

@@ -63,8 +63,8 @@ export const coscienza: LemmaEntry = {
   paroliereNote:
     "La coscienza è una di quelle parole in cui si incontrano tre registri diversi: neurologico (essere svegli o no), fenomenologico (sentire in prima persona) e morale (sapere se si sta facendo il bene o il male). Nel dibattito pubblico, spesso li mescoliamo senza accorgercene: dire che qualcuno “non ha coscienza” può voler dire che non è lucido o che non si assume le proprie responsabilità. Il lemma suggerisce di tenere insieme queste dimensioni senza confonderle: c'è una coscienza che si accende e si spegne, una che accompagna silenziosamente ogni gesto, e una che ci interroga su chi stiamo diventando mentre agiamo.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "coscienza — essere presenti a sé stessi",

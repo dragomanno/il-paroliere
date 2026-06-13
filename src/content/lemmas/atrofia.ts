@@ -55,8 +55,8 @@ export const atrofia: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "atrofia — significato in medicina, biologia e senso figurato",

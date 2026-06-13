@@ -78,8 +78,8 @@ export const antisocialita: LemmaEntry = {
     "si sposta su chi ha solo scelto il silenzio. E quando un termine morale viene " +
     "medicalizzato, si rischia di trasformare la protesta in malattia.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "antisocialità — tra disturbo clinico, norma sociale e uso improprio",

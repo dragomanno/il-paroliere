@@ -73,8 +73,8 @@ export const sociologia: LemmaEntry = {
     "intenzioni di singoli individui, un buon sociologo chiede: \u201cQuali strutture rendono " +
     "quelle intenzioni possibili, plausibili, normali?\u201d Non è cinismo, è metodo.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "sociologia — come la società forma gli individui e viceversa",

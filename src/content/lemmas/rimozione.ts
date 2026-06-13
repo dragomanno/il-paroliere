@@ -63,8 +63,8 @@ export const rimozione: LemmaEntry = {
   paroliereNote:
     "La rimozione permette di sopravvivere a ciò che, se restasse in piena luce, schiaccerebbe; ma, se dura troppo, rende la vita un salotto ordinato dietro cui si accumulano stanze chiuse. Nel discorso pubblico, parliamo di rimozione quando una società evita di guardare certi capitoli della propria storia, preferendo racconti più rassicuranti. Il lemma invita a non demonizzare la rimozione come pura “negazione”, ma a riconoscerla come fase, da accompagnare prima o poi con gesti di ritorno alla coscienza, personali o collettivi.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "rimozione — ciò che la mente allontana",

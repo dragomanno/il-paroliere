@@ -68,8 +68,8 @@ export const premonizione: LemmaEntry = {
   paroliereNote:
     "La premonizione mette insieme tre ingredienti difficili da districare: la nostra sensibilità ai dettagli, il bisogno di controllare il futuro, la tendenza a ricordare solo le coincidenze che ci colpiscono. Per questo, da un lato, è facile liquidarla come illusione; dall'altro, è una forma con cui la psiche segnala che qualcosa non torna, prima ancora che ce lo diciamo in modo chiaro. Il lemma invita a non farsi guidare ciecamente dalle premonizioni, ma neppure a ignorare quello che raccontano sulle nostre paure, sui nostri desideri e sui piccoli movimenti del mondo che abbiamo colto senza accorgercene.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "premonizione — quando il futuro sembra affacciarsi prima",

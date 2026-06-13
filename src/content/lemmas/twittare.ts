@@ -62,8 +62,8 @@ export const twittare: LemmaEntry = {
     "logica al contenuto — e la logica del tweet è spesso quella dello shock, non " +
     "della comprensione.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "twittare — pubblicare su Twitter tra neologismo, formato e potere della brevità",

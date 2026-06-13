@@ -59,8 +59,8 @@ export const incorruttibilita: LemmaEntry = {
     "comoda. Quelli che lo proclamavano, invece, spesso usavano la propria virtù " +
     "dichiarata come moneta di scambio di altro tipo.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "incorruttibilità — virtù assoluta o mito politico?",

@@ -53,8 +53,8 @@ export const rarefazione: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "rarefazione — significato in fisica, estetica e critica d’arte",

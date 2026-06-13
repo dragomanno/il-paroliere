@@ -53,8 +53,8 @@ export const diafano: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "diafano — significato, etimologia e uso letterario del quasi-trasparente",

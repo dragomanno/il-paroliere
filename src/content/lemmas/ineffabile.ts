@@ -54,8 +54,8 @@ export const ineffabile: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "ineffabile — significato, etimologia e confini del linguaggio",

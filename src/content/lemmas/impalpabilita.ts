@@ -54,8 +54,8 @@ export const impalpabilita: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "impalpabilità — significato, etimologia e uso estetico del non-toccabile",

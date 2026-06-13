@@ -55,8 +55,8 @@ export const flosco: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "flosco — significato in anatomia, botanica e uso figurato",

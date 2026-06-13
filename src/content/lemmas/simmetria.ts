@@ -56,8 +56,8 @@ export const simmetria: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "simmetria — significato in matematica, biologia, fisica ed estetica",

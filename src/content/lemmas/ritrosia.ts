@@ -59,8 +59,8 @@ export const ritrosia: LemmaEntry = {
     "e ciò che si tiene per sé. Senza questa differenza, non c’è interiore — solo " +
     "superficie.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "ritrosia — il passo indietro come virtù, tra riserbo e cautela",

@@ -68,8 +68,8 @@ export const prova: LemmaEntry = {
   paroliereNote:
     "La prova non è mai neutrale: dipende dalle regole del gioco in cui viene raccolta e valutata. Ciò che basta come prova in una conversazione tra amici non è sufficiente in un tribunale o in un articolo scientifico, e questo scarto genera spesso incomprensioni. L'epoca delle informazioni veloci alimenta la retorica del “ci sono le prove” senza chiarire quali, come sono state ottenute, chi le ha interpretate. Il lemma invita a chiedere non solo se “c'è una prova”, ma che tipo di prova è, secondo quali criteri e con quali limiti.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "prova — dal sospetto al fatto accertato",

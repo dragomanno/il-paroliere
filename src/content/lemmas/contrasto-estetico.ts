@@ -56,8 +56,8 @@ export const contrasteEstetico: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "contrasto estetico — cos’è e come funziona in arte, musica e tipografia",

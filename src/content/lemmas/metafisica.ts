@@ -63,8 +63,8 @@ export const metafisica: LemmaEntry = {
   paroliereNote:
     "La metafisica è spesso presa a simbolo del pensiero che “vola troppo alto”, lontano dalla vita reale. Eppure, molte discussioni concrete che facciamo su persona, libertà, responsabilità, realtà o finzione poggiano su assunzioni metafisiche implicite. Il problema non è tanto fare metafisica, quanto farla senza accorgersene, come se fosse puro buon senso. Il lemma propone di tenere la metafisica sotto luce critica: riconoscere che ne abbiamo bisogno per orientare l'esperienza, ma che le sue costruzioni non coincidono mai una volta per tutte con ciò che è.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "metafisica — che cosa c'è oltre la fisica",

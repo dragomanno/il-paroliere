@@ -56,8 +56,8 @@ export const dissonanza: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "dissonanza — significato in musica, psicologia ed estetica",
