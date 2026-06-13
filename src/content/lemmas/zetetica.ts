@@ -76,8 +76,8 @@ export const zetetica: LemmaEntry = {
     "di storia della filosofia. Forse perché la cultura del risultato premia chi conclude, " +
     "non chi continua a interrogare.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "zetetica — l'arte di cercare senza smettere di interrogare",

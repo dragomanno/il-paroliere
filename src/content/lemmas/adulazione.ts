@@ -62,8 +62,8 @@ export const adulazione: LemmaEntry = {
     "probabilmente la cosa più difficile che chiunque in una posizione di potere " +
     "possa fare.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "adulazione — la lode interessata che corrompe chi la riceve",

@@ -54,8 +54,8 @@ export const ritmo: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "ritmo — significato in musica, poetica, biologia ed estetica",

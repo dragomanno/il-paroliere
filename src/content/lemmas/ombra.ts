@@ -56,8 +56,8 @@ export const ombra: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "ombra — significato in fisica, pittura, psicologia e letteratura",

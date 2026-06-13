@@ -59,8 +59,8 @@ export const correttezza: LemmaEntry = {
     "La risposta che dà in quel momento dice molto di più sulla sua etica della " +
     "dichiarazione di principio iniziale.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "correttezza — rispetto delle regole tra etica, sport e grammatica",

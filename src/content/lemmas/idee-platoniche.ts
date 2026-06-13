@@ -63,8 +63,8 @@ export const ideePlatoniche: LemmaEntry = {
   paroliereNote:
     "Le idee platoniche mettono in scena un desiderio antico: che dietro alla confusione dei casi particolari esista un ordine più alto, stabile, a cui riferirsi. Questa tensione ha ispirato secoli di filosofia, ma ha anche alimentato il rischio di dimenticare la distanza tra forme ideali e vite concrete: nessuna città reale sarà mai la Città Giusta del dialogo, nessuna legge e nessuna persona incarnerà perfettamente il Bene. Il lemma invita a usare le idee come strumenti critici per misurare la realtà, non come rifugi astratti da opporre al mondo quando delude.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "idee platoniche — il mondo delle forme oltre le cose",

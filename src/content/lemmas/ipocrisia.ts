@@ -62,8 +62,8 @@ export const ipocrisia: LemmaEntry = {
     "da risultare indistinguibile dall’originale — il che mette in discussione " +
     "l’originale stesso.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "ipocrisia — recitare virtù che non si possiede, da Tartufo ai social",

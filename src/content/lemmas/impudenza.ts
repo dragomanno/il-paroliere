@@ -58,8 +58,8 @@ export const impudenza: LemmaEntry = {
     "sostanza: quella che viola le norme non per aprire uno spazio nuovo, ma " +
     "semplicemente per non pagare il costo del rispetto.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "impudenza — la violazione deliberata del decoro tra vizio e coraggio",

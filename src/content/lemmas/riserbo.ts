@@ -59,8 +59,8 @@ export const riserbo: LemmaEntry = {
     "ciò che si sa di sé appartiene a chi non lo ha chiesto. C’è una differenza " +
     "fondamentale tra essere aperti e essere illimitatamente accessibili.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "riserbo — la gestione intenzionale della soglia tra pubblico e privato",

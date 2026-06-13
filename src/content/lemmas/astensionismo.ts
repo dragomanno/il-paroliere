@@ -84,8 +84,8 @@ export const astensionismo: LemmaEntry = {
     "ancorate all'urna. Trovare un ancoraggio alternativo è la vera sfida della " +
     "politica democratica contemporanea.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "astensionismo — il non voto come segnale politico e crisi democratica",

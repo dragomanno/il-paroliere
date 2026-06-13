@@ -58,8 +58,8 @@ export const fanfarone: LemmaEntry = {
     "del tutto chiuso: lo condanna e lo ama allo stesso tempo. Forse perché in ogni " +
     "fanfarone c’è un residuo di chi vorrebbe essere ciò che racconta.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "fanfarone — il vanto rumoroso tra tipo letterario e carattere sociale",

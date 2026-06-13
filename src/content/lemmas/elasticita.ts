@@ -56,8 +56,8 @@ export const elasticita: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "elasticità — significato in fisica, biologia, economia e psicologia",

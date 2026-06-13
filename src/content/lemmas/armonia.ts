@@ -56,8 +56,8 @@ export const armonia: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "armonia — significato in musica, estetica e filosofia pitagorica",

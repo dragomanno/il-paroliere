@@ -60,8 +60,8 @@ export const fiducia: LemmaEntry = {
     "Eppure nessuno può ordinarla dall’alto: si costruisce solo attraverso esperienze " +
     "ripetute di affidabilità.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "fiducia — affidarsi nonostante l’incertezza, tra psicologia e sociologia",

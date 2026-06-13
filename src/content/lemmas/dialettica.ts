@@ -63,8 +63,8 @@ export const dialettica: LemmaEntry = {
   paroliereNote:
     "La dialettica mette in scena un paradosso utile: per avvicinarsi alla verità bisogna accettare il conflitto, non evitarlo. Nel dibattito pubblico, però, la parola rischia di ridursi a “lite ben parlata” o a etichetta per discussioni infinite che non cambiano niente. Il lemma invita a recuperare un senso più esigente: la dialettica non è dire sempre il contrario per principio, ma prendersi sul serio le obiezioni, fino a lasciare che cambino la forma della domanda iniziale. Dove manca dialettica, il dissenso si sfoga in sfiducia o in insulti; dove c'è solo dialettica senza decisione, tutto resta all'infinito allo stato di bozza.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "dialettica — pensare attraverso il conflitto delle idee",

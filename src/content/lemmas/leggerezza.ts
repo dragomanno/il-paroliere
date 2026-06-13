@@ -56,8 +56,8 @@ export const leggerezza: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "leggerezza — significato, etimologia e valore estetico del non-peso",

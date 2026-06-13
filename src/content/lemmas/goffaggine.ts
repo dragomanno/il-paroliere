@@ -57,8 +57,8 @@ export const goffaggine: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "goffaggine — significato, etimologia e uso letterario della mancanza di grazia",

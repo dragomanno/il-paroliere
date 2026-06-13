@@ -59,8 +59,8 @@ export const bravata: LemmaEntry = {
     "nelle scuole, nelle organizzazioni, nei sistemi politici. La domanda non è solo " +
     "chi è il singolo che si comporta così, ma quale struttura lo incentiva a farlo.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "bravata — il coraggio teatrale che richiede pubblico per esistere",

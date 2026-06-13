@@ -60,8 +60,8 @@ export const doppiezza: LemmaEntry = {
     "è quasi una competenza sistemica. Il problema è che, consolidata come norma, " +
     "rende impossibile la fiducia.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "doppiezza — avere due facce tra vizio personale e norma sistemica",

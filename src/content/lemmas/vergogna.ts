@@ -62,8 +62,8 @@ export const vergogna: LemmaEntry = {
     "vergogna interna così radicata da non lasciare spazio a nessuna seconda " +
     "possibilità. La vergogna sana è quella che ci fa riparare, non quella che ci fa sparire.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "vergogna — emozione morale tra psicologia, cultura e controllo sociale",

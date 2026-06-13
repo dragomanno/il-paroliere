@@ -56,8 +56,8 @@ export const tonoMuscolare: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "tono muscolare — cos’è, come funziona e come si valuta",

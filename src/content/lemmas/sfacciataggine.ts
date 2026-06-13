@@ -59,8 +59,8 @@ export const sfacciataggine: LemmaEntry = {
     "regole sono applicate in modo selettivo, la sfacciataggine diventa un’abilità " +
     "necessaria alla sopravvivenza.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "sfacciataggine — la faccia tosta tra vizio sociale e abilità adattiva",

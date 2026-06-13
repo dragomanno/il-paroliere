@@ -80,8 +80,8 @@ export const indifferenzaCivile: LemmaEntry = {
     "ricompensa visibile. La vera sfida non è convincere le persone che \u00abvotare conta\u00bb: " +
     "è ricostruire le condizioni in cui contare davvero diventa di nuovo credibile.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "indifferenza civile — il disimpegno dalla vita pubblica e le sue cause",

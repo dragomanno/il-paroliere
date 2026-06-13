@@ -59,8 +59,8 @@ export const millantatore: LemmaEntry = {
     "verifica è costosa e il dubbio imbarazzante. Smascherarlo richiede la " +
     "disponibilità a fare ciò che il sistema preferisce non fare: controllare.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "millantatore — il vanto strategico tra psicologia, diritto e cultura d’impresa",

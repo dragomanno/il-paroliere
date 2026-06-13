@@ -76,8 +76,8 @@ export const psicopatia: LemmaEntry = {
     "categoria binaria. Il vero problema non è chi \u00abè\u00bb psicopatico, ma quante strutture " +
     "sociali e organizzative premiano i tratti psicopatici senza chiamarli con il loro nome.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "psicopatia — disturbo della personalità tra clinica e abuso linguistico",

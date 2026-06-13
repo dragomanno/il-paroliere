@@ -68,8 +68,8 @@ export const inconscio: LemmaEntry = {
   paroliereNote:
     "Parlare di inconscio significa ammettere che non siamo trasparenti a noi stessi: ciò che pensiamo di volere, di temere, di scegliere è attraversato da forze che non controlliamo del tutto. La psicoanalisi ha dato a questa intuizione un modello complesso, ma l'idea circola ormai nel linguaggio quotidiano: “mi è sfuggito”, “non so perché l'ho fatto”. Il lemma invita a non usarlo come alibi (“è colpa dell'inconscio”), bensì come chiave per leggere certe ripetizioni di vita che non si spiegano solo con la volontà consapevole.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "inconscio — ciò che agisce fuori dalla coscienza",

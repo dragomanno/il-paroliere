@@ -57,8 +57,8 @@ export const spaccone: LemmaEntry = {
     "rappresentazione e la realtà è comica per definizione. E perché, come ogni " +
     "maschera, rivela sotto di sé qualcosa di più fragile di quanto mostri.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "spaccone — l’ostentazione della forza tra commedia e psicologia",

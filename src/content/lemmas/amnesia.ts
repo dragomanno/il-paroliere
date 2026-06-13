@@ -63,8 +63,8 @@ export const amnesia: LemmaEntry = {
   paroliereNote:
     "L'amnesia occupa uno spazio particolare tra biologia e racconto: da un lato è un fenomeno osservabile, con lesioni, farmaci, crisi; dall'altro è diventata una figura narrativa potentissima, dai gialli alle serie tv. Nella vita reale, però, il vuoto di memoria è meno spettacolare e più scomodo: apre domande su quanto possiamo fidarci dei nostri ricordi, su come si ricostruisce una biografia quando alcuni capitoli spariscono, su chi decide se un'amnesia è “vera”. Il lemma ricorda che non tutto ciò che dimentichiamo è sotto il nostro controllo e che il confine tra protezione e rimozione è meno netto di quanto sembri.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "amnesia — perdita di memoria e traumi",

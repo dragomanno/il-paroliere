@@ -59,8 +59,8 @@ export const intimita: LemmaEntry = {
     "fretta. In questo senso, l’intimità è una forma di fiducia estrema — la più " +
     "rischiosa e la più necessaria.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "intimità — lo spazio relazionale senza difese, tra psicologia e letteratura",

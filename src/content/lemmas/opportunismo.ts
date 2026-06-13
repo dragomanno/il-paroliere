@@ -59,8 +59,8 @@ export const opportunismo: LemmaEntry = {
     "richiede una domanda scomoda: flessibile rispetto a cosa? Chi ha principi chiari " +
     "sa quando essere flessibili è adattamento e quando è resa.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "opportunismo — adattarsi alle circostanze tra pragmatismo e mancanza di principi",

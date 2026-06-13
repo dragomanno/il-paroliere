@@ -61,8 +61,8 @@ export const googlare: LemmaEntry = {
     "deposito, più navigazione. Se sia un guadagno o una perdita dipende da cosa " +
     "vogliamo essere capaci di fare quando la rete non c’è.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "googlare — cercare su Google tra neologismo, abitudine e trasformazione cognitiva",

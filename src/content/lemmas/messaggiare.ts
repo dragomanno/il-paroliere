@@ -61,8 +61,8 @@ export const messaggiare: LemmaEntry = {
     "comunicazione più calibrata e meno autentica, o più pensata e meno immediata " +
     "— dipende dal punto di vista.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "messaggiare — comunicare per messaggi scritti nell’era delle app",

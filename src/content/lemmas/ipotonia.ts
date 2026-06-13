@@ -55,8 +55,8 @@ export const ipotonia: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "ipotonia — significato clinico e fisiologico del tono muscolare ridotto",

@@ -63,8 +63,8 @@ export const identita: LemmaEntry = {
   paroliereNote:
     "Parliamo spesso di “costruirsi un'identità” come se fosse un progetto che dipende solo dalla volontà, ma una parte importante arriva in dotazione: il nome, la lingua, il corpo, il contesto in cui nasciamo. Nel corso della vita, poi, l'identità oscilla tra il bisogno di restare riconoscibili e quello di poter cambiare senza perdere la faccia. Il lemma invita a diffidare sia delle identità rigide, che si difendono chiudendo le porte, sia di quelle troppo liquide, che si sciolgono in ogni contesto: in mezzo c'è il lavoro faticoso di riconoscere quali cambiamenti ci fanno sentire più veri e quali ci allontanano da noi stessi.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "identità — restare se stessi mentre si cambia",

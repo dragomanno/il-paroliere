@@ -60,8 +60,8 @@ export const onore: LemmaEntry = {
     "coerenza con sé stessi — non come dipendenza dallo sguardo altrui — è forse la " +
     "sua versione più utile e meno pericolosa.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "onore — stima, codice e riconoscimento sociale tra storia e etica",

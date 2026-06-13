@@ -56,8 +56,8 @@ export const eleganza: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "eleganza — significato in estetica, matematica, moda e comportamento",

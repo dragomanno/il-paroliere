@@ -59,8 +59,8 @@ export const integrita: LemmaEntry = {
     "qualcosa di essenziale in sé stesso. È questa la differenza tra integrità e " +
     "semplice obbedienza alle regole.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "integrità — coerenza tra valori e azioni, dalla morale al diritto",

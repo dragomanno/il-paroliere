@@ -60,8 +60,8 @@ export const modestia: LemmaEntry = {
     "quella che usa l’abbassamento come tecnica per ottenere conferme. La modestia " +
     "vera non cerca conferme: non ne ha bisogno.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "modestia — misura di sé tra virtù autentica e falsa umiltà",

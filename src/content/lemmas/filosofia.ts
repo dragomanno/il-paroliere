@@ -63,8 +63,8 @@ export const filosofia: LemmaEntry = {
   paroliereNote:
     "La filosofia ha la reputazione di parlare difficile, ma nasce da gesti molto semplici: chiedere “perché proprio così?”, “potrebbe essere altrimenti?”, “che cosa stiamo dando per scontato?”. In un mondo che premia la rapidità, rischia di sembrare inutile perché non produce soluzioni immediate; eppure, molte scelte tecniche, politiche, personali incorporano risposte implicite a domande filosofiche mai esplicitate. Il lemma invita a vedere la filosofia non come lusso per specialisti, ma come officina in cui si riparano e si reinventano le categorie con cui pensiamo.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "filosofia — l'arte di fare domande fondamentali",

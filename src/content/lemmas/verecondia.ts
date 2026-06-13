@@ -60,8 +60,8 @@ export const verecondia: LemmaEntry = {
     "verecondia è diventata quasi una forma di eccentricità. Il che dice qualcosa su " +
     "di noi, non su di lei.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "verecondia — il pudore attivo come virtù sociale nella tradizione latina",

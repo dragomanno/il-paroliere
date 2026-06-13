@@ -68,8 +68,8 @@ export const oblio: LemmaEntry = {
   paroliereNote:
     "L'oblio non è solo una mancanza: è uno strumento che la mente e le società usano per sopravvivere al troppo. Una parte dei ricordi deve poter scolorire per fare spazio al nuovo, ma quando l'oblio riguarda violenze, ingiustizie o intere fette di storia, diventa sospetto. Le retoriche della “pacificazione” spesso lo evocano senza nominarlo, spingendo a dimenticare prima ancora di aver capito. Il lemma invita a distinguere tra l'oblio che protegge e quello che cancella troppo, e a chiedersi chi decide che cosa merita di essere dimenticato.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "oblio — tra dimenticanza e rimozione",

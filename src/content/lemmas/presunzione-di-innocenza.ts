@@ -63,8 +63,8 @@ export const presunzioneDiInnocenza: LemmaEntry = {
   paroliereNote:
     "La presunzione di innocenza è uno dei punti in cui il linguaggio giuridico contraddice il senso comune: quando un fatto è grave, la tentazione di “sapere subito chi è stato” è fortissima. Il principio chiede di sopportare un certo disagio, perché preferisce rischiare che un colpevole non venga condannato rispetto a condannare un innocente sulla base di un clima o di un racconto. Nell'ecosistema mediatico attuale, dove l'attenzione si gioca in poche righe, rispettare la presunzione di innocenza significa anche scegliere con cura i verbi: “indagato”, “accusato”, “condannato” non sono sinonimi. Il lemma invita a ricordare che le parole usate prima della sentenza possono già essere una forma di pena.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "presunzione di innocenza — innocenti fino a prova contraria",

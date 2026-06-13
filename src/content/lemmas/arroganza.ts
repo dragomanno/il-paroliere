@@ -60,8 +60,8 @@ export const arroganza: LemmaEntry = {
     "non è l’arrogante in sé: è il sistema che non crea spazio per contraddirlo. " +
     "Dove l’arroganza è premiata, la competenza tende a emigrare.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "arroganza — la sicurezza che sminuisce gli altri, tra psicologia ed etica",

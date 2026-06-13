@@ -68,8 +68,8 @@ export const memoria: LemmaEntry = {
   paroliereNote:
     "La memoria non è un archivio neutrale: seleziona, ricompone, cancella. Nella vita quotidiana la trattiamo come se fosse una prova, ma in psicologia e in diritto sappiamo che è fragile, esposta a suggestioni, bias e riscritture successive. Parliamo di “buona memoria” come di una dote individuale, ma esistono anche memorie collettive: racconti condivisi che tengono insieme una comunità, talvolta proprio grazie a ciò che tacciono. In un'epoca in cui delegare ai dispositivi digitali è diventato facile, il lemma apre una domanda discreta: che cosa perdiamo quando non siamo più noi a ricordare?",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "memoria — significato psicologico e quotidiano",

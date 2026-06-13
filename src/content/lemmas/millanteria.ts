@@ -61,8 +61,8 @@ export const millanteria: LemmaEntry = {
     "leadership» o «sono un thought leader nel mio settore». Tecnicamente " +
     "verificabile, praticamente non verificato.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "millanteria — il vanto come strategia, dalla commedia al LinkedIn",

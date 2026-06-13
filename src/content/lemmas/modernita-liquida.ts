@@ -75,8 +75,8 @@ export const modernitaLiquida: LemmaEntry = {
     "fare con questa liquidità: resistere (ma come?), cavalcarla (a quale costo?), o " +
     "ammettere che forse la solidità che ricordiamo non era poi così solida.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "modernità liquida — Bauman e la società che non mantiene la forma",

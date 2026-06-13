@@ -68,8 +68,8 @@ export const diffidenza: LemmaEntry = {
   paroliereNote:
     "La diffidenza nasce spesso da una ferita: qualcuno ha tradito una fiducia e la mente decide che è più sicuro tenere le porte socchiuse. Può essere una risorsa, perché evita di consegnarsi a chiunque prometta soluzioni facili, ma può anche costruire muri così spessi da impedire ogni legame. Nelle democrazie contemporanee, un certo grado di diffidenza verso il potere è considerato salutare; quando però diventa riflesso automatico contro tutto e tutti, il rischio è consegnarsi proprio a chi vive di sfiducia generalizzata. Il lemma invita a chiedersi non solo di chi diffidiamo, ma anche da che cosa stiamo cercando di proteggerci.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "diffidenza — tra prudenza e chiusura",

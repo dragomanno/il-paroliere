@@ -56,8 +56,8 @@ export const asimmetria: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "asimmetria — significato in matematica, estetica, biologia ed economia",

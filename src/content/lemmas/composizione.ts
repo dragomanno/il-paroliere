@@ -54,8 +54,8 @@ export const composizione: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "composizione — significato in musica, pittura, fotografia e letteratura",

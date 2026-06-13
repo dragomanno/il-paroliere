@@ -57,8 +57,8 @@ export const grazia: LemmaEntry = {
 
   sourceLinks: {},
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "grazia — significato estetico, teologico e giuridico",

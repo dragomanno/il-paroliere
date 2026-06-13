@@ -59,8 +59,8 @@ export const malafede: LemmaEntry = {
     "di agire in buona fede sembra razionale. Rompere questo ciclo richiede qualcuno " +
     "disposto a essere vulnerabile per primo.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "malafede — la disonestà consapevole tra etica, diritto e dibattito pubblico",
