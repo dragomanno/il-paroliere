@@ -461,6 +461,30 @@ import { brindisi } from "./brindisi";
 import { zumWohl } from "./zum-wohl";
 import { cheers } from "./cheers";
 
+// BATCH-006 — Memoria, conoscenza, filosofia (2026-06-13)
+import { memoria } from "./memoria";
+import { oblio } from "./oblio";
+import { amnesia } from "./amnesia";
+import { inconscio } from "./inconscio";
+import { biasCognitivo } from "./bias-cognitivo";
+import { percezione } from "./percezione";
+import { intuizione } from "./intuizione";
+import { presagio } from "./presagio";
+import { premonizione } from "./premonizione";
+import { diffidenza } from "./diffidenza";
+import { dubbio } from "./dubbio";
+import { indizio } from "./indizio";
+import { prova } from "./prova";
+import { presunzioneDiInnocenza } from "./presunzione-di-innocenza";
+import { dialettica } from "./dialettica";
+import { ideePlatoniche } from "./idee-platoniche";
+import { filosofia } from "./filosofia";
+import { metafisica } from "./metafisica";
+import { rimozione } from "./rimozione";
+import { trauma } from "./trauma";
+import { identita } from "./identita";
+import { coscienza } from "./coscienza";
+
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
   abitudine,
@@ -890,5 +914,28 @@ export const allLemmas: LemmaEntry[] = [
   trasformismo,
   portaborse,
   politica,
+  // BATCH-006 — Memoria, conoscenza, filosofia (2026-06-13)
+  memoria,
+  oblio,
+  amnesia,
+  inconscio,
+  biasCognitivo,
+  percezione,
+  intuizione,
+  presagio,
+  premonizione,
+  diffidenza,
+  dubbio,
+  indizio,
+  prova,
+  presunzioneDiInnocenza,
+  dialettica,
+  ideePlatoniche,
+  filosofia,
+  metafisica,
+  rimozione,
+  trauma,
+  identita,
+  coscienza,
 ];
 
