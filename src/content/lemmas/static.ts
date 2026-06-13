@@ -528,6 +528,36 @@ import { doppiezza } from "./doppiezza";
 import { messaggiare } from "./messaggiare";
 import { googlare } from "./googlare";
 import { twittare } from "./twittare";
+// BATCH-008 — Forma, bellezza e sensazione (2026-06-13)
+import { leggerezza } from "./leggerezza";
+import { rarefazione } from "./rarefazione";
+import { levita } from "./levita";
+import { impalpabilita } from "./impalpabilita";
+import { diafano } from "./diafano";
+import { ineffabile } from "./ineffabile";
+import { celestiale } from "./celestiale";
+import { materialita } from "./materialita";
+import { turgido } from "./turgido";
+import { flosco } from "./flosco";
+import { tonicita } from "./tonicita";
+import { elasticita } from "./elasticita";
+import { atrofia } from "./atrofia";
+import { ipotonia } from "./ipotonia";
+import { tonoMuscolare } from "./tono-muscolare";
+import { spazio } from "./spazio";
+import { respiro } from "./respiro";
+import { ombra } from "./ombra";
+import { contrasteEstetico } from "./contrasto-estetico";
+import { composizione } from "./composizione";
+import { ritmo } from "./ritmo";
+import { armonia } from "./armonia";
+import { dissonanza } from "./dissonanza";
+import { proporzione } from "./proporzione";
+import { simmetria } from "./simmetria";
+import { asimmetria } from "./asimmetria";
+import { grazia } from "./grazia";
+import { eleganza } from "./eleganza";
+import { goffaggine } from "./goffaggine";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -1025,5 +1055,35 @@ export const allLemmas: LemmaEntry[] = [
   messaggiare,
   googlare,
   twittare,
+  // BATCH-008 — Forma, bellezza e sensazione (2026-06-13)
+  leggerezza,
+  rarefazione,
+  levita,
+  impalpabilita,
+  diafano,
+  ineffabile,
+  celestiale,
+  materialita,
+  turgido,
+  flosco,
+  tonicita,
+  elasticita,
+  atrofia,
+  ipotonia,
+  tonoMuscolare,
+  spazio,
+  respiro,
+  ombra,
+  contrasteEstetico,
+  composizione,
+  ritmo,
+  armonia,
+  dissonanza,
+  proporzione,
+  simmetria,
+  asimmetria,
+  grazia,
+  eleganza,
+  goffaggine,
 ];
 
