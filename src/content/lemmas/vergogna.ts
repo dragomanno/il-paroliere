@@ -35,7 +35,7 @@ export const vergogna: LemmaEntry = {
 
   examples: [
     "La vergogna e il senso di colpa sembrano simili ma agiscono in modo diverso: il senso di colpa spinge a riparare, la vergogna spinge a nascondersi.",
-    "Le «culture della vergogna» — descritte da Ruth Benedict nel Giappone del dopoguerra — regolano il comportamento attraverso la paura della censura pubblica, non della coscienza individuale.",
+    "Le “culture della vergogna” — descritte da Ruth Benedict nel Giappone del dopoguerra — regolano il comportamento attraverso la paura della censura pubblica, non della coscienza individuale.",
     "La vergogna usata come strumento di controllo — nelle famiglie, nelle scuole, nelle comunità — produce obbedienza a breve termine e danni a lungo termine.",
     "Provare vergogna davanti a un’ingiustizia di cui si è stati complici è l’inizio di qualcosa: riconoscere di essersi traditi.",
   ],

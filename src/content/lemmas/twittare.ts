@@ -35,7 +35,7 @@ export const twittare: LemmaEntry = {
     "Il politico twittava alle tre di notte: il momento e il tono dicevano tutto su quanto quella comunicazione fosse misurata.",
     "Twittare non è scrivere: i 280 caratteri impongono una sintesi che o è brillante o è fuorviante, senza molte vie di mezzo.",
     "La diplomazia twittata ha introdotto una categoria nuova: la dichiarazione pubblica non verificabile come comunicazione ufficiale di uno Stato.",
-    "«L’ha twittato» è diventato equivalente di «l’ha detto in pubblico» — il che dice qualcosa su come Twitter ha ridefinito lo spazio pubblico nel decennio scorso.",
+    "L’ha twittato è diventato equivalente di “l’ha detto in pubblico” — il che dice qualcosa su come Twitter ha ridefinito lo spazio pubblico nel decennio scorso.",
   ],
 
   synonyms: [

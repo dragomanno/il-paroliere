@@ -32,7 +32,7 @@ export const messaggiare: LemmaEntry = {
     "«telefonare», «faxare», «emailare»: il mezzo di comunicazione diventa verbo.",
 
   examples: [
-    "«Ti messaggio dopo» è diventata una delle promesse più comuni e meno vincolanti del parlato contemporaneo.",
+    "Ti messaggio dopo è diventata una delle promesse più comuni e meno vincolanti del parlato contemporaneo.",
     "Messaggiare durante una riunione non è multitasking: è segnalare all’interlocutore fisico che qualcun altro ha più priorità.",
     "La comunicazione scritta asincrona — messaggiare — ha cambiato il ritmo delle relazioni: ci si aspetta risposta, ma non si sa quando arriverà.",
     "I nonni che imparano a messaggiare con i nipoti spesso sviluppano uno stile tutto loro: formale, puntuale, senza abbreviazioni.",
