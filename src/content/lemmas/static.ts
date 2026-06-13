@@ -484,6 +484,18 @@ import { rimozione } from "./rimozione";
 import { trauma } from "./trauma";
 import { identita } from "./identita";
 import { coscienza } from "./coscienza";
+// BATCH-006b — Mente, percezione e conoscenza II (2026-06-13)
+import { zetetica } from "./zetetica";
+import { aporetika } from "./aporetika";
+import { sociologia } from "./sociologia";
+import { modernitaLiquida } from "./modernita-liquida";
+import { alienista } from "./alienista";
+import { psicopatia } from "./psicopatia";
+import { antisocialita } from "./antisocialita";
+import { fatalismo } from "./fatalismo";
+import { cinismo } from "./cinismo";
+import { indifferenzaCivile } from "./indifferenza-civile";
+import { astensionismo } from "./astensionismo";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -937,5 +949,17 @@ export const allLemmas: LemmaEntry[] = [
   trauma,
   identita,
   coscienza,
+  // BATCH-006b — Mente, percezione e conoscenza II (2026-06-13)
+  zetetica,
+  aporetika,
+  sociologia,
+  modernitaLiquida,
+  alienista,
+  psicopatia,
+  antisocialita,
+  fatalismo,
+  cinismo,
+  indifferenzaCivile,
+  astensionismo,
 ];
 
