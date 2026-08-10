@@ -276,7 +276,7 @@ export default async function LemmaPage({ params }: Props) {
           className="text-[1.0625rem] sm:text-[1.125rem] text-[#f7f3e8] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
-          {definition}
+          <EmphasisText text={definition} />
         </p>
       </section>
 
