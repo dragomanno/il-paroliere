@@ -21,6 +21,17 @@ import { gaslighting } from "./gaslighting";
 import { effettoAlone } from "./effetto-alone";
 import { framing } from "./framing";
 
+// BATCH-009 (2026-08) — Tempo, memoria e trasformazione
+import { nostalgia } from "./nostalgia";
+import { latenza } from "./latenza";
+import { kairos } from "./kairos";
+import { kronos } from "./kronos";
+import { transitorieta } from "./transitorieta";
+import { sedimentare } from "./sedimentare";
+import { sedimentazione } from "./sedimentazione";
+import { anacronismo } from "./anacronismo";
+import { vestigio } from "./vestigio";
+
 // Phase 1 — seed lemmas
 import { furfante } from "./furfante";
 import { garbo } from "./garbo";
@@ -1106,5 +1117,15 @@ export const allLemmas: LemmaEntry[] = [
   gaslighting,
   effettoAlone,
   framing,
+  // BATCH-009 (2026-08) — Tempo, memoria e trasformazione
+  nostalgia,
+  latenza,
+  kairos,
+  kronos,
+  transitorieta,
+  sedimentare,
+  sedimentazione,
+  anacronismo,
+  vestigio,
 ];
 
