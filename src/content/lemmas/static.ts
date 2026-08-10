@@ -814,13 +814,6 @@ export const allLemmas: LemmaEntry[] = [
   mellifluo,
   olfatto,
   pendenza,
-  quarantotto,
-  recondito,
-  roboante,
-  rodomontesco,
-  solingo,
-  solitudine,
-  subitaneo,
   // Batch auto — 2026-05-30
   pervicacia,
   sostanziale,
