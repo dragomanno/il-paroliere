@@ -14,7 +14,7 @@ export const biasCognitivo: LemmaEntry = {
   domains: ["psicologia", "neuroscienze", "economia-comportamentale", "sociologia", "cultura-digitale"],
 
   definition:
-    "Tendenza sistematica della mente a deviare da una valutazione pienamente razionale o neutrale di fatti, persone e situazioni, seguendo scorciatoie di giudizio che semplificano il mondo, ma possono portare a errori prevedibili. In psicologia e nelle scienze cognitive i bias cognitivi descrivono pattern ricorrenti, come il confermare solo le informazioni che ci danno ragione, sovrastimare ciò che ricordiamo con più facilità, fidarci troppo del primo numero visto in una trattativa; in economia comportamentale e nella vita quotidiana aiutano a spiegare perché, anche di fronte agli stessi dati, gruppi diversi arrivano a conclusioni opposte. Nell'uso digitale contemporaneo, il lemma viene spesso evocato per ragionare su algoritmi, disinformazione e camere dell'eco.",
+    "Tendenza sistematica della mente a deviare da una valutazione pienamente razionale o neutrale di fatti, persone e situazioni, seguendo scorciatoie di giudizio che semplificano il mondo, ma possono portare a errori prevedibili. In psicologia e nelle scienze cognitive i bias cognitivi descrivono pattern ricorrenti, come il confermare solo le informazioni che ci danno ragione, sovrastimare ciò che ricordiamo con più facilità, fidarci troppo del primo numero visto in una trattativa; in economia comportamentale e nella vita quotidiana aiutano a spiegare perché, anche di fronte agli stessi dati, gruppi diversi arrivano a conclusioni opposte. Nell'uso digitale contemporaneo, il lemma viene spesso evocato per ragionare su algoritmi, disinformazione e camere dell'eco. Tra le decine di bias catalogati dalla letteratura, alcuni tipi ricorrono più spesso nel discorso pubblico e meritano una menzione distinta, in attesa di schede dedicate: il *bias di conferma* (cercare solo prove a favore di ciò che già crediamo), l'*ancoraggio* (farsi condizionare in modo sproporzionato dal primo dato incontrato, come il primo prezzo mostrato in una trattativa), l'*euristica della disponibilità* (giudicare più probabile ciò che ci viene in mente con più facilità, spesso perché più recente o più vivido) e il *bias di negatività* (dare peso maggiore alle informazioni sfavorevoli rispetto a quelle favorevoli, a parità di rilevanza). Ognuno di questi meccanismi opera con dinamiche proprie, pur condividendo la radice comune di ogni bias cognitivo: risparmiare risorse mentali al prezzo di una sistematica distorsione del giudizio.",
 
   shortDefinition:
     "Scorciatoia abituale del pensiero che devia in modo prevedibile dalla valutazione razionale dei fatti, influenzando giudizi e decisioni.",
@@ -73,5 +73,5 @@ export const biasCognitivo: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-08-10",
 };
