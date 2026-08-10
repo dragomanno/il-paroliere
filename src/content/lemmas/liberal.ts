@@ -26,7 +26,7 @@ export const liberal: LemmaEntry = {
     "Dall'inglese *liberal*, a sua volta dal latino *liberalis* ('degno di uomo libero'). " +
     "Entrato nell'italiano giornalistico e politico dalla seconda metà del Novecento.",
   examples: [
-    "I quotidiani italiani usano spesso *liberal* per indicare intellettuali di sinistra moderata distanti dal comunismo.",
+    "I quotidiani italiani usano spesso liberal per indicare intellettuali di sinistra moderata distanti dal comunismo.",
     "Negli Stati Uniti, un elettore liberal vota tipicamente per il Partito Democratico e sostiene diritti civili e welfare state.",
     "La corrente liberal del centro-sinistra europeo tende a privilegiare il dialogo tra diritti individuali e solidarietà sociale.",
   ],
