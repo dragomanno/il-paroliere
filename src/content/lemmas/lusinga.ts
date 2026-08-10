@@ -62,11 +62,6 @@ export const lusinga: LemmaEntry = {
       register: "tecnico",
       context: "in retorica: strategia per conquistare il favore dell'ascoltatore",
     },
-    {
-      term: "adulazione",
-      register: "comune",
-      context: "lode eccessiva e più esplicita — la lusinga è più sottile e non sempre facile da riconoscere come tale",
-    },
   ],
 
   antonyms: [

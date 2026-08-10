@@ -25,7 +25,7 @@ export const effettoAlone: LemmaEntry = {
     "osservando come gli ufficiali militari tendessero a valutare in modo " +
     "uniformemente positivo o negativo tutte le qualità di un subordinato in " +
     "base a un'impressione generale iniziale, invece di valutare ogni tratto in " +
-    "modo indipendente. È uno dei → bias-cognitivo più sfruttati, spesso in modo " +
+    "modo indipendente. È uno dei → bias cognitivi più sfruttati, spesso in modo " +
     "deliberato, in pubblicità, → propaganda e comunicazione politica.",
 
   shortDefinition:
