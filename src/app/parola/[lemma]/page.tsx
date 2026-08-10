@@ -66,6 +66,28 @@ function Divider() {
 }
 
 /**
+ * Renders text with lightweight markdown emphasis support: *parola* → <em>parola</em>.
+ * Used for lexicographic convention: foreign-language etymons and key terms in
+ * editorial notes are set in italics, matching standard dictionary typography
+ * (cf. Treccani, Zanichelli). Falls back to plain text when no asterisks are present.
+ * Does not use dangerouslySetInnerHTML — splits and wraps segments as React nodes.
+ */
+function EmphasisText({ text }: { text: string }) {
+  if (!text.includes("*")) return <>{text}</>;
+  const parts = text.split(/(\*[^*]+\*)/g);
+  return (
+    <>
+      {parts.map((part, i) => {
+        if (part.startsWith("*") && part.endsWith("*") && part.length > 2) {
+          return <em key={i}>{part.slice(1, -1)}</em>;
+        }
+        return <span key={i}>{part}</span>;
+      })}
+    </>
+  );
+}
+
+/**
  * Normalises a display term to a URL slug.
  * Mirrors the slug convention used in LemmaEntry:
  *   - lowercase
@@ -267,7 +289,7 @@ export default async function LemmaPage({ params }: Props) {
               className="text-[1rem] sm:text-[1.0625rem] text-[#b8b3a7] leading-relaxed"
               style={{ fontFamily: "Lora, serif" }}
             >
-              {etymology}
+              <EmphasisText text={etymology} />
             </p>
           </section>
         </>
@@ -393,7 +415,7 @@ export default async function LemmaPage({ params }: Props) {
           className="text-[1rem] sm:text-[1.0625rem] text-[#f7f3e8] leading-relaxed"
           style={{ fontFamily: "Lora, serif" }}
         >
-          {paroliereNote}
+          <EmphasisText text={paroliereNote} />
         </p>
       </section>
 
