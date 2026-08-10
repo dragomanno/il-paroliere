@@ -49,7 +49,7 @@ export const adulazione: LemmaEntry = {
     { term: "critica costruttiva", register: "comune-professionale", note: "Il feedback che mira al miglioramento, non all’approvazione." },
   ],
 
-  relatedWords: ["ipocrisia", "opportunismo", "malafede", "doppiezza"],
+  relatedWords: ["ipocrisia", "opportunismo", "malafede", "doppiezza", "lusinga", "persuasione", "manipolazione"],
   sourceLinks: {},
 
   paroliereNote:
@@ -60,7 +60,13 @@ export const adulazione: LemmaEntry = {
     "coerenza: l’adulatore cambia tono quando il potente cade. L’amico no. " +
     "Costruire una cerchia in cui sia possibile sentirsi dire la verità è " +
     "probabilmente la cosa più difficile che chiunque in una posizione di potere " +
-    "possa fare.",
+    "possa fare. Rispetto alla → lusinga, di cui è una forma più esplicita e " +
+    "sistematica, l’adulazione condivide con la → manipolazione psicologica lo " +
+    "scopo ultimo — alterare il giudizio altrui a proprio vantaggio — ma se ne " +
+    "distingue per il canale: non nasconde informazioni né distorce la realtà, si " +
+    "limita a esagerare un giudizio di valore. È più vicina, semmai, a una " +
+    "→ persuasione che ha rinunciato all’onestà dell’argomento per affidarsi " +
+    "soltanto alla lusinga dell’ego.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -71,5 +77,5 @@ export const adulazione: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-08-10",
 };

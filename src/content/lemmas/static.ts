@@ -10,6 +10,17 @@
 
 import type { LemmaEntry } from "@/lib/types";
 
+// BATCH-006 (2026-08) — Potere, persuasione e manipolazione
+import { persuasione } from "./persuasione";
+import { manipolazione } from "./manipolazione";
+import { demagogia } from "./demagogia";
+import { propaganda } from "./propaganda";
+import { retorica } from "./retorica";
+import { captatioBenevolentiae } from "./captatio-benevolentiae";
+import { gaslighting } from "./gaslighting";
+import { effettoAlone } from "./effetto-alone";
+import { framing } from "./framing";
+
 // Phase 1 — seed lemmas
 import { furfante } from "./furfante";
 import { garbo } from "./garbo";
@@ -1085,5 +1096,15 @@ export const allLemmas: LemmaEntry[] = [
   grazia,
   eleganza,
   goffaggine,
+  // BATCH-006 (2026-08) — Potere, persuasione e manipolazione
+  persuasione,
+  manipolazione,
+  demagogia,
+  propaganda,
+  retorica,
+  captatioBenevolentiae,
+  gaslighting,
+  effettoAlone,
+  framing,
 ];
 
