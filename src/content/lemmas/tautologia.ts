@@ -31,7 +31,7 @@ export const tautologia: LemmaEntry = {
 
   synonyms: [
     { term: "ridondanza logica", register: "tecnico", note: "Sottolinea l'aspetto della ripetizione strutturale, più che la verità garantita." },
-    { term: "→ ovvietà", register: "comune", note: "Nell'uso critico, quasi sinonimo: affermazione talmente scontata da risultare priva di informazione." },
+    { term: "ovvietà", register: "comune", note: "Nell'uso critico, quasi sinonimo: affermazione talmente scontata da risultare priva di informazione." },
     { term: "pleonasmo", register: "linguistico", note: "Termine affine ma più specificamente linguistico-stilistico: ripetizione di un concetto già espresso, non necessariamente in forma logica." },
   ],
 
