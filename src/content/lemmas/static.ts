@@ -43,6 +43,20 @@ import { falsaDicotomia } from "./falsa-dicotomia";
 import { occam } from "./occam";
 import { tautologia } from "./tautologia";
 
+// BATCH-011 (2026-08) — Linguaggio in azione: figure, registri e patologie del discorso
+import { rivoluzioneScientifica } from "./rivoluzione-scientifica";
+import { disfemismo } from "./disfemismo";
+import { metonimia } from "./metonimia";
+import { iperbole } from "./iperbole";
+import { litote } from "./litote";
+import { perifrasi } from "./perifrasi";
+import { ridondanza } from "./ridondanza";
+import { neologismo } from "./neologismo";
+import { prestitoLinguistico } from "./prestito-linguistico";
+import { calco } from "./calco";
+import { glossolalia } from "./glossolalia";
+import { burocratese } from "./burocratese";
+
 // Phase 1 — seed lemmas
 import { furfante } from "./furfante";
 import { garbo } from "./garbo";
@@ -1141,5 +1155,18 @@ export const allLemmas: LemmaEntry[] = [
   falsaDicotomia,
   occam,
   tautologia,
+  // BATCH-011 (2026-08) — Linguaggio in azione: figure, registri e patologie del discorso
+  rivoluzioneScientifica,
+  disfemismo,
+  metonimia,
+  iperbole,
+  litote,
+  perifrasi,
+  ridondanza,
+  neologismo,
+  prestitoLinguistico,
+  calco,
+  glossolalia,
+  burocratese,
 ];
 
