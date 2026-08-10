@@ -36,9 +36,9 @@ export const transitorieta: LemmaEntry = {
     "dell'→ effimero.",
 
   etymology:
-    "Derivato di transitorio, dal latino tardo transitorius, a sua volta da " +
-    "transire («passare attraverso, attraversare», composto di trans- «al di " +
-    "là» + ire «andare»). La stessa radice compare in 'transito' e 'transizione' " +
+    "Derivato di transitorio, dal latino tardo *transitorius*, a sua volta da " +
+    "*transire* («passare attraverso, attraversare», composto di *trans-* «al di " +
+    "là» + *ire* «andare»). La stessa radice compare in 'transito' e 'transizione' " +
     "— parole che condividono con transitorietà l'immagine di fondo del " +
     "passaggio da uno stato a un altro, più che della semplice brevità nel tempo.",
 

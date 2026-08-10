@@ -32,8 +32,8 @@ export const sedimentare: LemmaEntry = {
     "consolida nel tempo).",
 
   etymology:
-    "Verbo denominale formato su sedimento, dal latino sedimentum, derivato " +
-    "di sedere («stare seduto, posarsi»). La radice condivide con 'sedia', " +
+    "Verbo denominale formato su sedimento, dal latino *sedimentum*, derivato " +
+    "di *sedere* («stare seduto, posarsi»). La radice condivide con 'sedia', " +
     "'sede' e 'residuo' l'immagine di fondo del posarsi, del fermarsi in un " +
     "luogo dopo un movimento — coerente con il significato tecnico originario " +
     "di particelle che, sospese in un liquido in movimento, si fermano non " +

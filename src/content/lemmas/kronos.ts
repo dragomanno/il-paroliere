@@ -33,13 +33,13 @@ export const kronos: LemmaEntry = {
     "dell'occasione opportuna.",
 
   etymology:
-    "Dal greco Krónos (Κρόνος), nome del titano figlio di Urano e Gea nella " +
+    "Dal greco *Krónos* (Κρόνος), nome del titano figlio di Urano e Gea nella " +
     "mitologia greca, la cui etimologia resta incerta e dibattuta tra i " +
-    "filologi: alcuni la collegano a kraínō («compiere, portare a termine»), " +
+    "filologi: alcuni la collegano a *kraínō* («compiere, portare a termine»), " +
     "altri a una radice indoeuropea legata all'idea di taglio o mietitura " +
     "(coerente col mito della falce con cui Crono evira Urano), altri ancora " +
     "la considerano di origine pre-greca e non etimologizzabile con certezza. " +
-    "Il nesso con chrónos (χρόνος, «tempo») — da cui derivano " +
+    "Il nesso con *chrónos* (χρόνος, «tempo») — da cui derivano " +
     "'cronologia', 'cronometro', 'sincrono' — è etimologicamente distinto: le " +
     "due parole greche sono omofone solo in parte e non condividono radice, " +
     "ma la tradizione popolare e iconografica le ha sovrapposte già in epoca " +

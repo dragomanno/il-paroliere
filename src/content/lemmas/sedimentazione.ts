@@ -34,7 +34,7 @@ export const sedimentazione: LemmaEntry = {
     "lingue o culture.",
 
   etymology:
-    "Dal latino sedimentum, derivato di sedere («posarsi, stare fermo»), con " +
+    "Dal latino *sedimentum*, derivato di *sedere* («posarsi, stare fermo»), con " +
     "il suffisso -azione che indica il processo. Il senso figurato applicato " +
     "a fenomeni culturali e sociali è attestato in italiano almeno dal 1885, " +
     "secondo i dizionari storici, e si sviluppa per analogia diretta col " +
