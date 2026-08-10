@@ -61,12 +61,12 @@ export const oblio: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["memoria", "rimozione", "amnistia", "trauma"],
+  relatedWords: ["memoria", "rimozione", "amnistia", "trauma", "latenza", "vestigio", "nostalgia"],
 
   sourceLinks: {},
 
   paroliereNote:
-    "L'oblio non è solo una mancanza: è uno strumento che la mente e le società usano per sopravvivere al troppo. Una parte dei ricordi deve poter scolorire per fare spazio al nuovo, ma quando l'oblio riguarda violenze, ingiustizie o intere fette di storia, diventa sospetto. Le retoriche della “pacificazione” spesso lo evocano senza nominarlo, spingendo a dimenticare prima ancora di aver capito. Il lemma invita a distinguere tra l'oblio che protegge e quello che cancella troppo, e a chiedersi chi decide che cosa merita di essere dimenticato.",
+    "L'oblio non è solo una mancanza: è uno strumento che la mente e le società usano per sopravvivere al troppo. Una parte dei ricordi deve poter scolorire per fare spazio al nuovo, ma quando l'oblio riguarda violenze, ingiustizie o intere fette di storia, diventa sospetto. Le retoriche della “pacificazione” spesso lo evocano senza nominarlo, spingendo a dimenticare prima ancora di aver capito. Il lemma invita a distinguere tra l'oblio che protegge e quello che cancella troppo, e a chiedersi chi decide che cosa merita di essere dimenticato. Va inoltre tenuto distinto dalla → latenza: nell'oblio il ricordo sembra sparito, mentre ciò che è latente resta intatto sotto la superficie, pronto a riemergere.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -78,5 +78,5 @@ export const oblio: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-08-10",
 };

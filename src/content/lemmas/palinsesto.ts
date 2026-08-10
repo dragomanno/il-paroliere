@@ -69,6 +69,8 @@ export const palinsesto: LemmaEntry = {
     "archeologia",
     "memoria",
     "programmazione",
+    "vestigio",
+    "sedimentazione",
   ],
 
   sourceLinks: {
@@ -80,7 +82,7 @@ export const palinsesto: LemmaEntry = {
     "Palinsesto è una parola che ha vissuto tre vite: la pergamena medievale raschiata, " +
     "la metafora culturale e urbana, il gergo televisivo. Le tre accezioni non si contraddicono — " +
     "condividono tutte l'idea di qualcosa che viene riscritto senza cancellare del tutto. " +
-    "È forse la parola italiana che meglio descrive come funziona la memoria collettiva.",
+    "È forse la parola italiana che meglio descrive come funziona la memoria collettiva. Condivide con il → vestigio l'idea di resto leggibile del passato, ma dove il vestigio è un frammento isolato, il palinsesto è l'intera struttura in cui gli strati si sovrappongono.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -93,5 +95,5 @@ export const palinsesto: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-08-10",
 };
