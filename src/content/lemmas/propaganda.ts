@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: propaganda
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -101,7 +101,7 @@ export const propaganda: LemmaEntry = {
     "ma l'assenza di contraddittorio: la propaganda funziona meglio dove il pubblico " +
     "non ha accesso a fonti alternative con cui confrontarla.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

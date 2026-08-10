@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: persuasione
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -106,7 +106,7 @@ export const persuasione: LemmaEntry = {
     "cittadini capaci di giudizio, la seconda li rende strumenti nelle mani di chi parla " +
     "meglio.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: manipolazione
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -107,7 +107,7 @@ export const manipolazione: LemmaEntry = {
     "isolamento progressivo dalle fonti di verifica esterne, così che il manipolatore " +
     "diventi l'unico punto di riferimento rimasto per interpretare la realtà.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

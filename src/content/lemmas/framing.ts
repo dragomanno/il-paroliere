@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: framing
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -104,7 +104,7 @@ export const framing: LemmaEntry = {
     "spesso proprio qui: nella trasparenza con cui l'angolazione scelta viene " +
     "dichiarata invece di essere fatta passare per l'unica lettura possibile dei fatti.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

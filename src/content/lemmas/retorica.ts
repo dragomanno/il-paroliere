@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: retorica
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -102,7 +102,7 @@ export const retorica: LemmaEntry = {
     "retorica, in questo senso, è anche il modo migliore per difendersi da chi la usa " +
     "senza dichiararlo.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

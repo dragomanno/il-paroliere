@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: captatio benevolentiae
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -98,7 +98,7 @@ export const captatioBenevolentiae: LemmaEntry = {
     "critica: quando un discorso si apre con complimenti insistiti o richiami " +
     "a valori condivisi, vale la pena chiedersi cosa sta per arrivare subito dopo.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

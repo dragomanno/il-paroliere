@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: gaslighting
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -108,7 +108,7 @@ export const gaslighting: LemmaEntry = {
     "giudizio. Un singolo 'non ricordo le cose così' non è gaslighting: lo " +
     "diventa quando si trasforma in pattern relazionale stabile.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

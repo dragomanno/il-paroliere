@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: effetto alone
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -103,7 +103,7 @@ export const effettoAlone: LemmaEntry = {
     "tende a generalizzare da un singolo tratto positivo aiuta, negli esperimenti " +
     "successivi a Thorndike, a correggere parzialmente il bias.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {
