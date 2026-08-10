@@ -56,6 +56,7 @@ import { prestitoLinguistico } from "./prestito-linguistico";
 import { calco } from "./calco";
 import { glossolalia } from "./glossolalia";
 import { burocratese } from "./burocratese";
+import { stereotipo } from "./stereotipo";
 
 // Phase 1 — seed lemmas
 import { furfante } from "./furfante";
@@ -1168,5 +1169,6 @@ export const allLemmas: LemmaEntry[] = [
   calco,
   glossolalia,
   burocratese,
+  stereotipo,
 ];
 
