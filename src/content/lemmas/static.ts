@@ -32,6 +32,17 @@ import { sedimentazione } from "./sedimentazione";
 import { anacronismo } from "./anacronismo";
 import { vestigio } from "./vestigio";
 
+// BATCH-010 (2026-08) — Pensiero, conoscenza e limite
+import { paradigma } from "./paradigma";
+import { assioma } from "./assioma";
+import { inferenza } from "./inferenza";
+import { euristica } from "./euristica";
+import { pensieroLaterale } from "./pensiero-laterale";
+import { sillogismo } from "./sillogismo";
+import { falsaDicotomia } from "./falsa-dicotomia";
+import { occam } from "./occam";
+import { tautologia } from "./tautologia";
+
 // Phase 1 — seed lemmas
 import { furfante } from "./furfante";
 import { garbo } from "./garbo";
@@ -1120,5 +1131,15 @@ export const allLemmas: LemmaEntry[] = [
   sedimentazione,
   anacronismo,
   vestigio,
+  // BATCH-010 (2026-08) — Pensiero, conoscenza e limite
+  paradigma,
+  assioma,
+  inferenza,
+  euristica,
+  pensieroLaterale,
+  sillogismo,
+  falsaDicotomia,
+  occam,
+  tautologia,
 ];
 
