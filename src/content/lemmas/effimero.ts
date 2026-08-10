@@ -88,6 +88,7 @@ export const effimero: LemmaEntry = {
     "temporaneo",
     "istante",
     "attimo",
+    "sedimentazione",
   ],
 
   sourceLinks: {
@@ -101,7 +102,9 @@ export const effimero: LemmaEntry = {
     "estetica giapponese, l'impermanenza (mono no aware) è una fonte di bellezza, " +
     "non di lutto. Anche in italiano, chiamare «effimero» qualcosa può essere un " +
     "riconoscimento, non solo un giudizio. L'effimero ben vissuto vale l'eterno " +
-    "mal sopportato.",
+    "mal sopportato. Va distinto dalla → transitorietà: quest'ultima descrive una " +
+    "fase di passaggio strutturale, spesso lunga, mentre l'effimero è definito " +
+    "soprattutto dalla sua brevità assoluta.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -114,5 +117,5 @@ export const effimero: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-08-10",
 };
