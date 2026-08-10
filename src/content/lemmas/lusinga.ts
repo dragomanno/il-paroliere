@@ -85,6 +85,8 @@ export const lusinga: LemmaEntry = {
     "blandizia",
     "piaggeria",
     "captatio",
+    "persuasione",
+    "manipolazione",
   ],
 
   sourceLinks: {
@@ -97,7 +99,12 @@ export const lusinga: LemmaEntry = {
     "essere visti, riconosciuti, apprezzati. Chi lusinga non inventa — calibra. " +
     "Trova il punto esatto in cui l'altro è più permeabile e ci lavora sopra. " +
     "È per questo che è difficile resistere: non è una bugia semplice, è una " +
-    "verità selezionata con cura.",
+    "verità selezionata con cura. È utile collocarla sulla stessa mappa di " +
+    "→ persuasione e → manipolazione: la lusinga è più mite e circoscritta di " +
+    "entrambe, spesso un singolo gesto isolato più che una strategia sistematica, " +
+    "ma condivide con la manipolazione psicologica il fatto di agire su un canale " +
+    "che l'altro fatica a ispezionare — l'amor proprio — invece che offrire un " +
+    "argomento apertamente valutabile.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -110,5 +117,5 @@ export const lusinga: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-08-10",
 };
