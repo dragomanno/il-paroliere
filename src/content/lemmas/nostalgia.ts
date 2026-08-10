@@ -32,8 +32,8 @@ export const nostalgia: LemmaEntry = {
   etymology:
     "Coniato in latino moderno nel 1688 dal medico svizzero Johannes Hofer " +
     "nella sua dissertazione universitaria a Basilea, componendo il greco " +
-    "nóstos («ritorno, viaggio di ritorno», la stessa radice del nóstos di " +
-    "Ulisse nell'Odissea) e álgos («dolore, sofferenza»). Hofer intendeva " +
+    "*nóstos* («ritorno, viaggio di ritorno», la stessa radice del *nóstos* di " +
+    "Ulisse nell'Odissea) e *álgos* («dolore, sofferenza»). Hofer intendeva " +
     "descrivere clinicamente il 'mal di casa' patologico osservato nei " +
     "mercenari svizzeri lontani dalla loro terra — una vera e propria diagnosi " +
     "medica, non ancora la nozione più ampia e sfumata che il termine ha oggi. " +

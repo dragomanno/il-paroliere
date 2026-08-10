@@ -35,12 +35,12 @@ export const latenza: LemmaEntry = {
     "ritardo tra comando e risposta.",
 
   etymology:
-    "Derivato di latente, dal latino latens, latentis, participio presente di " +
-    "latere («stare nascosto, essere celato»). La stessa radice, tramite il " +
+    "Derivato di latente, dal latino *latens, latentis*, participio presente di " +
+    "*latere* («stare nascosto, essere celato»). La stessa radice, tramite il " +
     "composto in-, dà anche 'invisibile' in senso figurato di ciò che sta " +
     "sotto la superficie. L'estensione all'ambito informatico — il tempo di " +
     "latenza di una rete o di un dispositivo — è un calco novecentesco " +
-    "dall'inglese latency, che a sua volta riprende il significato tecnico " +
+    "dall'inglese *latency*, che a sua volta riprende il significato tecnico " +
     "già presente nella fisiologia sperimentale ottocentesca, dove 'tempo di " +
     "latenza' indicava lo spazio tra uno stimolo e la reazione corrispondente: " +
     "il salto verso l'elettronica digitale ne è una traslazione diretta più " +

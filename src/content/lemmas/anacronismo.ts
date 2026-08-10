@@ -31,8 +31,8 @@ export const anacronismo: LemmaEntry = {
     "passato; in senso figurato, ciò che è rimasto fuori dal proprio tempo.",
 
   etymology:
-    "Dal greco anachronismós (ἀναχρονισμός), composto dal prefisso anà- " +
-    "(«contro, indietro») e chrónos («tempo»). Letteralmente 'andare contro " +
+    "Dal greco *anachronismós* (ἀναχρονισμός), composto dal prefisso *anà-* " +
+    "(«contro, indietro») e *chrónos* («tempo»). Letteralmente 'andare contro " +
     "il tempo' o 'essere fuori tempo'. Il termine è un conio filologico " +
     "relativamente tardo rispetto alla parola greca classica, entrato in uso " +
     "moderno nelle lingue europee soprattutto a partire dal Seicento, in " +

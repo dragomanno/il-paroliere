@@ -32,12 +32,12 @@ export const vestigio: LemmaEntry = {
     "scomparso, permettendo di risalire per indizio a ciò che l'ha generata.",
 
   etymology:
-    "Dal latino vestigium, di origine etimologica incerta e non del tutto " +
+    "Dal latino *vestigium*, di origine etimologica incerta e non del tutto " +
     "chiarita dai filologi: alcuni lo collegano a un'ipotetica particella " +
-    "intensiva ve- unita a una radice affine al greco steíchō («camminare, " +
+    "intensiva *ve-* unita a una radice affine al greco *steíchō* («camminare, " +
     "avanzare»), altri lo considerano privo di parentele sicure al di fuori " +
     "del latino stesso. Certa è invece la parentela con il verbo latino " +
-    "vestigare («seguire le tracce, investigare»), da cui deriva direttamente " +
+    "*vestigare* («seguire le tracce, investigare»), da cui deriva direttamente " +
     "l'italiano 'investigare' — un legame che rivela come, già in latino, " +
     "l'idea di 'traccia' fosse strettamente connessa a quella di ricerca e " +
     "ricostruzione a partire da indizi.",

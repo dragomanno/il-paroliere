@@ -33,7 +33,7 @@ export const kairos: LemmaEntry = {
     "tempo quantitativo di → kronos: non si misura, si coglie o si manca.",
 
   etymology:
-    "Dal greco kairós (καιρός), il cui significato originario nella lingua " +
+    "Dal greco *kairós* (καιρός), il cui significato originario nella lingua " +
     "arcaica è legato all'idea di 'punto giusto', 'misura adatta' — forse in " +
     "origine un termine tecnico della tessitura, riferito allo spazio esatto " +
     "in cui la spola doveva passare nell'ordito, o dell'arciere, riferito al " +
