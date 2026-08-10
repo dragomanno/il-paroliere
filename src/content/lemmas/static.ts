@@ -57,6 +57,7 @@ import { calco } from "./calco";
 import { glossolalia } from "./glossolalia";
 import { burocratese } from "./burocratese";
 import { stereotipo } from "./stereotipo";
+import { discriminazione } from "./discriminazione";
 
 // Phase 1 — seed lemmas
 import { furfante } from "./furfante";
@@ -1170,5 +1171,6 @@ export const allLemmas: LemmaEntry[] = [
   glossolalia,
   burocratese,
   stereotipo,
+  discriminazione,
 ];
 
