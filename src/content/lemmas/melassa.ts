@@ -84,6 +84,7 @@ export const melassa: LemmaEntry = {
     "zucchero",
     "saccarosio",
     "distillazione",
+    "viscoso",
   ],
 
   sourceLinks: {
@@ -110,5 +111,5 @@ export const melassa: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-08-21",
 };

@@ -44,7 +44,7 @@ export const levita: LemmaEntry = {
     { term: "pesantezza", register: "comune", note: "Il contrario quotidiano, senza la profondità filosofica di gravità." },
   ],
 
-  relatedWords: ["leggerezza", "rarefazione", "diafano", "ineffabile"],
+  relatedWords: ["leggerezza", "rarefazione", "diafano", "ineffabile", "lieve"],
 
   paroliereNote:
     "Levità è uno di quei lemmi che quasi nessuno usa ma che molti capiscono immediatamente " +
@@ -63,5 +63,5 @@ export const levita: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-08-21",
 };

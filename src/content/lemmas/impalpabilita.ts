@@ -44,7 +44,7 @@ export const impalpabilita: LemmaEntry = {
     { term: "consistenza", register: "comune", note: "Il senso fisico di qualcosa che occupa spazio e si lascia afferrare." },
   ],
 
-  relatedWords: ["diafano", "levità", "ineffabile", "rarefazione"],
+  relatedWords: ["diafano", "levità", "ineffabile", "rarefazione", "palpabile"],
 
   paroliereNote:
     "L’impalpabilità è uno dei concetti più difficili da descrivere senza usarla: spiegare " +
@@ -63,5 +63,5 @@ export const impalpabilita: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-08-21",
 };
