@@ -619,6 +619,15 @@ import { lieve } from "./lieve";
 import { materico } from "./materico";
 import { sinestesia } from "./sinestesia";
 
+// BATCH-013 (2026-08) — Identità, appartenenza e alterità: il lessico del sé e dell'altro
+import { appartenenza } from "./appartenenza";
+import { tribu } from "./tribu";
+import { tribalismo } from "./tribalismo";
+import { stigma } from "./stigma";
+import { inclusione } from "./inclusione";
+import { esclusione } from "./esclusione";
+import { sovranita } from "./sovranita";
+
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
   abitudine,
@@ -1193,5 +1202,13 @@ export const allLemmas: LemmaEntry[] = [
   lieve,
   materico,
   sinestesia,
+  // BATCH-013 (2026-08) — Identità, appartenenza e alterità: il lessico del sé e dell'altro
+  appartenenza,
+  tribu,
+  tribalismo,
+  stigma,
+  inclusione,
+  esclusione,
+  sovranita,
 ];
 
