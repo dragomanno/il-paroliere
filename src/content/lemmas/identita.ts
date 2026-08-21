@@ -56,7 +56,7 @@ export const identita: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["memoria", "coscienza", "trauma"],
+  relatedWords: ["memoria", "coscienza", "trauma", "appartenenza", "alterità"],
 
   sourceLinks: {},
 
@@ -73,5 +73,5 @@ export const identita: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-08-21",
 };
