@@ -69,6 +69,8 @@ export const alterita: LemmaEntry = {
     "pregiudizio",
     "migrazione",
     "accoglienza",
+    "esclusione",
+    "inclusione",
   ],
 
   sourceLinks: {
@@ -92,5 +94,5 @@ export const alterita: LemmaEntry = {
   },
 
   createdAt: "2026-06-08",
-  updatedAt: "2026-06-08",
+  updatedAt: "2026-08-21",
 };

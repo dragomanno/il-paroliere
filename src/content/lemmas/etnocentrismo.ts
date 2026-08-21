@@ -78,6 +78,7 @@ export const etnocentrismo: LemmaEntry = {
     "alterità",
     "migrazione",
     "accoglienza",
+    "tribalismo",
   ],
 
   sourceLinks: {
@@ -102,5 +103,5 @@ export const etnocentrismo: LemmaEntry = {
   },
 
   createdAt: "2026-06-08",
-  updatedAt: "2026-06-08",
+  updatedAt: "2026-08-21",
 };
