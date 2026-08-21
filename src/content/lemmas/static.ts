@@ -608,6 +608,17 @@ import { grazia } from "./grazia";
 import { eleganza } from "./eleganza";
 import { goffaggine } from "./goffaggine";
 
+// BATCH-012 (2026-08) — Corpo, senso e materia: il lessico della percezione e della fisicità
+import { palpabile } from "./palpabile";
+import { viscoso } from "./viscoso";
+import { incarnare } from "./incarnare";
+import { incarnazione } from "./incarnazione";
+import { epidermico } from "./epidermico";
+import { gravita } from "./gravita";
+import { lieve } from "./lieve";
+import { materico } from "./materico";
+import { sinestesia } from "./sinestesia";
+
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
   abitudine,
@@ -1172,5 +1183,15 @@ export const allLemmas: LemmaEntry[] = [
   burocratese,
   stereotipo,
   discriminazione,
+  // BATCH-012 (2026-08) — Corpo, senso e materia: il lessico della percezione e della fisicità
+  palpabile,
+  viscoso,
+  incarnare,
+  incarnazione,
+  epidermico,
+  gravita,
+  lieve,
+  materico,
+  sinestesia,
 ];
 
