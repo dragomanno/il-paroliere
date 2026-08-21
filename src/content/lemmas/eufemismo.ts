@@ -23,7 +23,11 @@ export const eufemismo: LemmaEntry = {
   etymology:
     "Dal greco euphēmismós, da eu- (bene) + phēmi (parlare): letteralmente «parlare bene».",
 
-  examples: [],
+  examples: [
+    "In ufficio parlano di «esubero» come eufemismo elegante per licenziamento.",
+    "Dire che qualcuno «non è più tra noi» è un eufemismo per non pronunciare la parola morte.",
+    "Chiamarlo «diversamente giovane» è un eufemismo che fa più ridere che rispettare.",
+  ],
 
   synonyms: [
       {
@@ -64,5 +68,5 @@ export const eufemismo: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-08-21",
 };
