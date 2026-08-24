@@ -628,6 +628,46 @@ import { inclusione } from "./inclusione";
 import { esclusione } from "./esclusione";
 import { sovranita } from "./sovranita";
 
+// BATCH-015 (2026-08) — Desiderio, aspirazione e ideale
+import { desiderio } from "./desiderio";
+import { aspirazione } from "./aspirazione";
+import { idealismo } from "./idealismo";
+import { bramare } from "./bramare";
+import { agognare } from "./agognare";
+import { vagheggiare } from "./vagheggiare";
+import { volonta } from "./volonta";
+import { passione } from "./passione";
+import { slancio } from "./slancio";
+import { tensione } from "./tensione";
+import { speranza } from "./speranza";
+import { attesa } from "./attesa";
+import { frustrazione } from "./frustrazione";
+import { rassegnazione } from "./rassegnazione";
+import { accettazione } from "./accettazione";
+import { distacco } from "./distacco";
+import { estraneamento } from "./estraneamento";
+import { radici } from "./radici";
+import { comunita } from "./comunita";
+import { isolamento } from "./isolamento";
+import { connessione } from "./connessione";
+import { relazione } from "./relazione";
+import { legame } from "./legame";
+import { dipendenza } from "./dipendenza";
+
+// BATCH-015B (2026-08) — Tipi umani e registro colloquiale
+import { tronfio } from "./tronfio";
+import { prostrato } from "./prostrato";
+import { flebile } from "./flebile";
+import { spacconcello } from "./spacconcello";
+import { maranza } from "./maranza";
+import { sboroncino } from "./sboroncino";
+import { sborone } from "./sborone";
+
+// BATCH-015 v2 (2026-08) — Ampliamento e nuovi lemmi
+import { community } from "./community";
+import { anelito } from "./anelito";
+import { flexare } from "./flexare";
+
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
   abitudine,
@@ -1210,5 +1250,42 @@ export const allLemmas: LemmaEntry[] = [
   inclusione,
   esclusione,
   sovranita,
+  // BATCH-015 (2026-08) — Desiderio, aspirazione e ideale
+  desiderio,
+  aspirazione,
+  idealismo,
+  bramare,
+  agognare,
+  vagheggiare,
+  volonta,
+  passione,
+  slancio,
+  tensione,
+  speranza,
+  attesa,
+  frustrazione,
+  rassegnazione,
+  accettazione,
+  distacco,
+  estraneamento,
+  radici,
+  comunita,
+  isolamento,
+  connessione,
+  relazione,
+  legame,
+  dipendenza,
+  // BATCH-015B (2026-08) — Tipi umani e registro colloquiale
+  tronfio,
+  prostrato,
+  flebile,
+  spacconcello,
+  maranza,
+  sboroncino,
+  sborone,
+  // BATCH-015 v2 (2026-08) — Ampliamento e nuovi lemmi
+  community,
+  anelito,
+  flexare,
 ];
 
