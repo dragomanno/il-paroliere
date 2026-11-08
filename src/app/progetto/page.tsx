@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   description:
     "Il Paroliere è un dizionario italiano aperto, curato da Pistakkio®. " +
     "Scopri la visione, il metodo editoriale e i principi del progetto.",
+  alternates: { canonical: "/progetto" },
 };
 
 export default function ProgettoPage() {

@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   description:
     "Politica sulle fonti di Il Paroliere: cosa viene collegato, cosa non viene " +
     "copiato, come vengono usate Wiktionary e le risorse aperte.",
+  alternates: { canonical: "/fonti" },
 };
 
 // Fonti collegate nelle singole schede lemma (URL permanenti per voce)

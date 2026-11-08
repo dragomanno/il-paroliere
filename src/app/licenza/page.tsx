@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   description:
     "Licenze di Il Paroliere: codice MIT, contenuto editoriale CC BY-SA 4.0. " +
     "Come riutilizzare e attribuire correttamente.",
+  alternates: { canonical: "/licenza" },
 };
 
 export default function LicenzaPage() {
