@@ -47,6 +47,7 @@ export const siteGraph = {
         "https://fabri.news/",
         CURATOR_AUTHOR_PAGE,
         "https://www.pistakkio.net/chi-siamo/",
+        "https://www.pistakkio.net/fabrizio-gabrielli/",
       ],
     },
     {
