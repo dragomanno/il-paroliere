@@ -83,9 +83,9 @@ export const gemini: LemmaEntry = {
     "ricostruiscono il suono della lingua di Roma. Le tre forme non si correggono a vicenda, perché " +
     "rispondono a domande diverse: come si chiama un servizio, come si legge il latino in Italia, " +
     "come suonava nell'età classica. Più che cercare la pronuncia giusta in assoluto, conviene sapere " +
-    "quale tradizione si sta seguendo quando si pronuncia la parola. Il ragionamento linguistico " +
-    "e la posizione personale dell'autore sono sviluppati nell'articolo " +
-    "[«Come si pronuncia Gemini? Il latino dietro la AI di Google»](https://fabri.news/come-si-pronuncia-gemini/), " +
+    "quale tradizione si sta seguendo quando si pronuncia la parola. Una riflessione sulla scelta " +
+    "della pronuncia nell'uso italiano, firmata dal curatore del Paroliere, si trova nell'articolo " +
+    "[«Come si pronuncia Gemini? Il latino dietro la AI di Google»](https://fabri.news/come-si-pronuncia-gemini/) " +
     "su fabri.news.",
 
   editorialStatus: "draft",
