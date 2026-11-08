@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   description:
     "Informativa sulla privacy di Il Paroliere: nessun cookie, nessun tracker, " +
     "nessun dato personale raccolto. Trattamento dei log di accesso ai sensi del GDPR.",
+  alternates: { canonical: "/privacy" },
 };
 
 export default function PrivacyPage() {

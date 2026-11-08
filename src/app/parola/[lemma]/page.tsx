@@ -25,6 +25,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: entry.seo.title,
     description: entry.seo.description,
+    alternates: { canonical: `/parola/${entry.slug}` },
     robots: entry.indexable
       ? { index: true, follow: true }
       : { index: false, follow: false },

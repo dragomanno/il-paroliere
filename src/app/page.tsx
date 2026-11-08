@@ -11,6 +11,7 @@ export const metadata: Metadata = {
   description:
     "Il Paroliere è un dizionario italiano aperto e originale: definizioni " +
     "curate, esempi d'uso autentici, note editoriali. Un progetto Pistakkio®.",
+  alternates: { canonical: "/" },
 };
 
 export default async function HomePage() {

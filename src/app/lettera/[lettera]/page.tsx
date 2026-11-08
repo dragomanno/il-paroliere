@@ -33,6 +33,7 @@ export async function generateMetadata({
 
   return {
     title: `Parole con la ${upper} — Il Paroliere`,
+    alternates: { canonical: `/lettera/${lettera.toLowerCase()}` },
     description:
       count > 0
         ? `${count} ${count === 1 ? "voce" : "voci"} con la lettera ${upper} nel dizionario Il Paroliere. Definizioni originali, esempi autentici, note editoriali.`
