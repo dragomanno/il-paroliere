@@ -3,6 +3,7 @@ import Link from "next/link";
 import { getAllLemmasFromDB } from "@/lib/db";
 import SearchBar from "@/components/SearchBar";
 import type { LemmaEntry } from "@/lib/types";
+import { siteGraph, CURATOR_AUTHOR_PAGE } from "@/lib/jsonld";
 
 export const revalidate = 3600;
 
@@ -12,6 +13,9 @@ export const metadata: Metadata = {
     "Il Paroliere è un dizionario italiano aperto e originale: definizioni " +
     "curate, esempi d'uso autentici, note editoriali. Un progetto Pistakkio®.",
   alternates: { canonical: "/" },
+  // Home only: dictionary-level authorship, not inherited by entry pages.
+  authors: [{ name: "Fabrizio Gabrielli", url: CURATOR_AUTHOR_PAGE }],
+  publisher: "Pistakkio®",
 };
 
 export default async function HomePage() {
@@ -27,6 +31,10 @@ export default async function HomePage() {
 
   return (
     <div className="space-y-16 sm:space-y-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(siteGraph) }}
+      />
       {/* Hero */}
       <section className="pt-6 pb-2 space-y-6">
         <div className="space-y-3">

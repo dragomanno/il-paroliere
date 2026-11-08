@@ -168,6 +168,18 @@ export default function ProgettoPage() {
             caratterizza l'approccio di Pistakkio al web.
           </p>
           <p>
+            Ideazione e cura del dizionario:{" "}
+            <a
+              href="https://fabri.news/chi-sono/fabrizio-gabrielli/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[#b8dc16] hover:underline underline-offset-2"
+            >
+              Fabrizio Gabrielli
+            </a>
+            .
+          </p>
+          <p>
             Il codice è aperto. Chiunque può contribuire, segnalare errori, proporre nuovi lemmi.
           </p>
         </div>

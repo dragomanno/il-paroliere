@@ -475,6 +475,7 @@ export default async function LemmaPage({ params }: Props) {
             description: shortDefinition,
             inDefinedTermSet: {
               "@type": "DefinedTermSet",
+              "@id": "https://ilparoliere.online/#dizionario",
               name: "Il Paroliere",
               url: "https://ilparoliere.online",
             },
