@@ -66,18 +66,37 @@ function Divider() {
 }
 
 /**
- * Renders text with lightweight markdown emphasis support: *parola* → <em>parola</em>.
+ * Renders text with lightweight markdown support:
+ *   - *parola* → <em>parola</em>
+ *   - [etichetta](https://…) → contextual external link (https only;
+ *     the URL must not contain spaces or closing parentheses).
  * Used for lexicographic convention: foreign-language etymons and key terms in
  * editorial notes are set in italics, matching standard dictionary typography
- * (cf. Treccani, Zanichelli). Falls back to plain text when no asterisks are present.
+ * (cf. Treccani, Zanichelli). Falls back to plain text when no markup is present.
  * Does not use dangerouslySetInnerHTML — splits and wraps segments as React nodes.
  */
+const INLINE_LINK = /^\[([^\]]+)\]\((https:\/\/[^\s)]+)\)$/;
+
 function EmphasisText({ text }: { text: string }) {
-  if (!text.includes("*")) return <>{text}</>;
-  const parts = text.split(/(\*[^*]+\*)/g);
+  if (!text.includes("*") && !text.includes("](https://")) return <>{text}</>;
+  const parts = text.split(/(\*[^*]+\*|\[[^\]]+\]\(https:\/\/[^\s)]+\))/g);
   return (
     <>
       {parts.map((part, i) => {
+        const link = part.match(INLINE_LINK);
+        if (link) {
+          return (
+            <a
+              key={i}
+              href={link[2]}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline underline-offset-2 decoration-[#b8dc16]/40 hover:text-[#b8dc16] transition-colors"
+            >
+              {link[1]}
+            </a>
+          );
+        }
         if (part.startsWith("*") && part.endsWith("*") && part.length > 2) {
           return <em key={i}>{part.slice(1, -1)}</em>;
         }
