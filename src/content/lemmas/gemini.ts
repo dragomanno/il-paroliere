@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: Gemini
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -88,8 +88,8 @@ export const gemini: LemmaEntry = {
     "[«Come si pronuncia Gemini? Il latino dietro la AI di Google»](https://fabri.news/come-si-pronuncia-gemini/) " +
     "su fabri.news.",
 
-  editorialStatus: "draft",
-  indexable: false,
+  editorialStatus: "reviewed",
+  indexable: true,
 
   seo: {
     title: "Gemini — significato, origine latina e pronuncia",
