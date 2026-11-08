@@ -667,6 +667,8 @@ import { sborone } from "./sborone";
 import { community } from "./community";
 import { anelito } from "./anelito";
 import { flexare } from "./flexare";
+// Voce singola (2026-11) — Gemini
+import { gemini } from "./gemini";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -1287,5 +1289,7 @@ export const allLemmas: LemmaEntry[] = [
   community,
   anelito,
   flexare,
+  // Voce singola (2026-11) — Gemini
+  gemini,
 ];
 
