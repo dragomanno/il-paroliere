@@ -75,8 +75,6 @@ export const gemini: LemmaEntry = {
     treccani: "https://www.treccani.it/enciclopedia/gemelli_%28Dizionario-delle-Scienze-Fisiche%29/",
   },
 
-  // TODO(link): when the canonical fabri.news URL is verified, wrap the article
-  // title below as [«…»](https://fabri.news/<slug>/) — rendered by EmphasisText.
   paroliereNote:
     "Un marchio può scegliere un nome e diffonderne una pronuncia, ma non ne acquista la storia. " +
     "*Gemini* era latino, astronomia e lettura scolastica ed ecclesiastica italiana molto prima di " +
@@ -86,8 +84,9 @@ export const gemini: LemmaEntry = {
     "rispondono a domande diverse: come si chiama un servizio, come si legge il latino in Italia, " +
     "come suonava nell'età classica. Più che cercare la pronuncia giusta in assoluto, conviene sapere " +
     "quale tradizione si sta seguendo quando si pronuncia la parola. Il ragionamento linguistico " +
-    "e la posizione personale dell'autore sono sviluppati nell'articolo «Come si pronuncia Gemini? " +
-    "Il latino dietro la AI di Google», su fabri.news.",
+    "e la posizione personale dell'autore sono sviluppati nell'articolo " +
+    "[«Come si pronuncia Gemini? Il latino dietro la AI di Google»](https://fabri.news/come-si-pronuncia-gemini/), " +
+    "su fabri.news.",
 
   editorialStatus: "draft",
   indexable: false,
