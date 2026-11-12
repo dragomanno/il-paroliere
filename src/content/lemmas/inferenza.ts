@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: inferenza
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -49,7 +49,7 @@ export const inferenza: LemmaEntry = {
   paroliereNote:
     "Viviamo immersi in inferenze non dichiarate molto più di quanto pensiamo: ogni volta che leggiamo un'espressione sul volto di qualcuno, interpretiamo un silenzio, decidiamo che un ritardo significa disinteresse, stiamo facendo un'inferenza — quasi sempre abduttiva, quasi mai verificata. La logica formale ci insegna a distinguere quanto quella inferenza sia solida (deduttiva, quasi inattaccabile) o fragile (abduttiva, la più utile ma anche la più rischiosa): imparare a chiedersi “sto deducendo o sto solo indovinando la spiegazione più comoda?” è forse l'esercizio critico più sottovalutato della vita quotidiana.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

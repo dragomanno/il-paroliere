@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: assioma
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -49,7 +49,7 @@ export const assioma: LemmaEntry = {
   paroliereNote:
     "C'è un salto silenzioso ma enorme quando l'assioma esce dalla matematica ed entra nella conversazione quotidiana: in geometria un assioma è una scelta dichiarata, sostituibile con un'altra per ottenere un sistema diverso ma ugualmente coerente; nel discorso comune, invece, diventa spesso una premessa nascosta, mai messa in discussione perché non viene nemmeno riconosciuta come tale. Il vero esercizio critico non è accettare o rifiutare gli assiomi di qualcun altro, ma imparare a riconoscerli come assiomi — cioè come punti di partenza scelti, non come fatti di natura.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: sillogismo
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -48,7 +48,7 @@ export const sillogismo: LemmaEntry = {
   paroliereNote:
     "Il sillogismo è probabilmente lo strumento logico più citato e meno realmente praticato del linguaggio comune: lo evochiamo per dare peso a un'argomentazione, ma raramente ne verifichiamo la struttura reale. Il trucco retorico più diffuso, oggi come ai tempi della Sofistica, non è costruire un sillogismo falso nella forma — sarebbe troppo facile da smascherare — ma infilare, tra le due premesse, un termine che sembra lo stesso e non lo è: la vera arte della manipolazione logica si gioca quasi sempre lì, nella cucitura invisibile tra maggiore e minore.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

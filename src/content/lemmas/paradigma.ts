@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: paradigma
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -49,7 +49,7 @@ export const paradigma: LemmaEntry = {
   paroliereNote:
     "Paradigma è una di quelle parole che hanno pagato il prezzo del proprio successo: nate per fare un lavoro concettuale molto preciso — descrivere come cambia la scienza — sono state prese in prestito da chiunque avesse bisogno di dare peso filosofico a un'osservazione generica. Dire “cambio di paradigma” per una nuova app o un nuovo modo di lavorare è quasi sempre un abuso: nella maggior parte dei casi si tratta di un aggiustamento, non della sostituzione di un intero modo di vedere il mondo che rende incommensurabile ciò che viene prima da ciò che viene dopo. Vale la pena riservare la parola grande alle occasioni grandi, e usare “modello” o “approccio” per tutto il resto.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

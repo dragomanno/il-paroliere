@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: falsa dicotomia
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -49,7 +49,7 @@ export const falsaDicotomia: LemmaEntry = {
   paroliereNote:
     "La falsa dicotomia è forse la fallacia più comoda del discorso pubblico, perché lusinga chi ascolta con l'illusione di una scelta semplice: due sole opzioni sono facili da valutare, facili da schierare, facili da vendere. Il problema non è mai la forma \"o questo o quello\" in sé — a volte le alternative sono davvero solo due — ma la pigrizia, o la malafede, di chi non verifica se esista un terzo, un quarto, un ventesimo scenario prima di costringere l'interlocutore dentro una gabbia binaria. Diffidare della falsa dicotomia significa, semplicemente, chiedersi sempre: 'e se non fosse né l'uno né l'altro?'",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

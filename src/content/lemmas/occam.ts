@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: rasoio di Occam
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -47,7 +47,7 @@ export const occam: LemmaEntry = {
   paroliereNote:
     "Il rasoio di Occam è vittima di uno dei fraintendimenti più diffusi della cultura popolare: viene spesso brandito come se dicesse 'la risposta più semplice è sempre quella giusta', quando in realtà è uno strumento molto più modesto e molto più utile — un criterio per scegliere da dove cominciare a cercare, non per smettere di cercare. E c'è una seconda ironia storica, quasi poetica: la formula latina che tutti citano come sua non è mai stata scritta da lui. Occam ha lasciato il principio; qualcun altro, tre secoli dopo, gli ha prestato le parole con cui lo ricordiamo — un piccolo promemoria di quanto la storia delle idee sia fatta anche di attribuzioni imperfette.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {
