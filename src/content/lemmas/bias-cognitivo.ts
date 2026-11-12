@@ -56,12 +56,14 @@ export const biasCognitivo: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["percezione", "stereotipo", "euristica", "subliminale"],
+  relatedWords: ["percezione", "stereotipo", "euristica", "dissonanza-cognitiva", "subliminale"],
 
-  sourceLinks: {},
+  sourceLinks: {
+    wiktionary: "https://it.wiktionary.org/wiki/bias",
+  },
 
   paroliereNote:
-    "Parlare di bias cognitivi significa riconoscere che molti errori non sono “distrazioni” occasionali, ma modi ricorrenti di pensare che ci risparmiano fatica al prezzo di una certa ingiustizia verso il mondo. Il lemma è diventato di moda, talvolta usato come etichetta rassicurante (“non è colpa mia, è un bias”), ma la sua forza sta altrove: invita a sospendere la sicurezza del primo giudizio e a chiederci chi ci guadagna da queste deviazioni. Nei feed digitali, dove tutto è progettato per catturare attenzione e confermare identità, riconoscere i bias non li elimina, ma può impedire che siano solo altri a usarli contro di noi.",
+    "Parlare di bias cognitivi significa riconoscere che molti errori non sono “distrazioni” occasionali, ma modi ricorrenti di pensare che ci risparmiano fatica al prezzo di una certa ingiustizia verso il mondo. Il lemma è diventato di moda, talvolta usato come etichetta rassicurante (“non è colpa mia, è un bias”), ma la sua forza sta altrove: invita a sospendere la sicurezza del primo giudizio e a chiederci chi ci guadagna da queste deviazioni. Nei feed digitali, dove tutto è progettato per catturare attenzione e confermare identità, riconoscere i bias non li elimina, ma può impedire che siano solo altri a usarli contro di noi. Quanto alla parola: bias è un prestito non adattato, invariabile al plurale e pronunciato all’inglese; l’equivalente italiano più solido è distorsione cognitiva, mentre pregiudizio cognitivo resta più raro e rischia di confondersi con il pregiudizio sociale.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -73,5 +75,5 @@ export const biasCognitivo: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-12",
 };
