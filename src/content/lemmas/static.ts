@@ -601,6 +601,7 @@ import { composizione } from "./composizione";
 import { ritmo } from "./ritmo";
 import { armonia } from "./armonia";
 import { dissonanza } from "./dissonanza";
+import { dissonanzaCognitiva } from "./dissonanza-cognitiva";
 import { proporzione } from "./proporzione";
 import { simmetria } from "./simmetria";
 import { asimmetria } from "./asimmetria";
@@ -1291,5 +1292,7 @@ export const allLemmas: LemmaEntry[] = [
   flexare,
   // Voce singola (2026-11) — Gemini
   gemini,
+  // BATCH-010 (2026-11) — Pensiero, conoscenza e limite
+  dissonanzaCognitiva,
 ];
 
