@@ -51,7 +51,11 @@ export const cesura: LemmaEntry = {
     "enjambement"
   ],
 
-  examples: [],
+  examples: [
+    "Nell'endecasillabo la cesura cade spesso dopo la quinta o la settima sillaba, e cambia il respiro del verso.",
+    "La guerra segnò una cesura netta nella sua pittura: i colori, dopo, non tornarono più gli stessi.",
+    "Tra il primo e il secondo movimento il compositore inserisce una cesura, un silenzio che prepara il cambio di tono.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/cesura"
@@ -75,5 +79,5 @@ export const cesura: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-12",
 };

@@ -23,7 +23,11 @@ export const ambivalenza: LemmaEntry = {
   etymology:
     "Dal latino ambi- (entrambi) + valentia (forza, valore); coniato da Eugen Bleuler nel 1910.",
 
-  examples: [],
+  examples: [
+    "Verso la città natale provava un'ambivalenza che gli anni non avevano risolto: la amava e non ci sarebbe mai tornato.",
+    "L'ambivalenza dei figli adolescenti verso i genitori è normale: cercano distanza e protezione nello stesso momento.",
+    "Nel romanzo l'ambivalenza del protagonista non è un difetto di scrittura, è il cuore del personaggio.",
+  ],
 
   synonyms: [
       {
@@ -64,5 +68,5 @@ export const ambivalenza: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-12",
 };

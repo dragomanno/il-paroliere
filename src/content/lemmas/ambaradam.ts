@@ -56,7 +56,11 @@ export const ambaradam: LemmaEntry = {
     "pasticcio"
   ],
 
-  examples: [],
+  examples: [
+    "Tra cavi, valigie e bambini che piangevano, la partenza si è trasformata in un ambaradam.",
+    "Per un semplice rimborso mi hanno fatto compilare tre moduli e chiamare due uffici: un vero ambaradam.",
+    "Non ho capito tutto l'ambaradam della fusione, ma so che alla fine qualcuno ci ha guadagnato parecchio.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/ambaradam"
@@ -81,5 +85,5 @@ export const ambaradam: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-12",
 };

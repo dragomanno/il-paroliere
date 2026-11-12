@@ -22,7 +22,11 @@ export const bipolare: LemmaEntry = {
   etymology:
     "Dal latino bi- (due) + polus (polo); in psichiatria, dalla nomenclatura di Karl Leonhard (1957).",
 
-  examples: [],
+  examples: [
+    "Il disturbo bipolare richiede una diagnosi specialistica e una terapia seguita nel tempo, non un'etichetta da conversazione.",
+    "Dire che il tempo di marzo è bipolare è una battuta che a molti pazienti non fa ridere.",
+    "Lo psichiatra ha spiegato alla famiglia la differenza tra un episodio ipomaniacale e un semplice periodo di euforia.",
+  ],
 
   synonyms: [
       {
@@ -52,5 +56,5 @@ export const bipolare: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-12",
 };

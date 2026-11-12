@@ -53,7 +53,11 @@ export const biasimare: LemmaEntry = {
     "condanna"
   ],
 
-  examples: [],
+  examples: [
+    "Non lo si può biasimare per aver lasciato quel lavoro: lo pagavano poco e lo trattavano peggio.",
+    "Il direttore ha biasimato pubblicamente la scelta del collega, e da quel giorno i due non si sono più salutati.",
+    "Biasimare gli altri è facile; più difficile è chiedersi cosa avremmo fatto al loro posto.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/biasimare"
@@ -77,5 +81,5 @@ export const biasimare: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-12",
 };
