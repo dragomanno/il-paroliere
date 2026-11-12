@@ -17,7 +17,8 @@ export const parsimonia: LemmaEntry = {
     "dalla quale si distingue perché non esclude la generosità quando il contesto lo " +
     "richiede. In senso più ampio, la parsimonia può descrivere qualsiasi economia di " +
     "mezzi, compresa quella stilistica: scrivere con parsimonia significa scegliere " +
-    "ogni parola con cura.",
+    "ogni parola con cura. In filosofia e nelle scienze, il principio di parsimonia " +
+    "invita a preferire, a parità di efficacia, la spiegazione che richiede meno ipotesi.",
 
   shortDefinition:
     "Uso misurato delle risorse, senza sprechi; distinta dall'avarizia perché non " +
@@ -45,6 +46,7 @@ export const parsimonia: LemmaEntry = {
   ],
 
   relatedWords: [
+    "occam",
     "frugalità",
     "sobrietà",
     "risparmio",
@@ -53,7 +55,11 @@ export const parsimonia: LemmaEntry = {
     "essenzialità"
   ],
 
-  examples: [],
+  examples: [
+    "Scriveva con parsimonia: tre righe, e ogni parola reggeva il peso di un paragrafo.",
+    "Una casa arredata con parsimonia non è vuota: lascia spazio a ciò che conta.",
+    "Tra due modelli che spiegano gli stessi dati, il criterio di parsimonia premia quello con meno variabili.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/parsimonia"
@@ -78,5 +84,5 @@ export const parsimonia: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-12",
 };

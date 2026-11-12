@@ -14,7 +14,7 @@ export const occam: LemmaEntry = {
   domains: ["filosofia", "epistemologia", "metodologia-scientifica"],
 
   definition:
-    "Principio metodologico, noto anche come principio di economia o principio di parsimonia, secondo cui, a parità di potere esplicativo, va preferita la spiegazione che introduce il minor numero di assunzioni o entità non necessarie: non implica che la spiegazione più semplice sia sempre quella vera, ma che, in assenza di prove a favore della complessità aggiuntiva, essa vada preferita come punto di partenza. Il principio prende il nome dal filosofo francescano Guglielmo di Occam, vissuto nel XIV secolo, sebbene la formulazione latina più celebre con cui viene comunemente citato — *entia non sunt multiplicanda praeter necessitatem*, \"le entità non devono essere moltiplicate oltre il necessario\" — non compaia in nessuno scritto autentico del filosofo: è stata coniata solo nel 1639 dal commentatore francescano irlandese John Punch. Occam stesso, nelle sue *Quaestiones et decisiones in quattuor libros Sententiarum*, usava formulazioni più caute come *pluralitas non est ponenda sine necessitate* (\"non si deve porre una pluralità senza necessità\"). Il termine \"rasoio\" per indicare il principio fu introdotto solo nel 1852 dal matematico William Rowan Hamilton.",
+    "Principio metodologico, noto anche come principio di economia o principio di parsimonia, secondo cui, a parità di potere esplicativo, va preferita la spiegazione che introduce il minor numero di assunzioni o entità non necessarie: non implica che la spiegazione più semplice sia sempre quella vera, ma che, in assenza di prove a favore della complessità aggiuntiva, essa vada preferita come punto di partenza. Il principio prende il nome dal filosofo francescano Guglielmo di Occam, vissuto nel XIV secolo, sebbene la formulazione latina più celebre con cui viene comunemente citato — *entia non sunt multiplicanda praeter necessitatem*, \"le entità non devono essere moltiplicate oltre il necessario\" — non compaia in nessuno scritto autentico del filosofo: è stata coniata solo nel 1639 dal commentatore francescano irlandese John Punch. Occam stesso, nelle sue *Quaestiones et decisiones in quattuor libros Sententiarum*, usava formulazioni più caute come *pluralitas non est ponenda sine necessitate* (\"non si deve porre una pluralità senza necessità\"). Il termine \"rasoio\" per indicare il principio fu introdotto solo nel 1852 dal filosofo scozzese Sir William Hamilton, nelle sue *Discussions on Philosophy and Literature*.",
 
   shortDefinition:
     "Principio secondo cui, a parità di spiegazione, va preferita quella con meno assunzioni non necessarie; da Guglielmo di Occam, XIV secolo.",
@@ -35,14 +35,13 @@ export const occam: LemmaEntry = {
   ],
 
   antonyms: [
-    { term: "pensiero-laterale", register: "tecnico", note: "Modalità di ragionamento esplicitamente contrapposta al rasoio di Occam: mentre il rasoio cerca la semplicità, il pensiero laterale esplora deliberatamente soluzioni complesse o inattese, anche a costo di allontanarsi dall'ipotesi più economica." },
     { term: "sovradeterminazione esplicativa", register: "tecnico", note: "Tendenza opposta a moltiplicare le cause o le entità coinvolte in una spiegazione." },
   ],
 
-  relatedWords: ["assioma", "inferenza", "pensiero-laterale"],
+  relatedWords: ["assioma", "inferenza", "parsimonia", "pensiero-laterale"],
 
   sourceLinks: {
-    wiktionary: "https://it.wiktionary.org/wiki/rasoio_di_Occam",
+    wiktionary: "https://it.wiktionary.org/wiki/rasoio",
   },
 
   paroliereNote:
@@ -58,5 +57,5 @@ export const occam: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-12",
 };
