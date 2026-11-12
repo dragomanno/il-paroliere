@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: dissonanza cognitiva
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -67,7 +67,7 @@ export const dissonanzaCognitiva: LemmaEntry = {
     "sistematica del giudizio, la dissonanza è il disagio che spesso quelle distorsioni " +
     "servono a calmare.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {
