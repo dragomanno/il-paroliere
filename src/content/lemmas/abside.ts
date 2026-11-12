@@ -12,7 +12,11 @@ export const abside: LemmaEntry = {
   domains: ["architettura", "storia dell'arte", "liturgia"],
   etymology:
     "Dal latino absis, a sua volta dal greco ἁψίς (hapsís), arco, volta; il termine entra nel lessico architettonico cristiano già nei primi secoli dell'era comune.",
-  examples: [],
+  examples: [
+    "Il mosaico dell'abside, con il Cristo in trono, si vede già dal fondo della navata.",
+    "La luce del mattino entra dalle finestre dell'abside e cade proprio sull'altare maggiore.",
+    "Durante il restauro è emersa una piccola abside più antica, nascosta sotto il pavimento del Seicento.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["navata", "presbiterio", "basilica", "modanatura"],
@@ -26,5 +30,5 @@ export const abside: LemmaEntry = {
     description: "Definizione originale di 'abside': la parte finale della chiesa tra architettura e liturgia.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-12",
 };

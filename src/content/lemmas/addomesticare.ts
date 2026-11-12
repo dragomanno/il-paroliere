@@ -55,7 +55,11 @@ export const addomesticare: LemmaEntry = {
     "familiarità"
   ],
 
-  examples: [],
+  examples: [
+    "Ci sono voluti mesi per addomesticare il gatto trovato in campagna, che all'inizio non si lasciava nemmeno guardare.",
+    "Vivere un anno a Napoli gli ha insegnato ad addomesticare il caos, invece di combatterlo.",
+    "Scrivere ogni giorno è un modo per addomesticare la paura della pagina bianca.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/addomesticare"
@@ -83,5 +87,5 @@ export const addomesticare: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-12",
 };

@@ -12,7 +12,11 @@ export const battilana: LemmaEntry = {
   domains: ["artigianato", "storia medievale", "tessile"],
   etymology:
     "Composto di battere (lavorare con colpi ripetuti) e lana (dal latino lana); termine tecnico dell'artigianato tessile medievale italiano.",
-  examples: [],
+  examples: [
+    "Nei registri dell'Arte della Lana il nome dei battilana compare raramente, quasi fossero mani senza volto.",
+    "I battilana lavoravano la lana greggia per ore, in botteghe piene di polvere e di rumore.",
+    "Quando si studiano i Ciompi, si scopre che dietro una rivolta medievale c'erano battilana, cardatori e salari che non bastavano.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["guelfo", "ghibellino", "Firenze medievale", "Arte della Lana", "Ciompi"],
@@ -26,5 +30,5 @@ export const battilana: LemmaEntry = {
     description: "Definizione originale di 'battilana': l'artigiano medievale e la rivolta dei Ciompi del 1378.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-12",
 };

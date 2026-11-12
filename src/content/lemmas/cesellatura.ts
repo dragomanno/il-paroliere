@@ -12,7 +12,11 @@ export const cesellatura: LemmaEntry = {
   domains: ["artigianato", "oreficeria", "storia dell'arte"],
   etymology:
     "Derivato di cesello (dal francese antico cisel, dal latino tardo cisellum, diminutivo di caedere, tagliare); attestato in italiano almeno dal XIV secolo.",
-  examples: [],
+  examples: [
+    "La cesellatura del calice mostra foglie e grappoli così fini da sembrare vivi.",
+    "Nel laboratorio orafo la cesellatura si fa ancora a mano, colpo dopo colpo, con il pezzo fissato sulla pece.",
+    "Il suo romanzo è un lavoro di cesellatura: ogni frase sembra limata fino all'ultima virgola.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["sbalzo", "oreficeria", "bullinatura", "pellame", "coltelleria"],
@@ -26,5 +30,5 @@ export const cesellatura: LemmaEntry = {
     description: "Definizione originale di 'cesellatura': la tecnica orafa e la sua potente vita metaforica nel lessico letterario.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-12",
 };

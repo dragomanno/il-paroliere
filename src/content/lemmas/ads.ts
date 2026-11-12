@@ -13,7 +13,11 @@ export const ads: LemmaEntry = {
   domains: ["marketing digitale", "web", "pubblicità"],
   etymology:
     "Plurale e abbreviazione dell'inglese advertisement (avviso, inserzione pubblicitaria); in italiano si è lessicalizzato come termine tecnico del settore digitale.",
-  examples: [],
+  examples: [
+    "Il cliente voleva risultati subito, così abbiamo affiancato una campagna su Google Ads al lavoro SEO.",
+    "Le Ads portano traffico finché paghi; il posizionamento organico resta anche quando il budget si ferma.",
+    "Nel report mensile il traffico da Ads e quello organico vanno letti separatamente, o i numeri ingannano.",
+  ],
   synonyms: [{ term: "inserzioni a pagamento", register: "comune", note: "traduzione letterale, usata in contesti formali" }],
   antonyms: [{ term: "SEO", register: "tecnico", context: "traffico organico, opposto al pagamento" }],
   relatedWords: ["SEO", "SEM", "Google Ads", "campagna", "CPC"],
@@ -27,5 +31,5 @@ export const ads: LemmaEntry = {
     description: "Definizione originale di 'Ads': le inserzioni a pagamento nel marketing digitale, in contrapposizione alla SEO organica.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-12",
 };

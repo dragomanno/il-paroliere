@@ -52,7 +52,11 @@ export const arrendevolezza: LemmaEntry = {
     "resilienza"
   ],
 
-  examples: [],
+  examples: [
+    "La sua arrendevolezza nelle trattative lo rendeva simpatico ai fornitori e pericoloso per l'azienda.",
+    "Non era pigrizia, era arrendevolezza: al primo no rinunciava, convinto che insistere fosse inutile.",
+    "A volte quella che chiamiamo arrendevolezza è solo stanchezza accumulata, e meriterebbe un riposo più che un rimprovero.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/arrendevolezza"
@@ -79,5 +83,5 @@ export const arrendevolezza: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-05-30",
+  updatedAt: "2026-11-12",
 };

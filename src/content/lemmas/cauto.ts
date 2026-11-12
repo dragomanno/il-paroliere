@@ -22,7 +22,11 @@ export const cauto: LemmaEntry = {
   etymology:
     "Dal latino cautus, participio passato di cavere (guardarsi, stare attento).",
 
-  examples: [],
+  examples: [
+    "È stato cauto nel firmare: ha voluto leggere il contratto due volte e farlo vedere a un avvocato.",
+    "I medici restano cauti sulla prognosi, almeno fino ai prossimi esami.",
+    "Un ottimismo cauto è spesso più utile di un entusiasmo che crolla alla prima difficoltà.",
+  ],
 
   synonyms: [
       {
@@ -73,5 +77,5 @@ export const cauto: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-12",
 };

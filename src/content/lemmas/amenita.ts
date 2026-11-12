@@ -53,7 +53,11 @@ export const amenita: LemmaEntry = {
     "luogo comune"
   ],
 
-  examples: [],
+  examples: [
+    "Il borgo è noto per l'amenità delle sue colline, che d'autunno sembrano dipinte.",
+    "Durante la riunione ha detto una serie di amenità sul mercato che nessuno ha avuto il coraggio di correggere.",
+    "Tra un'amenità e l'altra, la conferenza stampa è finita senza una sola risposta concreta.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/amenit%C3%A0"
@@ -78,5 +82,5 @@ export const amenita: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-12",
 };

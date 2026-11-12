@@ -12,7 +12,11 @@ export const barberoSiena: LemmaEntry = {
   domains: ["Palio di Siena", "ippica", "tradizione"],
   etymology:
     "Da barbaresco, aggettivo relativo alla Barberia (regione nordafricana), con sincope e adattamento dialettale; in uso nel lessico paliestico senese almeno dal XVII secolo.",
-  examples: [],
+  examples: [
+    "Dopo la tratta, il barbero è stato accompagnato nella stalla della contrada tra canti e applausi.",
+    "In contrada si parla del barbero per settimane: chi lo ha visto correre, chi giura che quest'anno è quello buono.",
+    "Il barbero vince il Palio anche scosso, cioè senza fantino: il merito, a Siena, è prima di tutto del cavallo.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["tratta", "malacarne", "contrada", "Palio di Siena"],
@@ -26,5 +30,5 @@ export const barberoSiena: LemmaEntry = {
     description: "Definizione originale di 'barbero': il cavallo del Palio di Siena, dalla storica razza barbaresca nordafricana.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-12",
 };

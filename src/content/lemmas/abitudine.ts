@@ -23,7 +23,11 @@ export const abitudine: LemmaEntry = {
   etymology:
     "Dal latino habitudinem, da habere (avere, tenersi in un certo stato).",
 
-  examples: [],
+  examples: [
+    "Prendeva il caffè sempre allo stesso bar, più per abitudine che per affetto.",
+    "Cambiare un'abitudine costa fatica proprio perché non ricordiamo più di averla scelta.",
+    "Dopo il trasloco si accorse che molte delle sue abitudini erano legate alla vecchia casa, non a lei.",
+  ],
 
   synonyms: [
       {
@@ -69,5 +73,5 @@ export const abitudine: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-12",
 };

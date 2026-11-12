@@ -13,7 +13,11 @@ export const cookieConsent: LemmaEntry = {
   domains: ["diritto", "web", "UX"],
   etymology:
     "Locuzione inglese composta da cookie (v.) e consent (consenso); diffusa in italiano in seguito all'obbligo introdotto dalla Direttiva ePrivacy e confermato dal GDPR.",
-  examples: [],
+  examples: [
+    "Il nuovo cookie consent permette di rifiutare tutto con un solo clic, come dovrebbe essere.",
+    "Molti siti nascondono il pulsante di rifiuto nel cookie consent, rendendo il consenso tutt'altro che libero.",
+    "Dopo l'aggiornamento del cookie consent, gli strumenti di analisi si attivano solo se l'utente lo accetta.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["cookie", "cookie policy", "GDPR", "cookieless"],
@@ -27,5 +31,5 @@ export const cookieConsent: LemmaEntry = {
     description: "Definizione originale di 'cookie consent': il meccanismo di consenso ai cookie richiesto dalla normativa europea.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-12",
 };

@@ -12,7 +12,11 @@ export const coltelleria: LemmaEntry = {
   domains: ["artigianato", "commercio", "gastronomia"],
   etymology:
     "Derivato di coltello (dal latino cultellus, diminutivo di culter, lama) con il suffisso -eria; attestato in italiano dal XIV secolo.",
-  examples: [],
+  examples: [
+    "A Scarperia la coltelleria è più di un mestiere: è un pezzo dell'identità del paese.",
+    "Ha comprato il suo primo coltello da cucina in una piccola coltelleria del centro, dove glielo hanno anche affilato.",
+    "La coltelleria artigianale costa di più, ma un buon coltello, se curato, dura una vita.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["pellame", "cesellatura", "sbalzo", "artigianato", "Scarperia"],
@@ -26,5 +30,5 @@ export const coltelleria: LemmaEntry = {
     description: "Definizione originale di 'coltelleria': dall'artigianato italiano di eccellenza a Scarperia, Maniago, Frosolone.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-12",
 };

@@ -12,7 +12,11 @@ export const alfiereSiena: LemmaEntry = {
   domains: ["Palio di Siena", "tradizione", "araldica"],
   etymology:
     "Dall'arabo al-fīl (l'elefante), attraverso lo spagnolo alfil (pezzo degli scacchi) e l'italiano medievale alfiere (portabandiera); il significato di portabandiera si afferma nel Rinascimento.",
-  examples: [],
+  examples: [
+    "Gli alfieri della contrada hanno aperto il corteo con un lancio altissimo, seguito in silenzio da tutta la piazza.",
+    "Da ragazzo si allenava ogni sera nel cortile della società: voleva diventare alfiere.",
+    "Una bandiera che cade dalle mani di un alfiere, durante la sbandierata, non passa inosservata a nessuno.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["tratta", "barbero", "malacarne", "contrada", "Palio di Siena"],
@@ -26,5 +30,5 @@ export const alfiereSiena: LemmaEntry = {
     description: "Definizione originale di 'alfiere' nel Palio di Siena: il portabandiera e l'etimologia dall'arabo al-fīl.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-12",
 };

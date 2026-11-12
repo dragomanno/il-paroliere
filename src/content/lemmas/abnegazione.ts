@@ -53,7 +53,11 @@ export const abnegazione: LemmaEntry = {
     "devozione"
   ],
 
-  examples: [],
+  examples: [
+    "Ha assistito il padre per anni con un'abnegazione che nessuno, in famiglia, le ha mai davvero riconosciuto.",
+    "Nei racconti dei santi l'abnegazione è una disciplina; in corsia, per molti infermieri, è semplicemente il turno di notte.",
+    "Lavorare con abnegazione non significa lavorare gratis: è un'attitudine, non un contratto.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/abnegazione"
@@ -77,5 +81,5 @@ export const abnegazione: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-12",
 };
