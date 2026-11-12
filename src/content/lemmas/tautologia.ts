@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: tautologia
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -50,7 +50,7 @@ export const tautologia: LemmaEntry = {
   paroliereNote:
     "La tautologia vive una doppia vita curiosa: in logica formale è una delle poche certezze assolute che possediamo, un enunciato che non può mai tradirci; nel linguaggio quotidiano, invece, è quasi sempre un sintomo — il segno che qualcuno sta parlando a lungo per non dire nulla, o che una definizione è stata scritta senza capire davvero cosa si stesse definendo. Riconoscere una tautologia nel discorso altrui, e talvolta nel proprio, è un piccolo esercizio di igiene mentale: chiedersi \"questa frase mi dice qualcosa che non sapessi già dal solo leggerla?\" smaschera più retorica vuota di quanto si creda.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

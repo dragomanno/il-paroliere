@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: euristica
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -49,7 +49,7 @@ export const euristica: LemmaEntry = {
   paroliereNote:
     "L'euristica merita di essere difesa dalla cattiva fama che si porta dietro come parente povera dell'algoritmo: non è un ripiego per chi non sa fare i conti giusti, è la strategia cognitiva che ha permesso alla nostra specie di decidere in tempo utile in un mondo che raramente concede il lusso del calcolo esaustivo. Il problema non è usare euristiche — è farlo senza saperlo, scambiando una scorciatoia utile per una verità accertata. Chi conosce le proprie euristiche può ancora usarle, ma con la prudenza di chi sa di stare correndo, non camminando.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

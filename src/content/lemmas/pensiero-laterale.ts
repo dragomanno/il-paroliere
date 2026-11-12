@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: pensiero laterale
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -48,7 +48,7 @@ export const pensieroLaterale: LemmaEntry = {
   paroliereNote:
     "Il pensiero laterale ha avuto la sfortuna, come spesso capita ai concetti utili, di essere svuotato dal marketing aziendale fino a diventare quasi un sinonimo generico di 'pensare fuori dagli schemi' su ogni slide motivazionale. Ma l'intuizione originale di de Bono era più precisa e più radicale: non si tratta solo di essere creativi, ma di riconoscere che il pensiero verticale, per quanto rigoroso, scava sempre nello stesso punto — e a volte il problema non è scavare meglio, ma accorgersi che si sta scavando nel posto sbagliato. Vale la pena restituire al termine la sua serietà metodologica, prima che diventi solo un'etichetta vuota per ogni idea leggermente insolita.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {
