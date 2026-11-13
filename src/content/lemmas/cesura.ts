@@ -33,7 +33,7 @@ export const cesura: LemmaEntry = {
   synonyms: [
     { term: "pausa", register: "comune", context: "termine più generico, privo di valore tecnico-metrico" },
     { term: "interruzione", register: "comune", context: "in senso figurato, per il valore di frattura" },
-    { term: "dieresi", register: "tecnico", context: "in metrica classica, pausa interna alla sillaba — concetto adiacente ma distinto" }
+    { term: "dieresi", register: "tecnico", context: "in metrica classica, pausa interna alla sillaba — concetto adiacente, ma distinto" }
   ],
 
   antonyms: [
@@ -52,7 +52,7 @@ export const cesura: LemmaEntry = {
   ],
 
   examples: [
-    "Nell'endecasillabo la cesura cade spesso dopo la quinta o la settima sillaba, e cambia il respiro del verso.",
+    "Nell'endecasillabo la cesura cade spesso dopo la quinta o la settima sillaba e cambia il respiro del verso.",
     "La guerra segnò una cesura netta nella sua pittura: i colori, dopo, non tornarono più gli stessi.",
     "Tra il primo e il secondo movimento il compositore inserisce una cesura, un silenzio che prepara il cambio di tono.",
   ],
@@ -79,5 +79,5 @@ export const cesura: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-12",
+  updatedAt: "2026-11-13",
 };

@@ -81,7 +81,7 @@ export const bizzoso: LemmaEntry = {
   paroliereNote:
     "Bizzoso è una di quelle parole che dicono subito qualcosa di affettuoso pur descrivendo " +
     "un difetto. Non si usa per le persone pericolose o veramente cattive — per quelle ci sono " +
-    "altre parole. Il bizzoso è fastidioso ma tollerabile, e il suo fascino sta proprio lì: " +
+    "altre parole. Il bizzoso è fastidioso, ma tollerabile e il suo fascino sta proprio lì: " +
     "è il caratteraccio che si perdona, spesso anche con un sorriso.",
 
   editorialStatus: "reviewed",
@@ -95,5 +95,5 @@ export const bizzoso: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

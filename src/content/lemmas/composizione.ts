@@ -16,7 +16,7 @@ export const composizione: LemmaEntry = {
   definition:
     "Il modo in cui gli elementi di un’opera sono disposti, bilanciati e messi in " +
     "relazione tra loro per produrre un effetto coerente. Non è solo l’insieme delle " +
-    "parti ma il principio che le organizza: una composizione riuscita ha un centro di " +
+    "parti, ma il principio che le organizza: una composizione riuscita ha un centro di " +
     "gravità visivo o sonoro, una gerarchia degli elementi, un equilibrio tra tensione e " +
     "risoluzione. In chimica, è la struttura molecolare di una sostanza.",
 
@@ -63,5 +63,5 @@ export const composizione: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

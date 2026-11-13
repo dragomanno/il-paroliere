@@ -25,7 +25,7 @@ export const committenza: LemmaEntry = {
     "opere mediocri indipendentemente dal talento di chi le realizza.",
 
   shortDefinition:
-    "Chi commissiona un'opera o un servizio, e il sistema di relazioni che " +
+    "Chi commissiona un'opera o un servizio e il sistema di relazioni che " +
     "storicamente ha sostenuto la produzione artistica e intellettuale.",
 
   register: ["formale", "tecnico"],
@@ -120,5 +120,5 @@ export const committenza: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

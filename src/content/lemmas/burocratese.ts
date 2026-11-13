@@ -14,7 +14,7 @@ export const burocratese: LemmaEntry = {
   domains: ["linguistica", "società", "amministrazione"],
 
   definition:
-    "Registro linguistico tipico delle comunicazioni scritte della pubblica amministrazione e delle istituzioni, caratterizzato — nella sua accezione negativa, con cui il termine è quasi sempre usato — da verbosità eccessiva, ricorso sistematico a perifrasi al posto di termini semplici, uso di formule fisse arcaiche, nominalizzazioni che disumanizzano l'azione ('si comunica che si è provveduto a' invece di 'abbiamo fatto'), e una sintassi ipotattica che appesantisce la lettura senza aggiungere precisione reale. Nato per esigenze legittime di formalità, univocità giuridica e responsabilità documentale, il burocratese finisce spesso per produrre l'effetto opposto a quello dichiarato: invece di chiarire diritti e doveri del cittadino, li nasconde dietro una superficie linguistica difficile da decifrare, alimentando distanza e sfiducia verso le istituzioni che lo adottano.",
+    "Registro linguistico tipico delle comunicazioni scritte della pubblica amministrazione e delle istituzioni, caratterizzato — nella sua accezione negativa, con cui il termine è quasi sempre usato — da verbosità eccessiva, ricorso sistematico a perifrasi al posto di termini semplici, uso di formule fisse arcaiche, nominalizzazioni che disumanizzano l'azione ('si comunica che si è provveduto a' invece di 'abbiamo fatto') e una sintassi ipotattica che appesantisce la lettura senza aggiungere precisione reale. Nato per esigenze legittime di formalità, univocità giuridica e responsabilità documentale, il burocratese finisce spesso per produrre l'effetto opposto a quello dichiarato: invece di chiarire diritti e doveri del cittadino, li nasconde dietro una superficie linguistica difficile da decifrare, alimentando distanza e sfiducia verso le istituzioni che lo adottano.",
 
   shortDefinition:
     "Linguaggio amministrativo verboso e formulaico, spesso criticato perché complica invece di chiarire la comunicazione tra istituzioni e cittadini.",
@@ -58,5 +58,5 @@ export const burocratese: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

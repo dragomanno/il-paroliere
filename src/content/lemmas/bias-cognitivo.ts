@@ -20,7 +20,7 @@ export const biasCognitivo: LemmaEntry = {
     "Scorciatoia abituale del pensiero che devia in modo prevedibile dalla valutazione razionale dei fatti, influenzando giudizi e decisioni.",
 
   etymology:
-    "Dall'inglese cognitive bias, con bias “deviazione, inclinazione, pregiudizio”, termine di origine incerta attestato nel linguaggio tecnico e sportivo, passato poi al lessico della psicologia sperimentale tra anni Settanta e Ottanta del Novecento. In italiano la locuzione si afferma in ambito accademico e divulgativo a partire dal lessico dell'economia comportamentale, e solo in seguito entra nel discorso pubblico più ampio.",
+    "Dall'inglese cognitive bias, con bias “deviazione, inclinazione, pregiudizio”, termine di origine incerta attestato nel linguaggio tecnico e sportivo, passato poi al lessico della psicologia sperimentale tra anni Settanta e Ottanta del Novecento. In italiano la locuzione si afferma in ambito accademico e divulgativo a partire dal lessico dell'economia comportamentale e solo in seguito entra nel discorso pubblico più ampio.",
 
   examples: [
     "Nel valutare il curriculum ha ceduto a un bias cognitivo di somiglianza: preferiva chi gli ricordava il proprio percorso.",
@@ -75,5 +75,5 @@ export const biasCognitivo: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-12",
+  updatedAt: "2026-11-13",
 };

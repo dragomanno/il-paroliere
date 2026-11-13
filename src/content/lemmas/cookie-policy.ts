@@ -23,7 +23,7 @@ export const cookiePolicy: LemmaEntry = {
   relatedWords: ["cookie", "cookie consent", "privacy policy", "GDPR"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/cookie_policy" },
   paroliereNote:
-    "La cookie policy è il documento, il cookie consent è il meccanismo che ne raccoglie l'accettazione: la distinzione è tecnica ma importante. Molti siti confondono i due — o, peggio, li sostituiscono con un'unica schermata che fa tutto senza spiegare niente.",
+    "La cookie policy è il documento, il cookie consent è il meccanismo che ne raccoglie l'accettazione: la distinzione è tecnica, ma importante. Molti siti confondono i due — o, peggio, li sostituiscono con un'unica schermata che fa tutto senza spiegare niente.",
   editorialStatus: "reviewed",
   indexable: true,
   seo: {

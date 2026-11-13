@@ -63,7 +63,7 @@ export const alienista: LemmaEntry = {
   paroliereNote:
     "L'alienista è uno specchio scomodo della storia della medicina mentale: ricorda che " +
     "le categorie diagnostiche non sono mai neutre, che la linea tra cura e controllo è " +
-    "stata spesso porosa, e che \u00abalienazione\u00bb come concetto medico e \u00abalienazione\u00bb " +
+    "stata spesso porosa e che \u00abalienazione\u00bb come concetto medico e \u00abalienazione\u00bb " +
     "come concetto marxiano condividono la stessa radice non per caso. Chiamare qualcuno " +
     "\u00abalienato\u00bb significava togliergli la parola — e affidarla all'alienista. Basterebbe " +
     "questo per capire quanto pesi la nomenclatura in psichiatria.",
@@ -79,5 +79,5 @@ export const alienista: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

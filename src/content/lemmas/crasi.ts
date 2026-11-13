@@ -36,7 +36,7 @@ export const crasi: LemmaEntry = {
   synonyms: [
     { term: "contrazione", register: "tecnico", context: "Riduzione fonetica di due elementi in uno, sinonimo parziale in grammatica italiana" },
     { term: "fusione", register: "comune", context: "In senso lato, unione di due forme distinte; meno preciso del termine tecnico" },
-    { term: "elisione", register: "tecnico", context: "Caduta di una vocale finale davanti a vocale iniziale; processo affine ma distinto dalla crasi" }
+    { term: "elisione", register: "tecnico", context: "Caduta di una vocale finale davanti a vocale iniziale; processo affine, ma distinto dalla crasi" }
   ],
 
   antonyms: [
@@ -50,7 +50,7 @@ export const crasi: LemmaEntry = {
 
   paroliereNote:
     "La crasi è uno dei meccanismi più antichi e naturali della lingua: le parole si " +
-    "avvicinano, si toccano, e dove il contatto è abbastanza frequente finiscono per " +
+    "avvicinano, si toccano e dove il contatto è abbastanza frequente finiscono per " +
     "fondersi. L'italiano è pieno di crasi ormai invisibili — «del», «nel», «col», " +
     "«al» — che nessun parlante percepisce più come fusioni, ma che portano ancora " +
     "dentro di sé la traccia del processo. Nei neologismi contemporanei il principio " +
@@ -78,5 +78,5 @@ export const crasi: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-05-30",
+  updatedAt: "2026-11-13",
 };

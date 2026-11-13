@@ -25,7 +25,7 @@ export const celestiale: LemmaEntry = {
 
   etymology:
     "Dal latino caelestis, da caelum “cielo”, di etimologia incerta. La stessa radice di " +
-    "“celeste”, “celebrare” (in origine: glorificare il cielo), e forse di “celere” " +
+    "“celeste”, “celebrare” (in origine: glorificare il cielo) e forse di “celere” " +
     "(rapido, come il moto celeste).",
 
   examples: [
@@ -65,5 +65,5 @@ export const celestiale: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

@@ -13,7 +13,7 @@ export const autorevolezza: LemmaEntry = {
   definition:
     "Qualità di chi — persona, istituzione o contenuto — è riconosciuto come degno di fiducia e stima " +
     "in un determinato campo, per effetto di competenza dimostrata, coerenza nel tempo e reputazione " +
-    "consolidata presso terzi. L'autorevolezza non è attribuita dall'alto (come l'autorità) ma guadagnata " +
+    "consolidata presso terzi. L'autorevolezza non è attribuita dall'alto (come l'autorità), ma guadagnata " +
     "attraverso l'accumulo di esperienze verificabili, la qualità del lavoro e il riconoscimento esterno. " +
     "Nel framework E-E-A-T di Google (Experience, Expertise, Authoritativeness, Trustworthiness), " +
     "l'autorevolezza corrisponde alla *A* di *Authoritativeness*: è la reputazione esterna che terzi " +
@@ -29,7 +29,7 @@ export const autorevolezza: LemmaEntry = {
   examples: [
     "L'autorevolezza di una testata giornalistica si costruisce in decenni di giornalismo rigoroso e non si recupera in pochi mesi dopo uno scandalo.",
     "Nel framework E-E-A-T, l'autorevolezza di un sito web si misura attraverso link in entrata, citazioni da fonti terze e menzioni nei media di settore.",
-    "Un medico può avere grande expertise clinica ma scarsa autorevolezza pubblica se non è conosciuto al di fuori del proprio ospedale.",
+    "Un medico può avere grande expertise clinica, ma scarsa autorevolezza pubblica se non è conosciuto al di fuori del proprio ospedale.",
   ],
   synonyms: [
     { term: "credibilità", register: "standard", context: "qualità di chi merita fiducia e non viene messo in dubbio" },
@@ -65,5 +65,5 @@ export const autorevolezza: LemmaEntry = {
     description: "Autorevolezza: reputazione guadagnata per competenza e coerenza. Nel framework E-E-A-T è la A di Authoritativeness; distinta da autorità ed expertise.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

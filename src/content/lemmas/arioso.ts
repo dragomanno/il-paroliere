@@ -16,7 +16,7 @@ export const arioso: LemmaEntry = {
     "ambiente, un paesaggio — arioso indica la presenza di luce, apertura e circolazione " +
     "dell'aria che producono una sensazione di benessere e libertà. Esteso all'estetica, " +
     "descrive composizioni — musicali, pittoriche, letterarie — in cui c'è respiro tra " +
-    "gli elementi, dove lo spazio non è riempito compulsivamente ma lasciato vivere come " +
+    "gli elementi, dove lo spazio non è riempito compulsivamente, ma lasciato vivere come " +
     "parte del tutto. In musica, arioso è anche un termine tecnico che indica uno stile " +
     "di canto a metà tra il recitativo e l'aria: più melodico del recitativo, meno " +
     "strutturato dell'aria vera e propria.",
@@ -33,7 +33,7 @@ export const arioso: LemmaEntry = {
     "-oso («pieno di, che ha la qualità di»): letteralmente «pieno di aria, che respira».",
 
   examples: [
-    "L'appartamento era piccolo ma arioso: soffitti alti, finestre grandi, niente arredi inutili.",
+    "L'appartamento era piccolo, ma arioso: soffitti alti, finestre grandi, niente arredi inutili.",
     "La composizione era ariosa nel senso migliore: ogni strumento aveva il suo spazio, nessuno soffocava l'altro.",
     "Quel tipo di scrittura ariosa, dove le frasi brevi si alternano ai silenzi, era molto più difficile da ottenere di quanto sembrasse.",
   ],
@@ -120,5 +120,5 @@ export const arioso: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

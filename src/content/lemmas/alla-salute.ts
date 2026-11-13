@@ -29,7 +29,7 @@ export const allaSalute: LemmaEntry = {
 
   examples: [
     "«Alla salute!» disse il vecchio alzando il bicchiere verso il sole.",
-    "Hanno aumentato ancora le tasse? Alla salute — disse, e versò il vino.",
+    "Hanno aumentato ancora le tasse? Alla salute — disse e versò il vino.",
     "«Alla salute di tutti voi» — con una formula così, anche un discorso banale diventa un momento.",
   ],
 
@@ -70,7 +70,7 @@ export const allaSalute: LemmaEntry = {
     "La doppiezza festosa/ironica è il tratto più interessante di questa locuzione. «Alla salute!» " +
     "può essere il culmine di una celebrazione o la battuta finale di chi ha appena ricevuto " +
     "una cattiva notizia — e il contesto fa tutto. È uno di quei casi in cui la stessa formula " +
-    "dice cose opposte con la stessa facilità, e quella flessibilità è la sua vera ricchezza.",
+    "dice cose opposte con la stessa facilità e quella flessibilità è la sua vera ricchezza.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -83,5 +83,5 @@ export const allaSalute: LemmaEntry = {
   },
 
   createdAt: "2026-06-12",
-  updatedAt: "2026-06-12",
+  updatedAt: "2026-11-13",
 };

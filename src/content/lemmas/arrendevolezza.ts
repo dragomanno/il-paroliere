@@ -55,7 +55,7 @@ export const arrendevolezza: LemmaEntry = {
   examples: [
     "La sua arrendevolezza nelle trattative lo rendeva simpatico ai fornitori e pericoloso per l'azienda.",
     "Non era pigrizia, era arrendevolezza: al primo no rinunciava, convinto che insistere fosse inutile.",
-    "A volte quella che chiamiamo arrendevolezza è solo stanchezza accumulata, e meriterebbe un riposo più che un rimprovero.",
+    "A volte quella che chiamiamo arrendevolezza è solo stanchezza accumulata e meriterebbe un riposo più che un rimprovero.",
   ],
 
   sourceLinks: {
@@ -66,7 +66,7 @@ export const arrendevolezza: LemmaEntry = {
     "L'arrendevolezza ha una cattiva fama che non sempre merita. Nel pensiero " +
     "strategico — dalla diplomazia alla negoziazione, fino all'arte militare — " +
     "la capacità di cedere al momento giusto è una virtù, non un difetto. " +
-    "Il problema sorge quando la resa diventa riflesso automatico: non una scelta " +
+    "Il problema sorge quando la resa diventa riflesso automatico: non una scelta, " +
     "ma un'incapacità. È lì che l'arrendevolezza smette di essere flessibilità " +
     "e diventa limite — e che si distingue nettamente dalla perseveranza, che " +
     "non è cieco attaccamento al proposito, ma capacità di valutarlo e tenerlo " +
@@ -83,5 +83,5 @@ export const arrendevolezza: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-11-12",
+  updatedAt: "2026-11-13",
 };

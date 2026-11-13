@@ -30,7 +30,7 @@ export const community: LemmaEntry = {
   ],
 
   synonyms: [
-    { term: "comunità", register: "comune", context: "Traduzione possibile ma più ampia: riguarda anche gruppi territoriali, culturali o di valori e non porta necessariamente con sé il contesto digitale." },
+    { term: "comunità", register: "comune", context: "Traduzione possibile, ma più ampia: riguarda anche gruppi territoriali, culturali o di valori e non porta necessariamente con sé il contesto digitale." },
     { term: "gruppo online", register: "comune", context: "Espressione trasparente e descrittiva, ma meno riconoscibile come nome di una rete di partecipazione stabile." },
     { term: "rete di utenti", register: "tecnico", context: "Sottolinea le persone connesse a un servizio o a un contenuto, più che il loro riconoscersi reciproco." },
   ],
@@ -58,5 +58,5 @@ export const community: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-08-24",
+  updatedAt: "2026-11-13",
 };

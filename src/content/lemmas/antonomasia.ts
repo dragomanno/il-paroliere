@@ -59,7 +59,7 @@ export const antonomasia: LemmaEntry = {
     "stabile da garantire il riconoscimento. Dire «è un Don Giovanni» ha senso solo " +
     "se l'interlocutore sa chi è Don Giovanni — e se il personaggio porta ancora il " +
     "peso della sua reputazione. Quando la cultura comune si frammenta o si rinnova, " +
-    "le antonomasie invecchiano: i riferimenti diventano opachi, e quello che era " +
+    "le antonomasie invecchiano: i riferimenti diventano opachi e quello che era " +
     "un'immagine vivida diventa una citazione oscura. Don Giovanni rimane per " +
     "antonomasia il libertino, il Bignami rimane per antonomasia il compendio " +
     "scolastico — ma entrambi dipendono da un codice culturale che deve essere " +
@@ -77,5 +77,5 @@ export const antonomasia: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-05-30",
+  updatedAt: "2026-11-13",
 };

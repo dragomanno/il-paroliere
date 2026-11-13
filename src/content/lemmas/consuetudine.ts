@@ -31,7 +31,7 @@ export const consuetudine: LemmaEntry = {
     "Era consuetudine nel paese che i vicini si aiutassero durante il raccolto, senza chiederlo.",
     "Alcune consuetudini sopravvivono alle leggi che le avrebbero dovute sostituire.",
     "In diritto internazionale la consuetudine è fonte primaria, al pari dei trattati.",
-    "Non era una regola scritta da nessuna parte: era solo la consuetudine, e bastava.",
+    "Non era una regola scritta da nessuna parte: era solo la consuetudine e bastava.",
   ],
 
   synonyms: [
@@ -97,5 +97,5 @@ export const consuetudine: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

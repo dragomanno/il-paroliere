@@ -21,7 +21,7 @@ export const alleanza: LemmaEntry = {
     "Le alleanze tra le Contrade di Siena sono patti storici e culturali che regolano " +
     "i rapporti tra le diciassette Contrade nel Palio: le alleanze vietano di ostacolare " +
     "la Contrada alleata durante la corsa, possono includere supporto reciproco nel " +
-    "tirare (mossa) e nel portare (vincere), e costituiscono un sistema di relazioni " +
+    "tirare (mossa) e nel portare (vincere) e costituiscono un sistema di relazioni " +
     "identitarie profondo, trasmesso di generazione in generazione.",
   shortDefinition: "Accordo duraturo tra soggetti — Stati, partiti, Contrade — per cooperare in vista di interessi comuni.",
   register: ["formale", "politico", "storico"],
@@ -75,5 +75,5 @@ export const alleanza: LemmaEntry = {
       "Contrade di Siena, alleanze politiche e militari. Etimologia ed esempi.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

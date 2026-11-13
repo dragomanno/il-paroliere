@@ -13,10 +13,10 @@ export const canaglia: LemmaEntry = {
   definition:
     "Insulto di forte energia espressiva, più esclamativo che condanna morale ragionata. " +
     "In origine indicava la gente bassa e vile — la canaglia come massa, come classe — " +
-    "oggi è quasi sempre singolare e personale, e può persino avere una sfumatura affettuosa, " +
+    "oggi è quasi sempre singolare e personale e può persino avere una sfumatura affettuosa, " +
     "specie rivolto a chi ha fatto qualcosa di sbarazzino o audace.",
   shortDefinition:
-    "Insulto vigoroso ma non definitivo: più un'esclamazione che una condanna, a volte perfino affettuoso.",
+    "Insulto vigoroso, ma non definitivo: più un'esclamazione che una condanna, a volte perfino affettuoso.",
   register: ["colloquiale", "espressivo"],
   domains: ["morale", "comportamento", "uso espressivo"],
   etymology:
@@ -55,5 +55,5 @@ export const canaglia: LemmaEntry = {
       "Definizione originale di 'canaglia': insulto espressivo ambivalente, a volte affettuoso. Dal collettivo storico al singolare contemporaneo.",
   },
   createdAt: "2026-06-12",
-  updatedAt: "2026-06-12",
+  updatedAt: "2026-11-13",
 };

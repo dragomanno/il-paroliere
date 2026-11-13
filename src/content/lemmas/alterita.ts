@@ -82,7 +82,7 @@ export const alterita: LemmaEntry = {
     "L'alterità è forse la parola di questo cluster semantico che porta il maggior peso filosofico. " +
     "Non è solo 'il diverso': è la domanda su cosa significa incontrare qualcuno che non si lascia " +
     "ridurre a ciò che già conosci. La xenofobia è una risposta a questa domanda — " +
-    "non l'unica, e non la migliore.",
+    "non l'unica e non la migliore.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -94,5 +94,5 @@ export const alterita: LemmaEntry = {
   },
 
   createdAt: "2026-06-08",
-  updatedAt: "2026-08-21",
+  updatedAt: "2026-11-13",
 };

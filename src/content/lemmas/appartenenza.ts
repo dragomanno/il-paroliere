@@ -15,7 +15,7 @@ export const appartenenza: LemmaEntry = {
     "Il legame che unisce una persona a un gruppo, un luogo o una tradizione, al " +
     "punto da farne sentire parte costitutiva della propria identità. Non richiede " +
     "necessariamente un'adesione formale o dichiarata: si può appartenere a una " +
-    "comunità per nascita, per scelta o per semplice riconoscimento reciproco, e " +
+    "comunità per nascita, per scelta o per semplice riconoscimento reciproco e " +
     "l'intensità del legame può restare del tutto interiore.",
 
   shortDefinition:
@@ -85,5 +85,5 @@ export const appartenenza: LemmaEntry = {
   },
 
   createdAt: "2026-08-21",
-  updatedAt: "2026-08-21",
+  updatedAt: "2026-11-13",
 };

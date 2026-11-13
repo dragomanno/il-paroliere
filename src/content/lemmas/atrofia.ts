@@ -17,7 +17,7 @@ export const atrofia: LemmaEntry = {
     "Riduzione del volume e della funzionalità di un organo, di un tessuto o di un " +
     "muscolo per mancato uso, malnutrizione o patologia. In senso figurato, è il " +
     "progressivo indebolimento e impoverimento di una facoltà, di una relazione, di " +
-    "un’istituzione che non viene alimentata: l’atrofia non è una rottura improvvisa ma " +
+    "un’istituzione che non viene alimentata: l’atrofia non è una rottura improvvisa, ma " +
     "un processo lento di prosciugamento.",
 
   shortDefinition:
@@ -64,5 +64,5 @@ export const atrofia: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

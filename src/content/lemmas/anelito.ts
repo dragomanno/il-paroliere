@@ -14,7 +14,7 @@ export const anelito: LemmaEntry = {
   domains: ["psicologia", "filosofia", "vita interiore"],
 
   definition:
-    "1. Respiro ansante o affannoso, soprattutto in uso letterario. 2. Desiderio intenso di un cambiamento, di un miglioramento o di un bene sentito come necessario. Nel suo uso figurato è l'idea che vuole diventare azione ma non l'ha ancora avviata: una tensione urgente, precedente allo → slancio. Rispetto a → aspirazione, che può essere stabile e ordinata attorno a un progetto, l'anelito è più acceso e conserva nell'origine l'immagine fisica del respiro che manca.",
+    "1. Respiro ansante o affannoso, soprattutto in uso letterario. 2. Desiderio intenso di un cambiamento, di un miglioramento o di un bene sentito come necessario. Nel suo uso figurato è l'idea che vuole diventare azione, ma non l'ha ancora avviata: una tensione urgente, precedente allo → slancio. Rispetto a → aspirazione, che può essere stabile e ordinata attorno a un progetto, l'anelito è più acceso e conserva nell'origine l'immagine fisica del respiro che manca.",
 
   shortDefinition:
     "Desiderio ardente di cambiamento, ancora sulla soglia dell'azione.",
@@ -88,5 +88,5 @@ export const anelito: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-08-24",
+  updatedAt: "2026-11-13",
 };

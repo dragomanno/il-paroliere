@@ -18,7 +18,7 @@ export const barlume: LemmaEntry = {
     "in quella tenacia del minimo.",
 
   shortDefinition:
-    "Luce tenue che stenta a imporsi; in senso figurato, qualcosa che esiste appena ma con ostinazione.",
+    "Luce tenue che stenta a imporsi; in senso figurato, qualcosa che esiste appena, ma con ostinazione.",
 
   register: ["comune", "letterario"],
   domains: ["percezione", "figurato"],
@@ -37,7 +37,7 @@ export const barlume: LemmaEntry = {
     {
       term: "chiarore",
       register: "comune",
-      context: "luce diffusa e tenue, simile al barlume ma meno connotata",
+      context: "luce diffusa e tenue, simile al barlume, ma meno connotata",
     },
     {
       term: "fioca luce",
@@ -102,5 +102,5 @@ export const barlume: LemmaEntry = {
   },
 
   createdAt: "2026-06-12",
-  updatedAt: "2026-06-12",
+  updatedAt: "2026-11-13",
 };

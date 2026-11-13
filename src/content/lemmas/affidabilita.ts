@@ -24,7 +24,7 @@ export const affidabilita: LemmaEntry = {
     "ma paradossalmente è dichiarato da Google stesso come «il più importante» dei quattro: " +
     "riguarda la sicurezza delle transazioni (siti e-commerce con pagamenti sicuri), " +
     "l'accuratezza delle informazioni (in particolare nei settori YMYL: salute, finanza, legge), " +
-    "la trasparenza sull'autore e sulle fonti, e l'assenza di intenzioni ingannevoli. " +
+    "la trasparenza sull'autore e sulle fonti e l'assenza di intenzioni ingannevoli. " +
     "Un sito può essere competente e autorevole, ma se non è affidabile — " +
     "se nasconde chi lo gestisce, usa dark pattern o pubblica informazioni non verificabili — " +
     "il suo valore per l'utente si azzera.",
@@ -40,7 +40,7 @@ export const affidabilita: LemmaEntry = {
   examples: [
     "L'affidabilità di un sito medico si misura dalla chiarezza sulla qualifica degli autori, " +
       "dalla datazione degli articoli e dalla citazione delle fonti primarie.",
-    "Nella gerarchia E-E-A-T, l'affidabilità è il quarto elemento ma il più critico: " +
+    "Nella gerarchia E-E-A-T, l'affidabilità è il quarto elemento, ma il più critico: " +
       "senza di essa, esperienza, competenza e autorevolezza non bastano a tutelare l'utente.",
     "Il brand ha costruito la propria affidabilità in vent'anni di coerenza: " +
       "stesso tono, stesse politiche di reso, stessa risposta tempestiva ai reclami.",
@@ -79,5 +79,5 @@ export const affidabilita: LemmaEntry = {
       "In E-E-A-T è Trustworthiness, il più importante dei quattro criteri Google.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

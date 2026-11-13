@@ -40,7 +40,7 @@ export const cinismo: LemmaEntry = {
     "Diogene era il cinico che viveva in una botte e si faceva luce in pieno giorno con una lanterna cercando \u201cun uomo onesto\u201d: non era un nichilista, era un provocatore con una tesi.",
     "Nel linguaggio politico, \u201cè un cinico\u201d significa quasi sempre: \u201cfa finta di non credere in niente per non doversi mai impegnare davvero in nulla\u201d.",
     "Il cinismo di massa — quella sensazione diffusa che \u201ctanto cambia poco\u201d — è uno dei combustibili dell'astensionismo elettorale e dell'indifferenza civile.",
-    "C'è una differenza importante tra cinismo e disincanto: il disincantato ha perso le illusioni ma mantiene la capacità di vedere le cose per quello che sono; il cinico usa la perdita delle illusioni come alibi per non guardare affatto.",
+    "C'è una differenza importante tra cinismo e disincanto: il disincantato ha perso le illusioni, ma mantiene la capacità di vedere le cose per quello che sono; il cinico usa la perdita delle illusioni come alibi per non guardare affatto.",
   ],
 
   synonyms: [
@@ -93,5 +93,5 @@ export const cinismo: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

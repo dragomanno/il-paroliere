@@ -25,9 +25,9 @@ export const anamnesi: LemmaEntry = {
     "conoscenza non scompare: si offusca sotto il peso della corporeità e della percezione " +
     "sensoriale. Nel dialogo Menone, Socrate dimostra a uno schiavo ignorante — attraverso " +
     "una serie di domande guidate — che egli riesce a risolvere un problema geometrico senza " +
-    "averlo mai studiato: per Platone, la conoscenza era già nell'anima, e la dialettica la " +
+    "averlo mai studiato: per Platone, la conoscenza era già nell'anima e la dialettica la " +
     "risveglia. Questa dottrina ha una conseguenza filosofica profonda: se tutta la conoscenza " +
-    "è anamnesi, allora il ruolo del maestro non è trasmettere nozioni ma creare le condizioni " +
+    "è anamnesi, allora il ruolo del maestro non è trasmettere nozioni, ma creare le condizioni " +
     "perché il discepolo ricordi da solo — la radice filosofica del metodo maieutico socratico.",
 
   shortDefinition:
@@ -116,5 +116,5 @@ export const anamnesi: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

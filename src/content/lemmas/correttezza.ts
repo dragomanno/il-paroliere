@@ -64,9 +64,9 @@ export const correttezza: LemmaEntry = {
 
   seo: {
     title: "correttezza — rispetto delle regole tra etica, sport e grammatica",
-    description: "Che cos’è la correttezza: definizione etica e linguistica, differenza da integrità e lealtà, e il problema del giocare corretto in un sistema scorretto.",
+    description: "Che cos’è la correttezza: definizione etica e linguistica, differenza da integrità e lealtà e il problema del giocare corretto in un sistema scorretto.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

@@ -45,7 +45,7 @@ export const appalto: LemmaEntry = {
     {
       term: "contratto d'opera",
       register: "tecnico-giuridico",
-      context: "figura affine ma con autonomia gestionale minore",
+      context: "figura affine, ma con autonomia gestionale minore",
     },
     {
       term: "subappalto",
@@ -90,5 +90,5 @@ export const appalto: LemmaEntry = {
       "con rischio imprenditoriale. Appalto pubblico vs privato.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

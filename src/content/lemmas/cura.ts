@@ -13,7 +13,7 @@ export const cura: LemmaEntry = {
 
   definition:
     "Attenzione sostenuta e intenzionale rivolta a qualcosa o a qualcuno. La cura " +
-    "implica continuità: non è un gesto isolato ma una disposizione che si rinnova " +
+    "implica continuità: non è un gesto isolato, ma una disposizione che si rinnova " +
     "nel tempo. Può indicare l'atto medico di trattare una malattia, la sollecitudine " +
     "verso una persona amata, la precisione artigianale nel fare bene un lavoro, o " +
     "l'insieme delle preoccupazioni che pesano sull'animo. In tutti i casi, la cura " +
@@ -113,5 +113,5 @@ export const cura: LemmaEntry = {
   },
 
   createdAt: "2026-05-18",
-  updatedAt: "2026-05-18",
+  updatedAt: "2026-11-13",
 };

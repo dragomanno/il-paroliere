@@ -114,7 +114,7 @@ export const accondiscendenza: LemmaEntry = {
     "Nella psicologia contemporanea, soprattutto nella letteratura sul people-pleasing " +
     "e sui pattern relazionali disfunzionali, tende invece ad apparire come un " +
     "tratto da correggere — una forma di rinuncia a sé stessi mascherata da gentilezza. " +
-    "Entrambe le letture sono legittime: la parola contiene entrambe le possibilità, " +
+    "Entrambe le letture sono legittime: la parola contiene entrambe le possibilità " +
     "e il contesto decide quale prevale.",
 
   editorialStatus: "reviewed",
@@ -128,5 +128,5 @@ export const accondiscendenza: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

@@ -33,7 +33,7 @@ export const adulazione: LemmaEntry = {
     "qualcosa.",
 
   examples: [
-    "I cortigiani che adulavano il re non erano necessariamente stupidi: sapevano benissimo cosa stavano facendo, e lo facevano perché funzionava.",
+    "I cortigiani che adulavano il re non erano necessariamente stupidi: sapevano benissimo cosa stavano facendo e lo facevano perché funzionava.",
     "L’adulazione manageriale — il dipendente che loda ogni decisione del capo indipendentemente dal merito — produce capi sempre più incapaci di vedere i propri errori.",
     "Distinguere complimento sincero da adulazione richiede attenzione al contesto: chi ti loda sempre ha meno valore di chi ti dice la verità anche quando fa male.",
     "La psicologia del potere mostra che i leader ad alta autostima resistono meglio all’adulazione: chi ha bisogno di essere confermato continuamente è più vulnerabile all’adulatore.",
@@ -73,9 +73,9 @@ export const adulazione: LemmaEntry = {
 
   seo: {
     title: "adulazione — la lode interessata che corrompe chi la riceve",
-    description: "Che cos’è l’adulazione: definizione etica e psicologica, differenza da ammirazione sincera, e come l’adulazione sistematica degrada il giudizio del potere.",
+    description: "Che cos’è l’adulazione: definizione etica e psicologica, differenza da ammirazione sincera e come l’adulazione sistematica degrada il giudizio del potere.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };
