@@ -34,7 +34,7 @@ export const ammansire: LemmaEntry = {
     { term: "placare", register: "comune", context: "ridurre l'agitazione o la collera, spesso con un intervento diretto" },
     { term: "calmare", register: "comune", context: "più generico, senza l'idea del processo graduale e del cambiamento di natura" },
     { term: "addomesticare", register: "comune", context: "sinonimo stretto, con maggiore enfasi sul legame creato nel processo" },
-    { term: "mansueffare", register: "letterario", context: "arcaico, quasi identico semanticamente ma di registro molto più elevato" }
+    { term: "mansueffare", register: "letterario", context: "arcaico, quasi identico semanticamente, ma di registro molto più elevato" }
   ],
 
   antonyms: [
@@ -55,7 +55,7 @@ export const ammansire: LemmaEntry = {
 
   examples: [
     "Il vecchio stalliere sapeva ammansire anche i puledri più nervosi, parlando a bassa voce.",
-    "Ha provato ad ammansire il cliente furioso con un caffè e molta pazienza, e alla fine ci è riuscito.",
+    "Ha provato ad ammansire il cliente furioso con un caffè e molta pazienza e alla fine ci è riuscito.",
     "Non serve alzare la voce per ammansire una sala agitata: a volte basta aspettare il silenzio.",
   ],
 
@@ -82,5 +82,5 @@ export const ammansire: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-12",
+  updatedAt: "2026-11-13",
 };

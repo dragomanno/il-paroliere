@@ -52,7 +52,7 @@ export const accoglienza: LemmaEntry = {
     {
       term: "protezione umanitaria",
       register: "tecnico-giuridico",
-      context: "forma specifica di accoglienza garantita a chi non soddisfa i requisiti del rifugiato ma si trova in situazione di vulnerabilità",
+      context: "forma specifica di accoglienza garantita a chi non soddisfa i requisiti del rifugiato, ma si trova in situazione di vulnerabilità",
     },
   ],
 
@@ -106,5 +106,5 @@ export const accoglienza: LemmaEntry = {
   },
 
   createdAt: "2026-06-08",
-  updatedAt: "2026-06-08",
+  updatedAt: "2026-11-13",
 };

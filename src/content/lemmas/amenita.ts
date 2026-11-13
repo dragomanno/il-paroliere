@@ -17,7 +17,7 @@ export const amenita: LemmaEntry = {
     "di essere goduto. Nel registro ironico — e nell'uso contemporaneo più diffuso — " +
     "il termine si ribalta completamente: le amenità che qualcuno pronuncia sono " +
     "affermazioni sciocche, commenti fuori luogo o banalità dette con aria di " +
-    "profondità. I due significati convivono, e il contesto è l'unico arbitro.",
+    "profondità. I due significati convivono e il contesto è l'unico arbitro.",
 
   shortDefinition:
     "Piacevolezza di un luogo o di una conversazione; al plurale, spesso ironico per " +
@@ -82,5 +82,5 @@ export const amenita: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-12",
+  updatedAt: "2026-11-13",
 };

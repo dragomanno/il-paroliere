@@ -64,9 +64,9 @@ export const bravata: LemmaEntry = {
 
   seo: {
     title: "bravata — il coraggio teatrale che richiede pubblico per esistere",
-    description: "Che cos’è la bravata: definizione psicologica e storica, differenza dal coraggio autentico, e perché certi sistemi sociali la producono.",
+    description: "Che cos’è la bravata: definizione psicologica e storica, differenza dal coraggio autentico e perché certi sistemi sociali la producono.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

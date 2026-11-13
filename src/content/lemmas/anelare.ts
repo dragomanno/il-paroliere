@@ -105,7 +105,7 @@ export const anelare: LemmaEntry = {
   },
 
   paroliereNote:
-    "Anelare è una parola che il parlato corrente ha quasi abbandonato ma che la " +
+    "Anelare è una parola che il parlato corrente ha quasi abbandonato, ma che la " +
     "lingua scritta di qualità non può permettersi di perdere, perché non ha un " +
     "sostituto esatto. Aspirare a è più piatto; desiderare intensamente è più lungo e " +
     "meno preciso; bramare ha una connotazione troppo carnale o possessiva; agognare ha " +
@@ -125,5 +125,5 @@ export const anelare: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

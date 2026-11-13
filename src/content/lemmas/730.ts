@@ -13,7 +13,7 @@ export const mod730: LemmaEntry = {
   definition:
     "Il modello 730 è la dichiarazione dei redditi semplificata destinata ai " +
     "lavoratori dipendenti e ai pensionati, che consente di dichiarare i propri " +
-    "redditi annuali, calcolare l'→ IRPEF dovuta, e ottenere eventuali rimborsi " +
+    "redditi annuali, calcolare l'→ IRPEF dovuta e ottenere eventuali rimborsi " +
     "direttamente in busta paga (o nella pensione) oppure versare le imposte a " +
     "saldo tramite trattenuta dallo stipendio. Si chiama 730 dal numero " +
     "identificativo del modello ministeriale, introdotto in Italia con la riforma " +
@@ -88,7 +88,7 @@ export const mod730: LemmaEntry = {
   paroliereNote:
     "Il 730 è probabilmente il documento fiscale più familiare agli italiani che " +
     "non hanno una partita IVA: arriva ogni anno, porta con sé un misto di speranza " +
-    "(rimborso?) e timore (debito?), e da qualche anno è diventato sorprendentemente " +
+    "(rimborso?) e timore (debito?) e da qualche anno è diventato sorprendentemente " +
     "gestibile grazie al precompilato. La sua logica di fondo è sana: chi ha un " +
     "sostituto d'imposta (il datore di lavoro o l'INPS) che già trattiene le tasse " +
     "alla fonte, non ha bisogno di pagare ulteriormente — ha solo bisogno di " +
@@ -106,5 +106,5 @@ export const mod730: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

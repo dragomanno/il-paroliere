@@ -23,7 +23,7 @@ export const cookieConsent: LemmaEntry = {
   relatedWords: ["cookie", "cookie policy", "GDPR", "cookieless"],
   sourceLinks: { treccani: "https://www.garanteprivacy.it/cookie" },
   paroliereNote:
-    "Il cookie consent ha rivoluzionato l'esperienza web europea: ogni sito ora accoglie l'utente con un banner prima ancora di mostrare i propri contenuti. Il GDPR richiede che il rifiuto sia altrettanto semplice dell'accettazione — ma i dark pattern abbondano, e il consenso «ottenuto» non è sempre consenso dato.",
+    "Il cookie consent ha rivoluzionato l'esperienza web europea: ogni sito ora accoglie l'utente con un banner prima ancora di mostrare i propri contenuti. Il GDPR richiede che il rifiuto sia altrettanto semplice dell'accettazione — ma i dark pattern abbondano e il consenso «ottenuto» non è sempre consenso dato.",
   editorialStatus: "reviewed",
   indexable: true,
   seo: {
@@ -31,5 +31,5 @@ export const cookieConsent: LemmaEntry = {
     description: "Definizione originale di 'cookie consent': il meccanismo di consenso ai cookie richiesto dalla normativa europea.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-12",
+  updatedAt: "2026-11-13",
 };

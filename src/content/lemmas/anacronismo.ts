@@ -23,7 +23,7 @@ export const anacronismo: LemmaEntry = {
     "personaggio medievale che ragiona con categorie psicologiche moderne. In " +
     "senso figurato, applicato a persone, idee o istituzioni, indica invece " +
     "ciò che è rimasto fuori dal proprio tempo — sopravvissuto a un'epoca che " +
-    "lo ha reso obsoleto, spesso con una sfumatura critica ma talvolta anche " +
+    "lo ha reso obsoleto, spesso con una sfumatura critica, ma talvolta anche " +
     "con una punta di rispetto per ciò che resiste al cambiamento.",
 
   shortDefinition:
@@ -118,5 +118,5 @@ export const anacronismo: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

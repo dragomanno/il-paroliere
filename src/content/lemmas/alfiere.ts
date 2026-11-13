@@ -46,7 +46,7 @@ export const alfiere: LemmaEntry = {
 
   examples: [
     "Gli alfieri della Contrada del Nicchio eseguirono il salto del fiocco in perfetta sincronia: la bandiera del primo passò sotto le gambe del secondo con una precisione da brivido.",
-    "Non chiamarli sbandieratori: a Siena sono alfieri, e la differenza non è solo semantica.",
+    "Non chiamarli sbandieratori: a Siena sono alfieri e la differenza non è solo semantica.",
     "La figura dell'otto è la prima che ogni alfiere impara da bambino nella scuola di Contrada: sembra semplice, ma richiede anni per essere fatta bene.",
   ],
 
@@ -110,5 +110,5 @@ export const alfiere: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

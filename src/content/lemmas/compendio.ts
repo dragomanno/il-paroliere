@@ -16,7 +16,7 @@ export const compendio: LemmaEntry = {
     "essenziali senza sacrificare la chiarezza alla brevità. Il compendio è forma " +
     "editoriale nobile — a metà tra il manuale e il saggio: non si limita a elencare, " +
     "ma gerarchizza, sceglie, struttura. Si distingue dal riassunto perché presuppone " +
-    "giudizio critico, e dalla sintesi perché privilegia la completezza sulla " +
+    "giudizio critico e dalla sintesi perché privilegia la completezza sulla " +
     "risoluzione dialettica.",
 
   shortDefinition:
@@ -78,5 +78,5 @@ export const compendio: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-05-30",
+  updatedAt: "2026-11-13",
 };

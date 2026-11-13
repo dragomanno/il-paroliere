@@ -14,7 +14,7 @@ export const comunita: LemmaEntry = {
   domains: ["sociologia", "psicologia", "politica", "cultura digitale"],
 
   definition:
-    "Insieme di persone unite da appartenenze, pratiche, interessi o responsabilità condivise, e dal riconoscersi reciprocamente come parte di un «noi». Può avere confini territoriali, culturali o di valori; non coincide con una semplice somma di individui, perché richiede legami, regole implicite e una qualche cura del comune. Per i gruppi che interagiscono online, il lessico contemporaneo usa quasi sempre → community, prestito con una connotazione digitale più precisa. Si oppone, per contrasto, a → isolamento.",
+    "Insieme di persone unite da appartenenze, pratiche, interessi o responsabilità condivise e dal riconoscersi reciprocamente come parte di un «noi». Può avere confini territoriali, culturali o di valori; non coincide con una semplice somma di individui, perché richiede legami, regole implicite e una qualche cura del comune. Per i gruppi che interagiscono online, il lessico contemporaneo usa quasi sempre → community, prestito con una connotazione digitale più precisa. Si oppone, per contrasto, a → isolamento.",
 
   shortDefinition:
     "Insieme di persone che si riconoscono in un «noi» e condividono legami, pratiche o responsabilità.",
@@ -57,5 +57,5 @@ export const comunita: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-08-24",
+  updatedAt: "2026-11-13",
 };

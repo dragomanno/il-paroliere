@@ -52,7 +52,7 @@ export const armonia: LemmaEntry = {
     "troppo vicina al kitsch. Ma l’armonia difficile — quella che include la dissonanza " +
     "e la risolve, che attraversa la tensione e la porta a compimento — è una conquista, " +
     "non una resa. Bach non è meno interessante di Schönberg: è interessante in modo " +
-    "diverso, e più difficile da comprendere in profondità.",
+    "diverso e più difficile da comprendere in profondità.",
 
   sourceLinks: {},
 
@@ -65,5 +65,5 @@ export const armonia: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

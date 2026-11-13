@@ -16,7 +16,7 @@ export const coartazione: LemmaEntry = {
     "senso morale — che impedisce il libero dispiegarsi. In medicina cardiologica, " +
     "indica il restringimento patologico dell'aorta (coartazione aortica). In senso " +
     "giuridico e filosofico, è la condizione di chi agisce sotto una pressione che " +
-    "limita o annulla la libertà di volontà, prossima a → coercizione ma con una " +
+    "limita o annulla la libertà di volontà, prossima a → coercizione, ma con una " +
     "sfumatura più interiore e psicologica.",
 
   shortDefinition:
@@ -112,5 +112,5 @@ export const coartazione: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

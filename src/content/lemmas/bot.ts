@@ -70,7 +70,7 @@ export const bot: LemmaEntry = {
     "connotazione. Prima era quasi sempre neutro — il bot di Googlebot, " +
     "il bot che invia notifiche. Poi è diventato sospetto — bot sui social, " +
     "bot che falsificano il traffico, bot che rubano contenuti. Oggi convivono " +
-    "entrambi i sensi, e il contesto decide quale leggere.",
+    "entrambi i sensi e il contesto decide quale leggere.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -83,5 +83,5 @@ export const bot: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

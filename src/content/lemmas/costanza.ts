@@ -15,7 +15,7 @@ export const costanza: LemmaEntry = {
   examples: [
     "Ha imparato il russo con una costanza invidiabile: mezz'ora al giorno, per quattro anni.",
     "Nel giardinaggio la costanza conta più del talento: le piante si accorgono di chi c'è ogni giorno.",
-    "Non serviva un gesto eroico, serviva costanza, e quella è mancata proprio quando era più necessaria.",
+    "Non serviva un gesto eroico, serviva costanza e quella è mancata proprio quando era più necessaria.",
   ],
   synonyms: [
     { term: "perseveranza", register: "comune", note: "più orientata al superamento degli ostacoli" },

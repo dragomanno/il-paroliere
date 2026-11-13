@@ -36,7 +36,7 @@ export const ambaradam: LemmaEntry = {
 
   synonyms: [
     { term: "caos", register: "comune", context: "più astratto e neutro, senza il colore popolare di ambaradam" },
-    { term: "baraonda", register: "colloquiale", context: "disordine rumoroso, tono simile ma più diffuso" },
+    { term: "baraonda", register: "colloquiale", context: "disordine rumoroso, tono simile, ma più diffuso" },
     { term: "trambusto", register: "comune", context: "confusione movimentata, con implicazione di agitazione fisica" },
     { term: "casino", register: "colloquiale", context: "il più diretto e informale, copre lo stesso campo semantico" }
   ],
@@ -85,5 +85,5 @@ export const ambaradam: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-12",
+  updatedAt: "2026-11-13",
 };

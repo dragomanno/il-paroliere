@@ -34,7 +34,7 @@ export const arroganza: LemmaEntry = {
 
   examples: [
     "L’arroganza in un leader produce obbedienza a breve termine e risentimento a lungo termine: la gente esegue, ma smette di avvertire quando qualcosa non va.",
-    "C’è una forma sottile di arroganza intellettuale che non è aggressiva ma è altrettanto corrosiva: quella di chi non finisce mai di ascoltare perché ha già deciso cosa rispondere.",
+    "C’è una forma sottile di arroganza intellettuale che non è aggressiva, ma è altrettanto corrosiva: quella di chi non finisce mai di ascoltare perché ha già deciso cosa rispondere.",
     "Distinguere la sicurezza dall’arroganza è possibile: la persona sicura non ha bisogno che gli altri siano meno di lei per sentirsi competente.",
     "In certi ambienti accademici, l’arroganza è un linguaggio: chi non lo parla viene percepito come privo di rigore, anche se il problema è solo il tono.",
   ],
@@ -65,9 +65,9 @@ export const arroganza: LemmaEntry = {
 
   seo: {
     title: "arroganza — la sicurezza che sminuisce gli altri, tra psicologia ed etica",
-    description: "Che cos’è l’arroganza: definizione psicologica, differenza da sicurezza e leadership, e perché i sistemi che la premiano perdono competenza.",
+    description: "Che cos’è l’arroganza: definizione psicologica, differenza da sicurezza e leadership e perché i sistemi che la premiano perdono competenza.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

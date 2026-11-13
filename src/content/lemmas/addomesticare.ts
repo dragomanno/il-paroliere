@@ -32,7 +32,7 @@ export const addomesticare: LemmaEntry = {
     "l'uomo e gli animali.",
 
   synonyms: [
-    { term: "ammansire", register: "comune", context: "riduce l'aggressività ma non necessariamente crea un legame duraturo" },
+    { term: "ammansire", register: "comune", context: "riduce l'aggressività, ma non necessariamente crea un legame duraturo" },
     { term: "domare", register: "comune", context: "enfatizza il controllo e la sottomissione — molto più direzionale" },
     { term: "familiarizzare", register: "comune", context: "rendere familiare, ma senza la dimensione della trasformazione reciproca" },
     { term: "avvezzare", register: "letterario", context: "abituare progressivamente a qualcosa di nuovo o diverso" }
@@ -87,5 +87,5 @@ export const addomesticare: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-12",
+  updatedAt: "2026-11-13",
 };

@@ -16,7 +16,7 @@ export const corporazioni: LemmaEntry = {
     "categoria professionale o artigianale in un sistema organizzato di regole, tutele e " +
     "controllo qualitativo. Non erano semplicemente sindacati ante litteram né camere di " +
     "commercio: erano istituzioni totali che regolavano l'accesso al mestiere, la formazione " +
-    "degli apprendisti, la qualità dei prodotti, i prezzi, il rapporto con i fornitori, e " +
+    "degli apprendisti, la qualità dei prodotti, i prezzi, il rapporto con i fornitori e " +
     "spesso anche la vita morale e religiosa dei loro membri. In epoca guelfa — soprattutto " +
     "nelle città-stato dell'Italia centro-settentrionale tra il XII e il XIV secolo — le " +
     "corporazioni furono uno degli strumenti attraverso cui la classe mercantile e artigianale " +
@@ -84,7 +84,7 @@ export const corporazioni: LemmaEntry = {
   paroliereNote:
     "Le corporazioni medievali sono spesso ridotte a una voce di libro di testo, ma meritano " +
     "più attenzione. Il loro sistema di formazione — apprendista, garzone, maestro — fu il " +
-    "modello educativo professionale dominante in Europa per secoli, e le sue tracce " +
+    "modello educativo professionale dominante in Europa per secoli e le sue tracce " +
     "sopravvivono ancora oggi negli ordini professionali e nei sistemi di apprendistato. " +
     "Vale la pena anche notare il paradosso: le corporazioni erano sistemi chiusi e rigidi, " +
     "con barriere all'ingresso molto alte — ma all'interno garantivano tutele che il mercato " +
@@ -101,5 +101,5 @@ export const corporazioni: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

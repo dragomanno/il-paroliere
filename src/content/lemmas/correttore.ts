@@ -17,13 +17,13 @@ export const correttore: LemmaEntry = {
     "guida spirituale e morale della comunità contradaiola. Non è una figura meramente liturgica: " +
     "il Correttore è presente nella vita della Contrada a tutto tondo, partecipa alle assemblee, " +
     "accompagna le cerimonie religiose legate al Palio (la Messa del fantino, le benedizioni, i " +
-    "riti religiosi nel giorno della corsa), e svolge una funzione concreta di mediazione umana " +
+    "riti religiosi nel giorno della corsa) e svolge una funzione concreta di mediazione umana " +
     "e sociale. Il termine correttore — scelto con precisione non casuale — richiama la funzione " +
     "pedagogica e di recupero: non solo correggere nel senso moralista del termine, ma nel senso " +
     "più profondo di riorientare, di rimettere sulla strada giusta anche chi si è perso. " +
     "Nella società senese storica, dove le Contrade erano (e in parte sono ancora) una rete " +
     "comunitaria fitta e totalizzante, il Correttore aveva un ruolo di riferimento non solo per " +
-    "i contradaioli praticanti ma anche per le persone «difficili», quelle ai margini, quelle " +
+    "i contradaioli praticanti, ma anche per le persone «difficili», quelle ai margini, quelle " +
     "che la Contrada abbracciava attraverso la sua funzione sociale.",
 
   shortDefinition:
@@ -92,5 +92,5 @@ export const correttore: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

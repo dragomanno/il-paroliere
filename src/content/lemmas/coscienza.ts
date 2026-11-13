@@ -17,7 +17,7 @@ export const coscienza: LemmaEntry = {
     "Consapevolezza che una persona ha di sé stessa e del mondo che la circonda: sensazioni, pensieri, emozioni, azioni, e del fatto di esserne il soggetto. In psicologia la coscienza è la qualità degli stati mentali che sono “in primo piano” e accessibili al linguaggio e alla riflessione; in filosofia diventa il nome dell'esperienza soggettiva di esistere, capace di rivolgersi su di sé e di chiedersi chi è e cosa sta facendo; nel linguaggio morale indica anche la voce interiore che giudica le proprie azioni come giuste o sbagliate. Nel parlato, dire che qualcuno “perde conoscenza” o “non ha coscienza di quello che fa” intreccia livello neurologico, consapevolezza e responsabilità.",
 
   shortDefinition:
-    "Consapevolezza di sé e dell'ambiente, e per estensione voce interiore che valuta le proprie azioni alla luce di valori e responsabilità.",
+    "Consapevolezza di sé e dell'ambiente e, per estensione, voce interiore che valuta le proprie azioni alla luce di valori e responsabilità.",
 
   etymology:
     "Dal latino conscientia, “consapevolezza, complicità, coscienza morale”, formato da cum “con” e scientia “sapere”, a indicare un “sapere con sé stessi” o “sapere insieme ad altri”. Nella tradizione filosofica e psicologica moderna il termine si specializza per designare sia l'esperienza soggettiva immediata, sia il senso morale delle proprie azioni.",
@@ -61,7 +61,7 @@ export const coscienza: LemmaEntry = {
   sourceLinks: {},
 
   paroliereNote:
-    "La coscienza è una di quelle parole in cui si incontrano tre registri diversi: neurologico (essere svegli o no), fenomenologico (sentire in prima persona) e morale (sapere se si sta facendo il bene o il male). Nel dibattito pubblico, spesso li mescoliamo senza accorgercene: dire che qualcuno “non ha coscienza” può voler dire che non è lucido o che non si assume le proprie responsabilità. Il lemma suggerisce di tenere insieme queste dimensioni senza confonderle: c'è una coscienza che si accende e si spegne, una che accompagna silenziosamente ogni gesto, e una che ci interroga su chi stiamo diventando mentre agiamo.",
+    "La coscienza è una di quelle parole in cui si incontrano tre registri diversi: neurologico (essere svegli o no), fenomenologico (sentire in prima persona) e morale (sapere se si sta facendo il bene o il male). Nel dibattito pubblico, spesso li mescoliamo senza accorgercene: dire che qualcuno “non ha coscienza” può voler dire che non è lucido o che non si assume le proprie responsabilità. Il lemma suggerisce di tenere insieme queste dimensioni senza confonderle: c'è una coscienza che si accende e si spegne, una che accompagna silenziosamente ogni gesto e una che ci interroga su chi stiamo diventando mentre agiamo.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -73,5 +73,5 @@ export const coscienza: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

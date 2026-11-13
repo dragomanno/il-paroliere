@@ -20,7 +20,7 @@ export const amnesia: LemmaEntry = {
     "Perdita parziale o totale della memoria per certi eventi o periodi, dovuta a cause neurologiche, traumatiche o psicologiche.",
 
   etymology:
-    "Dal greco amnēsía, “dimenticanza, perdita di memoria”, composto da a- privativo e mnḗmē “memoria, ricordo”, della stessa famiglia di mnēmoneúein “ricordare”. Entrato nelle lingue scientifiche europee attraverso il lessico medico ottocentesco, in italiano ha mantenuto il valore tecnico ma ha guadagnato nel parlato un uso iperbolico e metaforico.",
+    "Dal greco amnēsía, “dimenticanza, perdita di memoria”, composto da a- privativo e mnḗmē “memoria, ricordo”, della stessa famiglia di mnēmoneúein “ricordare”. Entrato nelle lingue scientifiche europee attraverso il lessico medico ottocentesco, in italiano ha mantenuto il valore tecnico, ma ha guadagnato nel parlato un uso iperbolico e metaforico.",
 
   examples: [
     "Dopo il trauma cranico, il paziente presenta un'amnesia anterograda: ricorda il passato, ma non riesce a fissare i fatti del giorno prima.",
@@ -73,5 +73,5 @@ export const amnesia: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

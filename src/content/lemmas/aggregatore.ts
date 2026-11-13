@@ -110,7 +110,7 @@ export const aggregatore: LemmaEntry = {
     "non contenuti da redistribuire. Questa distinzione non è solo legale: " +
     "è la differenza tra un indice e un dizionario, tra una lista e un testo. " +
     "Il valore editoriale nasce nel momento in cui l'aggregazione diventa selezione, " +
-    "la selezione diventa commento, e il commento diventa voce propria.",
+    "la selezione diventa commento e il commento diventa voce propria.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -123,5 +123,5 @@ export const aggregatore: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

@@ -31,7 +31,7 @@ export const contrasteEstetico: LemmaEntry = {
   examples: [
     "Il contrasto estetico in tipografia non è solo tra font diversi: è tra dimensioni, pesi, spazi — una gerarchia visiva che dice al lettore dove guardare prima.",
     "Beethoven costruisce il contrasto estetico nelle sue sonate attraverso il tempo: un movimento lento e pesante seguito da uno veloce e leggero è un contrasto che si sente nel corpo prima che nell’intelletto.",
-    "In fotografia in bianco e nero, il contrasto estetico tra aree chiare e scure si misura con l’istogramma ma si valuta con l’occhio: la tecnica serve la visione, non la sostituisce.",
+    "In fotografia in bianco e nero, il contrasto estetico tra aree chiare e scure si misura con l’istogramma, ma si valuta con l’occhio: la tecnica serve la visione, non la sostituisce.",
     "Un testo senza contrasto — tutto allo stesso ritmo, alla stessa intensità, con la stessa lunghezza di frase — produce un effetto ipnotico involontario: il lettore smette di leggere prima di accorgersene.",
   ],
 
@@ -65,5 +65,5 @@ export const contrasteEstetico: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

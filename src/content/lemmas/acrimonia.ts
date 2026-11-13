@@ -12,7 +12,7 @@ export const acrimonia: LemmaEntry = {
   gender: "femminile",
 
   definition:
-    "Asprezza nel tono o nelle parole che non nasce dall'impulso del momento " +
+    "Asprezza nel tono o nelle parole che non nasce dall'impulso del momento, " +
     "ma da qualcosa di più sedimentato — un risentimento che affiora lentamente, " +
     "corrosivo e persistente. A differenza dell'ira, che si consuma nello scoppio, " +
     "l'acrimonia resta: si insinua nel modo di parlare, nel timbro con cui si " +
@@ -91,5 +91,5 @@ export const acrimonia: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };
