@@ -22,7 +22,7 @@ export const sbalzo: LemmaEntry = {
   relatedWords: ["cesellatura", "oreficeria", "architettura", "modanatura"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/sbalzo" },
   paroliereNote:
-    "Lo sbalzo è uno dei pochi termini tecnici condivisi tra metallurgia e architettura con la stessa logica di fondo: qualcosa che sporge, che si proietta, che occupa lo spazio oltre il suo limite naturale. La tecnica a sbalzo è anche la più usata nella tradizione orafa etrusca — un filo diretto con la Toscana più antica.",
+    "Lo sbalzo è uno dei pochi termini tecnici condivisi tra metallurgia e architettura con la stessa logica di fondo: qualcosa che sporge, che si proietta, che occupa lo spazio oltre il suo limite naturale. Anche gli orafi etruschi lavoravano a sbalzo le sottili lamine d'oro, come le brattee da cucire su vesti e cinture, accanto alla granulazione e alla filigrana, che restano le tecniche più celebri della loro oreficeria: un filo diretto con la Toscana più antica.",
   editorialStatus: "reviewed",
   indexable: true,
   seo: {
