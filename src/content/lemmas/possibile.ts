@@ -21,7 +21,7 @@ export const possibile: LemmaEntry = {
     "che non può non essere) e al contingente (ciò che è, ma avrebbe potuto non " +
     "essere). In logica argomentativa, affermare che qualcosa è \"possibile\" è " +
     "l'affermazione epistemica più debole: non impegna chi la fa a fornire " +
-    "evidenze, e non può essere facilmente confutata.",
+    "evidenze e non può essere facilmente confutata.",
 
   shortDefinition:
     "Che non contraddice la logica o la realtà; il grado più basso della triade epistemica, che richiede solo assenza di impossibilità.",
@@ -36,7 +36,7 @@ export const possibile: LemmaEntry = {
 
   examples: [
     "È possibile che l'universo contenga altre forme di vita intelligente: non lo esclude nulla di ciò che sappiamo.",
-    'È possibile — quando lo dice un politico, di solito significa "non voglio impegnarmi ma non posso dire di no".',
+    'È possibile — quando lo dice un politico, di solito significa "non voglio impegnarmi, ma non posso dire di no".',
     "Tecnicamente è possibile scalare quella parete senza attrezzatura: non è detto che sia ragionevole farlo.",
     "Il possibile e il plausibile non sono la stessa cosa: molte cose sono possibili senza essere plausibili.",
   ],
@@ -107,5 +107,5 @@ export const possibile: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

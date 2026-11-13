@@ -18,7 +18,7 @@ export const ovvieta: LemmaEntry = {
     "conosce già — e lo sa. L'ovvietà non è necessariamente falsa: il problema non è la " +
     "verità del contenuto, ma la sua banalità, la mancanza di valore informativo in quel " +
     "contesto. Nel discorso pubblico e nel giornalismo, l'ovvietà è una delle forme più " +
-    "diffuse di riempimento: frasi che suonano dette ma non trasmettono nulla. «Bisogna " +
+    "diffuse di riempimento: frasi che suonano dette, ma non trasmettono nulla. «Bisogna " +
     "fare di più», «la situazione è complessa», «occorre lavorare insieme» sono ovvietà " +
     "strutturali — non false, solo vuote.",
 
@@ -102,10 +102,10 @@ export const ovvieta: LemmaEntry = {
   },
 
   paroliereNote:
-    "Ovvietà e banalità si somigliano ma non sono sinonimi perfetti. La banalità è " +
+    "Ovvietà e banalità si somigliano, ma non sono sinonimi perfetti. La banalità è " +
     "piatta per mancanza di qualità; l'ovvietà è superflua per eccesso di notorietà. " +
     "Un'osservazione banale potrebbe anche essere sbagliata; un'ovvietà è quasi sempre " +
-    "vera — è solo già nota. La distinzione è sottile ma vale: chi dice un'ovvietà non " +
+    "vera — è solo già nota. La distinzione è sottile, ma vale: chi dice un'ovvietà non " +
     "sta necessariamente pensando male, sta solo sprecando le parole (e il tempo di chi " +
     "ascolta).",
 
@@ -120,5 +120,5 @@ export const ovvieta: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

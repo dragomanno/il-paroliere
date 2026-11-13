@@ -49,7 +49,7 @@ export const ricaduta: LemmaEntry = {
     "Ricaduta è più colloquiale e meno tecnica di recidiva, che in medicina indica " +
     "una ricomparsa della stessa malattia, e di relapso (anglismo clinico in uso in oncologia). " +
     "Nel campo delle dipendenze, il modello di Marlatt e Gordon (1985) ha ridefinito la " +
-    "ricaduta non come fallimento morale ma come fase del processo di cambiamento, " +
+    "ricaduta non come fallimento morale, ma come fase del processo di cambiamento, " +
     "influenzando l'approccio terapeutico contemporaneo.",
   editorialStatus: "reviewed",
   indexable: true,
@@ -60,5 +60,5 @@ export const ricaduta: LemmaEntry = {
       "miglioramento. Etimologia, sinonimi, esempi.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

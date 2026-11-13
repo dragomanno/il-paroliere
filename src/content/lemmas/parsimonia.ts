@@ -56,7 +56,7 @@ export const parsimonia: LemmaEntry = {
   ],
 
   examples: [
-    "Scriveva con parsimonia: tre righe, e ogni parola reggeva il peso di un paragrafo.",
+    "Scriveva con parsimonia: tre righe e ogni parola reggeva il peso di un paragrafo.",
     "Una casa arredata con parsimonia non è vuota: lascia spazio a ciò che conta.",
     "Tra due modelli che spiegano gli stessi dati, il criterio di parsimonia premia quello con meno variabili.",
   ],
@@ -84,5 +84,5 @@ export const parsimonia: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-12",
+  updatedAt: "2026-11-13",
 };

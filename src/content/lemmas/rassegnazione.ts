@@ -25,7 +25,7 @@ export const rassegnazione: LemmaEntry = {
   examples: [
     "Con rassegnazione ha richiuso la valigia: il treno era cancellato e non c'erano alternative per quella sera.",
     "La sua rassegnazione non era serenità; era la stanchezza di aver spiegato troppe volte la stessa cosa.",
-    "In ufficio nessuno protestava più, e quella rassegnazione collettiva era più eloquente delle lamentele di prima.",
+    "In ufficio nessuno protestava più e quella rassegnazione collettiva era più eloquente delle lamentele di prima.",
   ],
 
   synonyms: [
@@ -87,5 +87,5 @@ export const rassegnazione: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-08-24",
+  updatedAt: "2026-11-13",
 };

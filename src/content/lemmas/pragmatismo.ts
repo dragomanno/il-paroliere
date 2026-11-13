@@ -16,11 +16,11 @@ export const pragmatismo: LemmaEntry = {
     "metà dell'Ottocento — con Charles Sanders Peirce, William James e John Dewey — " +
     "secondo cui il valore di un'idea si misura dalle sue conseguenze pratiche e dalla " +
     "sua capacità di produrre risultati verificabili nell'esperienza. La verità, per " +
-    "il pragmatismo, non è una proprietà assoluta delle proposizioni ma una qualità " +
+    "il pragmatismo, non è una proprietà assoluta delle proposizioni, ma una qualità " +
     "che esse acquistano nel processo stesso del fare. " +
     "Nel senso corrente, indica un atteggiamento orientato ai fatti concreti e ai " +
     "risultati misurabili, con poca attenzione per le questioni di principio, le " +
-    "posizioni ideologiche o le soluzioni teoricamente eleganti ma inapplicabili.",
+    "posizioni ideologiche o le soluzioni teoricamente eleganti, ma inapplicabili.",
 
   shortDefinition:
     "Orientamento filosofico o pratico che misura il valore delle idee dai loro effetti reali.",
@@ -50,7 +50,7 @@ export const pragmatismo: LemmaEntry = {
       term: "empirismo",
       register: "filosofico",
       context:
-        "affine ma distinto: l'empirismo privilegia l'osservazione, " +
+        "affine, ma distinto: l'empirismo privilegia l'osservazione, " +
         "il pragmatismo privilegia le conseguenze pratiche",
     },
     {
@@ -81,7 +81,7 @@ export const pragmatismo: LemmaEntry = {
     {
       term: "utopismo",
       register: "comune",
-      context: "preferenza per soluzioni teoricamente perfette ma irrealizzabili",
+      context: "preferenza per soluzioni teoricamente perfette, ma irrealizzabili",
     },
   ],
 
@@ -125,5 +125,5 @@ export const pragmatismo: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

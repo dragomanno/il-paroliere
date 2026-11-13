@@ -24,7 +24,7 @@ export const prostrato: LemmaEntry = {
   examples: [
     "Dopo una notte senza sonno arrivò alla riunione prostrato, ma volle comunque ascoltare tutti.",
     "La lunga siccità aveva lasciato il paese prostrato e prudente davanti a ogni previsione ottimistica.",
-    "Non era rassegnato: era prostrato, e gli serviva tempo prima ancora che una soluzione.",
+    "Non era rassegnato: era prostrato e gli serviva tempo prima ancora che una soluzione.",
   ],
 
   synonyms: [
@@ -55,5 +55,5 @@ export const prostrato: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-08-24",
+  updatedAt: "2026-11-13",
 };

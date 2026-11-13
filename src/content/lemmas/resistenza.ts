@@ -36,7 +36,7 @@ export const resistenza: LemmaEntry = {
     "La resistenza dei materiali compositi è molto superiore a quella dell'acciaio tradizionale.",
     "Il circuito non funzionava: la resistenza era bruciata.",
     "Una resistenza di 100 ohm limita il passaggio di corrente in modo significativo.",
-    "Quella donna oppose una resistenza silenziosa ma ostinata a ogni tentativo di piegarla.",
+    "Quella donna oppose una resistenza silenziosa, ma ostinata a ogni tentativo di piegarla.",
     "I partigiani della Resistenza pagarono un prezzo altissimo in vite umane.",
   ],
 
@@ -135,5 +135,5 @@ export const resistenza: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

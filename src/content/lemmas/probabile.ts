@@ -109,7 +109,7 @@ export const probabile: LemmaEntry = {
     "numero alla base. Il rischio è che la precisione della statistica presti " +
     "autorevolezza alla vaghezza del linguaggio quotidiano. Ricordare la triade " +
     "— → possibile, → plausibile, probabile — aiuta a capire che questi tre " +
-    "aggettivi non sono sinonimi sfumati ma strumenti epistemici con funzioni diverse.",
+    "aggettivi non sono sinonimi sfumati, ma strumenti epistemici con funzioni diverse.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -121,5 +121,5 @@ export const probabile: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

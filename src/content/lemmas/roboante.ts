@@ -14,7 +14,7 @@ export const roboante: LemmaEntry = {
   definition:
     "Di suono, discorso o stile: che risuona con forza eccessiva, più attento alla " +
     "propria risonanza che al contenuto che veicola. Un'orazione roboante colpisce " +
-    "l'orecchio ma lascia poco alla mente; un titolo roboante promette più di quanto " +
+    "l'orecchio, ma lascia poco alla mente; un titolo roboante promette più di quanto " +
     "il testo possa mantenere. Il termine porta quasi sempre una sfumatura critica: " +
     "segnala una sproporzione tra forma e sostanza, tra volume e significato.",
 

@@ -67,7 +67,7 @@ export const olioDoliva: LemmaEntry = {
 
   paroliereNote:
     "L'olio extravergine d'oliva italiano è uno dei prodotti più contraffatti al mondo: " +
-    "l'etichetta «Made in Italy» vale molto sul mercato internazionale, e questo genera una " +
+    "l'etichetta «Made in Italy» vale molto sul mercato internazionale e questo genera una " +
     "pressione enorme sulla qualità effettiva di ciò che si trova in bottiglia. Saper leggere " +
     "un'etichetta — certificazioni, acidità, data di spremitura, cultivar — è una competenza " +
     "che vale la pena acquisire. La DOP garantisce origine e processo; non garantisce " +
@@ -85,5 +85,5 @@ export const olioDoliva: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

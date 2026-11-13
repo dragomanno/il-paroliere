@@ -73,7 +73,7 @@ export const ponderare: LemmaEntry = {
   seo: {
     title: "Ponderare — Il Paroliere",
     description:
-      "Definizione originale di 'ponderare': riflettere con profondità prima di agire, non rimandare ma pensare. Con sinonimi ed etimologia.",
+      "Definizione originale di 'ponderare': riflettere con profondità prima di agire, non rimandare, ma pensare. Con sinonimi ed etimologia.",
   },
 
   createdAt: "2026-05-19",

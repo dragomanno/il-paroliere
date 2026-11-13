@@ -18,7 +18,7 @@ export const resilienza: LemmaEntry = {
     "resistere agli urti senza rompersi. In psicologia e nelle scienze sociali è " +
     "diventata la parola-chiave per descrivere la capacità di attraversare le " +
     "difficoltà senza esserne distrutti — con la consapevolezza che il punto di " +
-    "arrivo può essere diverso, e a volte più solido, del punto di partenza.",
+    "arrivo può essere diverso dal punto di partenza e a volte più solido.",
 
   shortDefinition:
     "Capacità di reagire alle avversità e ritrovare equilibrio senza perdere sé stessi.",
@@ -121,5 +121,5 @@ export const resilienza: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

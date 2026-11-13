@@ -43,7 +43,7 @@ export const podesta: LemmaEntry = {
   examples: [
     "Il podestà medievale di Firenze era scelto fuori dalla città per evitare che si alleasse con una delle fazioni in conflitto.",
     "Con la legge del 1926, Mussolini abolì i sindaci eletti e li sostituì con i podestà: fine del governo locale democratico in Italia.",
-    "Il podestà fascista di Siena era responsabile non solo dell'amministrazione comunale ma anche dell'organizzazione del Palio, che il regime usò come strumento di propaganda nazionalista.",
+    "Il podestà fascista di Siena era responsabile non solo dell'amministrazione comunale, ma anche dell'organizzazione del Palio, che il regime usò come strumento di propaganda nazionalista.",
   ],
 
   synonyms: [
@@ -84,7 +84,7 @@ export const podesta: LemmaEntry = {
     "Il recupero del termine podestà da parte del fascismo è un caso da manuale di come il " +
     "potere usi il linguaggio storico per legittimarsi. Chiamare «podestà» il capo del comune " +
     "nominato dal regime evocava secoli di storia italiana, dava una patina di tradizione a " +
-    "un'istituzione antidemocratica, e nascondeva la rottura con il governo locale elettivo " +
+    "un'istituzione antidemocratica e nascondeva la rottura con il governo locale elettivo " +
     "sotto la continuità del nome. È un meccanismo di cui vale la pena essere consapevoli, " +
     "perché si ripete: ogni regime che vuole legittimità cerca le sue radici nella storia.",
 
@@ -99,5 +99,5 @@ export const podesta: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

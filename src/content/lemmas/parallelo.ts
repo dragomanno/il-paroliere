@@ -57,7 +57,7 @@ export const parallelo: LemmaEntry = {
   },
 
   paroliereNote:
-    "Parallelo e → meridiano sono quasi sempre insegnati insieme, e quasi sempre " +
+    "Parallelo e → meridiano sono quasi sempre insegnati insieme e quasi sempre " +
     "confusi. La regola visiva più efficace: i paralleli sono le righe orizzontali " +
     "della griglia geografica (come i gradini di una scala), i meridiani sono le " +
     "colonne verticali (come i raggi di una mezza arancia). La confusione è " +
@@ -76,5 +76,5 @@ export const parallelo: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

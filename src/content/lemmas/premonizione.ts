@@ -23,7 +23,7 @@ export const premonizione: LemmaEntry = {
     "Dal latino tardo praemonitio, -onis, “avvertimento anticipato, ammonimento”, derivato di praemonēre “avvertire prima”, composto da prae- “prima” e monēre “avvisare, richiamare”. In italiano il termine ha progressivamente accentuato la dimensione soggettiva e visionaria, avvicinandosi al campo dei presentimenti e delle profezie personali.",
 
   examples: [
-    "Quella notte ebbe la premonizione di un crollo, e la mattina dopo trovò davvero la parete lesionata.",
+    "Quella notte ebbe la premonizione di un crollo e la mattina dopo trovò davvero la parete lesionata.",
     "Molte persone raccontano di aver avuto una premonizione prima di un incidente, però ricordano il sogno solo dopo che l'evento è successo.",
     "In terapia, la premonizione di una rottura può essere letta come la parte di noi che registra segnali deboli prima della coscienza.",
     "La nonna prendeva sul serio ogni premonizione, come se il mondo parlasse attraverso dettagli che gli altri non vedevano.",
@@ -78,5 +78,5 @@ export const premonizione: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

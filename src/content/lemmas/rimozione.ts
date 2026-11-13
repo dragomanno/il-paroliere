@@ -17,7 +17,7 @@ export const rimozione: LemmaEntry = {
     "Nel linguaggio psicoanalitico, operazione mentale per cui desideri, ricordi o rappresentazioni giudicati inaccettabili vengono tenuti fuori dalla coscienza, pur continuando a esercitare effetti indiretti su emozioni e comportamenti. In senso più ampio, la rimozione indica il gesto, individuale o collettivo, di allontanare dalla vista e dal discorso qualcosa di scomodo — un fatto, una colpa, una ferita — come se, non nominandolo più, smettesse di esistere. Nel diritto, il termine conserva un uso tecnico diverso, legato alla rimozione di ostacoli, cariche o beni, ma nel parlato contemporaneo prevale spesso il colore psicologico e simbolico.",
 
   shortDefinition:
-    "Operazione con cui la mente tiene lontani dalla coscienza contenuti dolorosi o inaccettabili, e per estensione gesto di togliere dalla vista ciò che non si vuole affrontare.",
+    "Operazione con cui la mente tiene lontani dalla coscienza contenuti dolorosi o inaccettabili e, per estensione, gesto di togliere dalla vista ciò che non si vuole affrontare.",
 
   etymology:
     "Dal latino remotio, -onis, “allontanamento, spostamento”, derivato di removēre “rimuovere, portare via”, da re- “indietro, via” e movēre “muovere”. Il passaggio al significato psichico avviene con la tradizione psicoanalitica novecentesca, che interpreta l'allontanamento non più solo come fisico, ma come spostamento dal campo della coscienza.",
@@ -73,5 +73,5 @@ export const rimozione: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

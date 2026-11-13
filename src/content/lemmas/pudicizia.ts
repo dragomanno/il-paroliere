@@ -15,7 +15,7 @@ export const pudicizia: LemmaEntry = {
 
   definition:
     "Qualità di chi mantiene un contegno casto e misurato nel corpo, nel gesto e " +
-    "nella parola, non per inibizione ma per un senso interiorizzato di decoro e " +
+    "nella parola, non per inibizione, ma per un senso interiorizzato di decoro e " +
     "rispetto di sé. Nella tradizione latina e cristiana, la pudicizia era annoverata " +
     "tra le virtù sociali femminili per eccellenza — il che ne ha reso l’uso " +
     "storicamente carico di valenze di genere che il lessico contemporaneo ha in parte " +
@@ -57,7 +57,7 @@ export const pudicizia: LemmaEntry = {
     "valenza neutrale e si porta addosso il peso di quella storia. Eppure c’è " +
     "qualcosa nel nucleo semantico che non coincide con la repressione: il senso che " +
     "non tutto ciò che è intimo deve essere pubblico, che il corpo ha una sua riserva " +
-    "che non è vergogna ma cura di sé. Recuperare quel nucleo richiede di separarlo " +
+    "che non è vergogna, ma cura di sé. Recuperare quel nucleo richiede di separarlo " +
     "dalla storia di oppressione che lo ha usato come strumento.",
 
   editorialStatus: "reviewed",
@@ -69,5 +69,5 @@ export const pudicizia: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

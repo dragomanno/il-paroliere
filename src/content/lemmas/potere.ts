@@ -26,7 +26,7 @@ export const potere: LemmaEntry = {
     "Il sostantivo si attesta in italiano medievale con il significato di 'facoltà, autorità'.",
   examples: [
     "Weber distingue tre forme di legittimazione del potere: il carisma personale, la tradizione e la razionalità legale-burocratica.",
-    "Foucault mostra come il potere non sia solo repressione dall'alto ma anche produzione di saperi, norme e soggettività.",
+    "Foucault mostra come il potere non sia solo repressione dall'alto, ma anche produzione di saperi, norme e soggettività.",
     "La Costituzione italiana distribuisce il potere tra organi diversi per evitare la sua concentrazione in una sola mano.",
   ],
   synonyms: [
@@ -58,5 +58,5 @@ export const potere: LemmaEntry = {
     description: "Potere: capacità di influenzare il comportamento altrui. Weber, Arendt, Foucault: dominio, risorsa, relazione. Diritto e politica.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

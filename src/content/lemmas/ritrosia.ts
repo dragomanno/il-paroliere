@@ -16,8 +16,8 @@ export const ritrosia: LemmaEntry = {
   definition:
     "Tendenza a trattenersi, a non esporsi, a resistere all’impulso di partecipare " +
     "o di rivelare — per riserbo, per timidezza, per un senso di distanza che non è " +
-    "freddezza ma cautela. La ritrosia non è rifiuto: è il passo indietro di chi " +
-    "preferisce osservare prima di avvicinarsi, e che dà il meglio di sé quando si è " +
+    "freddezza, ma cautela. La ritrosia non è rifiuto: è il passo indietro di chi " +
+    "preferisce osservare prima di avvicinarsi e che dà il meglio di sé quando si è " +
     "guadagnato la propria fiducia nel contesto. Nella tradizione letteraria italiana, " +
     "ha connotazioni spesso positive: la ritrosa non è fredda né arrogante, è " +
     "semplicemente chi non si lascia prendere facilmente.",
@@ -32,7 +32,7 @@ export const ritrosia: LemmaEntry = {
     "definitivamente, ma per non avanzare prima del momento giusto.",
 
   examples: [
-    "La sua ritrosia a parlare in pubblico non era paura: era il segno che prendeva sul serio le parole, e non voleva sprecarle.",
+    "La sua ritrosia a parlare in pubblico non era paura: era il segno che prendeva sul serio le parole e non voleva sprecarle.",
     "In letteratura, la ritrosa è spesso la figura che resiste al corteggiamento non per mancanza di interesse, ma perché conosce il valore di ciò che non si dà facilmente.",
     "Scambiare la ritrosia per arroganza è un errore comune: chi non risponde a ogni stimolo con entusiasmo non è necessariamente snob.",
     "Una certa ritrosia nei confronti delle novità non è conservatorismo: è il rifiuto ragionevole di farsi trascinare da mode prima di averne valutato il senso.",
@@ -64,9 +64,9 @@ export const ritrosia: LemmaEntry = {
 
   seo: {
     title: "ritrosia — il passo indietro come virtù, tra riserbo e cautela",
-    description: "Che cos’è la ritrosia: definizione psicologica e letteraria, differenza da timidezza e arroganza, e il suo significato nell’epoca dell’esposizione permanente.",
+    description: "Che cos’è la ritrosia: definizione psicologica e letteraria, differenza da timidezza e arroganza e il suo significato nell’epoca dell’esposizione permanente.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

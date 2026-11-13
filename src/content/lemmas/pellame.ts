@@ -15,7 +15,7 @@ export const pellame: LemmaEntry = {
   examples: [
     "Il distretto di Santa Croce sull'Arno lavora pellame per le grandi firme della moda.",
     "Il pellame arriva in conceria ancora grezzo e ne esce pronto per borse e scarpe.",
-    "Al mercato il prezzo del pellame è salito, e i piccoli artigiani ne risentono per primi.",
+    "Al mercato il prezzo del pellame è salito e i piccoli artigiani ne risentono per primi.",
   ],
   synonyms: [],
   antonyms: [],

@@ -49,7 +49,7 @@ export const plausibile: LemmaEntry = {
     {
       term: "verosimile",
       register: "comune",
-      context: "simile ma con sfumatura narrativa",
+      context: "simile, ma con sfumatura narrativa",
     },
     {
       term: "credibile",
@@ -124,5 +124,5 @@ export const plausibile: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

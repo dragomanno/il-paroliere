@@ -18,7 +18,7 @@ export const reminiscenza: LemmaEntry = {
     "portando con sé un senso di familiarità non completamente spiegabile. Ha una qualità " +
     "quasi sensoriale — si sente più che si pensa. In filosofia, il termine ha una radice " +
     "precisa e fondamentale: per Platone, la reminiscenza è la traduzione del greco " +
-    "anamnesi (ἀνάμνησις), e costituisce il cuore di una delle teorie più audaci della " +
+    "anamnesi (ἀνάμνησις) e costituisce il cuore di una delle teorie più audaci della " +
     "filosofia occidentale. Nel dialogo Menone, Socrate dimostra — attraverso una celebre " +
     "sequenza di domande a uno schiavo analfabeta — che è possibile «estrarre» le verità " +
     "della geometria da una mente che non le ha mai studiate. La conclusione socratica è " +
@@ -110,11 +110,11 @@ export const reminiscenza: LemmaEntry = {
 
   paroliereNote:
     "Reminiscenza è una parola che porta due vite parallele: quella quotidiana del " +
-    "ricordo vago e involontario, e quella filosofica della grande teoria platonica. " +
+    "ricordo vago e involontario e quella filosofica della grande teoria platonica. " +
     "Le due vite si toccano nell'esperienza comune: quando un profumo ci riporta di " +
     "colpo a un'estate di trent'anni fa, stiamo vivendo qualcosa di strutturalmente " +
     "simile a ciò che Platone descriveva come anamnesi — la conoscenza che emerge non " +
-    "dall'esterno ma dall'interno, non per apprendimento ma per ri-memorazione. Proust " +
+    "dall'esterno, ma dall'interno, non per apprendimento, ma per ri-memorazione. Proust " +
     "ne ha fatto l'architettura di un romanzo intero; la psicologia cognitiva moderna " +
     "ne ha trovato una spiegazione neuroscientifica. Tre secoli di pensiero si ritrovano " +
     "nella stessa struttura di base che Platone aveva già descritto nel Menone con quella " +
@@ -131,5 +131,5 @@ export const reminiscenza: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

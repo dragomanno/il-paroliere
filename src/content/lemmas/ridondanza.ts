@@ -36,7 +36,7 @@ export const ridondanza: LemmaEntry = {
 
   antonyms: [
     { term: "concisione", register: "comune", note: "Nel senso stilistico, l'opposto: dire il necessario con il minor numero di parole possibile." },
-    { term: "codice minimo", register: "tecnico", note: "Nel senso informatico, un sistema di codifica privo di margine ridondante — più efficiente ma più fragile agli errori." },
+    { term: "codice minimo", register: "tecnico", note: "Nel senso informatico, un sistema di codifica privo di margine ridondante — più efficiente, ma più fragile agli errori." },
   ],
 
   relatedWords: ["perifrasi", "neologismo", "burocratese"],
@@ -59,5 +59,5 @@ export const ridondanza: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

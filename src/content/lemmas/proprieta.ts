@@ -15,7 +15,7 @@ export const proprieta: LemmaEntry = {
     "entro i limiti e con gli obblighi stabiliti dall'ordinamento. " +
     "L'art. 832 del codice civile italiano definisce il proprietario come colui che ha diritto di godere " +
     "e disporre delle cose in modo pieno ed esclusivo. L'art. 42 della Costituzione italiana precisa che " +
-    "la proprietà è pubblica o privata, e che quella privata è riconosciuta e garantita dalla legge, " +
+    "la proprietà è pubblica o privata e che quella privata è riconosciuta e garantita dalla legge, " +
     "ma può essere limitata per ragioni sociali o espropriata per pubblica utilità con indennizzo. " +
     "In filosofia politica, la proprietà è al centro di dibattiti fondamentali: Locke la fonda sul lavoro " +
     "(chi lavora la terra ne acquista il diritto); Marx la critica come fonte di alienazione e sfruttamento; " +
@@ -28,7 +28,7 @@ export const proprieta: LemmaEntry = {
     "In italiano medievale già nel senso di 'qualità peculiare' e 'diritto esclusivo su una cosa'.",
   examples: [
     "Il notaio redasse l'atto di compravendita con cui la proprietà dell'immobile veniva trasferita al nuovo acquirente.",
-    "L'art. 42 della Costituzione italiana garantisce la proprietà privata ma prevede che possa essere espropriata per pubblica utilità.",
+    "L'art. 42 della Costituzione italiana garantisce la proprietà privata, ma prevede che possa essere espropriata per pubblica utilità.",
     "Nella tradizione lockiana, la proprietà nasce dal lavoro: è legittima perché chi la crea vi ha mescolato la propria fatica.",
   ],
   synonyms: [
@@ -49,9 +49,9 @@ export const proprieta: LemmaEntry = {
     "Attenzione alla polisemia: *proprietà* indica sia il diritto giuridico (proprietà immobiliare) " +
     "sia una qualità intrinseca di una cosa o un concetto (proprietà del linguaggio, proprietà chimica). " +
     "In questa scheda si tratta solo dell'accezione giuridica ed economico-filosofica. " +
-    "La distinzione tra *possesso* e *proprietà* è tecnica ma rilevante: il possessore detiene " +
+    "La distinzione tra *possesso* e *proprietà* è tecnica, ma rilevante: il possessore detiene " +
     "materialmente la cosa; il proprietario ne è il titolare giuridico — i due ruoli possono separarsi " +
-    "(es. locatario che possiede l'appartamento ma non ne è proprietario).",
+    "(es. locatario che possiede l'appartamento, ma non ne è proprietario).",
   editorialStatus: "reviewed",
   indexable: true,
   seo: {
@@ -59,5 +59,5 @@ export const proprieta: LemmaEntry = {
     description: "Proprietà: diritto reale di godimento esclusivo (art. 832 c.c., art. 42 Cost.). Locke, Marx, Proudhon; distinzione da possesso.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

@@ -31,7 +31,7 @@ export const prestitoLinguistico: LemmaEntry = {
 
   synonyms: [
     { term: "forestierismo", register: "tecnico", note: "Sinonimo pressoché completo, spesso preferito nei manuali di linguistica italiana." },
-    { term: "anglicismo", register: "tecnico", note: "Caso specifico di prestito linguistico dall'inglese — non sinonimo generale ma sottocategoria per lingua di origine." },
+    { term: "anglicismo", register: "tecnico", note: "Caso specifico di prestito linguistico dall'inglese — non sinonimo generale, ma sottocategoria per lingua di origine." },
   ],
 
   antonyms: [
@@ -47,7 +47,7 @@ export const prestitoLinguistico: LemmaEntry = {
   },
 
   paroliereNote:
-    "Il prestito linguistico è spesso oggetto di battaglie identitarie — c'è chi lo considera un impoverimento della lingua nazionale e chi lo vede come segno naturale di vitalità e contatto culturale. Dal punto di vista storico, però, l'italiano stesso è in larghissima parte un prodotto di prestiti stratificati nei secoli: dal latino, dal greco, dall'arabo, dal francese, dallo spagnolo, e oggi massicciamente dall'inglese. Nessuna lingua viva è mai stata un sistema chiuso; il prestito non è un'anomalia della storia linguistica, ne è semmai il motore ordinario.",
+    "Il prestito linguistico è spesso oggetto di battaglie identitarie — c'è chi lo considera un impoverimento della lingua nazionale e chi lo vede come segno naturale di vitalità e contatto culturale. Dal punto di vista storico, però, l'italiano stesso è in larghissima parte un prodotto di prestiti stratificati nei secoli: dal latino, dal greco, dall'arabo, dal francese, dallo spagnolo e oggi massicciamente dall'inglese. Nessuna lingua viva è mai stata un sistema chiuso; il prestito non è un'anomalia della storia linguistica, ne è semmai il motore ordinario.",
 
   editorialStatus: "draft",
   indexable: true,
@@ -59,5 +59,5 @@ export const prestitoLinguistico: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

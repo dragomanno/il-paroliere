@@ -15,7 +15,7 @@ export const riserbo: LemmaEntry = {
 
   definition:
     "Abitudine a non condividere più di quanto si ritenga necessario — informazioni " +
-    "su di sé, opinioni, emozioni — non per falsità ma per una scelta consapevole di " +
+    "su di sé, opinioni, emozioni — non per falsità, ma per una scelta consapevole di " +
     "dove finisce il pubblico e dove inizia il privato. Il riserbo non è freddezza né " +
     "distanza emotiva: è la gestione intenzionale della soglia tra ciò che si dà agli " +
     "altri e ciò che si mantiene per sé. In alcune professioni — medici, avvocati, " +
@@ -64,9 +64,9 @@ export const riserbo: LemmaEntry = {
 
   seo: {
     title: "riserbo — la gestione intenzionale della soglia tra pubblico e privato",
-    description: "Che cos’è il riserbo: definizione psicologica e comportamentale, differenza da discrezione e riservatezza, e il suo significato nell’era della condivisione.",
+    description: "Che cos’è il riserbo: definizione psicologica e comportamentale, differenza da discrezione e riservatezza e il suo significato nell’era della condivisione.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

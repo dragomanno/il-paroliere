@@ -19,7 +19,7 @@ export const onesta: LemmaEntry = {
     "relazioni sociali non funzionano — e forse per questo è così difficile da dare per " +
     "scontata. Onestà ha anche una storia semantica interessante: nell'italiano antico e " +
     "in latino (honestas), il termine indicava anche rispettabilità sociale, decoro, " +
-    "buona reputazione — non solo la qualità interiore ma la sua manifestazione pubblica " +
+    "buona reputazione — non solo la qualità interiore, ma la sua manifestazione pubblica " +
     "riconosciuta. Un residuo di questo significato sopravvive nelle locuzioni come " +
     "«donna onesta» nell'uso letterario più antico.",
 
@@ -128,5 +128,5 @@ export const onesta: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };
