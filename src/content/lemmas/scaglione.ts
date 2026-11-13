@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: scaglione
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -21,9 +21,9 @@ export const scaglione: LemmaEntry = {
     "diritto tributario",
     "ambito militare",
   ],
-  etymology: "Probabilmente dal francese échelon, derivato di échelle «scala», con l'influsso di scaglia. In italiano antico significava gradino: Dante lo usa per i gradini scavati nella roccia del Purgatorio. Dal gradino si passa al reparto schierato in successione e, infine, alle fasce di reddito disposte una sopra l'altra.",
+  etymology: "Due ipotesi si contendono l'origine: un latino scalio, formato su scala, oppure il francese échelon, della stessa famiglia di échelle «scala». In italiano antico significava gradino: Dante chiama «scaglion primaio» il primo dei tre gradini che salgono alla porta del Purgatorio. Dal gradino si passa al reparto schierato in successione e, infine, alle fasce di reddito disposte una sopra l'altra.",
   examples: [
-    "Dal 2026 l'IRPEF ha tre scaglioni: fino a 28.000 euro, da 28.000 a 50.000 e oltre i 50.000.",
+    "Nel 2026 l'IRPEF ha tre scaglioni: fino a 28.000 euro, da 28.000 a 50.000 e oltre i 50.000.",
     "Superare di poco la soglia di uno scaglione non è una tragedia: solo gli euro in eccesso pagano l'aliquota superiore.",
     "Gli invitati sono arrivati a scaglioni e la cena è cominciata con un'ora di ritardo.",
     "Il primo scaglione di volontari è partito all'alba, il secondo nel pomeriggio.",
@@ -51,12 +51,12 @@ export const scaglione: LemmaEntry = {
     treccani: "https://www.treccani.it/vocabolario/scaglione1/",
     wiktionary: "https://it.wiktionary.org/wiki/scaglione",
   },
-  paroliereNote: "Scaglione è una parola che ha salito davvero una scala: da gradino di pietra a reparto militare, fino alla fascia di reddito. L'immagine dei gradini resta la più utile per capire come funziona l'imposta: ogni euro sale finché trova posto e paga l'aliquota del gradino su cui si ferma, senza trascinarsi dietro gli altri.",
+  paroliereNote: "Scaglione è una parola che ha salito davvero una scala: da gradino di pietra a reparto militare, fino alla fascia di reddito. L'immagine dei gradini resta la più utile per capire come funziona l'imposta: il reddito li riempie dal basso e ogni euro paga l'aliquota del gradino in cui cade, senza cambiare quella degli euro che stanno sotto.",
   seo: {
     title: "Scaglione — significato fiscale e militare, esempi | Il Paroliere",
     description: "Che cos'è uno scaglione: la fascia di reddito a cui si applica un'aliquota IRPEF. Etimologia dal gradino al reparto militare, con esempi d'uso.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: capacità contributiva
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -42,12 +42,12 @@ export const capacitaContributiva: LemmaEntry = {
     "evasione",
   ],
   sourceLinks: {},
-  paroliereNote: "«Tutti sono tenuti a concorrere alle spese pubbliche in ragione della loro capacità contributiva»: la prima frase dell'articolo 53 è tra le più citate della Costituzione, spesso a proposito e qualche volta a sproposito. Non dice «tutti i cittadini», ma «tutti»: il dovere riguarda chiunque produca ricchezza in Italia. E la stessa frase che obbliga a pagare protegge anche dal pagare troppo, perché un tributo che colpisce una ricchezza inesistente è, prima ancora che ingiusto, illegittimo.",
+  paroliereNote: "«Tutti sono tenuti a concorrere alle spese pubbliche in ragione della loro capacità contributiva»: la prima frase dell'articolo 53 è tra le più citate della Costituzione, spesso a proposito e qualche volta a sproposito. Non dice «tutti i cittadini», ma «tutti»: il dovere riguarda chiunque abbia redditi o beni in Italia, cittadino o straniero. E la stessa frase che obbliga a pagare protegge anche dal pagare troppo, perché un tributo che colpisce una ricchezza inesistente è, prima ancora che ingiusto, illegittimo.",
   seo: {
     title: "Capacità contributiva — significato, articolo 53 | Il Paroliere",
     description: "Che cos'è la capacità contributiva: l'attitudine a sostenere i tributi in base alla ricchezza, fondamento e limite del prelievo secondo la Costituzione.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

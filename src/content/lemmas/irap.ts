@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: IRAP
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -50,7 +50,7 @@ export const irap: LemmaEntry = {
     title: "IRAP — cos'è, come funziona, storia | Il Paroliere",
     description: "Che cosa significa IRAP: l'imposta regionale sulle attività produttive, in vigore dal 1998. Base imponibile, aliquota del 3,9% e chi non la paga più dal 2022.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

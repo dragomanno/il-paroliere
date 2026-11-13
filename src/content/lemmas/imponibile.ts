@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: imponibile
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -22,7 +22,7 @@ export const imponibile: LemmaEntry = {
   ],
   etymology: "Da imporre, dal latino imponere «porre sopra», con il suffisso -ibile: ciò su cui un'imposta può essere posta. Appartiene alla stessa famiglia di imposta e imposizione.",
   examples: [
-    "Il rimborso delle spese di trasferta documentate non entra nell'imponibile, mentre gli straordinari sì.",
+    "Il rimborso documentato delle spese di una trasferta fuori comune non entra nell'imponibile, mentre gli straordinari sì.",
     "Su un imponibile di 1.000 euro, con l'IVA ordinaria al 22%, l'imposta è di 220 euro.",
     "I contributi versati al fondo pensione riducono l'imponibile, entro un tetto annuo fissato dalla legge.",
   ],
@@ -66,7 +66,7 @@ export const imponibile: LemmaEntry = {
     title: "Imponibile — significato, base imponibile, esempi | Il Paroliere",
     description: "Che cosa significa imponibile: ciò che può essere tassato e la base su cui si calcola un'imposta. Differenza tra deduzione e detrazione spiegata in breve.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",
