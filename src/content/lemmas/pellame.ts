@@ -12,7 +12,11 @@ export const pellame: LemmaEntry = {
   domains: ["artigianato", "concia", "commercio"],
   etymology:
     "Derivato collettivo di pelle (dal latino pellis) con il suffisso -ame che indica una raccolta di oggetti simili; termine tecnico del commercio e dell'artigianato conciario.",
-  examples: [],
+  examples: [
+    "Il distretto di Santa Croce sull'Arno lavora pellame per le grandi firme della moda.",
+    "Il pellame arriva in conceria ancora grezzo e ne esce pronto per borse e scarpe.",
+    "Al mercato il prezzo del pellame è salito, e i piccoli artigiani ne risentono per primi.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["coltelleria", "cesellatura", "pelletteria", "cuoio", "concia"],
@@ -26,5 +30,5 @@ export const pellame: LemmaEntry = {
     description: "Definizione originale di 'pellame': la materia prima delle pelletterie toscane e della moda italiana.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

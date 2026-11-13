@@ -22,7 +22,11 @@ export const ponderare: LemmaEntry = {
   etymology:
     "Dal latino ponderare (pesare, valutare), da pondus (peso); stessa radice di ponderoso, preponderante.",
 
-  examples: [],
+  examples: [
+    "Prima di accettare il trasferimento ha voluto ponderare bene i pro e i contro.",
+    "Il giudice deve ponderare gli interessi in gioco, senza sacrificarne del tutto nessuno.",
+    "Ha ponderato ogni parola della lettera, sapendo che sarebbe stata letta da molti.",
+  ],
 
   synonyms: [
       {
@@ -73,5 +77,5 @@ export const ponderare: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

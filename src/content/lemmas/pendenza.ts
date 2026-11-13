@@ -54,7 +54,11 @@ export const pendenza: LemmaEntry = {
     "contenzioso"
   ],
 
-  examples: [],
+  examples: [
+    "L'ultimo tratto della salita ha una pendenza del dodici per cento.",
+    "Il tetto ha la pendenza giusta per far scivolare la neve senza accumuli.",
+    "Prima di vendere la casa ha dovuto chiudere una vecchia pendenza con il comune.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/pendenza"
@@ -79,5 +83,5 @@ export const pendenza: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

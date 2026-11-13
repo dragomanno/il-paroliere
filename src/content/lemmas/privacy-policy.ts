@@ -13,7 +13,11 @@ export const privacyPolicy: LemmaEntry = {
   domains: ["diritto", "web", "privacy"],
   etymology:
     "Locuzione inglese (letteralmente: politica sulla riservatezza); entrata nel lessico giuridico e digitale italiano come prestito integrale, senza traduzione standardizzata.",
-  examples: [],
+  examples: [
+    "La privacy policy deve dire in modo chiaro per quanto tempo vengono conservati i dati.",
+    "Prima di iscriversi alla newsletter ha letto la privacy policy, per curiosità e per prudenza.",
+    "Una privacy policy copiata da un altro sito spesso descrive trattamenti che non si fanno affatto.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["cookie policy", "GDPR", "cookie"],
@@ -27,5 +31,5 @@ export const privacyPolicy: LemmaEntry = {
     description: "Definizione originale di 'privacy policy': il documento sulla raccolta e il trattamento dei dati personali.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

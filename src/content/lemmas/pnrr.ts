@@ -12,7 +12,11 @@ export const pnrr: LemmaEntry = {
   domains: ["politica", "economia", "amministrazione"],
   etymology:
     "Sigla italiana di Piano Nazionale di Ripresa e Resilienza; il termine resilienza nella denominazione riflette il lessico della crisi pandemica da cui il programma trae origine.",
-  examples: [],
+  examples: [
+    "Il comune ha ottenuto fondi del PNRR per ristrutturare la scuola elementare.",
+    "Le scadenze del PNRR obbligano gli enti a progettare e spendere in tempi molto stretti.",
+    "Nel dibattito pubblico il PNRR è diventato il metro con cui misurare la capacità di spesa dello Stato.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["resilienza", "Next Generation EU", "investimenti", "riforme"],
@@ -26,5 +30,5 @@ export const pnrr: LemmaEntry = {
     description: "Definizione originale di 'PNRR': il Piano Nazionale di Ripresa e Resilienza e la parola che lo definisce.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

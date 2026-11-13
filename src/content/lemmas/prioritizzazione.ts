@@ -12,7 +12,11 @@ export const prioritizzazione: LemmaEntry = {
   domains: ["gestione", "organizzazione", "linguistica"],
   etymology:
     "Derivato di priorità (dal latino prioritas, -atis) con il suffisso verbale -izzare e poi -izzazione, sul modello dell'inglese to prioritize; si afferma in italiano negli anni Novanta.",
-  examples: [],
+  examples: [
+    "La prioritizzazione dei bug ha permesso al team di risolvere prima quelli che bloccavano i clienti.",
+    "In riunione si è parlato a lungo di prioritizzazione, ma nessuno ha deciso cosa fare per primo.",
+    "Nel documento abbiamo scritto «definizione delle priorità» invece di prioritizzazione, e il senso non è cambiato.",
+  ],
   synonyms: [{ term: "definizione delle priorità", register: "comune", note: "forma preferita dai puristi" }],
   antonyms: [],
   relatedWords: ["disciplina", "gestione", "organizzazione"],
@@ -26,5 +30,5 @@ export const prioritizzazione: LemmaEntry = {
     description: "Definizione originale di 'prioritizzazione': l'anglismo che ha conquistato il lessico manageriale italiano.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

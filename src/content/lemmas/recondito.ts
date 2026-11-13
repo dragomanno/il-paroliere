@@ -55,7 +55,11 @@ export const recondito: LemmaEntry = {
     "esoterico"
   ],
 
-  examples: [],
+  examples: [
+    "Custodiva quella lettera in un cassetto recòndito della scrivania.",
+    "Il romanzo scava nei desideri più recònditi dei personaggi, quelli che non confessano nemmeno a sé stessi.",
+    "In un angolo recòndito del chiostro si trova un piccolo affresco quasi dimenticato.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/rec%C3%B2ndito"
@@ -81,5 +85,5 @@ export const recondito: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

@@ -12,7 +12,11 @@ export const naZdarovje: LemmaEntry = {
   domains: ["russo", "cultura", "galateo"],
   etymology:
     "Dal russo на здоро́вье (na zdoróvye): preposizione на (na, a, per) + здоро́вье (zdoróvye, salute, derivato di здоро́вый, sano).",
-  examples: [],
+  examples: [
+    "Alzò il bicchiere e disse «na zdarovje», convinto che fosse il brindisi russo per eccellenza.",
+    "Quando ringraziò la padrona di casa per la cena, lei rispose sorridendo «na zdorovje», cioè «di niente, buon pro ti faccia».",
+    "In molti film italiani «na zdarovje» è la battuta obbligata della scena ambientata a Mosca.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["skål", "salute", "alla salute", "brindisi", "Zum Wohl", "Cheers", "russo"],
@@ -26,5 +30,5 @@ export const naZdarovje: LemmaEntry = {
     description: "Definizione originale di 'na zdarovje': il brindisi russo alla salute e il suo doppio uso nella cultura russa.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

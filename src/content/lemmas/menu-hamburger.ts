@@ -13,7 +13,11 @@ export const menuHamburger: LemmaEntry = {
   domains: ["UX", "web", "design"],
   etymology:
     "Calco descrittivo dall'inglese hamburger menu; il termine si afferma con la diffusione dello smartphone e del design responsive negli anni 2010.",
-  examples: [],
+  examples: [
+    "Sullo smartphone le voci del sito compaiono solo toccando il menu hamburger in alto a destra.",
+    "Nei test con gli utenti più anziani il menu hamburger è risultato poco intuitivo: molti non lo trovavano.",
+    "Su desktop abbiamo tolto il menu hamburger e mostrato le voci principali per intero.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["UX", "navigazione", "interfaccia", "responsive"],
@@ -27,5 +31,5 @@ export const menuHamburger: LemmaEntry = {
     description: "Definizione originale di 'menu hamburger': l'icona a tre linee delle interfacce mobile.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

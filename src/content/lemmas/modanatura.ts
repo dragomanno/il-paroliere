@@ -12,7 +12,11 @@ export const modanatura: LemmaEntry = {
   domains: ["architettura", "storia dell'arte", "artigianato"],
   etymology:
     "Derivato di modano (sagoma, profilo guida), dal latino modulus (misura, modello); attestato nell'architettura italiana dal Rinascimento.",
-  examples: [],
+  examples: [
+    "Il restauratore ha ricostruito in gesso la modanatura mancante della cornice.",
+    "Le porte dell'Ottocento si riconoscono anche dalle modanature intorno ai pannelli.",
+    "Una semplice modanatura a toro alla base della colonna basta a cambiarne la proporzione.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["abside", "sbalzo", "cesellatura", "architettura", "ordine architettonico"],
@@ -26,5 +30,5 @@ export const modanatura: LemmaEntry = {
     description: "Definizione originale di 'modanatura': la grammatica decorativa dell'architettura classica.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };
