@@ -10,8 +10,8 @@ export const cedolareSecca: LemmaEntry = {
   slug: "cedolare-secca",
   partOfSpeech: "locuzione sostantivale",
   gender: "femminile",
-  definition: "Regime facoltativo con cui chi affitta una casa paga sul canone un'imposta fissa, invece dell'IRPEF e delle addizionali. L'aliquota è del 21%, ridotta al 10% per i contratti a canone concordato nei Comuni con carenza di abitazioni; chi la sceglie non paga imposta di registro né di bollo sul contratto, ma rinuncia agli aumenti del canone legati all'inflazione. Possono sceglierla solo le persone fisiche che non affittano come impresa.",
-  shortDefinition: "Imposta fissa sugli affitti di case, al 21% o al 10%, che il proprietario può scegliere al posto dell'IRPEF.",
+  definition: "Regime facoltativo con cui chi affitta una casa paga sul canone un'imposta ad aliquota fissa, invece dell'IRPEF e delle addizionali. L'aliquota è del 21%, ridotta al 10% sui contratti a canone concordato nei Comuni con carenza di abitazioni; chi la sceglie non paga imposta di registro né di bollo sul contratto, ma rinuncia agli aumenti del canone legati all'inflazione. Possono sceglierla solo le persone fisiche che non affittano come impresa.",
+  shortDefinition: "Imposta ad aliquota fissa sugli affitti di case, al 21% o al 10%, che il proprietario può scegliere al posto dell'IRPEF.",
   register: [
     "tecnico-fiscale",
     "comune",
@@ -50,9 +50,9 @@ export const cedolareSecca: LemmaEntry = {
   paroliereNote: "La cedolare secca è arrivata nel 2011 con il federalismo fiscale municipale. È, di fatto, una piccola → flat tax sugli affitti: chi ha redditi alti ci guadagna di più, perché sfugge agli scaglioni più pesanti dell'IRPEF. Per gli affitti brevi valgono regole proprie: dal 2026 l'aliquota è del 26%, ridotta al 21% per un solo appartamento scelto dal proprietario. Oltre i due appartamenti l'attività si presume d'impresa.",
   seo: {
     title: "Cedolare secca — significato, aliquote, come funziona | Il Paroliere",
-    description: "Che cos'è la cedolare secca: l'imposta fissa sugli affitti, al 21% o al 10%, che sostituisce IRPEF e addizionali. Affitti brevi ed esempi.",
+    description: "Che cos'è la cedolare secca: l'imposta ad aliquota fissa sugli affitti, al 21% o al 10%, che sostituisce IRPEF e addizionali. Affitti brevi ed esempi.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

@@ -43,12 +43,12 @@ export const ige: LemmaEntry = {
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/ige/",
   },
-  paroliereNote: "L'IGE premiava le imprese che facevano tutto in casa: un prodotto che passava di mano molte volte pagava l'imposta molte volte, sempre sul valore pieno. Il Ministero delle Finanze ricorda che così erano favorite le «produzioni verticali», quelle con meno imprese lungo la filiera. L'→ IVA, con il suo meccanismo di detrazione, è nata proprio per correggere questo difetto e per uniformare l'Italia al resto della Comunità europea.",
+  paroliereNote: "L'IGE premiava le imprese che facevano tutto in casa: un prodotto che passava di mano molte volte pagava l'imposta molte volte, sempre sul valore pieno. Il Dipartimento delle Finanze ricorda che così erano favorite le «produzioni verticali», quelle con meno imprese lungo la filiera. L'→ IVA, con il suo meccanismo di detrazione, è nata proprio per correggere questo difetto e per uniformare l'Italia al resto della Comunità europea.",
   seo: {
     title: "IGE, imposta generale sull'entrata — significato | Il Paroliere",
     description: "Che cos'era l'IGE: l'imposta generale sull'entrata, tributo a cascata sugli scambi in vigore dal 1940 al 1972 e poi sostituito dall'IVA.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",
