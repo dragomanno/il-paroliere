@@ -53,7 +53,11 @@ export const imprudenza: LemmaEntry = {
     "avventatezza"
   ],
 
-  examples: [],
+  examples: [
+    "È stata un'imprudenza uscire in barca con quel vento, e lo sapevano tutti.",
+    "Il giudice ha riconosciuto l'imprudenza del conducente, ma ha escluso che volesse causare l'incidente.",
+    "Raccontare i propri progetti a tutti prima di averli realizzati è un'imprudenza che si paga spesso.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/imprudenza"
@@ -78,5 +82,5 @@ export const imprudenza: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

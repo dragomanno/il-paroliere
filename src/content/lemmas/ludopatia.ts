@@ -48,7 +48,11 @@ export const ludopatia: LemmaEntry = {
     "addiction"
   ],
 
-  examples: [],
+  examples: [
+    "Il comune ha vietato le slot machine vicino alle scuole per prevenire la ludopatia.",
+    "La ludopatia del padre ha lasciato la famiglia piena di debiti che nessuno sospettava.",
+    "Molti servizi pubblici offrono percorsi di cura per la ludopatia, gratuiti e riservati.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/ludopatia"
@@ -74,5 +78,5 @@ export const ludopatia: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

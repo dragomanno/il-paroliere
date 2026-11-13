@@ -55,7 +55,11 @@ export const inettitudine: LemmaEntry = {
     "autoanalisi"
   ],
 
-  examples: [],
+  examples: [
+    "L'inettitudine dell'amministrazione ha trasformato un piccolo guasto in un'emergenza.",
+    "Zeno racconta la propria inettitudine con un'ironia che lo rende quasi simpatico.",
+    "Non era cattiveria, era inettitudine: non sapeva da dove cominciare, e così non cominciava.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/inettitudine"
@@ -81,5 +85,5 @@ export const inettitudine: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

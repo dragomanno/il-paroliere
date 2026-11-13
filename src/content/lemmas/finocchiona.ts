@@ -12,7 +12,11 @@ export const finocchiona: LemmaEntry = {
   domains: ["gastronomia", "salumeria toscana", "tradizione"],
   etymology:
     "Derivato di finocchio (dal latino foeniculum, diminutivo di foenum, fieno) con il suffisso -ona che segnala la caratterizzante presenza dell'aroma.",
-  examples: [],
+  examples: [
+    "Il tagliere arrivò con pecorino, prosciutto e due fette spesse di finocchiona.",
+    "La finocchiona va tagliata un po' più grossa degli altri salami, altrimenti si sbriciola.",
+    "Appena aperta la carta del salumiere, il profumo di finocchio della finocchiona riempì la cucina.",
+  ],
   synonyms: [{ term: "sbriciolona", register: "colloquiale", note: "variante toscana più morbida e friabile" }],
   antonyms: [],
   relatedWords: ["insaccato", "salatura", "dragoncello", "toscana", "IGP"],
@@ -26,5 +30,5 @@ export const finocchiona: LemmaEntry = {
     description: "Definizione originale di 'finocchiona': il salame toscano al finocchio selvatico, IGP dal 2015.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

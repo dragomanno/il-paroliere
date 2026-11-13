@@ -12,7 +12,11 @@ export const insaccato: LemmaEntry = {
   domains: ["gastronomia", "salumeria", "artigianato alimentare"],
   etymology:
     "Participio passato sostantivato di insaccare (mettere in sacco, in budello), dal latino in + saccus.",
-  examples: [],
+  examples: [
+    "In quella zona ogni famiglia preparava i propri insaccati nei giorni della macellazione.",
+    "Il medico le ha consigliato di limitare gli insaccati, ricchi di sale e di grassi.",
+    "Il negozio vende insaccati di piccoli produttori, dalla salsiccia secca al cotechino.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["salatura", "salagione", "finocchiona", "salume", "norcineria"],
@@ -26,5 +30,5 @@ export const insaccato: LemmaEntry = {
     description: "Definizione originale di 'insaccato': la categoria della salumeria unificata dal budello.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

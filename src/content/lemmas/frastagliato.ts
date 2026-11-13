@@ -22,7 +22,11 @@ export const frastagliato: LemmaEntry = {
   etymology:
     "Da frastagliare, frequentativo di tagliare; prefisso fra- con valore intensivo o dispersivo.",
 
-  examples: [],
+  examples: [
+    "La costa frastagliata dell'isola nasconde decine di calette raggiungibili solo dal mare.",
+    "Le foglie del prezzemolo riccio hanno un bordo frastagliato che le rende subito riconoscibili.",
+    "Il suo è un curriculum frastagliato: giornalismo, cucina, poi dieci anni di insegnamento.",
+  ],
 
   synonyms: [
       {
@@ -73,5 +77,5 @@ export const frastagliato: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

@@ -54,7 +54,11 @@ export const inetto: LemmaEntry = {
     "antieroismo"
   ],
 
-  examples: [],
+  examples: [
+    "Si sentiva inetto davanti alle pratiche burocratiche, lui che risolveva equazioni a memoria.",
+    "Il romanzo del primo Novecento è popolato di personaggi inetti, lucidi e incapaci di scegliere.",
+    "Gli hanno affidato la squadra senza esperienza, poi lo hanno accusato di essere inetto.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/inetto"
@@ -80,5 +84,5 @@ export const inetto: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

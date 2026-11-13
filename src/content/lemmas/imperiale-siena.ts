@@ -12,7 +12,11 @@ export const imperialeSiena: LemmaEntry = {
   domains: ["storia medievale", "Siena", "storia dell'arte"],
   etymology:
     "Dal latino imperialis, derivato di imperator; assume la connotazione politico-partitica specifica nel contesto delle lotte guelfe e ghibelline dei secoli XII–XIV.",
-  examples: [],
+  examples: [
+    "Nella Siena medievale schierarsi con la parte imperiale significava stare dalla parte dell'imperatore contro il papa.",
+    "Le cronache ricordano Siena come città di tradizione imperiale, fedele all'Impero per gran parte del Duecento.",
+    "Negli atti dell'epoca gli imperiali sono i sostenitori dell'imperatore, quelli che altrove si chiamavano ghibellini.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["ghibellino", "guelfo", "Siena medievale", "gotico senese", "abside"],
@@ -26,5 +30,5 @@ export const imperialeSiena: LemmaEntry = {
     description: "Definizione originale di 'imperiale' nel contesto senese: la tradizione ghibellina e lo stile gotico-imperiale.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

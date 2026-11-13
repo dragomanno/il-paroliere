@@ -23,7 +23,11 @@ export const impasse: LemmaEntry = {
   etymology:
     "Dal francese impasse (vicolo cieco), da im- (non, variante di in-) + passer (passare).",
 
-  examples: [],
+  examples: [
+    "La trattativa è in un'impasse da settimane: nessuna delle due parti vuole fare il primo passo.",
+    "Per uscire dall'impasse il sindaco ha proposto un tavolo tecnico con tutti i comitati.",
+    "A volte un'impasse si risolve cambiando la domanda, non cercando una risposta migliore.",
+  ],
 
   synonyms: [
       {
@@ -74,5 +78,5 @@ export const impasse: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

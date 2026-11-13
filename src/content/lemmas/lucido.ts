@@ -22,7 +22,11 @@ export const lucido: LemmaEntry = {
   etymology:
     "Dal latino lucidus, da lux (luce); la radice condivide con illustre, luna, translucido.",
 
-  examples: [],
+  examples: [
+    "Anche nel caos dell'incidente è rimasto lucido e ha chiamato subito i soccorsi.",
+    "Il tavolo di noce, appena lucidato, era così lucido da riflettere la lampada.",
+    "Ha fatto un'analisi lucida dei propri errori, senza autocommiserazione.",
+  ],
 
   synonyms: [
       {
@@ -73,5 +77,5 @@ export const lucido: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

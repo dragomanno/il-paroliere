@@ -12,7 +12,11 @@ export const guelfo: LemmaEntry = {
   domains: ["storia medievale", "politica", "Italia"],
   etymology:
     "Dall'italiano medievale Guelfo, a sua volta dall'alto tedesco antico Welf, nome della dinastia bavarese opposta agli Hohenstaufen (Ghibellini).",
-  examples: [],
+  examples: [
+    "Dopo la vittoria dei guelfi, molte famiglie ghibelline furono esiliate e i loro beni confiscati.",
+    "Dante era guelfo, ma della fazione dei Bianchi, e proprio per questo finì in esilio.",
+    "In molte città italiane le torri ricordano ancora le lotte tra famiglie guelfe e ghibelline.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["ghibellino", "Dante", "fazione", "Firenze medievale", "papato"],
@@ -26,5 +30,5 @@ export const guelfo: LemmaEntry = {
     description: "Definizione originale di 'guelfo': dal partito medievale filopapale alla metafora politica contemporanea.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };
