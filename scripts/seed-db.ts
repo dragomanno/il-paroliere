@@ -90,7 +90,9 @@ async function seed() {
             indexable:       row.indexable,
             seoTitle:        row.seoTitle,
             seoDescription:  row.seoDescription,
-            updatedAt:       new Date(),
+            // Editorial date from the lemma file, not the deploy time:
+            // it feeds the sitemap <lastmod> and «Ultimo aggiornamento».
+            updatedAt:       row.updatedAt,
           },
         });
 
