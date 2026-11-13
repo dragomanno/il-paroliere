@@ -22,7 +22,7 @@ export const genx: LemmaEntry = {
     "Gen X è la prima generazione ad aver vissuto sia un mondo senza internet sia la " +
     "sua comparsa nell'adolescenza e nella prima età adulta. Sul piano dei comportamenti " +
     "digitali, è una generazione pragmatica e ponte: adotta le piattaforme con competenza " +
-    "tecnica acquisita, preferisce email e LinkedIn ai social più effimeri, e tende a " +
+    "tecnica acquisita, preferisce email e LinkedIn ai social più effimeri e tende a " +
     "compiere percorsi d'acquisto articolati — ricerca via motore, confronto prezzi, " +
     "acquisto su desktop o su siti istituzionali.",
 
@@ -38,7 +38,7 @@ export const genx: LemmaEntry = {
 
   examples: [
     "La Gen X non ha avuto i social da adolescente, ma ci si è adattata con più competenza di quanto i boomer abbiano fatto.",
-    "Era una tipica Gen X: nessuna nostalgia per il vinile, nessun entusiasmo per TikTok, e un account LinkedIn aggiornato al 2019.",
+    "Era una tipica Gen X: nessuna nostalgia per il vinile, nessun entusiasmo per TikTok e un account LinkedIn aggiornato al 2019.",
   ],
 
   synonyms: [
@@ -56,7 +56,7 @@ export const genx: LemmaEntry = {
     "La Gen X è spesso dimenticata nel dibattito pubblico, schiacciata tra la nostalgia " +
     "rumorosa dei Boomers e la presenza digitale onnivora dei Millennials. Eppure è " +
     "probabilmente la generazione che ha gestito la transizione tecnologica con più " +
-    "adattabilità silenziosa: erano già adulti quando internet è arrivato, e lo hanno " +
+    "adattabilità silenziosa: erano già adulti quando internet è arrivato e lo hanno " +
     "imparato — non subito come i nativi digitali, ma adottato con scelta consapevole. " +
     "In marketing, è una generazione sistematicamente sottovalutata pur avendo un potere " +
     "d'acquisto consolidato e un tasso di fidelizzazione al brand tra i più alti. " +
@@ -76,5 +76,5 @@ export const genx: LemmaEntry = {
   },
 
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

@@ -94,7 +94,7 @@ export const eloquenza: LemmaEntry = {
     "La retorica classica ha costruito intorno all'eloquenza un sistema " +
     "elaboratissimo — ma il suo nucleo è sempre stato semplice: dire la cosa " +
     "giusta, nel modo giusto, al momento giusto. Quello che oggi chiamiamo " +
-    "comunicazione efficace i latini lo chiamavano eloquentia, e ci avevano " +
+    "comunicazione efficace i latini lo chiamavano eloquentia e ci avevano " +
     "dedicato secoli di riflessione. Vale la pena ricordarselo quando si è " +
     "tentati di pensare che il problema sia solo trovare le parole.",
 
@@ -109,5 +109,5 @@ export const eloquenza: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

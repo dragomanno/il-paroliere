@@ -33,7 +33,7 @@ export const fanfarone: LemmaEntry = {
   examples: [
     "Il fanfarone del gruppo è quello che ha sempre vissuto la versione più estrema di ogni esperienza che chiunque altro racconta.",
     "Nelle commedie di Plauto, il miles gloriosus è il fanfarone per antonomasia: soldato che si vanta di battaglie mai combattute davanti a chi ha tutto l’interesse a smontarlo.",
-    "Un certo fanfaronismo è quasi un tratto culturale in certi contesti meridionali italiani: non è menzogna sistematica, è teatro — tutti sanno che è teatro, e ci si diverte comunque.",
+    "Un certo fanfaronismo è quasi un tratto culturale in certi contesti meridionali italiani: non è menzogna sistematica, è teatro — tutti sanno che è teatro e ci si diverte comunque.",
     "Il problema del fanfarone non è che mente: è che occupa spazio sonoro che potrebbe essere usato da chi ha qualcosa di reale da dire.",
   ],
 
@@ -67,5 +67,5 @@ export const fanfarone: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

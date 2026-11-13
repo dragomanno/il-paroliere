@@ -22,7 +22,7 @@ export const defiscalizzazione: LemmaEntry = {
     "presente in cambio di un effetto positivo atteso nel medio-lungo periodo. " +
     "In senso più ampio e non strettamente economico, defiscalizzare qualcosa " +
     "significa toglierle il \"peso fiscale\" del giudizio, della norma, dell'etichetta " +
-    "imposta dall'esterno: un uso metaforico raro ma non inesistente nel linguaggio " +
+    "imposta dall'esterno: un uso metaforico raro, ma non inesistente nel linguaggio " +
     "giornalistico e saggistico, dove può indicare la rimozione di un tabù o di una " +
     "categorizzazione rigida. Vedi anche → incentivo per il concetto correlato di " +
     "stimolo economico diretto.",
@@ -98,7 +98,7 @@ export const defiscalizzazione: LemmaEntry = {
   },
 
   paroliereNote:
-    "Defiscalizzazione è una parola tecnica che il fisco ha reso necessaria " +
+    "Defiscalizzazione è una parola tecnica che il fisco ha reso necessaria, " +
     "ma che la lingua ha adottato con riluttanza. Indica qualcosa di preciso: " +
     "non solo meno tasse, ma una scelta politica di rinunciare a gettito " +
     "in cambio di un effetto atteso nel medio-lungo periodo.",
@@ -113,5 +113,5 @@ export const defiscalizzazione: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

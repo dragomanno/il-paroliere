@@ -30,10 +30,10 @@ export const goffaggine: LemmaEntry = {
     "partire dal Trecento.",
 
   examples: [
-    "La goffaggine adolescenziale non è solo fisica: è la manifestazione di un corpo che sta diventando più grande della capacità di gestirlo, e di un’identità che non ha ancora trovato la sua forma.",
+    "La goffaggine adolescenziale non è solo fisica: è la manifestazione di un corpo che sta diventando più grande della capacità di gestirlo e di un’identità che non ha ancora trovato la sua forma.",
     "Chaplin costruì su quella goffaggine deliberata — il passo incerto, il cappello che cade, la canna da passeggio come terza gamba — una poesia del fallimento che nessuna eleganza avrebbe potuto raggiungere.",
     "C’è una goffaggine nella comunicazione aziendale forzatamente informale che è peggio della rigidità: il tentativo di sembrare umano che rende evidente la distanza.",
-    "In certi sport, la goffaggine iniziale è parte del processo: il corpo non ha ancora automatizzato il gesto, e ogni movimento richiede attenzione conscia. Il lavoro è rendere automatico ciò che ora è faticoso.",
+    "In certi sport, la goffaggine iniziale è parte del processo: il corpo non ha ancora automatizzato il gesto e ogni movimento richiede attenzione conscia. Il lavoro è rendere automatico ciò che ora è faticoso.",
   ],
 
   synonyms: [
@@ -66,5 +66,5 @@ export const goffaggine: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

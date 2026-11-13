@@ -22,7 +22,7 @@ export const guelfo: LemmaEntry = {
   relatedWords: ["ghibellino", "Dante", "fazione", "Firenze medievale", "papato"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/guelfo" },
   paroliereNote:
-    "Guelfi e ghibellini hanno insanguinato l'Italia medievale per generazioni, e Dante ne è il testimone più illustre: guelfo di parte bianca, esiliato da Firenze nel 1302, morto a Ravenna. Oggi i due termini sopravvivono come metafore politiche: «guelfo» chi guarda alla Chiesa e al mondo cattolico, «ghibellino» chi difende la laicità dello Stato. La storia si è fatta lessico.",
+    "Guelfi e ghibellini hanno insanguinato l'Italia medievale per generazioni e Dante ne è il testimone più illustre: guelfo di parte bianca, esiliato da Firenze nel 1302, morto a Ravenna. Oggi i due termini sopravvivono come metafore politiche: «guelfo» chi guarda alla Chiesa e al mondo cattolico, «ghibellino» chi difende la laicità dello Stato. La storia si è fatta lessico.",
   editorialStatus: "reviewed",
   indexable: true,
   seo: {

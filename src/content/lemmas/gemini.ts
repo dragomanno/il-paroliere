@@ -48,7 +48,7 @@ export const gemini: LemmaEntry = {
     "Castore e Polluce, le stelle più luminose di Gemini, portano i nomi dei gemelli del mito.",
     "Ho chiesto a Gemini di riassumere il verbale della riunione in cinque punti.",
     "Chi nel 2023 usava Bard ha ritrovato, dal febbraio 2024, lo stesso assistente con il nome Gemini.",
-    "In riunione c'era chi diceva «Gèminai» e chi «Gèmini», e tutti sapevano di quale strumento si parlava.",
+    "In riunione c'era chi diceva «Gèminai» e chi «Gèmini» e tutti sapevano di quale strumento si parlava.",
   ],
 
   synonyms: [
@@ -98,5 +98,5 @@ export const gemini: LemmaEntry = {
   },
 
   createdAt: "2026-11-08",
-  updatedAt: "2026-11-08",
+  updatedAt: "2026-11-13",
 };

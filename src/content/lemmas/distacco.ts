@@ -78,7 +78,7 @@ export const distacco: LemmaEntry = {
   },
 
   paroliereNote:
-    "Il distacco non è automaticamente una fuga né una virtù, e non va confuso con → menefreghismo: conta da che cosa ci si separa e con quale effetto. Può essere un limite sano, preso per il quieto vivere o per tornare a procedere dopo una ferita; nel rapporto con la perdita, lascia spazio al dolore senza ridurlo a una rinuncia. Un po' di distacco può sottrarre una → relazione alla → dipendenza; se si irrigidisce, può avvicinarsi a → estraneamento e lasciare il → legame senza voce.",
+    "Il distacco non è automaticamente una fuga né una virtù e non va confuso con → menefreghismo: conta da che cosa ci si separa e con quale effetto. Può essere un limite sano, preso per il quieto vivere o per tornare a procedere dopo una ferita; nel rapporto con la perdita, lascia spazio al dolore senza ridurlo a una rinuncia. Un po' di distacco può sottrarre una → relazione alla → dipendenza; se si irrigidisce, può avvicinarsi a → estraneamento e lasciare il → legame senza voce.",
 
   editorialStatus: "draft",
   indexable: true,
@@ -90,5 +90,5 @@ export const distacco: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-08-24",
+  updatedAt: "2026-11-13",
 };

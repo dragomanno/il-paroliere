@@ -49,7 +49,7 @@ export const elasticita: LemmaEntry = {
 
   paroliereNote:
     "L’elasticità è più sofisticata della flessibilità: non è solo piegarsi, è piegarsi e " +
-    "tornare. Un materiale flessibile può non essere elastico (plastilina: si piega ma " +
+    "tornare. Un materiale flessibile può non essere elastico (plastilina: si piega, ma " +
     "non torna). La distinzione vale anche in psicologia — la persona elastica mantiene " +
     "una forma, non si ridefinisce ogni volta che viene pressata. C’è una coerenza " +
     "nell’elasticità che la flessibilità pura non richiede.",
@@ -65,5 +65,5 @@ export const elasticita: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

@@ -25,7 +25,7 @@ export const fraintendere: LemmaEntry = {
 
   examples: [
     "Lo aveva frainteso: non stava criticando il progetto, stava chiedendo aiuto.",
-    "Certi fraintendimenti nascono non da mala fede ma da contesti così diversi che le stesse parole significano cose diverse.",
+    "Certi fraintendimenti nascono non da mala fede, ma da contesti così diversi che le stesse parole significano cose diverse.",
     "La comunicazione scritta fraintende più di quella orale perché manca il tono.",
   ],
 
@@ -82,5 +82,5 @@ export const fraintendere: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

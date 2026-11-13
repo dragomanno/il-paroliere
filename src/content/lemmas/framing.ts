@@ -60,7 +60,7 @@ export const framing: LemmaEntry = {
     {
       term: "incorniciamento",
       register: "tecnico",
-      context: "calco italiano meno diffuso ma usato in letteratura accademica per lo stesso fenomeno",
+      context: "calco italiano meno diffuso, ma usato in letteratura accademica per lo stesso fenomeno",
     },
     {
       term: "angolazione",
@@ -115,5 +115,5 @@ export const framing: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

@@ -55,7 +55,7 @@ export const efficienza: LemmaEntry = {
 
   examples: [
     "La nuova caldaia ha un'efficienza molto più alta e i consumi si sono quasi dimezzati.",
-    "In nome dell'efficienza hanno tagliato tutte le pause, e la qualità del lavoro è peggiorata.",
+    "In nome dell'efficienza hanno tagliato tutte le pause e la qualità del lavoro è peggiorata.",
     "Un ufficio può essere efficientissimo e del tutto inutile, se lavora bene sulle cose sbagliate.",
   ],
 
@@ -65,7 +65,7 @@ export const efficienza: LemmaEntry = {
 
   paroliereNote:
     "Efficienza ed efficacia sono due dei termini più frequentemente confusi nel " +
-    "linguaggio organizzativo. La distinzione è semplice ma importante: efficienza " +
+    "linguaggio organizzativo. La distinzione è semplice, ma importante: efficienza " +
     "riguarda il modo in cui si usa ciò che si ha; efficacia riguarda il " +
     "raggiungimento dell'obiettivo giusto. Un sistema può essere molto efficiente nel " +
     "fare la cosa sbagliata — e questo è il tipo di paradosso che vale la pena tenere " +

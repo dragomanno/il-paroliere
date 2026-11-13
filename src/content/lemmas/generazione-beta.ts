@@ -76,7 +76,7 @@ export const generazioneBeta: LemmaEntry = {
     "due coesisteranno — dipende in larga parte da scelte culturali e legislative che " +
     "stiamo compiendo adesso, nel 2026, mentre i primi Beta imparano a camminare. " +
     "Un dato, almeno, è certo: saranno la generazione con la maggiore aspettativa di " +
-    "vita mai registrata, e alcune di loro vedranno il 2100.",
+    "vita mai registrata e alcune di loro vedranno il 2100.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -89,5 +89,5 @@ export const generazioneBeta: LemmaEntry = {
   },
 
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

@@ -48,7 +48,7 @@ export const guizzo: LemmaEntry = {
     {
       term: "bagliore",
       register: "comune",
-      context: "nel dominio della luce, più intenso ma meno nervoso del guizzo",
+      context: "nel dominio della luce, più intenso, ma meno nervoso del guizzo",
     },
   ],
 
@@ -99,5 +99,5 @@ export const guizzo: LemmaEntry = {
   },
 
   createdAt: "2026-06-12",
-  updatedAt: "2026-06-12",
+  updatedAt: "2026-11-13",
 };

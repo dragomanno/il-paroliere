@@ -35,7 +35,7 @@ export const effimero: LemmaEntry = {
     "C'è qualcosa di bello nell'effimero — il fiore di ciliegio dura poco " +
     "proprio per questo.",
     "Le mode sono per definizione effimere; l'errore è trattarle come tendenze durature.",
-    "Non era una felicità solida, ma neanche effimera: durava quanto durava, " +
+    "Non era una felicità solida, ma neanche effimera: durava quanto durava " +
     "e bastava.",
   ],
 
@@ -117,5 +117,5 @@ export const effimero: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

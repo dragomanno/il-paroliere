@@ -51,7 +51,7 @@ export const eeat: LemmaEntry = {
     {
       term: "qualità del contenuto",
       register: "tecnico-SEO",
-      context: "senso lato, non sinonimo preciso ma area semantica equivalente",
+      context: "senso lato, non sinonimo preciso, ma area semantica equivalente",
     },
   ],
   antonyms: [],
@@ -83,7 +83,7 @@ export const eeat: LemmaEntry = {
     "Tuttavia, i contenuti che soddisfano i criteri E-E-A-T tendono naturalmente a generare " +
     "backlink di qualità, citazioni autorevoli, bassa frequenza di rimbalzo e interazioni positive — " +
     "tutti segnali che gli algoritmi di ranking misurano indirettamente. " +
-    "Il rispetto di E-E-A-T è quindi una condizione necessaria ma non sufficiente per il posizionamento.",
+    "Il rispetto di E-E-A-T è quindi una condizione necessaria, ma non sufficiente per il posizionamento.",
   editorialStatus: "reviewed",
   indexable: true,
   seo: {
@@ -93,5 +93,5 @@ export const eeat: LemmaEntry = {
       "Framework qualità contenuti web. Non è un ranking factor diretto.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

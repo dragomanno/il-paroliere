@@ -51,7 +51,7 @@ export const flosco: LemmaEntry = {
     "Flosco è una parola che si sente anche fisicamente: il suono stesso evoca la mancanza " +
     "di tensione — quelle consonanti morbide, quella chiusura in -o che non ha la durezza " +
     "di una parola tonica. C’è una coerenza fonetica tra il lemma e il concetto che " +
-    "definisce, e non è un caso.",
+    "definisce e non è un caso.",
 
   sourceLinks: {},
 
@@ -64,5 +64,5 @@ export const flosco: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

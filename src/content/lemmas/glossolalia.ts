@@ -14,10 +14,10 @@ export const glossolalia: LemmaEntry = {
   domains: ["linguistica", "religione", "psicologia"],
 
   definition:
-    "In senso proprio, fenomeno verbale che consiste nel produrre sequenze di suoni con struttura fonetica simile a un linguaggio, ma privi di un sistema grammaticale riconoscibile e di un significato condiviso e decodificabile da chi ascolta. Nel contesto religioso — dove il termine è attestato fin dal Nuovo Testamento, nell'episodio della Pentecoste — la glossolalia è vissuta da molte tradizioni cristiane pentecostali e carismatiche come 'dono delle lingue', un'esperienza spirituale di parlare in una lingua sconosciuta a chi parla. In psichiatria, la stessa produzione verbale incomprensibile può comparire come sintomo in alcuni disturbi mentali. Per estensione figurata, glossolalia indica oggi, nel linguaggio critico e giornalistico, qualunque discorso che ha la forma esteriore del linguaggio complesso e competente ma è di fatto vuoto di contenuto reale — un flusso verbale che suona autorevole senza dire nulla di verificabile.",
+    "In senso proprio, fenomeno verbale che consiste nel produrre sequenze di suoni con struttura fonetica simile a un linguaggio, ma privi di un sistema grammaticale riconoscibile e di un significato condiviso e decodificabile da chi ascolta. Nel contesto religioso — dove il termine è attestato fin dal Nuovo Testamento, nell'episodio della Pentecoste — la glossolalia è vissuta da molte tradizioni cristiane pentecostali e carismatiche come 'dono delle lingue', un'esperienza spirituale di parlare in una lingua sconosciuta a chi parla. In psichiatria, la stessa produzione verbale incomprensibile può comparire come sintomo in alcuni disturbi mentali. Per estensione figurata, glossolalia indica oggi, nel linguaggio critico e giornalistico, qualunque discorso che ha la forma esteriore del linguaggio complesso e competente, ma è di fatto vuoto di contenuto reale — un flusso verbale che suona autorevole senza dire nulla di verificabile.",
 
   shortDefinition:
-    "Discorso dalla forma linguistica ma privo di grammatica e significato condiviso — dono spirituale in ambito religioso, sintomo in psichiatria, e per estensione discorso vuoto ma dall'apparenza colta.",
+    "Discorso dalla forma linguistica, ma privo di grammatica e significato condiviso — dono spirituale in ambito religioso, sintomo in psichiatria e, per estensione, discorso vuoto, ma dall'apparenza colta.",
 
   etymology:
     "Dal greco *glôssa* «lingua» e *laléō* «parlare»: letteralmente «parlare in lingue» — l'espressione compare già nel testo greco degli Atti degli Apostoli per descrivere il fenomeno della Pentecoste.",
@@ -30,7 +30,7 @@ export const glossolalia: LemmaEntry = {
   ],
 
   synonyms: [
-    { term: "xenoglossia", register: "tecnico", note: "Termine tecnicamente distinto: indica il parlare (presunto) in una lingua reale ma sconosciuta a chi parla, non in suoni privi di struttura grammaticale." },
+    { term: "xenoglossia", register: "tecnico", note: "Termine tecnicamente distinto: indica il parlare (presunto) in una lingua reale, ma sconosciuta a chi parla, non in suoni privi di struttura grammaticale." },
   ],
 
   antonyms: [
@@ -57,5 +57,5 @@ export const glossolalia: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

@@ -25,7 +25,7 @@ export const declinare: LemmaEntry = {
   examples: [
     "Ha declinato l'invito con un biglietto gentile, senza inventare scuse.",
     "Al liceo dovevamo declinare rosa, rosae fino a saperla a memoria.",
-    "Verso sera la febbre ha cominciato a declinare, e tutti in casa hanno tirato un sospiro di sollievo.",
+    "Verso sera la febbre ha cominciato a declinare e tutti in casa hanno tirato un sospiro di sollievo.",
   ],
 
   synonyms: [

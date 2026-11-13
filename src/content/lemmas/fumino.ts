@@ -14,7 +14,7 @@ export const fumino: LemmaEntry = {
   definition:
     "Persona che si arrabbia facilmente, che «fuma» di rabbia alla minima provocazione — " +
     "ma in modo rapido, esplosivo e quasi sempre passeggero. Il fumino non è un personaggio " +
-    "rancoroso: è qualcuno che scatta, sbuffa, si infiamma, e poi si spegne altrettanto in " +
+    "rancoroso: è qualcuno che scatta, sbuffa, si infiamma e poi si spegne altrettanto in " +
     "fretta. La metafora è quella del fumo che sale improvviso e poi si dissolve. Il termine " +
     "è tipico del parlato toscano e fiorentino, dove conserva una connotazione quasi " +
     "affettuosa — il fumino è un tipo umano riconoscibile e bonariamente accettato. " +
@@ -26,7 +26,7 @@ export const fumino: LemmaEntry = {
     "dichiarazione d'identità.",
 
   shortDefinition:
-    "Chi si arrabbia facilmente e in modo esplosivo ma passeggero; termine toscano, sinonimo " +
+    "Chi si arrabbia facilmente e in modo esplosivo, ma passeggero; termine toscano, sinonimo " +
     "colloquiale di irascibile, con sfumatura più bonaria.",
 
   register: ["colloquiale toscano", "familiare"],
@@ -104,7 +104,7 @@ export const fumino: LemmaEntry = {
 
   paroliereNote:
     "Fumino è una di quelle parole che non si traducono facilmente in un'altra lingua senza " +
-    "perdere qualcosa — non solo il significato ma il tono, la bonaria autoironia, il modo " +
+    "perdere qualcosa — non solo il significato, ma il tono, la bonaria autoironia, il modo " +
     "toscano di fare di un difetto un titolo di merito. «Son 'fumino'» non è un'ammissione di " +
     "colpa: è quasi una dichiarazione d'identità fiera. La parola porta con sé tutta la cultura " +
     "toscana del caratteraccio sopportabile, dell'ira che non degrada in rancore, della scaltrezza " +
@@ -121,5 +121,5 @@ export const fumino: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

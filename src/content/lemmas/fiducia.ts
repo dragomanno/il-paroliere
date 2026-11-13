@@ -33,7 +33,7 @@ export const fiducia: LemmaEntry = {
 
   examples: [
     "La fiducia si costruisce lentamente e si distrugge in un istante: questa asimmetria spiega perché i sistemi sociali che la perdono impiegano generazioni a ricostruirla.",
-    "Nelle organizzazioni ad alta gerarchia, la fiducia spesso scorre solo dall’alto verso il basso: i capi si fidano dei subordinati solo fino a un certo punto, e quella riserva si percepisce.",
+    "Nelle organizzazioni ad alta gerarchia, la fiducia spesso scorre solo dall’alto verso il basso: i capi si fidano dei subordinati solo fino a un certo punto e quella riserva si percepisce.",
     "Il contratto è il sostituto formale della fiducia: serve esattamente quando la fiducia non è abbastanza.",
     "Dare fiducia a chi non la merita ancora è un rischio; non darla mai a nessuno è una certezza di isolamento.",
   ],
@@ -65,9 +65,9 @@ export const fiducia: LemmaEntry = {
 
   seo: {
     title: "fiducia — affidarsi nonostante l’incertezza, tra psicologia e sociologia",
-    description: "Che cos’è la fiducia: definizione psicologica e sociologica, differenza da certezza e fede, e perché è l’infrastruttura invisibile della cooperazione sociale.",
+    description: "Che cos’è la fiducia: definizione psicologica e sociologica, differenza da certezza e fede e perché è l’infrastruttura invisibile della cooperazione sociale.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

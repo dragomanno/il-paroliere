@@ -27,7 +27,7 @@ export const diritto: LemmaEntry = {
     "Dal latino *directus* (participio di *dirigere*, 'dirigere, mettere in riga'), poi usato come sostantivo " +
     "per indicare la norma retta che guida il comportamento. Convive con il latinismo giuridico *ius*.",
   examples: [
-    "Il diritto internazionale regola i rapporti tra Stati sovrani ma la sua applicazione dipende spesso dalla volontà politica degli attori.",
+    "Il diritto internazionale regola i rapporti tra Stati sovrani, ma la sua applicazione dipende spesso dalla volontà politica degli attori.",
     "Ogni cittadino ha il diritto di difendersi in giudizio: il contraddittorio è principio fondamentale del processo.",
     "La filosofia del diritto distingue la validità formale di una norma (è stata approvata secondo procedura?) dalla sua giustizia sostanziale.",
   ],
@@ -60,5 +60,5 @@ export const diritto: LemmaEntry = {
     description: "Diritto: sistema di norme per la convivenza civile (senso oggettivo) e facoltà del soggetto (senso soggettivo). Filosofia del diritto, giurisprudenza.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

@@ -38,7 +38,7 @@ export const eufemismo: LemmaEntry = {
       {
         term: "litote",
         register: "tecnico",
-        context: "attenuazione per negazione del contrario — forma contigua ma distinta",
+        context: "attenuazione per negazione del contrario — forma contigua, ma distinta",
       },
     ],
 
@@ -56,7 +56,7 @@ export const eufemismo: LemmaEntry = {
   },
 
   paroliereNote:
-    "George Orwell dedica pagine memorabili all'eufemismo politico: «pacificazione» per bombardamento, «trasferimento di popolazione» per deportazione. Ma l'eufemismo non è sempre disonesto — dire «è mancato» invece di «è morto» può essere un gesto di rispetto genuino. La questione non è la parola: è chi la sceglie, per chi, e con quale intenzione.",
+    "George Orwell dedica pagine memorabili all'eufemismo politico: «pacificazione» per bombardamento, «trasferimento di popolazione» per deportazione. Ma l'eufemismo non è sempre disonesto — dire «è mancato» invece di «è morto» può essere un gesto di rispetto genuino. La questione non è la parola: è chi la sceglie, per chi e con quale intenzione.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -68,5 +68,5 @@ export const eufemismo: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-08-21",
+  updatedAt: "2026-11-13",
 };

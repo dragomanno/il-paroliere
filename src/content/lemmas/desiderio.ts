@@ -14,7 +14,7 @@ export const desiderio: LemmaEntry = {
   domains: ["psicologia", "relazioni", "filosofia", "sessualità"],
 
   definition:
-    "1. Tensione della mente o del corpo verso ciò che manca, attrae o si vorrebbe ottenere: può riguardare un bene concreto, una persona, un'esperienza o una condizione futura. Non misura da sé l'intensità né promette un'azione; è il nucleo ampio da cui si distinguono l'orientata → aspirazione e la più urgente brama. 2. Nelle relazioni e nella sessualità, attrazione che porta a cercare intimità o contatto erotico con qualcuno; può essere ricambiata, incerta, intensa o quieta, e chiede sempre ascolto e rispetto reciproco.",
+    "1. Tensione della mente o del corpo verso ciò che manca, attrae o si vorrebbe ottenere: può riguardare un bene concreto, una persona, un'esperienza o una condizione futura. Non misura da sé l'intensità né promette un'azione; è il nucleo ampio da cui si distinguono l'orientata → aspirazione e la più urgente brama. 2. Nelle relazioni e nella sessualità, attrazione che porta a cercare intimità o contatto erotico con qualcuno; può essere ricambiata, incerta, intensa o quieta e chiede sempre ascolto e rispetto reciproco.",
 
   shortDefinition:
     "Tensione verso ciò che manca o attrae, concreta, affettiva o sessuale, senza implicare per forza urgenza o progetto.",
@@ -48,7 +48,7 @@ export const desiderio: LemmaEntry = {
   },
 
   paroliereNote:
-    "Desiderio è la parola-cerniera del gruppo: non nobilita né condanna ciò che muove, e lascia aperte intensità, oggetto e conseguenze. Anche quando riguarda la sessualità non equivale a pretesa: nomina un orientamento verso l'altro, non un diritto sull'altro. Quando si vuole nominare una direzione già costruita conviene passare a → aspirazione; quando prevale la mancanza, il rapporto con → attesa cambia il tono della frase.",
+    "Desiderio è la parola-cerniera del gruppo: non nobilita né condanna ciò che muove e lascia aperte intensità, oggetto e conseguenze. Anche quando riguarda la sessualità non equivale a pretesa: nomina un orientamento verso l'altro, non un diritto sull'altro. Quando si vuole nominare una direzione già costruita conviene passare a → aspirazione; quando prevale la mancanza, il rapporto con → attesa cambia il tono della frase.",
 
   editorialStatus: "draft",
   indexable: true,
@@ -60,5 +60,5 @@ export const desiderio: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-08-24",
+  updatedAt: "2026-11-13",
 };
