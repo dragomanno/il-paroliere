@@ -19,7 +19,7 @@ export const pellame: LemmaEntry = {
   ],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["coltelleria", "cesellatura", "pelletteria", "cuoio", "concia"],
+  relatedWords: ["pelletteria", "cuoio", "pelliccia", "concia", "conceria"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/pelle" },
   paroliereNote:
     "Il pellame è la materia prima prima che diventi borsa, scarpa, cintura. In Toscana — con i distretti conciatori di Santa Croce sull'Arno — il pellame è un'industria storica che alimenta la moda italiana di lusso. Una parola tecnica che porta con sé un'intera filiera produttiva.",
