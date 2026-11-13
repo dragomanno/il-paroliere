@@ -15,7 +15,7 @@ export const recrudescenza: LemmaEntry = {
     "malattia che peggiora dopo un periodo di relativa stasi, un fenomeno sociale che si " +
     "intensifica dopo una fase di calo, un conflitto che riprende vigore dopo una tregua. " +
     "La recrudescenza non è una ricaduta — che implica un ritorno dopo la guarigione — " +
-    "né una semplice continuazione: è il peggioramento di qualcosa che era già presente " +
+    "né una semplice continuazione: è il peggioramento di qualcosa che era già presente, " +
     "ma sembrava stesse migliorando. Porta con sé l'idea di qualcosa di brutale che torna " +
     "a farsi sentire con rinnovata forza, come se avesse accumulato energia durante la " +
     "fase di latenza. In medicina, la recrudescenza si distingue dalla recidiva (ritorno " +
@@ -113,5 +113,5 @@ export const recrudescenza: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

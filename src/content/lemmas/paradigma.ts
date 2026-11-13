@@ -36,7 +36,7 @@ export const paradigma: LemmaEntry = {
   ],
 
   antonyms: [
-    { term: "anomalia", register: "tecnico", note: "Nel lessico kuhniano, il fatto osservativo che il paradigma vigente non riesce a spiegare, e che può innescarne la crisi." },
+    { term: "anomalia", register: "tecnico", note: "Nel lessico kuhniano, il fatto osservativo che il paradigma vigente non riesce a spiegare e che può innescarne la crisi." },
     { term: "eccezione", register: "comune", note: "Nell'uso corrente, ciò che sfugge al modello dominante senza necessariamente scalzarlo." },
   ],
 
@@ -47,7 +47,7 @@ export const paradigma: LemmaEntry = {
   },
 
   paroliereNote:
-    "Paradigma è una di quelle parole che hanno pagato il prezzo del proprio successo: nate per fare un lavoro concettuale molto preciso — descrivere come cambia la scienza — sono state prese in prestito da chiunque avesse bisogno di dare peso filosofico a un'osservazione generica. Dire “cambio di paradigma” per una nuova app o un nuovo modo di lavorare è quasi sempre un abuso: nella maggior parte dei casi si tratta di un aggiustamento, non della sostituzione di un intero modo di vedere il mondo che rende incommensurabile ciò che viene prima da ciò che viene dopo. Vale la pena riservare la parola grande alle occasioni grandi, e usare “modello” o “approccio” per tutto il resto.",
+    "Paradigma è una di quelle parole che hanno pagato il prezzo del proprio successo: nate per fare un lavoro concettuale molto preciso — descrivere come cambia la scienza — sono state prese in prestito da chiunque avesse bisogno di dare peso filosofico a un'osservazione generica. Dire “cambio di paradigma” per una nuova app o un nuovo modo di lavorare è quasi sempre un abuso: nella maggior parte dei casi si tratta di un aggiustamento, non della sostituzione di un intero modo di vedere il mondo che rende incommensurabile ciò che viene prima da ciò che viene dopo. Vale la pena riservare la parola grande alle occasioni grandi e usare “modello” o “approccio” per tutto il resto.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -55,9 +55,9 @@ export const paradigma: LemmaEntry = {
   seo: {
     title: "paradigma — significato, origine kuhniana e uso corrente",
     description:
-      "Che cos'è un paradigma tra filosofia della scienza e Thomas Kuhn, e perché l'uso comune del termine spesso ne tradisce il rigore originario.",
+      "Che cos'è un paradigma tra filosofia della scienza e Thomas Kuhn e perché l'uso comune del termine spesso ne tradisce il rigore originario.",
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

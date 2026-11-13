@@ -63,7 +63,7 @@ export const rodomontesco: LemmaEntry = {
   },
 
   paroliereNote:
-    "I poemi cavallereschi del Rinascimento sono una miniera inesauribile per la lingua italiana: da Boiardo, e poi da Ariosto che ne ha fatto la fortuna, vengono gradasso e rodomontesco. Il fatto che un personaggio nato alla fine del Quattrocento sia ancora vivo nella lingua contemporanea come aggettivo ironico dice molto sulla forza dell'iperbole cavalleresca. Usare rodomontesco oggi è sempre un piccolo omaggio letterario, voluto o no.",
+    "I poemi cavallereschi del Rinascimento sono una miniera inesauribile per la lingua italiana: da Boiardo e poi da Ariosto, che ne ha fatto la fortuna, vengono gradasso e rodomontesco. Il fatto che un personaggio nato alla fine del Quattrocento sia ancora vivo nella lingua contemporanea come aggettivo ironico dice molto sulla forza dell'iperbole cavalleresca. Usare rodomontesco oggi è sempre un piccolo omaggio letterario, voluto o no.",
 
   editorialStatus: "reviewed",
   indexable: true,

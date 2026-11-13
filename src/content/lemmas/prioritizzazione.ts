@@ -15,7 +15,7 @@ export const prioritizzazione: LemmaEntry = {
   examples: [
     "La prioritizzazione dei bug ha permesso al team di risolvere prima quelli che bloccavano i clienti.",
     "In riunione si è parlato a lungo di prioritizzazione, ma nessuno ha deciso cosa fare per primo.",
-    "Nel documento abbiamo scritto «definizione delle priorità» invece di prioritizzazione, e il senso non è cambiato.",
+    "Nel documento abbiamo scritto «definizione delle priorità» invece di prioritizzazione e il senso non è cambiato.",
   ],
   synonyms: [{ term: "definizione delle priorità", register: "comune", note: "forma preferita dai puristi" }],
   antonyms: [],

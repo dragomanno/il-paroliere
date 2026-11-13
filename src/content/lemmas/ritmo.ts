@@ -15,7 +15,7 @@ export const ritmo: LemmaEntry = {
 
   definition:
     "Successione regolare o percepibilmente ordinata di elementi nel tempo — suoni, " +
-    "movimenti, parole, impulsi biologici. Il ritmo non richiede uniformità ma percezione " +
+    "movimenti, parole, impulsi biologici. Il ritmo non richiede uniformità, ma percezione " +
     "di un pattern: anche le irregolarità ritmiche (sincopi, pause, accelerazioni) sono " +
     "ritmo nella misura in cui producono un’attesa e la soddisfano o la delicono. In " +
     "biologia, il ritmo governa i cicli del corpo: battito cardiaco, respiro, sonno.",
@@ -30,7 +30,7 @@ export const ritmo: LemmaEntry = {
   examples: [
     "Il ritmo di una prosa non si misura solo con le sillabe: è la relazione tra lunghezza dei periodi, posizione degli accenti, distribuzione delle pause — tutto ciò che fa muovere il testo.",
     "Il ritmo circadiano non è un’abitudine: è un orologio biologico endogeno che persiste anche nell’assenza di luce esterna, regolando temperatura, ormoni e veglia.",
-    "In jazz, il ritmo non è la gabbia che limita l’improvvisazione: è il suolo su cui l’improvvisatore cammina, e la tensione nasce dal gioco tra il piano e il passo.",
+    "In jazz, il ritmo non è la gabbia che limita l’improvvisazione: è il suolo su cui l’improvvisatore cammina e la tensione nasce dal gioco tra il piano e il passo.",
     "Certi montatori cinematografici hanno un senso del ritmo talmente preciso da potersi sentire fisicamente: il taglio arriva esattamente quando il corpo se lo aspettava — o un battito prima, per sorpresa.",
   ],
 
@@ -63,5 +63,5 @@ export const ritmo: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

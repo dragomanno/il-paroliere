@@ -23,7 +23,7 @@ export const pensieroLaterale: LemmaEntry = {
     "Calco dall'inglese *lateral thinking*, espressione coniata dallo psicologo maltese Edward de Bono nel suo libro del 1967 *The Use of Lateral Thinking*. L'aggettivo *laterale*, dal latino *lateralis*, derivato di *latus*, “fianco, lato”, rende l'idea di un movimento del pensiero che si sposta di lato rispetto al percorso logico atteso, anziché avanzare in linea retta verso la conclusione più ovvia. L'espressione, nata come termine tecnico della psicologia della creatività, è oggi un calco pienamente integrato nel lessico manageriale e divulgativo italiano.",
 
   examples: [
-    "Il problema sembrava irrisolvibile finché non ha applicato un po' di pensiero laterale, chiedendosi non 'come lo risolvo' ma 'perché deve essere risolto in questo modo'.",
+    "Il problema sembrava irrisolvibile finché non ha applicato un po' di pensiero laterale, chiedendosi non 'come lo risolvo', ma 'perché deve essere risolto in questo modo'.",
     "Nei colloqui di lavoro creativi si usano talvolta indovinelli da pensiero laterale, apparentemente senza logica, per valutare la flessibilità mentale del candidato più che la sua conoscenza tecnica.",
     "De Bono insegnava che il pensiero verticale scava lo stesso buco più a fondo, mentre il pensiero laterale sposta lo scavo in un punto diverso del terreno.",
     "L'azienda ha risolto il calo di vendite con una soluzione di pensiero laterale: invece di abbassare i prezzi, ha cambiato il pubblico a cui si rivolgeva il prodotto.",
@@ -58,5 +58,5 @@ export const pensieroLaterale: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

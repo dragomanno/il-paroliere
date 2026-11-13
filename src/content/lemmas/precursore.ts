@@ -16,7 +16,7 @@ export const precursore: LemmaEntry = {
     "visione prima che il contesto culturale, tecnologico o sociale sia pronto ad accoglierla. " +
     "Il precursore non è semplicemente un pioniere o un innovatore: porta con sé una dimensione " +
     "di solitudine e incomprensione temporanea. È colui che arriva prima, che vede ciò che gli " +
-    "altri non vedono ancora, e che spesso paga questa visione anticipatrice con " +
+    "altri non vedono ancora e che spesso paga questa visione anticipatrice con " +
     "l'incomprensione dei contemporanei — per essere poi riconosciuto, a volte molto dopo, " +
     "come il punto di origine di qualcosa di grande. Il precursore non è necessariamente un " +
     "genio solitario — può anche essere qualcuno che ha combinato le idee giuste nel momento " +
@@ -123,5 +123,5 @@ export const precursore: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

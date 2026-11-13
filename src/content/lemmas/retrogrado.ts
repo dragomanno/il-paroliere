@@ -16,7 +16,7 @@ export const retrogrado: LemmaEntry = {
   definition:
     "Detto di persona, atteggiamento o idea che tende a preservare o ripristinare " +
     "l'ordine passato, resistendo attivamente al cambiamento. In senso proprio indica " +
-    "chi vuole tornare indietro; in senso figurato, e spesso ironico, chi è incapace " +
+    "chi vuole tornare indietro; in senso figurato e spesso ironico, chi è incapace " +
     "di aggiornarsi, chi giudica il nuovo con diffidenza sistematica. Come sostantivo " +
     "indica direttamente quella persona. Nel linguaggio giovanile contemporaneo è " +
     "spesso intercambiabile con boomer, ma con tono meno pop e più diretto.",
@@ -63,7 +63,7 @@ export const retrogrado: LemmaEntry = {
     "percorso tutto il Novecento come etichetta ideologica. Oggi convive con «boomer» " +
     "nel linguaggio comune, ma non è la stessa parola: «retrogrado» giudica l'idea o " +
     "il comportamento; «boomer» giudica la persona attraverso la sua generazione di " +
-    "appartenenza. La differenza è sottile ma conta.",
+    "appartenenza. La differenza è sottile, ma conta.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -76,5 +76,5 @@ export const retrogrado: LemmaEntry = {
   },
 
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

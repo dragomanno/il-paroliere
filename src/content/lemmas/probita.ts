@@ -12,9 +12,9 @@ export const probita: LemmaEntry = {
 
   definition:
     "Integrità morale rigorosa e costante; la qualità di chi è probo — cioè di chi " +
-    "non solo non fa il male ma ha interiorizzato profondamente i principi etici fino a " +
+    "non solo non fa il male, ma ha interiorizzato profondamente i principi etici fino a " +
     "farne una seconda natura. Probità è un'onestà elevata, quasi ascetica: non si " +
-    "limita all'assenza di comportamenti scorretti ma indica una rettitudine positiva, " +
+    "limita all'assenza di comportamenti scorretti, ma indica una rettitudine positiva, " +
     "attiva, che si manifesta anche quando nessuno osserva e anche quando la " +
     "scorrettezza sarebbe vantaggiosa e impunita. Nel lessico giuridico italiano, " +
     "probità compare spesso come requisito per l'esercizio di determinati ruoli pubblici " +
@@ -113,5 +113,5 @@ export const probita: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

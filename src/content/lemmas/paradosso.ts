@@ -12,17 +12,17 @@ export const paradosso: LemmaEntry = {
   gender: "maschile",
 
   definition:
-    "Affermazione o situazione che contraddice le aspettative ma non per " +
+    "Affermazione o situazione che contraddice le aspettative, ma non per " +
     "questo si smonta: a un esame più attento rivela una coerenza che " +
     "resiste, o almeno una domanda che vale la pena tenere aperta. In " +
     "logica, il paradosso è una contraddizione formale che il sistema non " +
     "riesce a risolvere dall'interno — come il paradosso di Russell o quello " +
     "del mentitore. Nel linguaggio comune indica piuttosto l'ironia della " +
-    "realtà: ciò che doveva funzionare non funziona, e ciò che sembrava " +
+    "realtà: ciò che doveva funzionare non funziona e ciò che sembrava " +
     "assurdo si rivela vero.",
 
   shortDefinition:
-    "Situazione o argomento che contraddice le aspettative ma nasconde una sua verità; in logica, contraddizione che il sistema non riesce a risolvere.",
+    "Situazione o argomento che contraddice le aspettative, ma nasconde una sua verità; in logica, contraddizione che il sistema non riesce a risolvere.",
 
   register: ["comune", "filosofico"],
   domains: ["logica", "retorica"],
@@ -83,5 +83,5 @@ export const paradosso: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

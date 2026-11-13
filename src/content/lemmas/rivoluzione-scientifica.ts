@@ -14,7 +14,7 @@ export const rivoluzioneScientifica: LemmaEntry = {
   domains: ["storia della scienza", "epistemologia", "filosofia"],
 
   definition:
-    "In senso storico, il periodo di trasformazione radicale del pensiero occidentale sul mondo naturale convenzionalmente compreso tra il 1543 — anno di pubblicazione del *De revolutionibus orbium coelestium* di Copernico — e il 1687, anno dei *Philosophiae Naturalis Principia Mathematica* di Newton: un arco di tempo in cui il modello geocentrico tolemaico viene sostituito da quello eliocentrico, si afferma il metodo sperimentale con Galileo, e nasce la scienza moderna come disciplina fondata su osservazione, misurazione matematica e verifica empirica, non più su autorità testuale. In senso epistemologico più generale — teorizzato da Thomas Kuhn nel 1962 — una rivoluzione scientifica è invece qualunque episodio, di qualsiasi epoca, in cui un paradigma scientifico consolidato viene sostituito da uno nuovo e incommensurabile col precedente, in seguito all'accumularsi di anomalie che la scienza \"normale\" non riesce più a spiegare: in questa accezione, oltre alla rivoluzione copernicana, si parla di rivoluzione scientifica anche per la meccanica quantistica, la relatività einsteiniana o la genetica darwiniana.",
+    "In senso storico, il periodo di trasformazione radicale del pensiero occidentale sul mondo naturale convenzionalmente compreso tra il 1543 — anno di pubblicazione del *De revolutionibus orbium coelestium* di Copernico — e il 1687, anno dei *Philosophiae Naturalis Principia Mathematica* di Newton: un arco di tempo in cui il modello geocentrico tolemaico viene sostituito da quello eliocentrico, si afferma il metodo sperimentale con Galileo e nasce la scienza moderna come disciplina fondata su osservazione, misurazione matematica e verifica empirica, non più su autorità testuale. In senso epistemologico più generale — teorizzato da Thomas Kuhn nel 1962 — una rivoluzione scientifica è invece qualunque episodio, di qualsiasi epoca, in cui un paradigma scientifico consolidato viene sostituito da uno nuovo e incommensurabile col precedente, in seguito all'accumularsi di anomalie che la scienza \"normale\" non riesce più a spiegare: in questa accezione, oltre alla rivoluzione copernicana, si parla di rivoluzione scientifica anche per la meccanica quantistica, la relatività einsteiniana o la genetica darwiniana.",
 
   shortDefinition:
     "Il passaggio storico (1543-1687) dal modello tolemaico alla scienza moderna; in senso kuhniano, qualunque sostituzione di un paradigma scientifico con uno incommensurabile.",
@@ -46,7 +46,7 @@ export const rivoluzioneScientifica: LemmaEntry = {
   },
 
   paroliereNote:
-    "Vale la pena distinguere le due vite di questa espressione. Come nome proprio di un evento storico, la rivoluzione scientifica ha date, protagonisti e un finale (convenzionalmente Newton, 1687). Come categoria teorica kuhniana, invece, non è un evento ma uno schema ricorrente — il che spiega perché si possa dire, senza contraddizione, che ci sono state molte rivoluzioni scientifiche dopo *la* rivoluzione scientifica. Chi cita Kuhn a sproposito, per etichettare come 'rivoluzionario' qualunque prodotto o teoria di moda, ne tradisce proprio il punto: per Kuhn una rivoluzione autentica è rara, dolorosa, e richiede che un'intera comunità impari a vedere il mondo in un modo incommensurabile con quello di prima — non un aggiornamento incrementale.",
+    "Vale la pena distinguere le due vite di questa espressione. Come nome proprio di un evento storico, la rivoluzione scientifica ha date, protagonisti e un finale (convenzionalmente Newton, 1687). Come categoria teorica kuhniana, invece, non è un evento, ma uno schema ricorrente — il che spiega perché si possa dire, senza contraddizione, che ci sono state molte rivoluzioni scientifiche dopo *la* rivoluzione scientifica. Chi cita Kuhn a sproposito, per etichettare come 'rivoluzionario' qualunque prodotto o teoria di moda, ne tradisce proprio il punto: per Kuhn una rivoluzione autentica è rara, dolorosa e richiede che un'intera comunità impari a vedere il mondo in un modo incommensurabile con quello di prima — non un aggiornamento incrementale.",
 
   editorialStatus: "draft",
   indexable: true,
@@ -58,5 +58,5 @@ export const rivoluzioneScientifica: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

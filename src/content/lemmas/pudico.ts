@@ -96,7 +96,7 @@ export const pudico: LemmaEntry = {
 
   paroliereNote:
     "Pudìco porta l'accento sulla i per disambiguare la pronuncia: pu-dì-co, non " +
-    "pù-di-co. È l'aggettivo di → pudore, e come il sostantivo da cui deriva ha " +
+    "pù-di-co. È l'aggettivo di → pudore e, come il sostantivo da cui deriva, ha " +
     "attraversato valutazioni molto diverse nel tempo — virtù obbligatoria per secoli, " +
     "poi messa in discussione come strumento di controllo, oggi in parte rivalutata come " +
     "scelta consapevole di non esporre tutto. Un gesto pudìco non è gesto represso: è " +
@@ -113,5 +113,5 @@ export const pudico: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

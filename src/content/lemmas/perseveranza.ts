@@ -66,7 +66,7 @@ export const perseveranza: LemmaEntry = {
   paroliereNote:
     "In italiano la perseveranza ha una tradizione etica molto più lunga di quanto il " +
     "suo uso corrente lasci intuire: Dante la pone tra le virtù necessarie al " +
-    "cammino, e la tradizione morale la distingue nettamente dall'ostinazione, che è " +
+    "cammino e la tradizione morale la distingue nettamente dall'ostinazione, che è " +
     "perseverare verso un fine sbagliato. Nella psicologia contemporanea il costrutto " +
     "anglosassone grit — introdotto da Angela Duckworth — ne ha rinnovato la " +
     "rilevanza scientifica, portando un termine antico nel lessico della ricerca " +

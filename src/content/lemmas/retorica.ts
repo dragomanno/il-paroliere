@@ -94,7 +94,7 @@ export const retorica: LemmaEntry = {
     "corrente porta quasi sempre una connotazione negativa non meritata dal suo " +
     "significato originario. Aristotele stesso, nella sua Retorica, la difendeva come " +
     "strumento neutro — utile tanto alla verità quanto alla menzogna, proprio come la " +
-    "logica — e ne condannava non l'esistenza ma l'uso scorretto. La differenza tra " +
+    "logica — e ne condannava non l'esistenza, ma l'uso scorretto. La differenza tra " +
     "retorica e → demagogia o → propaganda non sta nelle tecniche impiegate, spesso le " +
     "stesse, ma nel rapporto con la verità e con l'interlocutore: la retorica in senso " +
     "pieno presuppone un uditorio capace di giudizio, a cui si offrono ragioni " +
@@ -113,5 +113,5 @@ export const retorica: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

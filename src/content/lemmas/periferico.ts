@@ -14,7 +14,7 @@ export const periferico: LemmaEntry = {
   definition:
     "Che appartiene alla periferia o ne condivide la posizione: lontano dal " +
     "centro, ai margini di un tessuto urbano o di un sistema. In informatica, " +
-    "indica un dispositivo collegato a un computer ma esterno alla sua unità " +
+    "indica un dispositivo collegato a un computer, ma esterno alla sua unità " +
     "centrale — una stampante, un monitor, una periferica di input. In senso " +
     "figurato, descrive ciò che occupa una posizione secondaria, non determinante, " +
     "dentro un discorso o una struttura di potere.",
@@ -32,7 +32,7 @@ export const periferico: LemmaEntry = {
     "attorno a un centro.",
 
   examples: [
-    "Viveva in un quartiere periferico della città, lontano dal centro ma non " +
+    "Viveva in un quartiere periferico della città, lontano dal centro, ma non " +
     "dal senso di appartenenza.",
     "Il mouse e la tastiera sono periferiche: fondamentali, eppure sempre esterne " +
     "alla CPU.",
@@ -106,5 +106,5 @@ export const periferico: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

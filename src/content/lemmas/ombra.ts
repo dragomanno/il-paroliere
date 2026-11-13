@@ -16,7 +16,7 @@ export const ombra: LemmaEntry = {
   definition:
     "Zona di oscurità prodotta dall’interposizione di un corpo opaco tra una fonte " +
     "luminosa e una superficie. In pittura e fotografia, l’ombra non è assenza di " +
-    "informazione ma informazione di tipo diverso: rivela volume, profondità, texture. " +
+    "informazione, ma informazione di tipo diverso: rivela volume, profondità, texture. " +
     "In psicologia junghiana, l’Ombra è la parte inconscia della personalità che " +
     "contiene ciò che è stato represso o rifiutato. In letteratura, è quasi sempre " +
     "simbolo di morte, mistero, segreto.",
@@ -30,7 +30,7 @@ export const ombra: LemmaEntry = {
     "fantasma dei morti — l’ombra come presenza spettrale.",
 
   examples: [
-    "Caravaggio usava l’ombra non come sfondo ma come soggetto: il chiaroscuro non illumina la scena, la costruisce dalla tensione tra luce e buio.",
+    "Caravaggio usava l’ombra non come sfondo, ma come soggetto: il chiaroscuro non illumina la scena, la costruisce dalla tensione tra luce e buio.",
     "L’ombra di un edificio in un progetto architettonico non è un effetto collaterale da gestire: è un dato progettuale che cambia la qualità degli spazi circostanti a seconda dell’ora e della stagione.",
     "Nel concetto junghiano di Ombra, integrare la propria oscurità non significa diventarla: significa riconoscerla abbastanza da non lasciarla agire di nascosto.",
     "C’è un’ombra in certi ritratti fotografici — non buio, ma una zona di non-risoluzione — che dice più del soggetto di qualunque area illuminata.",
@@ -38,7 +38,7 @@ export const ombra: LemmaEntry = {
 
   synonyms: [
     { term: "oscurità", register: "comune", note: "Più totale: assenza di luce senza la specificità della proiezione." },
-    { term: "penombra", register: "comune-tecnico", note: "La zona di ombra parziale ai bordi dell’ombra totale; luce ridotta ma non assente." },
+    { term: "penombra", register: "comune-tecnico", note: "La zona di ombra parziale ai bordi dell’ombra totale; luce ridotta, ma non assente." },
   ],
 
   antonyms: [
@@ -65,5 +65,5 @@ export const ombra: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

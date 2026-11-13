@@ -14,8 +14,8 @@ export const ostello: LemmaEntry = {
     "Dal latino hospitale, luogo di ospitalità, attraverso il francese antico hostel e il provenzale; la forma ostello della gioventù si afferma in italiano nel Novecento come traduzione di youth hostel.",
   examples: [
     "Durante l'Interrail dormivano negli ostelli, in camerate da otto letti.",
-    "L'ostello in centro ha anche camere private, più care ma comunque convenienti.",
-    "In ostello si cucina insieme, e a cena si finisce a parlare con gente arrivata da mezzo mondo.",
+    "L'ostello in centro ha anche camere private, più care, ma comunque convenienti.",
+    "In ostello si cucina insieme e a cena si finisce a parlare con gente arrivata da mezzo mondo.",
   ],
   synonyms: [{ term: "youth hostel", register: "comune", note: "forma inglese diffusa nel turismo internazionale" }],
   antonyms: [],

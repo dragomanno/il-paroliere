@@ -19,7 +19,7 @@ export const resistenzaItaliana: LemmaEntry = {
     "— un processo di rifondazione nazionale, la scelta consapevole di una parte del " +
     "paese di ricostruire dall'interno, sotto le bombe e sotto la minaccia, un'identità " +
     "collettiva fondata su valori diversi da quelli del ventennio. Accanto alla " +
-    "Resistenza armata, esiste una pagina meno nota ma storicamente centrale: la " +
+    "Resistenza armata, esiste una pagina meno nota, ma storicamente centrale: la " +
     "resistenza passiva degli IMI (Internati Militari Italiani), circa 650.000 soldati " +
     "italiani catturati dai tedeschi dopo l'8 settembre, ai quali fu offerta la scelta " +
     "di aderire alla RSI o subire i campi di lavoro forzato in Germania. La grande " +
@@ -132,5 +132,5 @@ export const resistenzaItaliana: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

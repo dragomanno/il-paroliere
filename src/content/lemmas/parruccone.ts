@@ -17,7 +17,7 @@ export const parruccone: LemmaEntry = {
     "politica e intellettuale reazionaria nel periodo successivo alla Rivoluzione " +
     "Francese e all'Illuminismo. In senso figurato corrente, una persona di mentalità " +
     "antiquata, attaccata ai valori e ai modi del passato, ostile all'innovazione e " +
-    "al progresso; un conservatore che si oppone al cambiamento non per ragionamento " +
+    "al progresso; un conservatore che si oppone al cambiamento non per ragionamento, " +
     "ma per abitudine e per paura del nuovo. L'immagine è quella di chi, anche quando " +
     "la storia aveva già voltato pagina, continuava a portare la parrucca come se " +
     "nulla fosse accaduto. Vedi anche → forchettone per la variante di registro " +
@@ -137,5 +137,5 @@ export const parruccone: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

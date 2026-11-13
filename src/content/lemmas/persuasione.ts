@@ -97,7 +97,7 @@ export const persuasione: LemmaEntry = {
     "Il confine tra persuasione e → manipolazione non è nel risultato — in entrambi i " +
     "casi qualcuno cambia idea — ma nel metodo e nella trasparenza. Chi persuade offre " +
     "ragioni che l'altro può esaminare, accettare o respingere: l'argomento resta " +
-    "verificabile anche dopo, e l'interlocutore può sempre tornare indietro con gli " +
+    "verificabile anche dopo e l'interlocutore può sempre tornare indietro con gli " +
     "stessi strumenti con cui è stato convinto. Chi manipola, invece, sfrutta canali che " +
     "l'altro non può facilmente ispezionare — leve emotive nascoste, informazioni " +
     "distorte, pressione psicologica camuffata da dialogo. È per questo che la " +
@@ -117,5 +117,5 @@ export const persuasione: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

@@ -17,7 +17,7 @@ export const presunzioneDiInnocenza: LemmaEntry = {
     "Principio giuridico secondo cui ogni persona deve essere considerata innocente fino a quando la sua colpevolezza non sia stata accertata con una prova adeguata, secondo le regole del processo e nel rispetto delle garanzie di difesa. La presunzione di innocenza impone che il dubbio ragionevole giochi a favore dell'imputato, impedendo che semplici indizi, sospetti o pressioni dell'opinione pubblica bastino per trattare qualcuno come colpevole in anticipo. Nella vita sociale e nel discorso mediatico il principio viene spesso invocato quando la narrazione pubblica brucia le tappe, costruendo colpevoli prima che il procedimento sia concluso.",
 
   shortDefinition:
-    "Principio per cui una persona è considerata innocente fino a prova contraria, e il dubbio ragionevole deve sempre giocare a suo favore.",
+    "Principio per cui una persona è considerata innocente fino a prova contraria e il dubbio ragionevole deve sempre giocare a suo favore.",
 
   etymology:
     "La locuzione combina presunzione, dal latino praesumptio, -onis “supposizione, anticipazione di giudizio” (da praesumere “prendere in anticipo”), e innocenza, dal latino innocentia “assenza di danno, assenza di colpa” (da in- privativo e nocere “nuocere”). Nel linguaggio giuridico moderno si consolida come traduzione dei principi affermati nelle dichiarazioni dei diritti e nelle costituzioni contemporanee.",
@@ -73,5 +73,5 @@ export const presunzioneDiInnocenza: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

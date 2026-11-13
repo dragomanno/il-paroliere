@@ -14,7 +14,7 @@ export const percezione: LemmaEntry = {
   domains: ["psicologia", "filosofia", "neuroscienze", "arte", "sociologia"],
 
   definition:
-    "Processo attraverso cui un organismo organizza e interpreta gli stimoli provenienti dai sensi, trasformandoli in esperienze dotate di forma e significato, e non in semplice somma di dati. In psicologia e neuroscienze la percezione è l'incontro tra ciò che arriva dall'esterno e ciò che il cervello vi proietta sopra: aspettative, memorie, bias cognitivi, linguaggio; in filosofia indica il modo in cui il mondo ci appare, prima ancora di essere concetto, spesso con una ricchezza maggiore di quella che riusciamo a dire. Nel linguaggio quotidiano, “percezione” è anche l'immagine che abbiamo di qualcosa o qualcuno, spesso diversa dai fatti misurabili.",
+    "Processo attraverso cui un organismo organizza e interpreta gli stimoli provenienti dai sensi, trasformandoli in esperienze dotate di forma e significato e non in semplice somma di dati. In psicologia e neuroscienze la percezione è l'incontro tra ciò che arriva dall'esterno e ciò che il cervello vi proietta sopra: aspettative, memorie, bias cognitivi, linguaggio; in filosofia indica il modo in cui il mondo ci appare, prima ancora di essere concetto, spesso con una ricchezza maggiore di quella che riusciamo a dire. Nel linguaggio quotidiano, “percezione” è anche l'immagine che abbiamo di qualcosa o qualcuno, spesso diversa dai fatti misurabili.",
 
   shortDefinition:
     "Modo in cui organizziamo e interpretiamo ciò che i sensi raccolgono, costruendo l'esperienza del mondo e l'immagine che ne ricaviamo.",
@@ -78,5 +78,5 @@ export const percezione: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

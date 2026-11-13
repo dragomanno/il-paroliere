@@ -22,7 +22,7 @@ export const polarizzazione: LemmaEntry = {
     "la progressiva divisione di una società o di un sistema politico in due o " +
     "più blocchi contrapposti, con riduzione delle posizioni intermedie e " +
     "rafforzamento degli estremi. Una società polarizzata è una società in cui " +
-    "il centro si svuota: chi era moderato si sposta verso un polo o l'altro, " +
+    "il centro si svuota: chi era moderato si sposta verso un polo o l'altro " +
     "e il dialogo tra posizioni diverse diventa sempre più difficile.",
 
   shortDefinition:
@@ -100,7 +100,7 @@ export const polarizzazione: LemmaEntry = {
     "metafora politica è perfetta: una società polarizzata è una in cui le " +
     "\"vibrazioni\" si sono concentrate su un asse solo, perdendo la ricchezza del " +
     "disordine originale. E — come nella fisica — la polarizzazione riduce il " +
-    "rumore ma riduce anche l'informazione.",
+    "rumore, ma riduce anche l'informazione.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -112,5 +112,5 @@ export const polarizzazione: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

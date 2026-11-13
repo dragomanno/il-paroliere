@@ -16,7 +16,7 @@ export const rarefazione: LemmaEntry = {
   definition:
     "In fisica, diminuzione della densità di un gas o di una sostanza; in estetica, " +
     "riduzione degli elementi al minimo indispensabile per creare un effetto di spazio, " +
-    "silenzio o essenzialità. La rarefazione estetica non è impoverimento ma selezione: " +
+    "silenzio o essenzialità. La rarefazione estetica non è impoverimento, ma selezione: " +
     "ogni elemento che rimane guadagna peso perché gli altri sono stati tolti.",
 
   shortDefinition:
@@ -62,5 +62,5 @@ export const rarefazione: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

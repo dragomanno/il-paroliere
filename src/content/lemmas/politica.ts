@@ -75,7 +75,7 @@ export const politica: LemmaEntry = {
     "In italiano si conserva la distinzione — sfumata nell'uso comune — tra " +
     "«politica» (politics: la competizione per il potere) e «politica» " +
     "(policy: l'insieme delle misure su un tema specifico), distinzione resa " +
-    "esplicita dall'inglese ma spesso implicita nel contesto.",
+    "esplicita dall'inglese, ma spesso implicita nel contesto.",
   editorialStatus: "reviewed",
   indexable: true,
   seo: {
@@ -85,5 +85,5 @@ export const politica: LemmaEntry = {
       "zōon politikón, filosofia politica. Etimologia ed esempi.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

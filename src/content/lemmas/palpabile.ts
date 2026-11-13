@@ -71,7 +71,7 @@ export const palpabile: LemmaEntry = {
   },
 
   paroliereNote:
-    "Palpabile è tra le parole più oneste per descrivere ciò che sfugge alle prove " +
+    "Palpabile è tra le parole più oneste per descrivere ciò che sfugge alle prove, " +
     "ma non ai sensi: una tensione palpabile non ha numeri né documenti, eppure chi " +
     "la vive non ha dubbi. Va distinto da tangibile: il tangibile si verifica, il " +
     "palpabile si sente addosso.",
@@ -82,10 +82,9 @@ export const palpabile: LemmaEntry = {
   seo: {
     title: "Palpabile — Il Paroliere",
     description:
-      "Definizione originale di 'palpabile': percepibile al tatto, e per estensione " +
-      "un'emozione così intensa da sembrare materiale. Con esempi ed etimologia da palpare.",
+      "Definizione originale di 'palpabile': percepibile al tatto e, per estensione, un'emozione così intensa da sembrare materiale. Con esempi ed etimologia da palpare.",
   },
 
   createdAt: "2026-08-21",
-  updatedAt: "2026-08-21",
+  updatedAt: "2026-11-13",
 };

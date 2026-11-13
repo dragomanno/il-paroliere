@@ -66,7 +66,7 @@ export const presagio: LemmaEntry = {
   sourceLinks: {},
 
   paroliereNote:
-    "Il presagio abita quella zona in cui il bisogno di senso incontra il caso: tendiamo a ricordare solo i segni che sembrano aver anticipato davvero un evento, e a dimenticare tutti gli altri. Per questo è così facile attribuire potere a un dettaglio una volta che la storia è andata in una certa direzione. Allo stesso tempo, la figura del presagio dà voce a una forma di attenzione fine alle sfumature: i cambiamenti minimi di atmosfera, i dettagli fuori posto, ciò che “non torna” ancora prima che accada qualcosa. Il lemma suggerisce di restare vigili sui segni, senza smettere di interrogarne la lettura.",
+    "Il presagio abita quella zona in cui il bisogno di senso incontra il caso: tendiamo a ricordare solo i segni che sembrano aver anticipato davvero un evento e a dimenticare tutti gli altri. Per questo è così facile attribuire potere a un dettaglio una volta che la storia è andata in una certa direzione. Allo stesso tempo, la figura del presagio dà voce a una forma di attenzione fine alle sfumature: i cambiamenti minimi di atmosfera, i dettagli fuori posto, ciò che “non torna” ancora prima che accada qualcosa. Il lemma suggerisce di restare vigili sui segni, senza smettere di interrogarne la lettura.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -78,5 +78,5 @@ export const presagio: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };
