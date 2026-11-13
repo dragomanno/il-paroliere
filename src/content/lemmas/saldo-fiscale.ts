@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: saldo fiscale
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -56,7 +56,7 @@ export const saldoFiscale: LemmaEntry = {
     title: "Saldo fiscale — significato, scadenze, esempi | Il Paroliere",
     description: "Che cos'è il saldo fiscale: il versamento che chiude il conto di un'imposta, al netto di acconti e ritenute. Scadenza del 30 giugno e saldo a credito.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

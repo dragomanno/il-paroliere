@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: rendita catastale
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -50,7 +50,7 @@ export const renditaCatastale: LemmaEntry = {
     title: "Rendita catastale — significato, IMU, esempi | Il Paroliere",
     description: "Che cos'è la rendita catastale: il valore annuo che il catasto attribuisce a un immobile, base per IMU e altre imposte. Come si calcola, con un esempio.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

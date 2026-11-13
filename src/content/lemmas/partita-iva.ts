@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: partita IVA
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -60,12 +60,12 @@ export const partitaIva: LemmaEntry = {
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/partita_IVA",
   },
-  paroliereNote: "Pochi codici fiscali sono diventati persone. «Le partite IVA» è ormai il nome collettivo di un mondo eterogeneo: professionisti affermati, artigiani, giovani al primo incarico, collaboratori che di autonomo hanno solo la fattura. La metonimia dice molto su come il lavoro indipendente viene percepito in Italia: prima di tutto come una posizione fiscale e solo dopo come un mestiere.",
+  paroliereNote: "Pochi codici numerici sono diventati persone. «Le partite IVA» è ormai il nome collettivo di un mondo eterogeneo: professionisti affermati, artigiani, giovani al primo incarico, collaboratori che di autonomo hanno solo la fattura. La metonimia dice molto su come il lavoro indipendente viene percepito in Italia: prima di tutto come una posizione fiscale e solo dopo come un mestiere.",
   seo: {
     title: "Partita IVA — significato, struttura, esempi | Il Paroliere",
     description: "Che cos'è la partita IVA: il codice di undici cifre che identifica imprese e professionisti ai fini IVA. Come è composto e perché indica anche gli autonomi.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

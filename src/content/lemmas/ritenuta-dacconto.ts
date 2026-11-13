@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: ritenuta d'acconto
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -57,7 +57,7 @@ export const ritenutaDacconto: LemmaEntry = {
     title: "Ritenuta d'acconto — significato, 20%, esempi | Il Paroliere",
     description: "Che cos'è la ritenuta d'acconto: la parte di un compenso trattenuta e versata al fisco come anticipo d'imposta. Il 20% sul lavoro autonomo e le esclusioni.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

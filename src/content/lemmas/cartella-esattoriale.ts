@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: cartella esattoriale
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -53,7 +53,7 @@ export const cartellaEsattoriale: LemmaEntry = {
     title: "Cartella esattoriale — significato, 60 giorni, esempi | Il Paroliere",
     description: "Che cos'è la cartella esattoriale, o cartella di pagamento: l'atto con cui l'Agenzia delle Entrate-Riscossione chiede le somme dovute. Termini e rate.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: contributi previdenziali
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -56,7 +56,7 @@ export const contributiPrevidenziali: LemmaEntry = {
     title: "Contributi previdenziali — significato, INPS, esempi | Il Paroliere",
     description: "Che cosa sono i contributi previdenziali: le somme versate per legge all'INPS o a una cassa per le pensioni. Aliquota del 33% e differenza con le imposte.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

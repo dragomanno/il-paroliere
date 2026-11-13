@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: bonus fiscale
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -55,7 +55,7 @@ export const bonusFiscale: LemmaEntry = {
     title: "Bonus fiscale — significato, tipi di agevolazione | Il Paroliere",
     description: "Che cos'è un bonus fiscale: il nome comune delle agevolazioni che riducono le imposte o versano somme ai contribuenti. Detrazioni, crediti, busta paga.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

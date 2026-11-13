@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: zona franca
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -54,7 +54,7 @@ export const zonaFranca: LemmaEntry = {
     title: "Zona franca — significato, esempi, senso figurato | Il Paroliere",
     description: "Che cos'è una zona franca: un'area esente da dazi e da alcune imposte, come Livigno o il porto di Trieste. Zone franche urbane e senso figurato.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

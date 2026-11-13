@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: forfettario
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -67,7 +67,7 @@ export const forfettario: LemmaEntry = {
     title: "Forfettario — significato, regime forfettario | Il Paroliere",
     description: "Che cosa significa forfettario: fissato in blocco, con una cifra complessiva. Il regime per le partite IVA fino a 85.000 euro, con imposta al 15% o al 5%.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",
