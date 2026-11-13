@@ -20,7 +20,7 @@ export const trattaPalio: LemmaEntry = {
   synonyms: [],
   antonyms: [],
   relatedWords: ["barbero", "malacarne", "Contrada", "Palio di Siena", "alfiere"],
-  sourceLinks: { treccani: "https://www.treccani.it/vocabolario/tratta/" },
+  sourceLinks: {},
   paroliereNote:
     "La Tratta è il momento in cui il destino di una Contrada si decide in pochi minuti. Un sorteggio che sembra casuale, ma apre stagioni di alleanze, trattative, speranze e rinunce. Nel lessico senese, la parola porta il peso di secoli di strategia.",
   editorialStatus: "reviewed",

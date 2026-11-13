@@ -21,7 +21,7 @@ export const valenza: LemmaEntry = {
   domains: ["chimica", "linguaggio"],
 
   etymology:
-    "Dal latino valentia (forza, vigore), da valere (valere, avere forza); in chimica, calco del tedesco Valenz (1868, August Kekulé).",
+    "Dal latino valentia (forza, vigore), da valere (valere, avere forza); in chimica, dal tedesco Valenz, termine introdotto nel 1868 da Hermann Wichelhaus.",
 
   examples: [
     "Il carbonio ha valenza quattro e per questo forma molecole molto varie.",
@@ -50,7 +50,7 @@ export const valenza: LemmaEntry = {
   },
 
   paroliereNote:
-    "Valenza è una di quelle parole che la chimica ha preso dal lessico comune — forza, capacità di relazione — e ha reso tecnica, poi il lessico comune ha ripreso il termine dalla chimica e lo usa per dire qualcosa di più preciso di 'valore'. È un doppio prestito che ha arricchito entrambe le direzioni.",
+    "Valenza ha fatto un giro lungo. Nell'italiano antico e letterario voleva dire valore, coraggio, forza d'animo. Nel 1868 il chimico tedesco Hermann Wichelhaus portò in chimica il termine Valenz, dal latino valentia, per indicare la capacità di combinazione di un elemento. Da lì la parola è passata alla linguistica, per i legami che un verbo stabilisce con i suoi complementi, e poi al lessico comune, dove «valenza simbolica» o «valenza politica» dicono qualcosa di più preciso di «valore»: non solo quanto conta una cosa, ma quali legami è capace di stabilire.",
 
   editorialStatus: "reviewed",
   indexable: true,
