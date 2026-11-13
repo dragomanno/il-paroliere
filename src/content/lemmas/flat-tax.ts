@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: flat tax
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -10,7 +10,7 @@ export const flatTax: LemmaEntry = {
   slug: "flat-tax",
   partOfSpeech: "locuzione sostantivale",
   gender: "femminile",
-  definition: "Sistema di imposizione sul reddito basato su un'unica aliquota uguale per tutti i livelli di reddito, spesso accompagnata da una soglia esente che ne attenua il carattere proporzionale. La formula moderna risale alla proposta degli economisti americani Robert Hall e Alvin Rabushka, nel 1985. Nel dibattito italiano l'espressione è usata in senso molto più largo, per qualunque regime ad aliquota fissa, a partire dal regime forfettario al 15% per le partite IVA.",
+  definition: "Sistema di imposizione sul reddito basato su un'unica aliquota uguale per ogni livello di reddito, spesso accompagnata da una soglia esente che ne attenua il carattere proporzionale. La formula moderna risale a Robert Hall e Alvin Rabushka, che la proposero nel 1981 e la svilupparono nel libro The Flat Tax del 1985. Nel dibattito italiano l'espressione è usata in senso molto più largo, per qualunque regime ad aliquota fissa, a partire dal regime forfettario al 15% per le partite IVA.",
   shortDefinition: "Imposta sul reddito ad aliquota unica; in Italia, anche nome corrente dei regimi ad aliquota fissa.",
   register: [
     "tecnico-fiscale",
@@ -59,9 +59,9 @@ export const flatTax: LemmaEntry = {
   paroliereNote: "Flat tax è una di quelle espressioni che dicono più del loro significato tecnico. Un'aliquota unica con una soglia esente è ancora, in senso stretto, un'imposta progressiva: l'aliquota media cresce con il reddito, anche se più lentamente. Per questo la discussione sulla sua compatibilità con l'articolo 53 della Costituzione è meno semplice di come appare negli slogan: il nodo non è l'aliquota unica in sé, ma quanta → progressività resta nel sistema nel suo complesso.",
   seo: {
     title: "Flat tax — significato, origine, flat tax in Italia | Il Paroliere",
-    description: "Che cos'è la flat tax: l'imposta ad aliquota unica proposta da Hall e Rabushka nel 1985 e usata in senso largo nel dibattito fiscale italiano.",
+    description: "Che cos'è la flat tax: l'imposta ad aliquota unica proposta da Hall e Rabushka nel 1981 e usata in senso largo nel dibattito fiscale italiano.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: reddito imponibile
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -51,7 +51,7 @@ export const redditoImponibile: LemmaEntry = {
     title: "Reddito imponibile — significato e calcolo IRPEF | Il Paroliere",
     description: "Che cos'è il reddito imponibile: la base su cui si calcola l'IRPEF, cioè il reddito complessivo meno gli oneri deducibili. Con esempio sugli scaglioni 2026.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

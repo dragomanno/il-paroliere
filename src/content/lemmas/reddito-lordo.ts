@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: reddito lordo
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -10,7 +10,7 @@ export const redditoLordo: LemmaEntry = {
   slug: "reddito-lordo",
   partOfSpeech: "locuzione sostantivale",
   gender: "maschile",
-  definition: "Ammontare di ciò che si guadagna prima di qualsiasi trattenuta: imposte, contributi previdenziali, addizionali locali. Per un lavoratore dipendente corrisponde in pratica alla retribuzione annua lorda indicata nel contratto, la RAL. È il punto di partenza di un percorso a tre tappe: togliendo ciò che la legge esclude dalla base dell'imposta si arriva al reddito imponibile; togliendo poi ciò che si paga davvero si arriva al reddito netto.",
+  definition: "Ammontare di ciò che si guadagna prima di qualsiasi trattenuta: imposte, contributi previdenziali, addizionali locali. Per un lavoratore dipendente corrisponde in pratica alla retribuzione annua lorda indicata nel contratto, la RAL. È il punto di partenza di un percorso a tre tappe: togliendo ciò che la legge esclude dalla base dell'imposta si arriva al reddito imponibile; togliendo poi le imposte effettivamente dovute si arriva al reddito netto.",
   shortDefinition: "Quanto si guadagna prima di imposte e contributi: il punto di partenza da cui si calcolano imponibile e netto.",
   register: [
     "comune",
@@ -21,7 +21,7 @@ export const redditoLordo: LemmaEntry = {
     "economia",
     "lavoro",
   ],
-  etymology: "Lordo ha un'origine discussa: si fa risalire al latino tardo lurdus, forse legato a luridus «livido, pallido». In primo luogo significa «sporco». Nel linguaggio dei mercanti indicò il peso di una merce ancora «sporca» di imballaggio e tara; da qui il senso economico di importo non ancora ripulito dalle trattenute.",
+  etymology: "Lordo ha un'origine discussa: si fa risalire al latino tardo lurdus, forse legato a luridus «livido, pallido». Il primo significato dell'aggettivo italiano è «sporco». Nel linguaggio dei mercanti indicò il peso di una merce ancora «sporca» di imballaggio e tara; da qui il senso economico di importo non ancora ripulito dalle trattenute.",
   examples: [
     "Trentamila euro lordi annui non sono quello che arriverà sul conto: tra contributi e imposte, il netto è parecchio più basso.",
     "Per confrontare due offerte di lavoro conviene partire dal reddito lordo e calcolare il netto con le stesse regole.",
@@ -60,7 +60,7 @@ export const redditoLordo: LemmaEntry = {
     title: "Reddito lordo — significato, differenza dal netto | Il Paroliere",
     description: "Che cos'è il reddito lordo: quanto si guadagna prima di imposte e contributi. Come si passa dal lordo all'imponibile e al netto, con esempi.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: progressività
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -56,12 +56,12 @@ export const progressivita: LemmaEntry = {
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/progressivita/",
   },
-  paroliereNote: "La progressività è una delle poche parole fiscali che stanno in Costituzione, ma l'articolo 53 la chiede al «sistema tributario», non a ogni singola imposta. È una distinzione che pesa: l'IVA, per esempio, è proporzionale e nessuno la considera incostituzionale per questo. Il dibattito sulla → flat tax ruota quasi sempre attorno a questo punto: quanta progressività deve restare nel sistema e con quali strumenti.",
+  paroliereNote: "La progressività è una delle poche parole fiscali che stanno in Costituzione, ma l'articolo 53 la chiede al «sistema tributario», non a ogni singola imposta. È una distinzione che pesa: l'IVA, per esempio, è proporzionale eppure non contraddice l'articolo 53, perché la progressività si valuta sul sistema nel suo insieme. Il dibattito sulla → flat tax ruota quasi sempre attorno a questo punto: quanta progressività deve restare nel sistema e con quali strumenti.",
   seo: {
     title: "Progressività — significato, articolo 53, imposte | Il Paroliere",
     description: "Che cosa significa progressività fiscale: l'imposta che cresce più che in proporzione al reddito. Il principio dell'articolo 53 della Costituzione spiegato.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

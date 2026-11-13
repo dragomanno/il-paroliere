@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: regime fiscale
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -55,7 +55,7 @@ export const regimeFiscale: LemmaEntry = {
     title: "Regime fiscale — significato, regimi per partite IVA | Il Paroliere",
     description: "Che cos'è un regime fiscale: le regole che stabiliscono come viene tassato un soggetto o un reddito. Ordinario, semplificato, forfettario ed etimologia.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

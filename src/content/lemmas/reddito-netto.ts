@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: reddito netto
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -60,7 +60,7 @@ export const redditoNetto: LemmaEntry = {
     title: "Reddito netto — significato, differenza dal lordo | Il Paroliere",
     description: "Che cos'è il reddito netto: ciò che resta dopo imposte e contributi. Differenza da reddito lordo e imponibile, etimologia da nitidus ed esempi.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",
