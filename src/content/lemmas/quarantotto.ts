@@ -54,7 +54,11 @@ export const quarantotto: LemmaEntry = {
     "confusione"
   ],
 
-  examples: [],
+  examples: [
+    "Nel quarantotto Milano insorse contro gli austriaci con le Cinque giornate.",
+    "Quando hanno scoperto il doppio addebito, in ufficio è successo un quarantotto.",
+    "Basta che manchi la corrente dieci minuti e in casa si scatena un quarantotto.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/quarantotto"
@@ -80,5 +84,5 @@ export const quarantotto: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

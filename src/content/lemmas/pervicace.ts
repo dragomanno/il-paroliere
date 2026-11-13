@@ -22,7 +22,11 @@ export const pervicace: LemmaEntry = {
   etymology:
     "Dal latino pervicax, da per- (attraverso, intensivo) + vincere (vincere, avere la meglio); chi vince attraverso tutto.",
 
-  examples: [],
+  examples: [
+    "Con pervicace ostinazione continuava a negare l'evidenza, anche davanti alle fotografie.",
+    "La sua pervicace difesa del vecchio sistema ha rallentato l'intero progetto.",
+    "Una ricercatrice pervicace, che ha inseguito la stessa ipotesi per quindici anni, finché i dati le hanno dato ragione.",
+  ],
 
   synonyms: [
       {
@@ -73,5 +77,5 @@ export const pervicace: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

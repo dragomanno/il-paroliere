@@ -12,7 +12,11 @@ export const pici: LemmaEntry = {
   domains: ["gastronomia", "cucina senese", "pasta artigianale"],
   etymology:
     "Origine incerta; probabilmente da un verbo dialettale senese legato all'idea di tirare o rotolare con le mani; documentato nell'area delle crete senesi almeno dall'Ottocento.",
-  examples: [],
+  examples: [
+    "A Montalcino abbiamo mangiato pici all'aglione, fatti a mano dalla signora della trattoria.",
+    "Per i pici servono solo acqua, farina e pazienza: ogni filo va arrotolato tra le mani.",
+    "I pici sono più spessi degli spaghetti e reggono bene un ragù di cinghiale.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["ribollita", "finocchiona", "dragoncello", "Siena", "Val d'Orcia"],
@@ -26,5 +30,5 @@ export const pici: LemmaEntry = {
     description: "Definizione originale di 'pici': la pasta senese fatta a mano, uno per uno, con acqua e farina.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

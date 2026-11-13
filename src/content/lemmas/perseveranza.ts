@@ -53,7 +53,11 @@ export const perseveranza: LemmaEntry = {
     "perseverare"
   ],
 
-  examples: [],
+  examples: [
+    "Ci sono voluti tre tentativi e molta perseveranza per superare l'esame di Stato.",
+    "La perseveranza non è ripetere sempre lo stesso errore, ma continuare correggendo il tiro.",
+    "Il suo orto è il frutto di vent'anni di perseveranza, contro siccità, lumache e grandine.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/perseveranza"
@@ -79,5 +83,5 @@ export const perseveranza: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

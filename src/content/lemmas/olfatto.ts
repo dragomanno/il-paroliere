@@ -55,7 +55,11 @@ export const olfatto: LemmaEntry = {
     "sinestesia"
   ],
 
-  examples: [],
+  examples: [
+    "Con il raffreddore aveva perso del tutto l'olfatto, e il caffè non sapeva più di niente.",
+    "Il cane da tartufo lavora con un olfatto migliaia di volte più fine del nostro.",
+    "Ha un olfatto infallibile per gli affari: compra sempre un attimo prima che i prezzi salgano.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/olfatto"
@@ -82,5 +86,5 @@ export const olfatto: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

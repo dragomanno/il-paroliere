@@ -22,7 +22,11 @@ export const rarefatto: LemmaEntry = {
   etymology:
     "Dal latino rarefactus, participio passato di rarefacere (rendere raro), da rarus + facere.",
 
-  examples: [],
+  examples: [
+    "Sopra i quattromila metri l'aria rarefatta rende faticoso anche allacciarsi le scarpe.",
+    "La sua poesia ha uno stile rarefatto: poche parole, molto spazio bianco.",
+    "Nella sala, a fine concerto, c'era un silenzio rarefatto che nessuno voleva rompere.",
+  ],
 
   synonyms: [
       {
@@ -73,5 +77,5 @@ export const rarefatto: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

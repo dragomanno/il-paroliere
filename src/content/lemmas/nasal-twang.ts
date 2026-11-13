@@ -13,7 +13,11 @@ export const nasalTwang: LemmaEntry = {
   domains: ["fonetica", "canto", "logopedia"],
   etymology:
     "Locuzione inglese (twang indica un suono vibrante e nasale) entrata nel lessico della pedagogia vocale italiana come termine tecnico internazionale non tradotto.",
-  examples: [],
+  examples: [
+    "L'insegnante di canto le ha chiesto di aggiungere un po' di nasal twang per far passare la voce sopra l'orchestra.",
+    "Nel musical il nasal twang aiuta a proiettare la voce senza spingere sulla gola.",
+    "Quel nasal twang nella sua parlata non è un difetto: è l'accento della sua città.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["faringalizzazione", "risonanza", "voce", "canto"],
@@ -27,5 +31,5 @@ export const nasalTwang: LemmaEntry = {
     description: "Definizione originale di 'nasal twang': la qualità tagliente della voce che amplifica le risonanze nasali.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

@@ -13,7 +13,11 @@ export const perestrojka: LemmaEntry = {
   domains: ["storia", "politica", "russo"],
   etymology:
     "Dal russo перестро́йка (perestróĭka), derivato di строить (stroít', costruire) con il prefisso пере- (pere-, rifare da capo); entrata nelle lingue occidentali come prestito integrale negli anni Ottanta.",
-  examples: [],
+  examples: [
+    "Con la perestrojka nacquero le prime cooperative private dell'Unione Sovietica.",
+    "Molti russi ricordano gli anni della perestrojka come un tempo di speranza e, insieme, di scaffali vuoti.",
+    "Il nuovo amministratore ha annunciato una perestrojka dell'azienda: reparti accorpati e nuovi responsabili.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["glasnost", "URSS", "Gorbačëv", "riforma"],
@@ -27,5 +31,5 @@ export const perestrojka: LemmaEntry = {
     description: "Definizione originale di 'perestrojka': la ristrutturazione di Gorbačëv nell'URSS, oggi metafora di trasformazione profonda.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

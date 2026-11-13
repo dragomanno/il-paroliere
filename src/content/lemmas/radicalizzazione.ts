@@ -12,7 +12,11 @@ export const radicalizzazione: LemmaEntry = {
   domains: ["politica", "sociologia", "psicologia"],
   etymology:
     "Derivato di radicale (dal latino radicalis, pertinente alla radice) con il suffisso -izzazione; il significato sociologico-politico si consolida in italiano tra la fine del Novecento e i primi anni Duemila.",
-  examples: [],
+  examples: [
+    "Gli studiosi analizzano il ruolo dei social nella radicalizzazione dei più giovani.",
+    "La radicalizzazione del dibattito ha reso impossibile qualsiasi compromesso in consiglio comunale.",
+    "I programmi di prevenzione della radicalizzazione lavorano soprattutto nelle scuole e nelle carceri.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["estremismo", "fanatismo", "polarizzazione"],
@@ -26,5 +30,5 @@ export const radicalizzazione: LemmaEntry = {
     description: "Definizione originale di 'radicalizzazione': il processo di spostamento verso posizioni estreme.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };
