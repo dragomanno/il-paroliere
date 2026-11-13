@@ -36,7 +36,7 @@ export const incazzoso: LemmaEntry = {
   examples: [
     "Attenzione a come glielo dici: è una persona incazzosa, prende fuoco in un secondo.",
     "Non sono incazzoso di carattere, ma certe ingiustizie mi fanno perdere la pazienza.",
-    "Era un tipo incazzoso ma leale: si arrabbiava spesso, ma non portava rancore.",
+    "Era un tipo incazzoso, ma leale: si arrabbiava spesso, ma non portava rancore.",
   ],
 
   synonyms: [
@@ -115,5 +115,5 @@ export const incazzoso: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

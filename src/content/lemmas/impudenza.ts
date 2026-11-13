@@ -15,7 +15,7 @@ export const impudenza: LemmaEntry = {
 
   definition:
     "Mancanza di pudore o di ritegno nel comportamento, nella parola o " +
-    "nell’atteggiamento — non come tratto caratteriale stabile ma come atto o serie " +
+    "nell’atteggiamento — non come tratto caratteriale stabile, ma come atto o serie " +
     "di atti che violano deliberatamente le aspettative di decoro condivise. " +
     "L’impudente sa che ciò che fa o dice viola una norma e procede comunque, senza " +
     "imbarazzo né riserve. Ha una sfumatura di aggressività assente nel termine " +
@@ -63,9 +63,9 @@ export const impudenza: LemmaEntry = {
 
   seo: {
     title: "impudenza — la violazione deliberata del decoro tra vizio e coraggio",
-    description: "Che cos’è l’impudenza: definizione etica, differenza da sfacciataggine e sfrontatezza, e quando la mancanza di ritegno può essere una virtù.",
+    description: "Che cos’è l’impudenza: definizione etica, differenza da sfacciataggine e sfrontatezza e quando la mancanza di ritegno può essere una virtù.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

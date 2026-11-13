@@ -66,9 +66,9 @@ export const lealta: LemmaEntry = {
 
   seo: {
     title: "lealtà — fedeltà scelta, non obbedienza: tra virtù e vizio",
-    description: "Che cos’è la lealtà: definizione etica, differenza da obbedienza e fedeltà cieca, e quando la lealtà diventa complicità.",
+    description: "Che cos’è la lealtà: definizione etica, differenza da obbedienza e fedeltà cieca e quando la lealtà diventa complicità.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

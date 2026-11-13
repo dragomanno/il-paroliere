@@ -52,7 +52,7 @@ export const materialita: LemmaEntry = {
     "La materialità sta diventando un lusso nell’economia dell’attenzione digitale. Un " +
     "libro fisico ha una materialità che l’ebook non ha — non perché il contenuto è " +
     "diverso, ma perché la relazione con l’oggetto è diversa. C’è una resistenza della " +
-    "materia che rallenta, e in quel rallentamento succede qualcosa che la velocità " +
+    "materia che rallenta e in quel rallentamento succede qualcosa che la velocità " +
     "non permette.",
 
   sourceLinks: {},
@@ -66,5 +66,5 @@ export const materialita: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

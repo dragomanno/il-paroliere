@@ -23,7 +23,7 @@ export const nostalgia: LemmaEntry = {
     "fisico (la propria terra d'origine, la nostalgia in senso originario), a " +
     "un periodo storico mai vissuto direttamente (la nostalgia per un'epoca " +
     "idealizzata), o alla propria infanzia — in questo caso rivolta non a un " +
-    "luogo ma a una condizione interiore irripetibile.",
+    "luogo, ma a una condizione interiore irripetibile.",
 
   shortDefinition:
     "Dolorosa mancanza per un luogo, un tempo o una condizione passata, " +
@@ -43,7 +43,7 @@ export const nostalgia: LemmaEntry = {
   examples: [
     "La nostalgia per l'infanzia non è mai nostalgia per fatti precisi, ma " +
       "per una qualità di attenzione al mondo che da adulti si fatica a ritrovare.",
-    "Tornò nella città dove era cresciuto aspettandosi la nostalgia, e provò " +
+    "Tornò nella città dove era cresciuto aspettandosi la nostalgia e provò " +
       "invece un vago disagio: il luogo reale non coincideva più con quello " +
       "custodito nella memoria.",
     "C'è una nostalgia più insidiosa di quella per un luogo: la nostalgia per " +
@@ -106,7 +106,7 @@ export const nostalgia: LemmaEntry = {
     "contemporanea anche come risorsa: rievocare ricordi positivi, pure " +
     "malinconici, aiuta a costruire senso di continuità e identità personale " +
     "nei momenti di transizione. Resta comunque un lemma da maneggiare con " +
-    "cura editoriale: la nostalgia idealizza per definizione, e la sua " +
+    "cura editoriale: la nostalgia idealizza per definizione e la sua " +
     "→ sedimentazione nella memoria collettiva è spesso il meccanismo dietro " +
     "il mito del 'si stava meglio quando si stava peggio'.",
 
@@ -121,5 +121,5 @@ export const nostalgia: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

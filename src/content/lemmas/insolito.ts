@@ -103,10 +103,10 @@ export const insolito: LemmaEntry = {
   seo: {
     title: "Insolito — Il Paroliere",
     description:
-      "Definizione originale di 'insolito': fuori dall'abitudine ma non anomalo. " +
+      "Definizione originale di 'insolito': fuori dall'abitudine, ma non anomalo. " +
       "Differenze con strano e raro. Con esempi, sinonimi ed etimologia latina.",
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

@@ -58,7 +58,7 @@ export const inettitudine: LemmaEntry = {
   examples: [
     "L'inettitudine dell'amministrazione ha trasformato un piccolo guasto in un'emergenza.",
     "Zeno racconta la propria inettitudine con un'ironia che lo rende quasi simpatico.",
-    "Non era cattiveria, era inettitudine: non sapeva da dove cominciare, e così non cominciava.",
+    "Non era cattiveria, era inettitudine: non sapeva da dove cominciare e così non cominciava.",
   ],
 
   sourceLinks: {

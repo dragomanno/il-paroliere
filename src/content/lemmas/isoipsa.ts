@@ -87,7 +87,7 @@ export const isoipsa: LemmaEntry = {
     "può camminare spediti. Chi non sa leggere le isoipse vede solo linee; chi sa " +
     "leggerle vede il paesaggio. È un esempio bellissimo di come la rappresentazione " +
     "astratta — linee su carta — possa contenere più informazioni della fotografia, " +
-    "che cattura l'apparenza ma non la struttura.",
+    "che cattura l'apparenza, ma non la struttura.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -99,5 +99,5 @@ export const isoipsa: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

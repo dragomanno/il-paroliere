@@ -16,7 +16,7 @@ export const leggerezza: LemmaEntry = {
   definition:
     "Qualità di ciò che ha poco peso fisico o, in senso traslato, di ciò che non grava " +
     "— né sul corpo né sulla mente né sull’attenzione altrui. Nell’estetica, la leggerezza " +
-    "non è assenza di contenuto ma capacità di contenere molto con apparente facilità: " +
+    "non è assenza di contenuto, ma capacità di contenere molto con apparente facilità: " +
     "Calvino ne fece una delle sue Lezioni americane, elevandola a valore letterario " +
     "contro il peso del mondo.",
 
@@ -32,7 +32,7 @@ export const leggerezza: LemmaEntry = {
   examples: [
     "La leggerezza di certi disegni a matita non è povertà di segno: è la scelta consapevole di non appesantire ciò che già si regge da solo.",
     "Calvino intendeva la leggerezza come antidoto al peso del mondo — non fuga, ma trasformazione: guardare dall’alto senza perdere il contatto con la terra.",
-    "Nel ballo, la leggerezza non è assenza di tecnica ma il suo nascondimento: chi la vede è già fuori dall’illusione.",
+    "Nel ballo, la leggerezza non è assenza di tecnica, ma il suo nascondimento: chi la vede è già fuori dall’illusione.",
     "C’è una leggerezza del carattere che non è superficialità: è la capacità di non aggrapparsi, di lasciare andare senza strazio.",
   ],
 
@@ -51,7 +51,7 @@ export const leggerezza: LemmaEntry = {
   paroliereNote:
     "Calvino ha fatto di più per questo lemma di qualsiasi dizionario. La sua leggerezza " +
     "non è la leggerezza dell’ignorante che non vede il peso — è quella di chi lo vede, " +
-    "lo solleva, e lo trasforma. C’è una differenza enorme tra non portare nulla e portare " +
+    "lo solleva e lo trasforma. C’è una differenza enorme tra non portare nulla e portare " +
     "tutto con apparente facilità. La seconda richiede più forza della prima.",
 
   sourceLinks: {},
@@ -65,5 +65,5 @@ export const leggerezza: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

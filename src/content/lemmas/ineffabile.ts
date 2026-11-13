@@ -18,7 +18,7 @@ export const ineffabile: LemmaEntry = {
     "eccesso dell’esperienza. L’ineffabile non è ciò che non si sa dire: è ciò che " +
     "qualunque descrizione impoverirebbe. In teologia, è attributo del divino; in estetica, " +
     "è la qualità di quelle esperienze (musicali, visive, sensoriali) che si sa di aver " +
-    "vissuto ma che non si riesce a trasmettere intatte.",
+    "vissuto, ma che non si riesce a trasmettere intatte.",
 
   shortDefinition:
     "Che non può essere espresso a parole senza impoverirlo; al di là della capacità descrittiva del linguaggio.",
@@ -30,7 +30,7 @@ export const ineffabile: LemmaEntry = {
 
   examples: [
     "C’è qualcosa di ineffabile nella prima luce del mattino su certe città — non il colore, non la temperatura, ma una qualità dell’aria che il linguaggio può solo sfiorare.",
-    "I mistici usavano l’ineffabile non come resa ma come strategia: nominare il limite del dicibile è già un modo di indicare ciò che sta oltre.",
+    "I mistici usavano l’ineffabile non come resa, ma come strategia: nominare il limite del dicibile è già un modo di indicare ciò che sta oltre.",
     "Dire che un brano musicale è ineffabile non è pigrizia critica: è riconoscere onestamente che la descrizione non è il sostituto dell’ascolto.",
     "L’ineffabile di certi dolori non è che siano indicibili — è che le parole disponibili appartengono a un’esperienza meno intensa e non reggono il peso di quella più grande.",
   ],
@@ -63,5 +63,5 @@ export const ineffabile: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

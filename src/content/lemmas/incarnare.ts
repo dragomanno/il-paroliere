@@ -66,7 +66,7 @@ export const incarnare: LemmaEntry = {
   },
 
   paroliereNote:
-    "Incarnare porta con sé il peso teologico dell'Incarnazione ma vive benissimo " +
+    "Incarnare porta con sé il peso teologico dell'Incarnazione, ma vive benissimo " +
     "fuori dalla dottrina: ogni volta che diciamo che qualcuno «incarna» un valore, " +
     "stiamo usando — spesso senza saperlo — la stessa struttura concettuale del " +
     "farsi carne. La parola resta viva perché quella tensione tra idea e corpo non " +
@@ -83,5 +83,5 @@ export const incarnare: LemmaEntry = {
   },
 
   createdAt: "2026-08-21",
-  updatedAt: "2026-08-21",
+  updatedAt: "2026-11-13",
 };

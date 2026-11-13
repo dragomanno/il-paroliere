@@ -40,7 +40,7 @@ export const impalpabilita: LemmaEntry = {
   ],
 
   antonyms: [
-    { term: "palpabilità", register: "tecnico", note: "Rarissimo ma esiste: qualità di ciò che si lascia toccare e percepire." },
+    { term: "palpabilità", register: "tecnico", note: "Rarissimo, ma esiste: qualità di ciò che si lascia toccare e percepire." },
     { term: "consistenza", register: "comune", note: "Il senso fisico di qualcosa che occupa spazio e si lascia afferrare." },
   ],
 
@@ -63,5 +63,5 @@ export const impalpabilita: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-08-21",
+  updatedAt: "2026-11-13",
 };

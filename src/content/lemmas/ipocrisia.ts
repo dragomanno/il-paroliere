@@ -56,7 +56,7 @@ export const ipocrisia: LemmaEntry = {
   paroliereNote:
     "L’ipocrisia è il vizio che la letteratura ha trovato più interessante — da " +
     "Tartufo a Uriah Heep — forse perché è il più teatrale. L’ipocrita è sempre un " +
-    "attore che recita per un pubblico, e il problema non è solo morale: è estetico. " +
+    "attore che recita per un pubblico e il problema non è solo morale: è estetico. " +
     "C’è qualcosa di offensivo nell’ipocrisia ben riuscita, qualcosa che va oltre il " +
     "danno pratico. Forse perché ci ricorda che la virtù può essere mimata così bene " +
     "da risultare indistinguibile dall’originale — il che mette in discussione " +
@@ -67,9 +67,9 @@ export const ipocrisia: LemmaEntry = {
 
   seo: {
     title: "ipocrisia — recitare virtù che non si possiede, da Tartufo ai social",
-    description: "Che cos’è l’ipocrisia: definizione etica e psicologica, differenza da debolezza umana e falsità, e l’ipocrisia dei buoni sentimenti nell’era digitale.",
+    description: "Che cos’è l’ipocrisia: definizione etica e psicologica, differenza da debolezza umana e falsità e l’ipocrisia dei buoni sentimenti nell’era digitale.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

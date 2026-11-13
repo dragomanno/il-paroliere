@@ -14,7 +14,7 @@ export const levantino: LemmaEntry = {
   definition:
     "Nel senso geografico e storico, levantino indica ciò che appartiene al Levante — " +
     "la regione che si affaccia sul Mediterraneo orientale, comprendente storicamente le coste " +
-    "di Siria, Libano, Turchia, Grecia, e per estensione i Balcani e il mondo ottomano. " +
+    "di Siria, Libano, Turchia, Grecia e, per estensione, i Balcani e il mondo ottomano. " +
     "È il punto dove il sole si leva (levare) — da cui il nome — in contrapposizione al Ponente " +
     "occidentale. In senso figurato e antropologico, levantino descrive un tipo di temperamento " +
     "associato — con generalizzazione culturale da trattare con consapevolezza critica — alle " +
@@ -116,5 +116,5 @@ export const levantino: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

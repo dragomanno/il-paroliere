@@ -23,9 +23,9 @@ export const millennial: LemmaEntry = {
     "profondamente il loro rapporto con il denaro e con le istituzioni. Sul piano " +
     "digitale, sono utenti esperti di social media — Facebook, Instagram, YouTube — " +
     "e protagonisti dell'e-commerce: tendono a ricercare ossessivamente prodotti e " +
-    "recensioni prima dell'acquisto, privilegiano esperienze rispetto a oggetti, e si " +
+    "recensioni prima dell'acquisto, privilegiano esperienze rispetto a oggetti e si " +
     "aspettano brand autentici e responsabili. Il percorso d'acquisto tipico parte dai " +
-    "motori di ricerca o dai social, passa per le recensioni, e si conclude quasi " +
+    "motori di ricerca o dai social, passa per le recensioni e si conclude quasi " +
     "sempre online.",
 
   shortDefinition:
@@ -64,7 +64,7 @@ export const millennial: LemmaEntry = {
     "in realtà portano con sé una contraddizione strutturale: sono cresciuti con aspettative " +
     "alte (formazione universitaria, carriera lineare, proprietà) e hanno trovato un mercato " +
     "del lavoro radicalmente diverso. Il loro comportamento online riflette questa tensione: " +
-    "sono informati, scettici verso la pubblicità tradizionale, e rispondono a contenuti " +
+    "sono informati, scettici verso la pubblicità tradizionale e rispondono a contenuti " +
     "autentici molto più che a messaggi patinati. In e-commerce, un brand che non ha " +
     "recensioni visibili per loro non esiste. McCrindle usa il cluster 1980–1994 (15 anni " +
     "esatti); Pew usava 1981–1996 — una divergenza di 1–2 anni che, come per la Gen X, " +
@@ -84,5 +84,5 @@ export const millennial: LemmaEntry = {
   },
 
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

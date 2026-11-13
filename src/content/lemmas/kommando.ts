@@ -16,7 +16,7 @@ export const kommando: LemmaEntry = {
     "o ad alto rischio: azioni di sabotaggio, recupero di ostaggi, incursioni in territorio " +
     "nemico, eliminazione di obiettivi specifici. Il termine viene dall'esperienza militare boera " +
     "e sudafricana della fine dell'Ottocento, adottato poi dall'esercito britannico nella Seconda " +
-    "Guerra Mondiale per designare i reparti di élite da incursione (Commandos), e " +
+    "Guerra Mondiale per designare i reparti di élite da incursione (Commandos) e " +
     "successivamente entrato nel lessico militare internazionale. Nel giornalismo italiano e nel " +
     "linguaggio comune, kommando — spesso scritto con la doppia grafia tedesca — è usato anche " +
     "per descrivere un gruppo armato di terroristi o criminali che agisce in modo coordinato e " +
@@ -109,5 +109,5 @@ export const kommando: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

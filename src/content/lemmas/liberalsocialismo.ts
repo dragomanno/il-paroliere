@@ -37,7 +37,7 @@ export const liberalsocialismo: LemmaEntry = {
 
   synonyms: [
     { term: "socialismo liberale", register: "politico/filosofico", context: "la forma invertita del composto, usata nel titolo dell'opera di Rosselli" },
-    { term: "socialdemocrazia", register: "politico", context: "corrente affine ma distinta, con radici diverse e una storia partitica propria" }
+    { term: "socialdemocrazia", register: "politico", context: "corrente affine, ma distinta, con radici diverse e una storia partitica propria" }
   ],
 
   antonyms: [
@@ -73,5 +73,5 @@ export const liberalsocialismo: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-05-30",
+  updatedAt: "2026-11-13",
 };

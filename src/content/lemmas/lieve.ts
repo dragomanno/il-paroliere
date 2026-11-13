@@ -72,7 +72,7 @@ export const lieve: LemmaEntry = {
   },
 
   paroliereNote:
-    "Lieve e levità condividono la stessa radice latina ma percorrono due strade " +
+    "Lieve e levità condividono la stessa radice latina, ma percorrono due strade " +
     "diverse: levità si è fatta parola dotta, quasi filosofica, mentre lieve è " +
     "rimasta nel corpo della lingua quotidiana, capace di descrivere un profumo, " +
     "un dolore, un tono di voce senza mai perdere in precisione.",
@@ -88,5 +88,5 @@ export const lieve: LemmaEntry = {
   },
 
   createdAt: "2026-08-21",
-  updatedAt: "2026-08-21",
+  updatedAt: "2026-11-13",
 };

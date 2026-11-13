@@ -13,7 +13,7 @@ export const ires: LemmaEntry = {
   definition:
     "Sigla di Imposta sul Reddito delle Società: l'imposta proporzionale che " +
     "colpisce il reddito delle società di capitali (SpA, Srl, SapA), degli enti " +
-    "pubblici e privati residenti in Italia, e di alcuni soggetti assimilati. È " +
+    "pubblici e privati residenti in Italia e di alcuni soggetti assimilati. È " +
     "in vigore dal 1° gennaio 2004, quando ha sostituito la precedente → IRPEG " +
     "(Imposta sul Reddito delle Persone Giuridiche), nell'ambito della riforma " +
     "fiscale introdotta dal D.Lgs. 344/2003. A differenza dell'→ IRPEF — che è " +
@@ -77,5 +77,5 @@ export const ires: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

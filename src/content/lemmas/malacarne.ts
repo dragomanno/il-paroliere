@@ -38,7 +38,7 @@ export const malacarne: LemmaEntry = {
   relatedWords: ["farabutto", "imbroglione", "mascalzone", "birbante", "malandrino", "furfante", "canaglia"],
   sourceLinks: {},
   paroliereNote:
-    "Malacarne porta con sé l'odore della bottega: nasce come giudizio sul valore della carne, " +
+    "Malacarne porta con sé l'odore della bottega: nasce come giudizio sul valore della carne " +
     "e diventa giudizio sul valore dell'uomo. La metafora è diretta, quasi brutale, come vuole il " +
     "registro popolare. Brancati la usa senza spiegazioni, affidandosi alla comprensione immediata " +
     "del lettore meridionale. Una parola che sa di mercato, di inganni piccoli e consuetudine al sopruso.",
@@ -50,5 +50,5 @@ export const malacarne: LemmaEntry = {
       "Definizione originale di 'malacarne': carne scadente di macelleria; per estensione, persona disonesta, imbroglione. Attestato in Vitaliano Brancati.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-06-12",
+  updatedAt: "2026-11-13",
 };

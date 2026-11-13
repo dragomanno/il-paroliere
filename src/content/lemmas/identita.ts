@@ -14,17 +14,17 @@ export const identita: LemmaEntry = {
   domains: ["psicologia", "filosofia", "sociologia", "diritto", "cultura"],
 
   definition:
-    "Modo in cui una persona o una collettività si riconosce come la stessa nel tempo, pur attraverso cambiamenti, sentendo una continuità tra chi era, chi è e chi sta diventando. In psicologia e in filosofia l'identità tiene insieme memoria, corpo, relazioni, valori, ruoli, e riguarda tanto il senso di essere “io” distinto dagli altri quanto l'appartenenza a gruppi sociali che ci danno un nome e un posto nel mondo. Nel linguaggio quotidiano, si parla di identità anche per marchi, città, comunità, ogni volta che si cerca ciò che li rende riconoscibili e non intercambiabili.",
+    "Modo in cui una persona o una collettività si riconosce come la stessa nel tempo, pur attraverso cambiamenti, sentendo una continuità tra chi era, chi è e chi sta diventando. In psicologia e in filosofia l'identità tiene insieme memoria, corpo, relazioni, valori, ruoli e riguarda tanto il senso di essere “io” distinto dagli altri quanto l'appartenenza a gruppi sociali che ci danno un nome e un posto nel mondo. Nel linguaggio quotidiano, si parla di identità anche per marchi, città, comunità, ogni volta che si cerca ciò che li rende riconoscibili e non intercambiabili.",
 
   shortDefinition:
     "Senso di continuità e riconoscibilità di sé o di un gruppo nel tempo, che tiene insieme memoria, ruoli, relazioni e appartenenze.",
 
   etymology:
-    "Dal latino identitas, -atis, “identità, uguaglianza”, derivato di idem “lo stesso”. In filosofia il termine nasce nel lessico logico-metafisico dell'“essere identico a sé”, e viene progressivamente esteso al senso psicologico e sociale di ciò che rende una persona o un gruppo se stesso e non un altro.",
+    "Dal latino identitas, -atis, “identità, uguaglianza”, derivato di idem “lo stesso”. In filosofia il termine nasce nel lessico logico-metafisico dell'“essere identico a sé” e viene progressivamente esteso al senso psicologico e sociale di ciò che rende una persona o un gruppo se stesso e non un altro.",
 
   examples: [
     "Nel passaggio all'età adulta, la sua identità professionale è cambiata più volte prima di trovare una forma provvisoria.",
-    "Per molte persone, l'identità di genere non coincide con il sesso assegnato alla nascita, e questo genera percorsi complessi di riconoscimento.",
+    "Per molte persone, l'identità di genere non coincide con il sesso assegnato alla nascita e questo genera percorsi complessi di riconoscimento.",
     "Una città che punta solo sul turismo rischia di perdere l'identità costruita dal lavoro e dai quartieri popolari.",
     "Sui social, l'identità sembra un profilo curato, però fuori dallo schermo restano pezzi che non entrano nella vetrina.",
     "Quando la memoria collettiva tace alcuni eventi, l'identità di un paese resta monca, più liscia di quanto la storia permetta.",
@@ -73,5 +73,5 @@ export const identita: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-08-21",
+  updatedAt: "2026-11-13",
 };

@@ -13,7 +13,7 @@ export const malevolenza: LemmaEntry = {
   definition:
     "Disposizione ostile e deliberata verso qualcuno: non antipatia passeggera, non rabbia reattiva — " +
     "ma un orientamento stabile del volere contro. " +
-    "Distinta dall'odio per la minore intensità viscerale, e dall'invidia perché non richiede " +
+    "Distinta dall'odio per la minore intensità viscerale e dall'invidia perché non richiede " +
     "un oggetto specifico di confronto. " +
     "Registro formale, con radici nella tradizione etica classica.",
   shortDefinition:
@@ -29,7 +29,7 @@ export const malevolenza: LemmaEntry = {
   examples: [
     "Non era rabbia la sua — era malevolenza: quella disposizione fredda che non passa con il tempo.",
     "Alcune critiche nascono dal merito, altre dalla malevolenza — e di solito si capisce subito quale.",
-    "La malevolenza non urla: osserva, aspetta, e quando può, agisce.",
+    "La malevolenza non urla: osserva, aspetta e, quando può, agisce.",
   ],
   synonyms: [
     { term: "ostilità", register: "comune", context: "atteggiamento contrario, meno deliberato e profondo" },
@@ -56,5 +56,5 @@ export const malevolenza: LemmaEntry = {
       "Definizione originale di 'malevolenza': disposizione ostile e intenzionale verso qualcuno, più fredda dell'odio e più generica dell'invidia.",
   },
   createdAt: "2026-06-12",
-  updatedAt: "2026-06-12",
+  updatedAt: "2026-11-13",
 };

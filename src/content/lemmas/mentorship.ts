@@ -16,7 +16,7 @@ export const mentorship: LemmaEntry = {
     "scambi di esperienza. Si distingue da mentoring — che indica il processo, la " +
     "metodologia, la pratica — perché mentorship designa l'istituzione stessa della " +
     "relazione, l'essere-in-relazione di mentor e mentee. In italiano, la distinzione " +
-    "è sottile ma reale: mentoring è ciò che si fa; mentorship è la condizione in cui " +
+    "è sottile, ma reale: mentoring è ciò che si fa; mentorship è la condizione in cui " +
     "si è mentre lo si fa.",
 
   shortDefinition:
@@ -89,7 +89,7 @@ export const mentorship: LemmaEntry = {
   },
 
   paroliereNote:
-    "Mentorship e mentoring sono quasi sempre trattati come sinonimi assoluti, e nel " +
+    "Mentorship e mentoring sono quasi sempre trattati come sinonimi assoluti e nel " +
     "parlato comune lo sono di fatto. La distinzione qui proposta — mentoring come " +
     "processo, mentorship come relazione vissuta — è però utile e documentata nell'uso " +
     "specialistico anglosassone. Entrambi i termini sono senza dubbio parole di moda, " +
@@ -110,5 +110,5 @@ export const mentorship: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };
