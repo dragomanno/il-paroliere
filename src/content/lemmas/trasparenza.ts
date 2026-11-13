@@ -23,7 +23,11 @@ export const trasparenza: LemmaEntry = {
   etymology:
     "Dal latino medievale transparentia, da transparere (mostrarsi attraverso), da trans- + parere (apparire, mostrarsi).",
 
-  examples: [],
+  examples: [
+    "Il nuovo regolamento chiede più trasparenza sui criteri con cui vengono assegnati i fondi.",
+    "La trasparenza del vetro di Murano dipende anche dalla purezza della sabbia usata.",
+    "Apprezzo la sua trasparenza: dice sempre cosa pensa, anche quando non conviene.",
+  ],
 
   synonyms: [
       {
@@ -74,5 +78,5 @@ export const trasparenza: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

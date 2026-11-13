@@ -23,7 +23,11 @@ export const sagacia: LemmaEntry = {
   etymology:
     "Dal latino sagacitas, da sagax (perspicace, dal fiuto acuto), collegato a sagire (percepire acutamente).",
 
-  examples: [],
+  examples: [
+    "Con la sua solita sagacia ha capito subito dove voleva andare a parare l'interlocutore.",
+    "Ci vuole sagacia per guidare una trattativa senza scoprire le proprie carte troppo presto.",
+    "Più che studiare i dati, l'investigatore si affidava alla sagacia di chi ha visto molti casi simili.",
+  ],
 
   synonyms: [
       {
@@ -74,5 +78,5 @@ export const sagacia: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

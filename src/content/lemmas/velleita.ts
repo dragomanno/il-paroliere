@@ -23,7 +23,11 @@ export const velleita: LemmaEntry = {
   etymology:
     "Dal latino velleitas, da velle (volere) nella sua forma più debole; termine della scolastica medievale per indicare il volere senza il corrispondente atto volitivo.",
 
-  examples: [],
+  examples: [
+    "Le sue velleità artistiche si sono fermate a un cavalletto mai montato in cantina.",
+    "Più che un progetto, il trasferimento all'estero era una velleità di cui parlava a ogni cena.",
+    "Ogni gennaio rinnova la velleità di iscriversi in palestra, e ogni febbraio la dimentica.",
+  ],
 
   synonyms: [
       {
@@ -69,5 +73,5 @@ export const velleita: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

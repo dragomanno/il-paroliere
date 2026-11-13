@@ -23,7 +23,11 @@ export const valenza: LemmaEntry = {
   etymology:
     "Dal latino valentia (forza, vigore), da valere (valere, avere forza); in chimica, calco del tedesco Valenz (1868, August Kekulé).",
 
-  examples: [],
+  examples: [
+    "Il carbonio ha valenza quattro e per questo forma molecole molto varie.",
+    "Quel gesto, apparentemente banale, aveva per lui una forte valenza simbolica.",
+    "La stessa parola può assumere una valenza ironica o offensiva a seconda di chi la pronuncia.",
+  ],
 
   synonyms: [
       {
@@ -58,5 +62,5 @@ export const valenza: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

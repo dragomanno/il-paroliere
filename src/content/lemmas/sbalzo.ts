@@ -12,7 +12,11 @@ export const sbalzo: LemmaEntry = {
   domains: ["artigianato", "oreficeria", "architettura", "fisica"],
   etymology:
     "Derivato del verbo sbalzare (saltare, spingere con forza), a sua volta da balzare con prefisso s-; il senso tecnico metallurgico e quello architettonico si sviluppano per metafora dalla stessa idea di proiezione verso l'esterno.",
-  examples: [],
+  examples: [
+    "Il piatto d'argento è decorato a sbalzo con foglie e grappoli d'uva.",
+    "La terrazza a sbalzo sembra sospesa sul vuoto, sorretta solo dal lato della casa.",
+    "Gli sbalzi di temperatura di questi giorni hanno messo a dura prova le piante dell'orto.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["cesellatura", "oreficeria", "architettura", "modanatura"],
@@ -26,5 +30,5 @@ export const sbalzo: LemmaEntry = {
     description: "Definizione originale di 'sbalzo': la tecnica orafa, l'elemento architettonico e il loro filo comune.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

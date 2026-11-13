@@ -12,7 +12,11 @@ export const salatura: LemmaEntry = {
   domains: ["gastronomia", "conservazione", "artigianato alimentare"],
   etymology:
     "Derivato di salare (dal latino salare, conservare col sale) con il suffisso nominalizzante -tura che indica l'azione concreta; salagione ne è un sinonimo, più frequente per il pesce.",
-  examples: [],
+  examples: [
+    "La salatura si fa a mano, coscia per coscia, e si ripete dopo qualche giorno.",
+    "Una salatura troppo leggera espone il prosciutto al rischio di guastarsi.",
+    "In laboratorio abbiamo assistito alla salatura delle pancette, coperte di sale grosso e pepe.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["salagione", "insaccato", "prosciutto", "stagionatura", "conservazione"],

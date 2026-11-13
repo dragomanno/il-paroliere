@@ -12,7 +12,11 @@ export const rooftop: LemmaEntry = {
   domains: ["architettura", "lifestyle", "urbanistica"],
   etymology:
     "Dall'inglese rooftop (letteralmente: sommità del tetto); il termine si diffonde in italiano nel lessico dell'ospitalità e del real estate negli anni 2010.",
-  examples: [],
+  examples: [
+    "Per l'aperitivo ci vediamo sul rooftop dell'hotel, da lì si vede tutta la città.",
+    "Il palazzo è stato ristrutturato e sul tetto hanno ricavato un rooftop con bar e piante.",
+    "Più che un rooftop è una terrazza condominiale con due sdraio, ma il tramonto è lo stesso.",
+  ],
   synonyms: [{ term: "terrazza sul tetto", register: "comune", note: "traduzione letterale, meno evocativa" }],
   antonyms: [],
   relatedWords: ["coworking", "terrazza", "ospitalità"],
@@ -26,5 +30,5 @@ export const rooftop: LemmaEntry = {
     description: "Definizione originale di 'rooftop': lo spazio in cima all'edificio con la sua connotazione aspirazionale irriducibile.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };
