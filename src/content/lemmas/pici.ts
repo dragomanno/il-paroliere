@@ -16,7 +16,7 @@ export const pici: LemmaEntry = {
     "A Montalcino abbiamo mangiato pici all'aglione, fatti a mano dalla signora della trattoria.",
     "Per i pici servono solo acqua, farina e pazienza: ogni filo va arrotolato tra le mani.",
     "I pici sono più spessi degli spaghetti e reggono bene un ragù di cinghiale.",
-    "A Montalcino nessuno ti servirà i pici: lì, nelle trattorie del paese, si ordinano i pinci al ragù.",
+    "In una trattoria di Montalcino il menu proponeva pinci al ragù di cinghiale, quelli che a Siena chiamano pici.",
   ],
   synonyms: [],
   antonyms: [],
