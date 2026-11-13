@@ -5,9 +5,9 @@ export const pici: LemmaEntry = {
   partOfSpeech: "sostantivo",
   gender: "maschile",
   definition:
-    "Formato di pasta fresca senese fatto a mano con sola acqua e farina di grano tenero, senza uova, lavorato a lungo fino a ottenere uno spaghetto spesso e irregolare dalla consistenza compatta. Ogni picio è tirato a mano uno per uno, il che conferisce al formato una ruvidità superficiale che trattiene bene i condimenti. Piatto identitario della cucina delle crete senesi e della Val d'Orcia, si accompagna tradizionalmente all'aglione, al ragù di cinghiale o ai funghi.",
+    "Formato di pasta fresca senese fatto a mano con sola acqua e farina di grano tenero, senza uova, lavorato a lungo fino a ottenere uno spaghetto spesso e irregolare dalla consistenza compatta. Ogni picio è tirato a mano uno per uno, il che conferisce al formato una ruvidità superficiale che trattiene bene i condimenti. A Montalcino e nella zona di Chiusi e Chianciano la stessa pasta di acqua e farina si chiama pinci. Piatto identitario della cucina delle crete senesi e della Val d'Orcia, si accompagna tradizionalmente all'aglione, al ragù di cinghiale o ai funghi.",
   shortDefinition:
-    "Pasta fresca senese di acqua e farina, senza uova: spaghetto spesso e irregolare tirato a mano uno per uno.",
+    "Pasta fresca senese di acqua e farina, senza uova, tirata a mano; a Montalcino e tra Chiusi e Chianciano si chiama pinci.",
   register: ["comune", "tecnico"],
   domains: ["gastronomia", "cucina senese", "pasta artigianale"],
   etymology:
@@ -16,6 +16,7 @@ export const pici: LemmaEntry = {
     "A Montalcino abbiamo mangiato pici all'aglione, fatti a mano dalla signora della trattoria.",
     "Per i pici servono solo acqua, farina e pazienza: ogni filo va arrotolato tra le mani.",
     "I pici sono più spessi degli spaghetti e reggono bene un ragù di cinghiale.",
+    "A Montalcino nessuno ti servirà i pici: lì, nelle trattorie del paese, si ordinano i pinci al ragù.",
   ],
   synonyms: [],
   antonyms: [],
