@@ -83,7 +83,7 @@ export const incipit: LemmaEntry = {
   paroliereNote:
     "L'incipit è forse la parte di un testo su cui si lavora di più e che si dimentica di meno. " +
     "Esistono interi libri dedicati ai migliori incipit della letteratura mondiale — " +
-    "a dimostrazione che quelle prime parole non sono un'introduzione ma già il testo stesso, " +
+    "a dimostrazione che quelle prime parole non sono un'introduzione, ma già il testo stesso, " +
     "condensato in poche sillabe che decidono tutto.",
 
   editorialStatus: "reviewed",
@@ -97,5 +97,5 @@ export const incipit: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

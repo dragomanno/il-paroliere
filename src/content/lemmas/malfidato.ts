@@ -27,8 +27,8 @@ export const malfidato: LemmaEntry = {
     "il prefisso inverte o degrada il significato della base.",
   examples: [
     "Era malfidato per natura: anche le buone notizie le controllava due volte.",
-    "Non ti affidare a lui per cose importanti — è malfidato, e lo sa pure lui.",
-    "C'è una differenza tra essere malfidato e essere prudente: una questione di grado, e di esperienza.",
+    "Non ti affidare a lui per cose importanti — è malfidato e lo sa pure lui.",
+    "C'è una differenza tra essere malfidato e essere prudente: una questione di grado e di esperienza.",
   ],
   synonyms: [
     { term: "diffidente", register: "comune", context: "chi non si fida facilmente, per carattere o esperienza" },
@@ -55,5 +55,5 @@ export const malfidato: LemmaEntry = {
       "Definizione originale di 'malfidato': chi non si fida o chi non merita fiducia. L'ambiguità semantica tra diffidenza e inaffidabilità come tratto distintivo.",
   },
   createdAt: "2026-06-12",
-  updatedAt: "2026-06-12",
+  updatedAt: "2026-11-13",
 };

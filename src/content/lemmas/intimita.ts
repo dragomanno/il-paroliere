@@ -23,7 +23,7 @@ export const intimita: LemmaEntry = {
 
   shortDefinition:
     "Spazio relazionale in cui ci si mostra senza difese; richiede fiducia reciproca " +
-    "e vulnerabilità, e non si riduce alla sola dimensione fisica.",
+    "e vulnerabilità e non si riduce alla sola dimensione fisica.",
 
   etymology:
     "Dal latino intimitas, da intimus «il più interno, il più profondo», superlativo " +
@@ -32,7 +32,7 @@ export const intimita: LemmaEntry = {
 
   examples: [
     "L’intimità vera non si costruisce in un incontro: si costruisce nel tempo, attraverso la scoperta ripetuta che l’altro custodisce ciò che gli abbiamo affidato.",
-    "La confusione tra intimità e sessualità è comune ma riduttiva: due persone possono essere intime senza che ci sia nulla di fisico, e fisicamente vicine senza alcuna intimità.",
+    "La confusione tra intimità e sessualità è comune, ma riduttiva: due persone possono essere intime senza che ci sia nulla di fisico e fisicamente vicine senza alcuna intimità.",
     "Nelle organizzazioni, uno stile di leadership che crea spazio per una certa intimità — per la condivisione delle difficoltà, non solo dei successi — ottiene più fiducia.",
     "La perdita di intimità in una relazione non è sempre un fallimento improvviso: spesso è un’erosione lenta, fatta di conversazioni che non avvengono più.",
   ],
@@ -64,9 +64,9 @@ export const intimita: LemmaEntry = {
 
   seo: {
     title: "intimità — lo spazio relazionale senza difese, tra psicologia e letteratura",
-    description: "Che cos’è l’intimità: definizione psicologica, differenza da sessualità e vicinanza, e perché è l’indicatore più solido della qualità di una relazione.",
+    description: "Che cos’è l’intimità: definizione psicologica, differenza da sessualità e vicinanza e perché è l’indicatore più solido della qualità di una relazione.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

@@ -16,7 +16,7 @@ export const kairos: LemmaEntry = {
   definition:
     "Nel pensiero greco antico, il momento opportuno: l'istante qualitativamente " +
     "giusto per agire, parlare o decidere, distinto dal tempo quantitativo e " +
-    "indifferenziato di → kronos. Kairos non si misura in minuti ma si " +
+    "indifferenziato di → kronos. Kairos non si misura in minuti, ma si " +
     "riconosce — o si manca — perché è irripetibile: la stessa parola detta " +
     "un istante prima o un istante dopo il kairos giusto produce un effetto " +
     "completamente diverso, spesso opposto. Il concetto nasce in ambito " +
@@ -130,5 +130,5 @@ export const kairos: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

@@ -66,7 +66,7 @@ export const insulso: LemmaEntry = {
 
   paroliereNote:
     "Insulso ha un'etimologia gastronomica che dice qualcosa di profondo sul modo in " +
-    "cui l'italiano pensa al linguaggio: una conversazione senza sale è senza gusto, " +
+    "cui l'italiano pensa al linguaggio: una conversazione senza sale è senza gusto " +
     "e una persona senza gusto è, appunto, insulsa. La metafora del sale come misura " +
     "dell'intelligenza e dello spirito — il latino sal significava anche arguzia — è " +
     "sopravvissuta intatta nei secoli. Oggi la usiamo senza saperlo ogni volta che " +

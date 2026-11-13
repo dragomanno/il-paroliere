@@ -17,13 +17,13 @@ export const liberismo: LemmaEntry = {
     "di Adam Smith (*La ricchezza delle nazioni*, 1776). " +
     "Le varianti più radicali (neoliberismo, libertarismo economico) propugnano la privatizzazione dei servizi " +
     "pubblici, la deregolamentazione dei mercati finanziari e la riduzione della pressione fiscale. " +
-    "Il liberismo si distingue dal liberalismo politico, col quale condivide l'enfasi sulla libertà individuale " +
+    "Il liberismo si distingue dal liberalismo politico, col quale condivide l'enfasi sulla libertà individuale, " +
     "ma non necessariamente i valori democratici o la tutela dei diritti sociali.",
   shortDefinition: "Dottrina economica che propugna il libero mercato con minimo intervento statale; distinto dal liberalismo politico.",
   register: ["tecnico", "formale"],
   domains: ["economia", "politica"],
   etymology:
-    "Derivato italiano di *libero* + suffisso *-ismo*, formato in analogia con il francese *libéralisme* " +
+    "Derivato italiano di *libero* + suffisso *-ismo*, formato in analogia con il francese *libéralisme*, " +
     "ma con accezione più strettamente economica. Il termine si afferma in Italia nel XIX-XX secolo.",
   examples: [
     "Le riforme degli anni Ottanta in Gran Bretagna e negli Stati Uniti segnarono l'affermazione del liberismo come paradigma economico dominante.",
@@ -56,5 +56,5 @@ export const liberismo: LemmaEntry = {
     description: "Liberismo: dottrina del libero mercato con minimo intervento statale. Distinto dal liberalismo politico; Smith, neoliberismo.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

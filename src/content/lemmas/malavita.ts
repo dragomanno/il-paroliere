@@ -11,7 +11,7 @@ export const malavita: LemmaEntry = {
   partOfSpeech: "sostantivo femminile",
   gender: "femminile",
   definition:
-    "Il mondo del crimine — non un singolo individuo ma un universo sociale con proprie gerarchie, " +
+    "Il mondo del crimine — non un singolo individuo, ma un universo sociale con proprie gerarchie, " +
     "codici, solidarietà distorte. " +
     "Registro comune e giornalistico, con un'aura quasi cinematografica che la rende diversa " +
     "dal più tecnico crimine organizzato: malavita evoca ambienti, atmosfere, vite ai margini.",
@@ -50,5 +50,5 @@ export const malavita: LemmaEntry = {
       "Definizione originale di 'malavita': il mondo del crimine come universo sociale, evocativo e non giuridico. Distinto da crimine organizzato.",
   },
   createdAt: "2026-06-12",
-  updatedAt: "2026-06-12",
+  updatedAt: "2026-11-13",
 };

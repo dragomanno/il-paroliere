@@ -88,7 +88,7 @@ export const iprite: LemmaEntry = {
     "di una città belga semidistrutta — Ypres, Ieper in fiammingo, oggi luogo di " +
     "pellegrinaggio e memoria — dice qualcosa sulla natura dei nomi che la guerra " +
     "lascia alla lingua. L'iprite è insidiosa per un motivo preciso: agisce in " +
-    "ritardo. Chi la respira o la tocca spesso non sa di essere stato colpito, e " +
+    "ritardo. Chi la respira o la tocca spesso non sa di essere stato colpito e " +
     "quando i sintomi arrivano è già troppo tardi per le prime cure. Questa " +
     "caratteristica la rendeva particolarmente utile come arma psicologica oltre " +
     "che fisica: il nemico non sapeva quando era in pericolo.",
@@ -103,5 +103,5 @@ export const iprite: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

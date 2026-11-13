@@ -17,7 +17,7 @@ export const inconscio: LemmaEntry = {
     "Nella psicologia e nella psicoanalisi, insieme di processi, contenuti mentali e dinamiche affettive che operano al di fuori della coscienza, ma influenzano pensieri, emozioni e comportamenti, talvolta entrando in conflitto con ciò che ci raccontiamo di noi stessi. Come sostantivo, l'inconscio è il nome di questo spazio mentale non direttamente accessibile se non attraverso sogni, lapsus, sintomi, fantasie e relazioni; in filosofia indica ogni dimensione dell'esperienza che precede il pensiero riflesso, dal corpo che “sa” prima della mente, agli schemi appresi che guidano lo sguardo sul mondo. Nell'uso comune, “inconscio” come aggettivo può significare semplicemente non intenzionale o poco avvertito.",
 
   shortDefinition:
-    "Parte della vita psichica che agisce fuori dalla coscienza ma ne orienta desideri, paure e decisioni, spesso rivelandosi solo indirettamente.",
+    "Parte della vita psichica che agisce fuori dalla coscienza, ma ne orienta desideri, paure e decisioni, spesso rivelandosi solo indirettamente.",
 
   etymology:
     "Dal latino tardo incōnscius, “che non sa”, formato da in- privativo e cōnscius “consapevole, che sa con qualcuno”, a sua volta da cum “con” e scire “sapere”. L'uso filosofico è documentato già in età moderna, ma è con la psicoanalisi di fine Ottocento e inizio Novecento che inconscio diventa termine tecnico centrale, indicato talvolta anche con le varianti storiche “subconscio” o “subconscio psichico”, oggi meno usate o con sfumature diverse.",
@@ -78,5 +78,5 @@ export const inconscio: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

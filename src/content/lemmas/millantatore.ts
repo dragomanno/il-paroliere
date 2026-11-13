@@ -33,8 +33,8 @@ export const millantatore: LemmaEntry = {
 
   examples: [
     "Il classico millantatore da bar è quello che conosce personalmente “il direttore”, il quale può “sistemare” qualsiasi problema — senza che questa conoscenza si materializzi mai.",
-    "Il millantatore di credito non è solo un bugiardo: è qualcuno che ha capito come funziona un sistema in cui le relazioni contano più delle competenze, e ne approfitta.",
-    "Smascherare un millantatore richiede pazienza: bisogna aspettare che la promessa diventi dovuta, e poi verificare se si mantiene.",
+    "Il millantatore di credito non è solo un bugiardo: è qualcuno che ha capito come funziona un sistema in cui le relazioni contano più delle competenze e ne approfitta.",
+    "Smascherare un millantatore richiede pazienza: bisogna aspettare che la promessa diventi dovuta e poi verificare se si mantiene.",
     "Nella cultura d’impresa, il millantatore si annida nei pitch deck: numeri gonfiati, roadmap irrealistiche, mercati totali addressable che includono chiunque respiri.",
   ],
 
@@ -64,9 +64,9 @@ export const millantatore: LemmaEntry = {
 
   seo: {
     title: "millantatore — il vanto strategico tra psicologia, diritto e cultura d’impresa",
-    description: "Che cos’è un millantatore: definizione psicologica e giuridica, differenza da fanfarone e impostore, e come sopravvive nei sistemi dove la verifica è costosa.",
+    description: "Che cos’è un millantatore: definizione psicologica e giuridica, differenza da fanfarone e impostore e come sopravvive nei sistemi dove la verifica è costosa.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

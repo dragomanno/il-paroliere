@@ -54,7 +54,7 @@ export const imprudenza: LemmaEntry = {
   ],
 
   examples: [
-    "È stata un'imprudenza uscire in barca con quel vento, e lo sapevano tutti.",
+    "È stata un'imprudenza uscire in barca con quel vento e lo sapevano tutti.",
     "Il giudice ha riconosciuto l'imprudenza del conducente, ma ha escluso che volesse causare l'incidente.",
     "Raccontare i propri progetti a tutti prima di averli realizzati è un'imprudenza che si paga spesso.",
   ],

@@ -29,7 +29,7 @@ export const levita: LemmaEntry = {
 
   examples: [
     "La levità dei grandi clown non è assenza di profondità: è profondità che ha imparato a non affondare.",
-    "Certi acquerelli hanno una levità che l’olio non può raggiungere: il bianco della carta respira sotto il colore, e questo respiro è tutto.",
+    "Certi acquerelli hanno una levità che l’olio non può raggiungere: il bianco della carta respira sotto il colore e questo respiro è tutto.",
     "Nella poesia di Leopardi c’è una tensione irrisolta tra la levità del canto e il peso del pensiero — ed è proprio in quella tensione che vive.",
     "La levità non si impara: si ottiene togliendo, anno dopo anno, tutto ciò che si teneva per paura di sembrare vuoti.",
   ],
@@ -47,9 +47,9 @@ export const levita: LemmaEntry = {
   relatedWords: ["leggerezza", "rarefazione", "diafano", "ineffabile", "lieve"],
 
   paroliereNote:
-    "Levità è uno di quei lemmi che quasi nessuno usa ma che molti capiscono immediatamente " +
+    "Levità è uno di quei lemmi che quasi nessuno usa, ma che molti capiscono immediatamente " +
     "quando lo sentono. È la parola giusta per certi momenti che “leggerezza” non coglie " +
-    "del tutto — quei momenti in cui qualcosa sembra fluttuare non perché è vuoto ma " +
+    "del tutto — quei momenti in cui qualcosa sembra fluttuare non perché è vuoto, ma " +
     "perché è arrivato a un punto in cui la gravità non ha più presa.",
 
   sourceLinks: {},
@@ -63,5 +63,5 @@ export const levita: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-08-21",
+  updatedAt: "2026-11-13",
 };

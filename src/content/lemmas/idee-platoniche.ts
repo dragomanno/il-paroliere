@@ -14,7 +14,7 @@ export const ideePlatoniche: LemmaEntry = {
   domains: ["filosofia", "metafisica", "epistemologia", "storia-del-pensiero"],
 
   definition:
-    "Nel pensiero di Platone, realtà eterne, immutabili e intelligibili che costituiscono i modelli perfetti delle cose sensibili, le quali ne sono copie imperfette e mutevoli. Le idee platoniche non sono semplici concetti nella mente, ma forme di esistenza autonome, accessibili alla ragione attraverso la dialettica e non tramite i sensi; il Bene, il Giusto, il Bello, ad esempio, esistono come idee, e le cose belle o giuste lo sono in quanto partecipano di queste forme. Nella storia della filosofia il concetto è stato discusso, riformulato, criticato, ma ha lasciato un'impronta duratura sul modo occidentale di pensare la differenza tra apparenza e realtà.",
+    "Nel pensiero di Platone, realtà eterne, immutabili e intelligibili che costituiscono i modelli perfetti delle cose sensibili, le quali ne sono copie imperfette e mutevoli. Le idee platoniche non sono semplici concetti nella mente, ma forme di esistenza autonome, accessibili alla ragione attraverso la dialettica e non tramite i sensi; il Bene, il Giusto, il Bello, ad esempio, esistono come idee e le cose belle o giuste lo sono in quanto partecipano di queste forme. Nella storia della filosofia il concetto è stato discusso, riformulato, criticato, ma ha lasciato un'impronta duratura sul modo occidentale di pensare la differenza tra apparenza e realtà.",
 
   shortDefinition:
     "Modelli eterni e immutabili che, per Platone, stanno oltre il mondo sensibile e ne sono la forma perfetta, colta dalla ragione più che dai sensi.",
@@ -73,5 +73,5 @@ export const ideePlatoniche: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

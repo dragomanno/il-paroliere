@@ -66,7 +66,7 @@ export const intuizione: LemmaEntry = {
   sourceLinks: {},
 
   paroliereNote:
-    "L'intuizione gode di ottima stampa quando va a segno, e di pessima quando sbaglia: solo a posteriori decidiamo se era “geniale” o “campata in aria”. Tra celebrazioni del talento innato e diffidenze razionaliste, il lemma ricorda che spesso ciò che chiamiamo intuizione è il lavoro a bassa voce dell'esperienza, che ha già visto molti casi simili e li riconosce prima che la coscienza li metta in fila. Il rischio, nella vita pubblica, è usarla come scudo per evitare il confronto con i dati; la sfida è tenerla come bussola iniziale, sapendo che ogni buona intuizione merita una verifica paziente.",
+    "L'intuizione gode di ottima stampa quando va a segno e di pessima quando sbaglia: solo a posteriori decidiamo se era “geniale” o “campata in aria”. Tra celebrazioni del talento innato e diffidenze razionaliste, il lemma ricorda che spesso ciò che chiamiamo intuizione è il lavoro a bassa voce dell'esperienza, che ha già visto molti casi simili e li riconosce prima che la coscienza li metta in fila. Il rischio, nella vita pubblica, è usarla come scudo per evitare il confronto con i dati; la sfida è tenerla come bussola iniziale, sapendo che ogni buona intuizione merita una verifica paziente.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -78,5 +78,5 @@ export const intuizione: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

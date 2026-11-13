@@ -22,7 +22,7 @@ export const modanatura: LemmaEntry = {
   relatedWords: ["abside", "sbalzo", "cesellatura", "architettura", "ordine architettonico"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/modanatura" },
   paroliereNote:
-    "Le modanature sono la grammatica dell'architettura classica: senza conoscerle, non si riesce a leggere un edificio come si legge un testo. Gola, toro, ovolo, listello — ciascuna ha un peso visivo preciso, e il loro accostamento produce ritmo, ombra, carattere. Un lessico tecnico che è anche un lessico estetico.",
+    "Le modanature sono la grammatica dell'architettura classica: senza conoscerle, non si riesce a leggere un edificio come si legge un testo. Gola, toro, ovolo, listello — ciascuna ha un peso visivo preciso e il loro accostamento produce ritmo, ombra, carattere. Un lessico tecnico che è anche un lessico estetico.",
   editorialStatus: "reviewed",
   indexable: true,
   seo: {

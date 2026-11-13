@@ -27,9 +27,9 @@ export const mascalzone: LemmaEntry = {
     "Il suffisso -one amplifica in senso spregiativo. " +
     "La traiettoria semantica va dal basso rango sociale alla bassa condotta morale.",
   examples: [
-    "«Mascalzone!» — gridò alzandosi, e in quella parola c'era tutta la rabbia di chi si sente tradito da qualcuno che avrebbe dovuto sapere meglio.",
+    "«Mascalzone!» — gridò alzandosi e in quella parola c'era tutta la rabbia di chi si sente tradito da qualcuno che avrebbe dovuto sapere meglio.",
     "Era un mascalzone di paese, noto a tutti: non abbastanza pericoloso da temere, abbastanza sleale da non ignorare.",
-    "Nel romanzo popolare italiano il mascalzone è una presenza quasi necessaria — il cattivo che non impressiona ma che disturba.",
+    "Nel romanzo popolare italiano il mascalzone è una presenza quasi necessaria — il cattivo che non impressiona, ma che disturba.",
   ],
   synonyms: [
     { term: "farabutto", register: "comune-letterario", context: "quando la condotta bassa è anche struttura morale permanente" },
@@ -58,5 +58,5 @@ export const mascalzone: LemmaEntry = {
       "Definizione originale di 'mascalzone': persona sleale e di bassa condotta, figura teatralmente negativa. Distinzione da farabutto, furfante, birbante.",
   },
   createdAt: "2026-06-12",
-  updatedAt: "2026-06-12",
+  updatedAt: "2026-11-13",
 };

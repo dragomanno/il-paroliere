@@ -64,9 +64,9 @@ export const integrita: LemmaEntry = {
 
   seo: {
     title: "integrità — coerenza tra valori e azioni, dalla morale al diritto",
-    description: "Che cos’è l’integrità: definizione etica e giuridica, differenza da probità e rettitudine, e perché l’integrità si misura sotto pressione.",
+    description: "Che cos’è l’integrità: definizione etica e giuridica, differenza da probità e rettitudine e perché l’integrità si misura sotto pressione.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

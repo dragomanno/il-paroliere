@@ -64,7 +64,7 @@ export const meridiano: LemmaEntry = {
     "Meridiano è una di quelle parole che fanno capire quanto spesso i nomi " +
     "scientifici portino incorporata una storia culturale. Il fatto che il meridiano " +
     "di riferimento passi per Greenwich — un sobborgo di Londra — non è una verità " +
-    "matematica ma una decisione politica presa nel 1884, quando la Gran Bretagna " +
+    "matematica, ma una decisione politica presa nel 1884, quando la Gran Bretagna " +
     "era la potenza navale dominante del mondo. La Francia propose a lungo il " +
     "meridiano di Parigi come riferimento; la Russia aveva il suo. Il meridiano di " +
     "Greenwich è il meridiano dell'Impero britannico travestito da convenzione " +
@@ -80,5 +80,5 @@ export const meridiano: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

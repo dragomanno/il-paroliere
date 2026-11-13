@@ -31,7 +31,7 @@ export const lusinga: LemmaEntry = {
     "L'etimologia porta già in sé la doppiezza: la lode che non è lode.",
 
   examples: [
-    "Le sue lusinghe erano eleganti ma riconoscibili: chiunque lo conoscesse " +
+    "Le sue lusinghe erano eleganti, ma riconoscibili: chiunque lo conoscesse " +
     "sapeva cosa stava per chiedere.",
     "Non era immune alle lusinghe — nessuno lo è davvero quando vengono " +
     "dosate nel modo giusto.",
@@ -117,5 +117,5 @@ export const lusinga: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

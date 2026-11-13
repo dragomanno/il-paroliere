@@ -14,7 +14,7 @@ export const metafisica: LemmaEntry = {
   domains: ["filosofia", "teologia", "epistemologia", "cultura"],
 
   definition:
-    "Ramo della filosofia che indaga ciò che sta “oltre” o “al di là” del mondo fisico così come appare: la struttura ultima della realtà, le nozioni di essere, causa, tempo, oggetto, possibilità, e il rapporto tra mente e mondo. Tradizionalmente la metafisica ha cercato di dire qualcosa sull'essere in quanto essere, al di là dei singoli enti e delle singole scienze; nel linguaggio comune, però, “metafisico” viene spesso usato per indicare ciò che sembra troppo astratto, vago o legato a credenze spirituali non dimostrabili. La storia del pensiero moderno alterna momenti di critica alla metafisica e tentativi di riformularla in modo più sobrio e controllabile.",
+    "Ramo della filosofia che indaga ciò che sta “oltre” o “al di là” del mondo fisico così come appare: la struttura ultima della realtà, le nozioni di essere, causa, tempo, oggetto, possibilità e il rapporto tra mente e mondo. Tradizionalmente la metafisica ha cercato di dire qualcosa sull'essere in quanto essere, al di là dei singoli enti e delle singole scienze; nel linguaggio comune, però, “metafisico” viene spesso usato per indicare ciò che sembra troppo astratto, vago o legato a credenze spirituali non dimostrabili. La storia del pensiero moderno alterna momenti di critica alla metafisica e tentativi di riformularla in modo più sobrio e controllabile.",
 
   shortDefinition:
     "Parte della filosofia che riflette sulla struttura ultima della realtà e dell'essere, andando oltre la descrizione dei singoli fenomeni fisici.",
@@ -73,5 +73,5 @@ export const metafisica: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

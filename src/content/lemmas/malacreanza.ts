@@ -12,7 +12,7 @@ export const malacreanza: LemmaEntry = {
   gender: "femminile",
   definition:
     "Mancanza di buone maniere, di garbo, di attenzione verso gli altri nelle forme quotidiane. " +
-    "Non immoralità profonda: è il difetto più superficiale ma più visibile — quello che si nota subito. " +
+    "Non immoralità profonda: è il difetto più superficiale, ma più visibile — quello che si nota subito. " +
     "Si usa spesso in tono di rimprovero, rivolto a chi non ha imparato, o ha dimenticato, " +
     "come ci si comporta.",
   shortDefinition:
@@ -32,7 +32,7 @@ export const malacreanza: LemmaEntry = {
   synonyms: [
     { term: "maleducazione", register: "comune", context: "sinonimo diretto, forse più diffuso nell'uso contemporaneo" },
     { term: "scortesia", register: "comune", context: "mancanza di cortesia, più specifica del comportamento verso gli altri" },
-    { term: "sgarbatezza", register: "comune", context: "assenza di garbo, simile ma con enfasi sul singolo gesto" },
+    { term: "sgarbatezza", register: "comune", context: "assenza di garbo, simile, ma con enfasi sul singolo gesto" },
     { term: "impertinenza", register: "comune", context: "quando la malacreanza assume tono di sfida o mancanza di rispetto deliberata" },
   ],
   antonyms: [
@@ -55,5 +55,5 @@ export const malacreanza: LemmaEntry = {
       "Definizione originale di 'malacreanza': mancanza di buone maniere e garbo nelle forme quotidiane. Distinta dalla maleducazione per registro e sfumatura.",
   },
   createdAt: "2026-06-12",
-  updatedAt: "2026-06-12",
+  updatedAt: "2026-11-13",
 };

@@ -17,7 +17,7 @@ export const inetto: LemmaEntry = {
     "stupidità: l'inetto può essere intelligente, riflessivo, persino lucidissimo " +
     "riguardo alla propria condizione — e proprio per questo incapace di agire. In " +
     "letteratura, l'inetto è diventato una delle figure antropologiche più studiate " +
-    "della modernità: l'individuo che conosce il mondo ma non riesce a parteciparvi.",
+    "della modernità: l'individuo che conosce il mondo, ma non riesce a parteciparvi.",
 
   shortDefinition:
     "Privo delle capacità richieste da un compito o ruolo; in letteratura, figura " +
@@ -35,7 +35,7 @@ export const inetto: LemmaEntry = {
     { term: "incapace", register: "comune", context: "più neutro, riferito alla sola mancanza di capacità" },
     { term: "incompetente", register: "comune", context: "accentua la mancanza di competenza specifica in un dominio" },
     { term: "inadatto", register: "comune", context: "il non essere adatto a una funzione o contesto specifico" },
-    { term: "mediocre", register: "comune", context: "insufficiente ma non radicalmente incapace — sfumatura meno drastica" }
+    { term: "mediocre", register: "comune", context: "insufficiente, ma non radicalmente incapace — sfumatura meno drastica" }
   ],
 
   antonyms: [

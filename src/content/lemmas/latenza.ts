@@ -20,8 +20,8 @@ export const latenza: LemmaEntry = {
     "due impieghi tecnici principali, uniti dalla stessa struttura concettuale " +
     "di fondo. In medicina e psicologia, la latenza è l'intervallo tra una " +
     "causa e la comparsa dei suoi effetti: un'infezione latente è presente " +
-    "nell'organismo ma non produce ancora sintomi; un tratto psicologico " +
-    "latente esiste nella persona ma non si è ancora espresso in comportamenti " +
+    "nell'organismo, ma non produce ancora sintomi; un tratto psicologico " +
+    "latente esiste nella persona, ma non si è ancora espresso in comportamenti " +
     "osservabili. In informatica e nelle telecomunicazioni, la latenza è " +
     "invece il tempo di ritardo tra l'invio di un comando o di un dato e la " +
     "ricezione della risposta — una misura tecnica precisa, spesso in " +
@@ -30,7 +30,7 @@ export const latenza: LemmaEntry = {
     "non è ancora arrivato.",
 
   shortDefinition:
-    "Condizione di ciò che esiste ma non si è ancora manifestato: in " +
+    "Condizione di ciò che esiste, ma non si è ancora manifestato: in " +
     "psicologia e medicina l'intervallo prima dei sintomi, in informatica il " +
     "ritardo tra comando e risposta.",
 
@@ -105,7 +105,7 @@ export const latenza: LemmaEntry = {
 
   paroliereNote:
     "È un lemma che vale la pena trattare distinguendo con cura latente da " +
-    "sopito, perché la sovrapposizione è comune ma imprecisa. Ciò che è " +
+    "sopito, perché la sovrapposizione è comune, ma imprecisa. Ciò che è " +
     "sopito è stato attivo e si è temporaneamente placato — un conflitto " +
     "sopito, una passione sopita — con l'implicazione che possa essere già " +
     "avvenuto un risveglio precedente. Ciò che è latente, invece, può non " +
@@ -129,5 +129,5 @@ export const latenza: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

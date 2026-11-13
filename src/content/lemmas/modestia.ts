@@ -65,9 +65,9 @@ export const modestia: LemmaEntry = {
 
   seo: {
     title: "modestia — misura di sé tra virtù autentica e falsa umiltà",
-    description: "Che cos’è la modestia: definizione etica, differenza da umiltà e timidezza, e il paradosso della modestia nell’era del personal branding.",
+    description: "Che cos’è la modestia: definizione etica, differenza da umiltà e timidezza e il paradosso della modestia nell’era del personal branding.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

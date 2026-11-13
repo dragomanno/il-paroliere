@@ -40,7 +40,7 @@ export const malleabile: LemmaEntry = {
 
   antonyms: [
     { term: "rigido", register: "comune", context: "non cede alla pressione; in senso figurato, non si adatta" },
-    { term: "fragile", register: "comune", context: "cede alla pressione ma si rompe, senza recupero" },
+    { term: "fragile", register: "comune", context: "cede alla pressione, ma si rompe, senza recupero" },
     { term: "inflessibile", register: "comune", context: "in senso caratteriale, non disposto a modificare posizioni o comportamenti" }
   ],
 
@@ -70,8 +70,7 @@ export const malleabile: LemmaEntry = {
     "deformazione per compressione o percussione, la duttilità quella per trazione. " +
     "L'oro eccelle nella prima, il rame nella seconda. Nella lingua di tutti i giorni " +
     "i due aggettivi si usano spesso come sinonimi — e capire perché non lo siano del " +
-    "tutto dice qualcosa di interessante su come il sapere tecnico si trasformi, e a " +
-    "volte si perda, nel passaggio alla lingua comune.",
+    "tutto dice qualcosa di interessante su come il sapere tecnico si trasformi e a volte si perda nel passaggio alla lingua comune.",
 
   editorialStatus: "reviewed",
   indexable: true,

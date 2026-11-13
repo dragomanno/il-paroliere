@@ -30,7 +30,7 @@ export const metonimia: LemmaEntry = {
   ],
 
   synonyms: [
-    { term: "sineddoche", register: "tecnico", note: "Figura affine ma distinta: sostituzione tra parte e tutto della stessa entità, non tra entità contigue e separate." },
+    { term: "sineddoche", register: "tecnico", note: "Figura affine, ma distinta: sostituzione tra parte e tutto della stessa entità, non tra entità contigue e separate." },
   ],
 
   antonyms: [
@@ -57,5 +57,5 @@ export const metonimia: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

@@ -66,9 +66,9 @@ export const messaggiare: LemmaEntry = {
 
   seo: {
     title: "messaggiare — comunicare per messaggi scritti nell’era delle app",
-    description: "Che cos’è messaggiare: definizione linguistica, differenza dai verbi piattaforma-specifici, e come la messaggistica asincrona ha cambiato le relazioni.",
+    description: "Che cos’è messaggiare: definizione linguistica, differenza dai verbi piattaforma-specifici e come la messaggistica asincrona ha cambiato le relazioni.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

@@ -23,7 +23,7 @@ export const memoria: LemmaEntry = {
     "Dal latino memoria, derivato di memor, -oris “che ricorda, attento a”, con radice indoeuropea ricostruita *smer- / *mer- “ricordare, preoccuparsi di”. Nel passaggio all'italiano il termine conserva sia il valore di facoltà mentale sia quello di ricordo concreto, mentre la tradizione filosofica e giuridica ne rafforza il legame con identità, testimonianza e responsabilità.",
 
   examples: [
-    "Da quando è nato suo figlio, la memoria delle notti insonni si mescola alla tenerezza, e non sa più separare la fatica dalla gioia.",
+    "Da quando è nato suo figlio, la memoria delle notti insonni si mescola alla tenerezza e non sa più separare la fatica dalla gioia.",
     "In udienza, la memoria del testimone è stata messa in dubbio perché i fatti risalivano a più di dieci anni prima.",
     "Il romanzo lavora sulla memoria collettiva di un paese che preferirebbe dimenticare le proprie colpe.",
     "Dopo l'incidente ha recuperato gradualmente la memoria, ma alcuni giorni restano come cancellati.",
@@ -78,5 +78,5 @@ export const memoria: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

@@ -14,7 +14,7 @@ export const inferenza: LemmaEntry = {
   domains: ["logica", "epistemologia", "linguistica", "psicologia-cognitiva"],
 
   definition:
-    "Operazione del pensiero attraverso cui, a partire da una o più proposizioni assunte come premesse, si perviene a una nuova proposizione, la conclusione. La logica distingue tre direzioni inferenziali fondamentali, secondo la forza del legame tra premesse e conclusione: l'inferenza *deduttiva*, in cui — se le premesse sono vere — la conclusione è necessariamente vera, perché già implicita in esse (è il territorio del → sillogismo); l'inferenza *induttiva*, in cui da casi osservati si generalizza a una regola probabile ma non garantita; l'inferenza *abduttiva* — la meno rigorosa e la più diffusa nella vita quotidiana — in cui, osservato un fatto, si ipotizza la spiegazione più plausibile senza alcuna certezza logica. Nell'uso comune, “trarre un'inferenza” indica più semplicemente il passaggio, spesso rapido e non dichiarato, da un indizio a una conclusione plausibile.",
+    "Operazione del pensiero attraverso cui, a partire da una o più proposizioni assunte come premesse, si perviene a una nuova proposizione, la conclusione. La logica distingue tre direzioni inferenziali fondamentali, secondo la forza del legame tra premesse e conclusione: l'inferenza *deduttiva*, in cui — se le premesse sono vere — la conclusione è necessariamente vera, perché già implicita in esse (è il territorio del → sillogismo); l'inferenza *induttiva*, in cui da casi osservati si generalizza a una regola probabile, ma non garantita; l'inferenza *abduttiva* — la meno rigorosa e la più diffusa nella vita quotidiana — in cui, osservato un fatto, si ipotizza la spiegazione più plausibile senza alcuna certezza logica. Nell'uso comune, “trarre un'inferenza” indica più semplicemente il passaggio, spesso rapido e non dichiarato, da un indizio a una conclusione plausibile.",
 
   shortDefinition:
     "Passaggio logico da una o più premesse a una conclusione; può essere deduttivo (necessario), induttivo o abduttivo (probabili).",
@@ -47,7 +47,7 @@ export const inferenza: LemmaEntry = {
   },
 
   paroliereNote:
-    "Viviamo immersi in inferenze non dichiarate molto più di quanto pensiamo: ogni volta che leggiamo un'espressione sul volto di qualcuno, interpretiamo un silenzio, decidiamo che un ritardo significa disinteresse, stiamo facendo un'inferenza — quasi sempre abduttiva, quasi mai verificata. La logica formale ci insegna a distinguere quanto quella inferenza sia solida (deduttiva, quasi inattaccabile) o fragile (abduttiva, la più utile ma anche la più rischiosa): imparare a chiedersi “sto deducendo o sto solo indovinando la spiegazione più comoda?” è forse l'esercizio critico più sottovalutato della vita quotidiana.",
+    "Viviamo immersi in inferenze non dichiarate molto più di quanto pensiamo: ogni volta che leggiamo un'espressione sul volto di qualcuno, interpretiamo un silenzio, decidiamo che un ritardo significa disinteresse, stiamo facendo un'inferenza — quasi sempre abduttiva, quasi mai verificata. La logica formale ci insegna a distinguere quanto quella inferenza sia solida (deduttiva, quasi inattaccabile) o fragile (abduttiva, la più utile, ma anche la più rischiosa): imparare a chiedersi “sto deducendo o sto solo indovinando la spiegazione più comoda?” è forse l'esercizio critico più sottovalutato della vita quotidiana.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -59,5 +59,5 @@ export const inferenza: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

@@ -5,7 +5,7 @@ export const naZdarovje: LemmaEntry = {
   slug: "na-zdarovje",
   partOfSpeech: "locuzione",
   definition:
-    "Locuzione russa (на здоровье) che significa letteralmente «per la salute» e si usa soprattutto per rispondere a un ringraziamento, in particolare per cibo o bevande, con il valore di «prego, buon pro ti faccia»; può anche accompagnare l'offerta di qualcosa da mangiare. Fuori dalla Russia, e spesso anche in italiano, viene scambiata per il brindisi russo, che invece si costruisce con за (za), come in «za vaše zdorov'e», «alla vostra salute». La grafia italiana «na zdarovje» rende a orecchio la pronuncia; la traslitterazione scientifica è «na zdorov'e».",
+    "Locuzione russa (на здоровье) che significa letteralmente «per la salute» e si usa soprattutto per rispondere a un ringraziamento, in particolare per cibo o bevande, con il valore di «prego, buon pro ti faccia»; può anche accompagnare l'offerta di qualcosa da mangiare. Fuori dalla Russia e spesso anche in italiano, viene scambiata per il brindisi russo, che invece si costruisce con за (za), come in «za vaše zdorov'e», «alla vostra salute». La grafia italiana «na zdarovje» rende a orecchio la pronuncia; la traslitterazione scientifica è «na zdorov'e».",
   shortDefinition:
     "Locuzione russa per rispondere a un grazie, specie per il cibo: «prego, buon pro ti faccia». Non è il brindisi russo.",
   register: ["colloquiale", "comune"],

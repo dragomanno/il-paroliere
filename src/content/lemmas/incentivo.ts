@@ -55,7 +55,7 @@ export const incentivo: LemmaEntry = {
   },
 
   paroliereNote:
-    "Defiscalizzazione e incentivo sono concetti complementari ma non sinonimi: " +
+    "Defiscalizzazione e incentivo sono concetti complementari, ma non sinonimi: " +
     "la defiscalizzazione è uno degli strumenti attraverso cui si costruisce un " +
     "incentivo, non l'incentivo in sé. Un incentivo può essere anche un bonus " +
     "diretto in denaro, una riduzione burocratica, un riconoscimento simbolico: " +
@@ -72,5 +72,5 @@ export const incentivo: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

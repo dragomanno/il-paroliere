@@ -47,7 +47,7 @@ export const liberta: LemmaEntry = {
     "politico-filosofico contemporaneo. La libertà negativa è cara al liberalismo classico e al libertarismo; " +
     "la libertà positiva è rivendicata da repubblicanesimo e socialismo. " +
     "Da non confondere *libertà* con *liberismo* (dottrina economica del mercato libero) " +
-    "né con *liberalismo* (corrente politica): i tre termini condividono la radice ma designano concetti distinti.",
+    "né con *liberalismo* (corrente politica): i tre termini condividono la radice, ma designano concetti distinti.",
   editorialStatus: "reviewed",
   indexable: true,
   seo: {
@@ -55,5 +55,5 @@ export const liberta: LemmaEntry = {
     description: "Libertà: condizione di chi agisce senza costrizioni. Libertà negativa vs positiva (Berlin), diritti fondamentali, filosofia politica.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

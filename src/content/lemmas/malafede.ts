@@ -18,7 +18,7 @@ export const malafede: LemmaEntry = {
     "o falso — con consapevolezza della propria disonestà. La malafede non è errore " +
     "né ignoranza: è la scelta deliberata di agire contro ciò che si sa essere giusto, " +
     "vero o onesto. In diritto, ha rilevanza specifica in ambito contrattuale e " +
-    "processuale: chi agisce in malafede viola non solo la norma ma il principio di " +
+    "processuale: chi agisce in malafede viola non solo la norma, ma il principio di " +
     "buona fede che le relazioni giuridiche presuppongono.",
 
   shortDefinition:
@@ -64,9 +64,9 @@ export const malafede: LemmaEntry = {
 
   seo: {
     title: "malafede — la disonestà consapevole tra etica, diritto e dibattito pubblico",
-    description: "Che cos’è la malafede: definizione etica e giuridica, differenza da errore e buona fede, e come la malafede sistematica produce cinismo collettivo.",
+    description: "Che cos’è la malafede: definizione etica e giuridica, differenza da errore e buona fede e come la malafede sistematica produce cinismo collettivo.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

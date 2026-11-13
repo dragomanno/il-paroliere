@@ -13,7 +13,7 @@ export const liquidita: LemmaEntry = {
   definition:
     "Nel senso fisico, liquidità indica la proprietà di uno stato della materia intermedio " +
     "tra il solido e il gassoso: una sostanza liquida assume la forma del contenitore che la " +
-    "ospita ma mantiene il proprio volume. In economia e finanza, liquidità indica la " +
+    "ospita, ma mantiene il proprio volume. In economia e finanza, liquidità indica la " +
     "disponibilità di denaro contante o di attività facilmente convertibili in denaro: " +
     "un'azienda con alta liquidità può far fronte ai suoi impegni a breve termine; un mercato " +
     "liquido è quello in cui è facile comprare e vendere senza spostare significativamente i " +
@@ -24,7 +24,7 @@ export const liquidita: LemmaEntry = {
     "istituzioni stabili — lo Stato-nazione, la famiglia nucleare, il posto di lavoro fisso, " +
     "i partiti politici strutturati, le ideologie coerenti. La modernità liquida — il nostro " +
     "presente — è l'epoca in cui quelle strutture solide si sono sciolte senza essere " +
-    "sostituite da nuove strutture equivalenti. Le identità non sono più fisse ma multiple e " +
+    "sostituite da nuove strutture equivalenti. Le identità non sono più fisse, ma multiple e " +
     "fluide; le relazioni sono più fragili e contingenti; il lavoro è flessibile fino alla " +
     "precarietà; i legami comunitari si allentano; le ideologie si frammentano. Il risultato " +
     "non è la libertà pura: è l'ansia dell'individuo che deve costruirsi da solo, in tempo " +
@@ -48,8 +48,8 @@ export const liquidita: LemmaEntry = {
 
   examples: [
     "Bauman descriveva la modernità liquida come la condizione di chi è costretto a costruire la propria identità ogni giorno, senza le certezze solide che le generazioni precedenti avevano — nel bene e nel male.",
-    "L'amore liquido di Bauman non è l'amore romantico: è la relazione che si vuole intensa ma non vincolante, connessa ma non dipendente, presente ma facilmente revocabile.",
-    "La liquidità finanziaria di un'azienda misura la sua capacità di sopravvivere nel breve termine: un'azienda profittevole ma illiquida può fallire.",
+    "L'amore liquido di Bauman non è l'amore romantico: è la relazione che si vuole intensa, ma non vincolante, connessa, ma non dipendente, presente, ma facilmente revocabile.",
+    "La liquidità finanziaria di un'azienda misura la sua capacità di sopravvivere nel breve termine: un'azienda profittevole, ma illiquida, può fallire.",
   ],
 
   synonyms: [
@@ -120,5 +120,5 @@ export const liquidita: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

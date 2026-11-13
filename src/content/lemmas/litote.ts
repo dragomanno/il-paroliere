@@ -46,7 +46,7 @@ export const litote: LemmaEntry = {
   },
 
   paroliereNote:
-    "La litote è la dimostrazione più elegante che negare non è mai un atto neutro. Chi dice 'non è male' non sta semplicemente evitando di dire 'è buono': sta scegliendo un tono, una distanza, spesso un understatement calcolato che dice più cose insieme — un giudizio positivo, ma anche una certa riluttanza a esporsi con troppo entusiasmo. È la figura retorica preferita di chi vuole comunicare con precisione senza sbilanciarsi apertamente, ed è per questo un tratto stilistico ricorrente in registri colti, ironici o diplomatici.",
+    "La litote è la dimostrazione più elegante che negare non è mai un atto neutro. Chi dice 'non è male' non sta semplicemente evitando di dire 'è buono': sta scegliendo un tono, una distanza, spesso un understatement calcolato che dice più cose insieme — un giudizio positivo, ma anche una certa riluttanza a esporsi con troppo entusiasmo. È la figura retorica preferita di chi vuole comunicare con precisione senza sbilanciarsi apertamente ed è per questo un tratto stilistico ricorrente in registri colti, ironici o diplomatici.",
 
   editorialStatus: "draft",
   indexable: true,
@@ -58,5 +58,5 @@ export const litote: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

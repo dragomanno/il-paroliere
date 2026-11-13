@@ -66,9 +66,9 @@ export const millanteria: LemmaEntry = {
 
   seo: {
     title: "millanteria — il vanto come strategia, dalla commedia al LinkedIn",
-    description: "Che cos’è la millanteria: definizione psicologica e giuridica, il miles gloriosus latino, e la millanteria soft nell’era dei profili digitali.",
+    description: "Che cos’è la millanteria: definizione psicologica e giuridica, il miles gloriosus latino e la millanteria soft nell’era dei profili digitali.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

@@ -36,7 +36,7 @@ export const mangiaufo: LemmaEntry = {
 
   examples: [
     "Al ristorante trovava sempre un pretesto per non mettere mano al portafoglio: " +
-    "da anni viveva da mangiaufo, e tutti lo sapevano tranne lui.",
+    "da anni viveva da mangiaufo e tutti lo sapevano tranne lui.",
     "Non era avarizia nel senso classico — non amava i soldi per sé. " +
     "Era mangiaufo: amava che fossero gli altri a spendere per lui.",
     "Aveva costruito una rete di amicizie calibrate su chi poteva ospitarlo, " +
@@ -118,9 +118,9 @@ export const mangiaufo: LemmaEntry = {
     "Il mangiaufo fa una cosa diversa e più strutturale: costruisce la propria " +
     "esistenza attorno alla disponibilità altrui, trasformando lo scrocco da " +
     "comportamento occasionale in stile di vita. " +
-    "C'è una certa genialità storta in questa figura, e il termine italiano la " +
+    "C'è una certa genialità storta in questa figura e il termine italiano la " +
     "coglie bene: mangiare a ufo, mangiare gratis, mangiare a spese di qualcuno " +
-    "che non ha capito — o che ha capito tutto ma non riesce a dire di no.",
+    "che non ha capito — o che ha capito tutto, ma non riesce a dire di no.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -133,5 +133,5 @@ export const mangiaufo: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

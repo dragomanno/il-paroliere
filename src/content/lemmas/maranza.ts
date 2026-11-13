@@ -45,7 +45,7 @@ export const maranza: LemmaEntry = {
   },
 
   paroliereNote:
-    "Le parole che nominano gruppi giovanili sono quasi sempre instabili: passano dall’esterno all’interno, dal dileggio alla rivendicazione, e cambiano insieme a chi le usa. «Maranza» va letto come fenomeno di costume e di lingua, non come scorciatoia per una gerarchia sociale.",
+    "Le parole che nominano gruppi giovanili sono quasi sempre instabili: passano dall’esterno all’interno, dal dileggio alla rivendicazione e cambiano insieme a chi le usa. «Maranza» va letto come fenomeno di costume e di lingua, non come scorciatoia per una gerarchia sociale.",
 
   editorialStatus: "draft",
   indexable: true,
@@ -56,5 +56,5 @@ export const maranza: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-08-24",
+  updatedAt: "2026-11-13",
 };

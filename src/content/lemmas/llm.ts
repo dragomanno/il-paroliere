@@ -41,7 +41,7 @@ export const llm: LemmaEntry = {
     {
       term: "modello AI",
       register: "comune",
-      context: "semplificazione, meno precisa ma più accessibile",
+      context: "semplificazione, meno precisa, ma più accessibile",
     },
   ],
 
@@ -82,5 +82,5 @@ export const llm: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

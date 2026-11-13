@@ -14,7 +14,7 @@ export const levante: LemmaEntry = {
   definition:
     "Come sostantivo, indica il punto cardinale est — la direzione da cui sorge il " +
     "sole — e, per estensione geografica, le terre che si affacciano sul Mediterraneo " +
-    "orientale (Siria, Libano, Israele, e un tempo l'intero Oriente prossimo). Come " +
+    "orientale (Siria, Libano, Israele e, un tempo, l'intero Oriente prossimo). Come " +
     "aggettivo o sostantivo meteorologico, è il vento che spira da est, spesso umido " +
     "e caldo lungo le coste mediterranee. Come aggettivo, vale anche 'che si leva, " +
     "che sorge'.",
@@ -72,5 +72,5 @@ export const levante: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-05-30",
+  updatedAt: "2026-11-13",
 };

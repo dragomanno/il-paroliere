@@ -5,7 +5,7 @@ export const hiking: LemmaEntry = {
   partOfSpeech: "sostantivo",
   gender: "maschile",
   definition:
-    "Camminata in natura su sentieri segnalati e percorsi ben tracciati, di durata variabile ma generalmente inferiore alla giornata intera, accessibile senza equipaggiamento tecnico specialistico — bastano scarpe robuste, uno zaino leggero e un abbigliamento adeguato alla stagione. L'hiking è pensato per un pubblico ampio, comprese famiglie e persone con poca esperienza di montagna; si distingue dal trekking per l'assenza di dislivelli estremi, di pernottamento in natura e di pianificazione logistica avanzata.",
+    "Camminata in natura su sentieri segnalati e percorsi ben tracciati, di durata variabile, ma generalmente inferiore alla giornata intera, accessibile senza equipaggiamento tecnico specialistico — bastano scarpe robuste, uno zaino leggero e un abbigliamento adeguato alla stagione. L'hiking è pensato per un pubblico ampio, comprese famiglie e persone con poca esperienza di montagna; si distingue dal trekking per l'assenza di dislivelli estremi, di pernottamento in natura e di pianificazione logistica avanzata.",
   shortDefinition:
     "Camminata in natura su sentieri segnalati, accessibile senza equipaggiamento tecnico; meno impegnativa e più inclusiva del trekking.",
   register: ["comune"],

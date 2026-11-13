@@ -93,7 +93,7 @@ export const melassa: LemmaEntry = {
   },
 
   paroliereNote:
-    "L'uso figurato di melassa è interessante perché porta con sé non solo la dolcezza " +
+    "L'uso figurato di melassa è interessante perché porta con sé non solo la dolcezza, " +
     "ma soprattutto la viscosità: qualcosa in cui ci si impantana, da cui è difficile " +
     "uscire. È una parola più visiva e sensoriale di sentimentalismo, più concreta e " +
     "meno accademica. Funziona bene per descrivere certi prodotti culturali — film, " +
@@ -111,5 +111,5 @@ export const melassa: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-08-21",
+  updatedAt: "2026-11-13",
 };
