@@ -53,7 +53,7 @@ export const iva: LemmaEntry = {
     title: "IVA, imposta sul valore aggiunto — significato | Il Paroliere",
     description: "Che cos'è l'IVA: l'imposta sul valore aggiunto che si applica a ogni vendita, ma pesa solo sul consumatore finale. Come funziona, aliquote, storia.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

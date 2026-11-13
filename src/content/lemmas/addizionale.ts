@@ -56,7 +56,7 @@ export const addizionale: LemmaEntry = {
     title: "Addizionale — significato, addizionale IRPEF | Il Paroliere",
     description: "Che cos'è l'addizionale: l'imposta che si aggiunge a un'altra sulla stessa base, come l'addizionale IRPEF regionale e comunale. Aliquote, esempi.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

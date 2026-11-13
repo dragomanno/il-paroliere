@@ -53,7 +53,7 @@ export const impostaDiRegistro: LemmaEntry = {
     title: "Imposta di registro — significato, aliquote, esempi | Il Paroliere",
     description: "Che cos'è l'imposta di registro: il tributo dovuto per registrare atti come compravendite e affitti. Prima casa al 2%, aliquota ordinaria al 9%.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

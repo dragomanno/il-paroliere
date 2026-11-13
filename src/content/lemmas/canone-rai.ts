@@ -54,7 +54,7 @@ export const canoneRai: LemmaEntry = {
     title: "Canone RAI — significato, perché è un'imposta | Il Paroliere",
     description: "Che cos'è il canone RAI: l'imposta dovuta da chi possiede un televisore, addebitata nella bolletta della luce. Importo, esenzioni, storia.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

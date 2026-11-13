@@ -55,7 +55,7 @@ export const impostaDiBollo: LemmaEntry = {
     title: "Imposta di bollo — significato, marca da bollo | Il Paroliere",
     description: "Che cos'è l'imposta di bollo: il tributo su atti, istanze e fatture senza IVA, che si paga con la marca da bollo da 16 o da 2 euro. Storia ed esempi.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

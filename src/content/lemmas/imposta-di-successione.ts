@@ -52,7 +52,7 @@ export const impostaDiSuccessione: LemmaEntry = {
     title: "Imposta di successione — significato, aliquote | Il Paroliere",
     description: "Che cos'è l'imposta di successione: il tributo sui beni ereditati, con aliquote dal 4% all'8% e franchigie legate alla parentela. Storia ed esempi.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",
