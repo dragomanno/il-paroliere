@@ -74,11 +74,11 @@ export const deduzioneFiscale: LemmaEntry = {
     "irpef",
     "defiscalizzazione",
     "investimento",
-    "aliquota marginale",
-    "reddito imponibile",
-    "fondo pensione",
+    "aliquota",
+    "reddito-imponibile",
+    "fondo-pensione",
     "730",
-    "Unico",
+    "modello-unico",
   ],
 
   sourceLinks: {
@@ -106,5 +106,5 @@ export const deduzioneFiscale: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

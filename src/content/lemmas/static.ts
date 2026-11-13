@@ -391,6 +391,16 @@ import { ravvedimentoOperoso } from "./ravvedimento-operoso";
 import { cartellaEsattoriale } from "./cartella-esattoriale";
 import { condono } from "./condono";
 import { dichiarazioneSostitutiva } from "./dichiarazione-sostitutiva";
+import { creditoDimposta } from "./credito-dimposta";
+import { bonusFiscale } from "./bonus-fiscale";
+import { fondoPensione } from "./fondo-pensione";
+import { contributiPrevidenziali } from "./contributi-previdenziali";
+import { zonaFranca } from "./zona-franca";
+import { zes } from "./zes";
+import { catasto } from "./catasto";
+import { renditaCatastale } from "./rendita-catastale";
+import { forfettario } from "./forfettario";
+import { partitaIva } from "./partita-iva";
 import { incentivo } from "./incentivo";
 import { investimento } from "./investimento";
 import { f24 } from "./f24";
@@ -1340,5 +1350,16 @@ export const allLemmas: LemmaEntry[] = [
   cartellaEsattoriale,
   condono,
   dichiarazioneSostitutiva,
+  // BATCH-016 (2026-11) — Fiscalità e tributi, sottogruppo 3: agevolazioni, contributi e regimi
+  creditoDimposta,
+  bonusFiscale,
+  fondoPensione,
+  contributiPrevidenziali,
+  zonaFranca,
+  zes,
+  catasto,
+  renditaCatastale,
+  forfettario,
+  partitaIva,
 ];
 

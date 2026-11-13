@@ -89,7 +89,7 @@ export const defiscalizzazione: LemmaEntry = {
     "investimento",
     "incentivo",
     "agevolazione",
-    "credito d",
+    "credito-dimposta",
   ],
 
   sourceLinks: {

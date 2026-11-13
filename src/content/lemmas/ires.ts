@@ -44,12 +44,11 @@ export const ires: LemmaEntry = {
   relatedWords: [
     "irpef",
     "irpeg",
-    "IRAP",
+    "irap",
     "deduzione-fiscale",
     "detrazione-fiscale",
     "f24",
     "società di capitali",
-    "reddito d",
   ],
 
   sourceLinks: {

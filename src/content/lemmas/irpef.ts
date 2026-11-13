@@ -75,9 +75,9 @@ export const irpef: LemmaEntry = {
     "scaglione",
     "aliquota",
     "imponibile",
-    "CUD",
+    "cud",
     "730",
-    "Unico",
+    "modello-unico",
     "Agenzia delle Entrate",
   ],
 
