@@ -16,7 +16,7 @@ export const sabotaggio: LemmaEntry = {
     "metterle fuori uso. La parola ha un'origine concreta e potente: viene dal francese " +
     "«sabot», lo zoccolo di legno che i lavoratori dell'Ottocento gettavano nei meccanismi " +
     "delle fabbriche per fermare la produzione. Oggi il termine si è esteso al figurato: si " +
-    "sabotano progetti, relazioni, e — nell'accezione psicologica più diffusa — se stessi.",
+    "sabotano progetti, relazioni e — nell'accezione psicologica più diffusa — se stessi.",
 
   shortDefinition:
     "Dall'antico zoccolo operaio gettato negli ingranaggi: oggi distruggere deliberatamente qualcosa, anche dall'interno.",
@@ -102,5 +102,5 @@ export const sabotaggio: LemmaEntry = {
   },
 
   createdAt: "2026-06-12",
-  updatedAt: "2026-06-12",
+  updatedAt: "2026-11-13",
 };

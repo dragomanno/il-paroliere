@@ -13,7 +13,7 @@ export const veemenza: LemmaEntry = {
 
   definition:
     "Intensità impetuosa di un sentimento, di un gesto o di un discorso, in cui " +
-    "l'energia non si trattiene ma si manifesta tutta in superficie, visibile e " +
+    "l'energia non si trattiene, ma si manifesta tutta in superficie, visibile e " +
     "diretta. Non è necessariamente eccesso: può essere la forma che assume la " +
     "passione autentica quando non si censura. In retorica, indica la forza " +
     "espressiva capace di travolgere l'ascoltatore senza artificio.",
@@ -115,5 +115,5 @@ export const veemenza: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

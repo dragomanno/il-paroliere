@@ -14,7 +14,7 @@ export const sillogismo: LemmaEntry = {
   domains: ["logica", "filosofia", "epistemologia"],
 
   definition:
-    "Ragionamento dimostrativo, teorizzato per la prima volta da Aristotele negli *Analitici primi*, in cui da due proposizioni poste come premesse — chiamate premessa maggiore e premessa minore — segue necessariamente una terza proposizione, la conclusione, senza bisogno di alcun elemento aggiuntivo esterno alle premesse stesse. Le due premesse condividono un termine, detto *medio*, che compare in entrambe ma scompare nella conclusione, facendo da cerniera logica tra l'estremo maggiore (predicato della conclusione) e l'estremo minore (soggetto della conclusione): è questo, ad esempio, lo schema del celebre \"Tutti gli uomini sono mortali; Socrate è un uomo; dunque Socrate è mortale\". La validità del sillogismo dipende esclusivamente dalla sua forma, non dalla verità di fatto delle premesse: un sillogismo può essere formalmente valido pur partendo da premesse false, così come una struttura scorretta può accidentalmente produrre una conclusione vera. Nell'uso corrente, il termine indica per estensione — spesso con sfumatura critica — un ragionamento rigido o troppo schematico, presentato come ineccepibile ma in realtà viziato da premesse discutibili.",
+    "Ragionamento dimostrativo, teorizzato per la prima volta da Aristotele negli *Analitici primi*, in cui da due proposizioni poste come premesse — chiamate premessa maggiore e premessa minore — segue necessariamente una terza proposizione, la conclusione, senza bisogno di alcun elemento aggiuntivo esterno alle premesse stesse. Le due premesse condividono un termine, detto *medio*, che compare in entrambe, ma scompare nella conclusione, facendo da cerniera logica tra l'estremo maggiore (predicato della conclusione) e l'estremo minore (soggetto della conclusione): è questo, ad esempio, lo schema del celebre \"Tutti gli uomini sono mortali; Socrate è un uomo; dunque Socrate è mortale\". La validità del sillogismo dipende esclusivamente dalla sua forma, non dalla verità di fatto delle premesse: un sillogismo può essere formalmente valido pur partendo da premesse false, così come una struttura scorretta può accidentalmente produrre una conclusione vera. Nell'uso corrente, il termine indica per estensione — spesso con sfumatura critica — un ragionamento rigido o troppo schematico, presentato come ineccepibile, ma in realtà viziato da premesse discutibili.",
 
   shortDefinition:
     "Ragionamento deduttivo aristotelico in cui da due premesse, unite da un termine medio, segue necessariamente una conclusione.",
@@ -35,7 +35,7 @@ export const sillogismo: LemmaEntry = {
   ],
 
   antonyms: [
-    { term: "sofisma", register: "critico", note: "Ragionamento che ha l'apparenza della validità logica ma nasconde un errore, spesso intenzionale." },
+    { term: "sofisma", register: "critico", note: "Ragionamento che ha l'apparenza della validità logica, ma nasconde un errore, spesso intenzionale." },
     { term: "falsa-dicotomia", register: "tecnico", note: "Fallacia informale che, a differenza del sillogismo valido, procede per false alternative anziché per premesse concatenate." },
   ],
 
@@ -58,5 +58,5 @@ export const sillogismo: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

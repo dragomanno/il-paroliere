@@ -63,9 +63,9 @@ export const spudoratezza: LemmaEntry = {
 
   seo: {
     title: "spudoratezza — l’assenza totale di pudore tra etica e comunicazione pubblica",
-    description: "Che cos’è la spudoratezza: definizione etica, differenza da sfacciataggine e impudenza, e la domanda se sia un vizio o un sintomo.",
+    description: "Che cos’è la spudoratezza: definizione etica, differenza da sfacciataggine e impudenza e la domanda se sia un vizio o un sintomo.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

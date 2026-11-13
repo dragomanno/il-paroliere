@@ -14,7 +14,7 @@ export const velleitario: LemmaEntry = {
     "Di chi coltiva ambizioni o propositi che non reggono il confronto con le proprie capacità reali " +
     "o con l'impegno che sarebbero necessari per realizzarli. A differenza del sognatore — che può " +
     "anche arrivare a compimento — il velleitario si ferma all'intenzione: confonde il desiderio con " +
-    "il progetto, e il progetto con l'atto.",
+    "il progetto e il progetto con l'atto.",
 
   shortDefinition:
     "Chi ha ambizioni sproporzionate alle proprie capacità o all'impegno reale: si ferma all'intenzione, scambiandola per azione.",
@@ -30,7 +30,7 @@ export const velleitario: LemmaEntry = {
     "Un progetto velleitario: belle intenzioni, nessun piano, zero esecuzione.",
     "Non era pigro — era velleitario, che è diverso: aveva mille idee e non ne portava a termine nessuna.",
     "La distinzione tra ambizioso e velleitario sta nell'esecuzione, non nell'intenzione.",
-    "Definirlo velleitario era crudele ma preciso: voleva tutto e non voleva fare niente per ottenerlo.",
+    "Definirlo velleitario era crudele, ma preciso: voleva tutto e non voleva fare niente per ottenerlo.",
   ],
 
   synonyms: [
@@ -95,5 +95,5 @@ export const velleitario: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

@@ -20,10 +20,10 @@ export const uvaggio: LemmaEntry = {
     "che è invece la pratica di mescolare vini già prodotti separatamente a valle della " +
     "fermentazione. Questa distinzione non è solo tecnica: è anche legale. I disciplinari delle " +
     "denominazioni di origine (DOC, DOCG) specificano spesso quali vitigni possono o devono " +
-    "essere presenti nell'uvaggio, e in quale percentuale. Il Chianti Classico DOCG, per " +
+    "essere presenti nell'uvaggio e in quale percentuale. Il Chianti Classico DOCG, per " +
     "esempio, prevede un minimo del 80% di Sangiovese nell'uvaggio, con possibilità di " +
     "aggiungere altri vitigni locali approvati fino al 20%; il Barolo DOCG è invece monvitigno " +
-    "obbligatorio (100% Nebbiolo), e quindi non ammette uvaggio di vitigni diversi. Nella " +
+    "obbligatorio (100% Nebbiolo) e quindi non ammette uvaggio di vitigni diversi. Nella " +
     "viticoltura tradizionale toscana, l'uvaggio era la norma storica: i vigneti misti (vigne " +
     "promiscue) contenevano più varietà piantate insieme, vendemmiavano insieme e fermentavano " +
     "insieme. Il passaggio alla viticoltura moderna, con la separazione per vitigno, ha reso " +
@@ -118,5 +118,5 @@ export const uvaggio: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

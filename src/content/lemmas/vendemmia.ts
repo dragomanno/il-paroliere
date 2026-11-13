@@ -69,7 +69,7 @@ export const vendemmia: LemmaEntry = {
     "comunitaria anche nell'era della meccanizzazione. Nei grandi territori vinicoli italiani, " +
     "la vendemmia manuale è ancora una scelta — non solo tecnica, ma culturale e identitaria. " +
     "Vendemmia è anche una parola con una bella etimologia che racconta qualcosa di antico: " +
-    "«raccogliere il vino», come se il vino fosse già nell'uva, e la vendemmia fosse solo il " +
+    "«raccogliere il vino», come se il vino fosse già nell'uva e la vendemmia fosse solo il " +
     "gesto di tirarlo fuori.",
 
   editorialStatus: "reviewed",
@@ -83,5 +83,5 @@ export const vendemmia: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

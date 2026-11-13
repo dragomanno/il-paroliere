@@ -65,9 +65,9 @@ export const verecondia: LemmaEntry = {
 
   seo: {
     title: "verecondia — il pudore attivo come virtù sociale nella tradizione latina",
-    description: "Che cos’è la verecondia: definizione etica e letteraria, differenza da pudore e ritegno, e il suo significato nell’epoca della comunicazione permanente.",
+    description: "Che cos’è la verecondia: definizione etica e letteraria, differenza da pudore e ritegno e il suo significato nell’epoca della comunicazione permanente.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

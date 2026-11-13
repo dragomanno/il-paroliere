@@ -40,7 +40,7 @@ export const spetsnaz: LemmaEntry = {
     "per designare i reparti non convenzionali sovietici.",
 
   examples: [
-    "Le unità Spetsnaz dell'FSB gestirono l'assalto al teatro Dubrovka nel 2002: l'operazione liberò molti ostaggi ma causò la morte di circa 130 persone, soprattutto per l'uso del gas narcotizzante.",
+    "Le unità Spetsnaz dell'FSB gestirono l'assalto al teatro Dubrovka nel 2002: l'operazione liberò molti ostaggi, ma causò la morte di circa 130 persone, soprattutto per l'uso del gas narcotizzante.",
     "I reparti Spetsnaz del GRU sono stati accusati di operazioni clandestine in Ucraina, Georgia e in diversi paesi europei.",
     "L'addestramento Spetsnaz è considerato tra i più duri al mondo: combatte in condizioni estreme, con risorse minime e obiettivi ad altissimo rischio.",
   ],
@@ -91,10 +91,10 @@ export const spetsnaz: LemmaEntry = {
   paroliereNote:
     "Spetsnaz è uno di quei termini tecnico-militari che il giornalismo usa spesso senza " +
     "definirlo, dando per scontata una familiarità che molti lettori non hanno. Vale la pena " +
-    "ricordare che non è un corpo unico ma una famiglia di reparti diversi, dipendenti da catene " +
+    "ricordare che non è un corpo unico, ma una famiglia di reparti diversi, dipendenti da catene " +
     "di comando diverse e con missioni distinte — e che la loro storia include operazioni " +
     "controverse sul piano del diritto internazionale e dei diritti umani. La precisione " +
-    "terminologica serve qui non solo alla chiarezza lessicale ma alla responsabilità informativa. " +
+    "terminologica serve qui non solo alla chiarezza lessicale, ma alla responsabilità informativa. " +
     "Nota: la traslitterazione italiana SpezNas riflette la struttura dell'acronimo russo, ma " +
     "la forma internazionalmente più diffusa è Spetsnaz.",
 
@@ -109,5 +109,5 @@ export const spetsnaz: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

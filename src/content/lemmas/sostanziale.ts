@@ -58,7 +58,7 @@ export const sostanziale: LemmaEntry = {
     "Nella lingua quotidiana, sostanziale ha perso parte del suo peso filosofico e " +
     "viene usato spesso come sinonimo rafforzato di importante. Ma la distinzione tra " +
     "forma e sostanza che contiene — tra il come e il cosa — è una delle divisioni " +
-    "concettuali più fertili del pensiero occidentale, e meriterebbe di tornare nel " +
+    "concettuali più fertili del pensiero occidentale e meriterebbe di tornare nel " +
     "lessico comune con tutta la sua precisione.",
 
   editorialStatus: "reviewed",
@@ -72,5 +72,5 @@ export const sostanziale: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-05-30",
+  updatedAt: "2026-11-13",
 };

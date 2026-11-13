@@ -37,7 +37,7 @@ export const sociologia: LemmaEntry = {
     "Durkheim dimostrò che persino il suicidio — atto apparentemente individuale — segue pattern collettivi: era la prova che la sociologia aveva un oggetto proprio.",
     "La sociologia di Weber introduce la comprensione del senso soggettivo dell'azione: non basta osservare i comportamenti, bisogna capire cosa significano per chi li compie.",
     "Nelle università italiane, sociologia è spesso relegata a disciplina ancillare: un paradosso per un paese in cui i legami sociali sono materia di sopravvivenza quotidiana.",
-    "I big data hanno trasformato la ricerca sociologica, moltiplicando le fonti ma complicando la domanda su cosa significhi davvero \u201cmisurare\u201d la società.",
+    "I big data hanno trasformato la ricerca sociologica, moltiplicando le fonti, ma complicando la domanda su cosa significhi davvero \u201cmisurare\u201d la società.",
   ],
 
   synonyms: [
@@ -84,5 +84,5 @@ export const sociologia: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

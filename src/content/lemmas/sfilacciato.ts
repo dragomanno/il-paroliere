@@ -26,7 +26,7 @@ export const sfilacciato: LemmaEntry = {
     "La radice è filo, dal latino filum.",
 
   examples: [
-    "La giacca aveva i polsini sfilacciati, e lui non se ne era mai accorto o non gli importava.",
+    "La giacca aveva i polsini sfilacciati e lui non se ne era mai accorto o non gli importava.",
     "Il discorso divenne sfilacciato verso la fine: le idee si separavano senza trovare un centro.",
     "Un'amicizia sfilacciata non è rotta — è peggio: è presente e assente allo stesso tempo.",
     "Rimase qualcosa di sfilacciato tra loro dopo quella conversazione, un filo tirato troppo.",
@@ -94,5 +94,5 @@ export const sfilacciato: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

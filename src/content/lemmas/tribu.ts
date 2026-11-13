@@ -70,9 +70,9 @@ export const tribu: LemmaEntry = {
     title: "Tribù — Il Paroliere",
     description:
       "Definizione originale di 'tribù': gruppo sociale legato da parentela e " +
-      "territorio, e in senso figurato qualsiasi comunità coesa attorno a un'identità comune. Con esempi ed etimologia.",
+      "territorio e, in senso figurato, qualsiasi comunità coesa attorno a un'identità comune. Con esempi ed etimologia.",
   },
 
   createdAt: "2026-08-21",
-  updatedAt: "2026-08-21",
+  updatedAt: "2026-11-13",
 };

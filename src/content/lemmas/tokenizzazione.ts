@@ -55,8 +55,8 @@ export const tokenizzazione: LemmaEntry = {
   },
 
   paroliereNote:
-    "Tokenizzazione è un passaggio invisibile ma fondativo: nessun modello " +
-    "linguistico vede il testo come lo vediamo noi. Vede sequenze di token, " +
+    "Tokenizzazione è un passaggio invisibile, ma fondativo: nessun modello " +
+    "linguistico vede il testo come lo vediamo noi. Vede sequenze di token " +
     "e quelle sequenze dipendono da scelte fatte in fase di training. " +
     "È per questo che un modello addestrato prevalentemente sull'inglese " +
     "tende a tokenizzare l'italiano in modo più frammentato — e a costare " +
@@ -73,5 +73,5 @@ export const tokenizzazione: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

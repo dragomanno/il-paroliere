@@ -12,7 +12,7 @@ export const sfrontatezza: LemmaEntry = {
 
   definition:
     "La qualità di chi agisce o parla senza il minimo senso del limite, del rispetto " +
-    "o del → pudore altrui; un'impudenza che non si limita all'assenza di vergogna ma " +
+    "o del → pudore altrui; un'impudenza che non si limita all'assenza di vergogna, ma " +
     "si traduce in un atteggiamento attivo, quasi ostentato, di disprezzo per le " +
     "convenzioni sociali e per i confini dell'altro. Chi ha sfrontatezza non si limita " +
     "a non arrossire: esibisce la propria mancanza di remore come se fosse un pregio. " +
@@ -118,5 +118,5 @@ export const sfrontatezza: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

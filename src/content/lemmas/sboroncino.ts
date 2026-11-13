@@ -14,7 +14,7 @@ export const sboroncino: LemmaEntry = {
   domains: ["comportamento sociale", "linguaggio colloquiale"],
 
   definition:
-    "Persona che ostenta meriti, acquisti o conoscenze con una vanità esibita ma ridimensionata dal tono scherzoso del diminutivo. Deriva da → sborone e ne conserva l’idea di chi vuole impressionare; -cino, però, può renderla meno aggressiva, più giovane o più facilmente deridibile. Il valore preciso dipende molto dalla complicità tra chi parla e chi ascolta.",
+    "Persona che ostenta meriti, acquisti o conoscenze con una vanità esibita, ma ridimensionata dal tono scherzoso del diminutivo. Deriva da → sborone e ne conserva l’idea di chi vuole impressionare; -cino, però, può renderla meno aggressiva, più giovane o più facilmente deridibile. Il valore preciso dipende molto dalla complicità tra chi parla e chi ascolta.",
 
   shortDefinition:
     "Diminutivo ironico di sborone: chi si vanta o ostenta, ma con un giudizio spesso più leggero e scherzoso.",
@@ -36,14 +36,14 @@ export const sboroncino: LemmaEntry = {
 
   antonyms: [
     { term: "persona riservata", register: "comune", note: "Chi non mette in vetrina meriti, beni o relazioni per ottenere attenzione." },
-    { term: "modesto", register: "comune", note: "Chi lascia che siano i fatti, e non l’annuncio, a definire il proprio valore." },
+    { term: "modesto", register: "comune", note: "Chi lascia che siano i fatti e non l’annuncio a definire il proprio valore." },
   ],
 
   relatedWords: ["sborone", "spacconcello", "spaccone", "fanfarone", "arroganza"],
   sourceLinks: {},
 
   paroliereNote:
-    "Il diminutivo non assolve automaticamente chi si vanta: può addolcire, ma anche rendere più pungente la presa in giro. In «sboroncino» conta soprattutto la scena sociale — chi lo dice, a chi, e se il sorriso è condiviso.",
+    "Il diminutivo non assolve automaticamente chi si vanta: può addolcire, ma anche rendere più pungente la presa in giro. In «sboroncino» conta soprattutto la scena sociale — chi lo dice, a chi e se il sorriso è condiviso.",
 
   editorialStatus: "draft",
   indexable: true,
@@ -54,5 +54,5 @@ export const sboroncino: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-08-24",
+  updatedAt: "2026-11-13",
 };

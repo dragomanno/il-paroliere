@@ -12,7 +12,7 @@ export const tacito: LemmaEntry = {
   gender: "invariabile",
 
   definition:
-    "Ciò che non viene detto ma è comunque inteso, riconosciuto o rispettato da " +
+    "Ciò che non viene detto, ma è comunque inteso, riconosciuto o rispettato da " +
     "tutti. Un accordo tacito non ha bisogno di firme: esiste nel comportamento, " +
     "nella consuetudine, nel silenzio condiviso. In ambito giuridico indica il " +
     "consenso o l'obbligazione che si desume dalla condotta delle parti, non da " +
@@ -35,7 +35,7 @@ export const tacito: LemmaEntry = {
     "comunicazione ufficiale.",
     "In diritto, il rinnovo tacito del contratto scatta quando nessuna delle " +
     "parti comunica il recesso nei termini previsti.",
-    "Quella regola non scritta era tacita ma inviolabile: lo sapevano tutti, " +
+    "Quella regola non scritta era tacita, ma inviolabile: lo sapevano tutti, " +
     "la prima settimana.",
   ],
 
@@ -103,10 +103,10 @@ export const tacito: LemmaEntry = {
   seo: {
     title: "Tacito — Il Paroliere",
     description:
-      "Definizione originale di 'tacito': non dichiarato ma inteso, dagli accordi " +
+      "Definizione originale di 'tacito': non dichiarato, ma inteso, dagli accordi " +
       "non scritti al consenso giuridico. Con esempi, sinonimi ed etimologia latina.",
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

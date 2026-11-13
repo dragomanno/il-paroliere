@@ -108,7 +108,7 @@ export const sedimentare: LemmaEntry = {
     "distinto il processo (sedimentare, verbo, l'atto del depositarsi nel " +
     "tempo) dal suo risultato osservabile in un dato momento (sedimentazione, " +
     "sostantivo, lo stato di ciò che si è già depositato) — una distinzione " +
-    "sottile ma utile per chi scrive di cultura o di istituzioni, dove " +
+    "sottile, ma utile per chi scrive di cultura o di istituzioni, dove " +
     "confondere il processo con l'esito porta spesso a descrivere come " +
     "'naturali' abitudini che sono in realtà il risultato di un accumulo " +
     "storico ben preciso e tutt'altro che inevitabile.",
@@ -124,5 +124,5 @@ export const sedimentare: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

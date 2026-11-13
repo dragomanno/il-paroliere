@@ -15,7 +15,7 @@ export const velleita: LemmaEntry = {
     "Aspirazione che rimane allo stadio del desiderio, priva della volontà necessaria a tradursi in azione. Non è ambizione — che muove — né rimpianto — che ricorda: è il grado zero dell'impegno, il punto in cui si vorrebbe senza voler davvero.",
 
   shortDefinition:
-    "Desiderio debole che non diventa mai azione, per mancanza non di capacità ma di vera determinazione.",
+    "Desiderio debole che non diventa mai azione, per mancanza non di capacità, ma di vera determinazione.",
 
   register: ["comune"],
   domains: ["carattere", "psicologia"],
@@ -26,7 +26,7 @@ export const velleita: LemmaEntry = {
   examples: [
     "Le sue velleità artistiche si sono fermate a un cavalletto mai montato in cantina.",
     "Più che un progetto, il trasferimento all'estero era una velleità di cui parlava a ogni cena.",
-    "Ogni gennaio rinnova la velleità di iscriversi in palestra, e ogni febbraio la dimentica.",
+    "Ogni gennaio rinnova la velleità di iscriversi in palestra e ogni febbraio la dimentica.",
   ],
 
   synonyms: [

@@ -22,14 +22,14 @@ export const semantica: LemmaEntry = {
     "concettuale, non la sua struttura fonologica o grammaticale. In informatica " +
     "e nel web, il concetto di web semantico (o Semantic Web) designa " +
     "un'architettura di dati strutturati in cui le informazioni sono leggibili " +
-    "non solo dagli esseri umani ma anche dalle macchine, attraverso ontologie e " +
+    "non solo dagli esseri umani, ma anche dalle macchine, attraverso ontologie e " +
     "standard come RDF e OWL. Nel marketing digitale, la SEO semantica indica un " +
     "approccio all'ottimizzazione per i motori di ricerca basato non sul singolo " +
     "termine chiave, ma sulla copertura di un campo semantico: raggruppamenti " +
     "tematici (topic cluster), relazioni concettuali tra pagine, sinonimi e " +
     "varianti, intenzione di ricerca (search intent). I motori di ricerca moderni " +
     "(Google con BERT e sistemi basati su modelli linguistici) comprendono il " +
-    "significato, non contano le parole: un contenuto semanticamente ricco ma " +
+    "significato, non contano le parole: un contenuto semanticamente ricco, ma " +
     "genuinamente utile supera sempre uno costruito artificialmente.",
 
   shortDefinition:
@@ -46,7 +46,7 @@ export const semantica: LemmaEntry = {
 
   examples: [
     'La semantica studia non solo le parole ma le relazioni tra i significati: perché "cane" e "cagna" non sono intercambiabili in tutti i contesti?',
-    "Il web semantico non è una tecnologia ma un'architettura: i dati non si leggono solo, si comprendono.",
+    "Il web semantico non è una tecnologia, ma un'architettura: i dati non si leggono solo, si comprendono.",
     "In SEO, la semantica è diventata fondamentale: Google non cerca parole chiave, cerca risposte coerenti a domande reali.",
     "La semantica di quella frase era ambigua: letteralmente diceva una cosa, ma tutti capivano il contrario.",
   ],
@@ -113,5 +113,5 @@ export const semantica: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

@@ -23,7 +23,7 @@ export const vino: LemmaEntry = {
     "degustazione obbligatoria e riportare il contrassegno di stato sulla fascetta. Esempi: " +
     "Barolo DOCG, Brunello di Montalcino DOCG, Chianti Classico DOCG, Amarone DOCG, Prosecco " +
     "di Conegliano-Valdobbiadene DOCG. DOC — Denominazione di Origine Controllata: le DOC " +
-    "italiane sono circa 341 (2024), meno restrittive delle DOCG ma comunque legate a " +
+    "italiane sono circa 341 (2024), meno restrittive delle DOCG, ma comunque legate a " +
     "disciplinari di produzione. IGT — Indicazione Geografica Tipica: corrispondente italiano " +
     "dell'europeo IGP nel settore vino; i vitigni e le pratiche sono molto più liberi. " +
     "Paradossalmente, alcuni dei vini italiani più costosi e prestigiosi sono IGT: i " +
@@ -76,7 +76,7 @@ export const vino: LemmaEntry = {
 
   paroliereNote:
     "Il sistema di certificazione del vino italiano è uno dei più complessi e articolati al " +
-    "mondo, e spesso genera confusione anche tra gli appassionati. Il punto paradossale dei " +
+    "mondo e spesso genera confusione anche tra gli appassionati. Il punto paradossale dei " +
     "Supertuscans va sottolineato: alcuni dei vini italiani più celebri e costosi — Sassicaia, " +
     "Tignanello, Ornellaia — scelgono deliberatamente la classificazione più bassa (IGT) per " +
     "mantenere libertà nei vitigni usati. La qualità è nel bicchiere, non nell'etichetta. " +
@@ -94,5 +94,5 @@ export const vino: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };
