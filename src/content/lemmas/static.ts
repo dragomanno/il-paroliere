@@ -391,6 +391,23 @@ import { ravvedimentoOperoso } from "./ravvedimento-operoso";
 import { cartellaEsattoriale } from "./cartella-esattoriale";
 import { condono } from "./condono";
 import { dichiarazioneSostitutiva } from "./dichiarazione-sostitutiva";
+import { tributo } from "./tributo";
+import { imposta } from "./imposta";
+import { tassa } from "./tassa";
+import { iva } from "./iva";
+import { ige } from "./ige";
+import { imu } from "./imu";
+import { tari } from "./tari";
+import { ici } from "./ici";
+import { addizionale } from "./addizionale";
+import { bolloAuto } from "./bollo-auto";
+import { impostaDiSoggiorno } from "./imposta-di-soggiorno";
+import { impostaDiBollo } from "./imposta-di-bollo";
+import { impostaDiRegistro } from "./imposta-di-registro";
+import { accisa } from "./accisa";
+import { cedolareSecca } from "./cedolare-secca";
+import { impostaDiSuccessione } from "./imposta-di-successione";
+import { canoneRai } from "./canone-rai";
 import { creditoDimposta } from "./credito-dimposta";
 import { bonusFiscale } from "./bonus-fiscale";
 import { fondoPensione } from "./fondo-pensione";
@@ -1361,5 +1378,23 @@ export const allLemmas: LemmaEntry[] = [
   renditaCatastale,
   forfettario,
   partitaIva,
+  // BATCH-016 (2026-11) — Fiscalità e tributi, sottogruppo 4: fondamenti, imposte locali e tributi minori
+  tributo,
+  imposta,
+  tassa,
+  iva,
+  ige,
+  imu,
+  tari,
+  ici,
+  addizionale,
+  bolloAuto,
+  impostaDiSoggiorno,
+  impostaDiBollo,
+  impostaDiRegistro,
+  accisa,
+  cedolareSecca,
+  impostaDiSuccessione,
+  canoneRai,
 ];
 

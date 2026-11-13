@@ -40,6 +40,7 @@ export const renditaCatastale: LemmaEntry = {
     "imponibile",
     "aliquota",
     "capacita-contributiva",
+    "imu",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/rendita/",

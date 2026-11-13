@@ -56,6 +56,7 @@ export const partitaIva: LemmaEntry = {
     "contributi-previdenziali",
     "ritenuta-dacconto",
     "f24",
+    "iva",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/partita_IVA",
