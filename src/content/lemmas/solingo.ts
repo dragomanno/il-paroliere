@@ -52,7 +52,11 @@ export const solingo: LemmaEntry = {
     "leopardiano"
   ],
 
-  examples: [],
+  examples: [
+    "Il poeta immagina un viandante solingo che attraversa la pianura al tramonto.",
+    "Una casa solinga, in cima al colle, era l'unico segno di vita per chilometri.",
+    "Oggi solingo lo si incontra quasi solo nei versi, o in qualche prosa volutamente antica.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/solingo"
@@ -77,5 +81,5 @@ export const solingo: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

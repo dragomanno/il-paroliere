@@ -53,7 +53,11 @@ export const subitaneo: LemmaEntry = {
     "imprevisto"
   ],
 
-  examples: [],
+  examples: [
+    "Un subitaneo silenzio calò nella sala quando il presidente si alzò.",
+    "Il suo cambiamento d'umore fu così subitaneo che nessuno capì cosa fosse successo.",
+    "Nel racconto la decisione del protagonista è subitanea, quasi un istinto più che una scelta.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/subitaneo"
@@ -78,5 +82,5 @@ export const subitaneo: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

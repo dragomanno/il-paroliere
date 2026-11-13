@@ -53,7 +53,11 @@ export const solitudine: LemmaEntry = {
     "meditazione"
   ],
 
-  examples: [],
+  examples: [
+    "Dopo mesi di riunioni continue, quella settimana di solitudine in montagna gli è sembrata un regalo.",
+    "La solitudine degli anziani che vivono soli è un problema che i servizi sociali conoscono bene.",
+    "Per scrivere ha bisogno di solitudine: chiude la porta e spegne il telefono.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/solitudine"
@@ -78,5 +82,5 @@ export const solitudine: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

@@ -54,7 +54,11 @@ export const roboante: LemmaEntry = {
     "stile"
   ],
 
-  examples: [],
+  examples: [
+    "Il comunicato aveva un titolo roboante, ma dentro non c'era nessuna notizia.",
+    "Dopo un'introduzione roboante, il relatore ha parlato per dieci minuti senza dire nulla di nuovo.",
+    "Lo slogan era così roboante che nessuno ricordava più il prodotto.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/roboante"
@@ -79,5 +83,5 @@ export const roboante: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

@@ -12,7 +12,11 @@ export const ribollita: LemmaEntry = {
   domains: ["gastronomia", "cucina toscana", "tradizione"],
   etymology:
     "Participio passato femminile di ribollire (bollire di nuovo, dal latino re- + bullire); il nome rimanda alla cottura ripetuta che era la prassi originaria.",
-  examples: [],
+  examples: [
+    "La ribollita la faccio la domenica, ma è il lunedì che la mangiamo davvero.",
+    "In trattoria la ribollita arriva densa, con un filo d'olio nuovo sopra e il cavolo nero che si sente.",
+    "Mia nonna diceva che la ribollita senza pane raffermo è solo una minestra di verdure.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["pici", "fegatelli", "cavolo nero", "cucina povera", "toscana"],
@@ -26,5 +30,5 @@ export const ribollita: LemmaEntry = {
     description: "Definizione originale di 'ribollita': la zuppa toscana che porta nel nome la sua filosofia del non spreco.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };
