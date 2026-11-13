@@ -75,8 +75,8 @@ export const detrazioneIrpef: LemmaEntry = {
     "730",
     "decalage",
     "franchigia",
-    "bonus fiscale",
-    "credito d",
+    "bonus-fiscale",
+    "credito-dimposta",
   ],
 
   sourceLinks: {
@@ -105,5 +105,5 @@ export const detrazioneIrpef: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };
