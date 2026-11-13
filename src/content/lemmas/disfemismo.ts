@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: disfemismo
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -20,13 +20,13 @@ export const disfemismo: LemmaEntry = {
     "Sostituzione di un termine neutro con uno volutamente crudo o offensivo — l'opposto dell'eufemismo, salvo l'uso affettuoso in gergo.",
 
   etymology:
-    "Dal greco *dysphēmía* «maldicenza, parola infausta», composto da *dys-*, prefisso che nega o rovescia il valore positivo, e *phēmí* «io parlo» — coniato per analogia e contrasto diretto con eufemismo, di cui inverte il prefisso (*eu-* «bene» → *dys-* «male»).",
+    "Dal greco *dysphēmía* «maldicenza, parola infausta», composto da *dys-* «male, con difficoltà» e dalla radice di *phēmí* «io dico»: il termine moderno è stato ripreso in contrapposizione diretta a eufemismo, di cui inverte il prefisso (*eu-* «bene» → *dys-* «male»).",
 
   examples: [
-    "Chiamare 'carretta' un'auto vecchia, ma ancora funzionante è un disfemismo bonario, quasi affettuoso.",
+    "Chiamare 'carretta' un'auto vecchia, ma ancora funzionante, è un disfemismo bonario, quasi affettuoso.",
     "Nel linguaggio politico il disfemismo è un'arma comune: definire un avversario 'burocrate' invece di 'funzionario' ne svaluta il ruolo senza bisogno di argomentare.",
     "Tra amici stretti, chiamarsi a vicenda con soprannomi apparentemente offensivi è un disfemismo che funziona come segno di intimità, non di ostilità.",
-    "Il giornalismo scandalistico abusa del disfemismo per rendere notiziabile ciò che altrimenti sarebbe un fatto ordinario: non 'ha lasciato il lavoro', ma 'è stato cacciato'.",
+    "Il giornalismo scandalistico abusa del disfemismo per rendere notiziabile ciò che altrimenti sarebbe un fatto ordinario: non 'è stato licenziato', ma 'è stato cacciato'.",
   ],
 
   synonyms: [
@@ -47,7 +47,7 @@ export const disfemismo: LemmaEntry = {
   paroliereNote:
     "Il disfemismo è la prova che una figura retorica non è mai 'buona' o 'cattiva' in sé, ma dipende interamente da chi parla, a chi e con quale relazione di fondo. Lo stesso identico termine sgradevole può essere un'aggressione in bocca a uno sconosciuto e una carezza linguistica tra due amici che si conoscono da vent'anni — il disfemismo affettuoso funziona solo dentro un contesto di fiducia condivisa ed è proprio questa condivisione, non la parola, a neutralizzarne la durezza.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

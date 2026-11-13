@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: ridondanza
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -17,7 +17,7 @@ export const ridondanza: LemmaEntry = {
     "Nel linguaggio comune, l'uso di più parole o espressioni di quante siano strettamente necessarie per comunicare un concetto — una sovrabbondanza che, a seconda del contesto, può essere un difetto stilistico (dire la stessa cosa due volte con parole diverse, senza aggiungere informazione) oppure un tratto naturale della lingua parlata, che è per sua struttura ampiamente ridondante rispetto a un codice puramente logico. In informatica e teoria dell'informazione, il termine assume invece un valore tecnico positivo: ridondanza è l'aggiunta deliberata di informazione supplementare — bit di controllo, copie di backup, componenti duplicati — allo scopo preciso di rilevare o correggere errori di trasmissione, o di garantire la continuità di funzionamento di un sistema anche in caso di guasto di una sua parte (ridondanza hardware, ridondanza di rete).",
 
   shortDefinition:
-    "Eccesso di parole rispetto al necessario, spesso un difetto stilistico; in informatica, informazione supplementare aggiunta apposta per rilevare o correggere errori.",
+    "Eccesso di parole rispetto al necessario; in informatica, dati o componenti aggiunti apposta per correggere errori o reggere ai guasti.",
 
   etymology:
     "Dal latino *redundantia*, da *redundare* «traboccare, essere in eccesso», composto da *red-* «indietro, di nuovo» e *undare* «ondeggiare, fluire»: l'immagine di un'onda che rifluisce oltre il necessario.",
@@ -36,7 +36,7 @@ export const ridondanza: LemmaEntry = {
 
   antonyms: [
     { term: "concisione", register: "comune", note: "Nel senso stilistico, l'opposto: dire il necessario con il minor numero di parole possibile." },
-    { term: "codice minimo", register: "tecnico", note: "Nel senso informatico, un sistema di codifica privo di margine ridondante — più efficiente, ma più fragile agli errori." },
+    { term: "compressione", register: "tecnico", note: "Nel senso informatico, l'operazione inversa: togliere la ridondanza per ridurre i dati, a costo di renderli più fragili agli errori." },
   ],
 
   relatedWords: ["perifrasi", "neologismo", "burocratese"],
@@ -47,9 +47,9 @@ export const ridondanza: LemmaEntry = {
   },
 
   paroliereNote:
-    "La ridondanza è un caso raro in cui lo stesso identico concetto — dire più di quanto serva — cambia segno morale passando da un dominio all'altro. In un tema scolastico, la ridondanza è un errore da correggere con la matita rossa. In un sistema informatico critico, la sua assenza sarebbe l'errore: un server senza ridondanza è un server che, al primo guasto, perde tutto. Vale la pena ricordare che anche il linguaggio umano, con tutte le sue ripetizioni apparentemente inutili, deve alla propria ridondanza la capacità di essere capito anche quando qualcosa va storto — un rumore di fondo, una distrazione, una parola mancante.",
+    "La ridondanza è un caso raro in cui lo stesso identico concetto — dire più di quanto serva — cambia segno morale passando da un dominio all'altro. In un tema scolastico, la ridondanza è un errore da correggere con la matita rossa. In un sistema informatico critico, la sua assenza sarebbe l'errore: un server senza ridondanza è un server che, al primo guasto, si ferma e rischia di perdere i dati. Vale la pena ricordare che anche il linguaggio umano, con tutte le sue ripetizioni apparentemente inutili, deve alla propria ridondanza la capacità di essere capito anche quando qualcosa va storto — un rumore di fondo, una distrazione, una parola mancante.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: litote
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -25,7 +25,7 @@ export const litote: LemmaEntry = {
   examples: [
     "'Non è la persona più puntuale del mondo' è una litote che comunica, con garbo, un ritardo cronico.",
     "'Non mi sembra una cattiva idea' spesso significa, nel registro colloquiale italiano, un vero e proprio entusiasmo trattenuto.",
-    "Nella letteratura inglese, l'understatement britannico è quasi sempre costruito con litoti: 'not bad at all' per un risultato eccellente.",
+    "In inglese, l'understatement britannico ricorre spesso alla litote: 'not bad at all' per un risultato eccellente.",
     "'Non è stata la mia serata migliore' può essere una litote che minimizza, con ironia, un disastro totale.",
   ],
 
@@ -48,7 +48,7 @@ export const litote: LemmaEntry = {
   paroliereNote:
     "La litote è la dimostrazione più elegante che negare non è mai un atto neutro. Chi dice 'non è male' non sta semplicemente evitando di dire 'è buono': sta scegliendo un tono, una distanza, spesso un understatement calcolato che dice più cose insieme — un giudizio positivo, ma anche una certa riluttanza a esporsi con troppo entusiasmo. È la figura retorica preferita di chi vuole comunicare con precisione senza sbilanciarsi apertamente ed è per questo un tratto stilistico ricorrente in registri colti, ironici o diplomatici.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

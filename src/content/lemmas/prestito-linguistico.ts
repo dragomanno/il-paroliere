@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: prestito linguistico
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -14,13 +14,13 @@ export const prestitoLinguistico: LemmaEntry = {
   domains: ["linguistica", "linguaggio"],
 
   definition:
-    "Parola o espressione che una lingua acquisisce da un'altra, integrandola nel proprio lessico senza tradurla — a differenza del calco, che ne traduce invece la struttura. Il prestito può essere non adattato, quando la forma resta identica o quasi a quella originaria (weekend, computer, sushi), oppure adattato, quando viene modificato foneticamente e morfologicamente per aderire alle regole della lingua ricevente (dal francese *garage* è nato l'italiano 'garage', pronunciato però all'italiana, e dall'inglese *to click* è nato il verbo 'cliccare', regolarmente coniugato). I prestiti si classificano anche in base alla lingua di provenienza — anglicismi dall'inglese, francesismi dal francese, germanismi dal tedesco, iberismi dallo spagnolo — e in base al dominio semantico che colmano: gastronomia, tecnologia, moda ed economia sono tra i campi più permeabili ai prestiti nella storia dell'italiano.",
+    "Parola o espressione che una lingua acquisisce da un'altra, integrandola nel proprio lessico senza tradurla — a differenza del calco, che ne traduce invece la struttura. Il prestito può essere non adattato, quando la forma resta identica o quasi a quella originaria (weekend, computer, sushi), oppure adattato, quando viene modificato foneticamente e morfologicamente per aderire alle regole della lingua ricevente (dal francese *ragoût* è nato l'italiano 'ragù' e dall'inglese *to click* il verbo 'cliccare', regolarmente coniugato). I prestiti si classificano anche in base alla lingua di provenienza — anglicismi dall'inglese, francesismi dal francese, germanismi dal tedesco, ispanismi dallo spagnolo — e in base al dominio semantico che colmano: gastronomia, tecnologia, moda ed economia sono tra i campi più permeabili ai prestiti nella storia dell'italiano.",
 
   shortDefinition:
-    "Parola importata da un'altra lingua senza tradurla, adattata o non adattata alla lingua ricevente — anglicismi, francesismi, germanismi, ecc.",
+    "Parola presa da un'altra lingua senza tradurla, adattata o no alla lingua ricevente: anglicismi, francesismi, germanismi e così via.",
 
   etymology:
-    "Calco semantico dal francese *emprunt linguistique*: 'prestito', dal latino *praestare* «fornire, mettere a disposizione», nel senso figurato di una lingua che 'presta' una propria parola a un'altra.",
+    "Da 'prestito', dal latino tardo *praestitum*, participio di *praestare* «fornire, mettere a disposizione»: in linguistica il termine nasce dall'immagine di una lingua che 'presta' una propria parola a un'altra, che di solito non la restituisce più.",
 
   examples: [
     "'Weekend' è un prestito non adattato dall'inglese, usato in italiano nella sua forma originaria invariata.",
@@ -47,9 +47,9 @@ export const prestitoLinguistico: LemmaEntry = {
   },
 
   paroliereNote:
-    "Il prestito linguistico è spesso oggetto di battaglie identitarie — c'è chi lo considera un impoverimento della lingua nazionale e chi lo vede come segno naturale di vitalità e contatto culturale. Dal punto di vista storico, però, l'italiano stesso è in larghissima parte un prodotto di prestiti stratificati nei secoli: dal latino, dal greco, dall'arabo, dal francese, dallo spagnolo e oggi massicciamente dall'inglese. Nessuna lingua viva è mai stata un sistema chiuso; il prestito non è un'anomalia della storia linguistica, ne è semmai il motore ordinario.",
+    "Il prestito linguistico è spesso oggetto di battaglie identitarie — c'è chi lo considera un impoverimento della lingua nazionale e chi lo vede come segno naturale di vitalità e contatto culturale. Dal punto di vista storico, però, l'italiano stesso, oltre al nucleo ereditato dal latino, è pieno di prestiti stratificati nei secoli: latinismi dotti, grecismi, arabismi, francesismi, ispanismi e oggi, in larga misura, anglicismi. Nessuna lingua viva è mai stata un sistema chiuso; il prestito non è un'anomalia della storia linguistica, ne è semmai il motore ordinario.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {
