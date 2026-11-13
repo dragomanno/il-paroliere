@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: prostrato
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -46,7 +46,7 @@ export const prostrato: LemmaEntry = {
   paroliereNote:
     "«Prostrato» non è una diagnosi e non è sinonimo automatico di → rassegnazione. Nomina anzitutto il punto in cui le energie non bastano più; riconoscerlo evita di scambiare per indifferenza una fatica che ha già consumato la risposta.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

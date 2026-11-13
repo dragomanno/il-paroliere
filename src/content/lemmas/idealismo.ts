@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: idealismo
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -44,7 +44,7 @@ export const idealismo: LemmaEntry = {
 
   paroliereNote: "L'idealismo può ispirare un'azione concreta oppure essere il suo punto cieco: la parola non decide in anticipo tra nobiltà e ingenuità. Diversamente da → desiderio e → aspirazione, non nomina ciò che una persona vuole ottenere, ma il valore con cui valuta ciò che vale la pena perseguire.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

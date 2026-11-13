@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: dipendenza
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -48,7 +48,7 @@ export const dipendenza: LemmaEntry = {
   paroliereNote:
     "Nel parlare di dipendenza affettiva è utile evitare due scorciatoie: romanticizzare la fusione e trasformare ogni bisogno in una patologia. Una → relazione può ospitare desiderio, → speranza e attesa; diventa dipendenza quando la → frustrazione non può essere tollerata senza sacrificare la propria autonomia. L’→ accettazione, a differenza della rassegnazione, può essere l’inizio di un confine più sano.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

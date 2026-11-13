@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: estraneamento
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -25,7 +25,7 @@ export const estraneamento: LemmaEntry = {
   examples: [
     "Tornando nel paese d'infanzia, provò uno strano estraneamento: riconosceva le strade, non più il posto che aveva in esse.",
     "L'estraneamento tra i due non nacque da un litigio, ma da mesi in cui nessuno chiedeva davvero come stesse l'altro.",
-    "Dopo il cambio di reparto, parlava un linguaggio diverso da tutti e quell'estraneamento gli pesava più del nuovo lavoro.",
+    "Dopo il cambio di reparto, parlava un linguaggio diverso da quello di tutti gli altri e quell'estraneamento gli pesava più del nuovo lavoro.",
     "Alla festa, in mezzo a conversazioni e risate, sentì un estraneamento netto: non era solo, ma non trovava un luogo da cui parlare.",
   ],
 
@@ -77,7 +77,7 @@ export const estraneamento: LemmaEntry = {
   paroliereNote:
     "Estraneamento racconta un'esperienza ravvicinata: il sentirsi poco a poco fuori dalla scena ordinaria delle proprie → relazioni e dei propri luoghi. Per questo può assomigliare a → solitudine anche in una stanza piena: non è la semplice assenza degli altri, ma il non riuscire a raggiungerli o a lasciarsi raggiungere. È affine, ma non sovrapponibile a → alienazione, che conserva una portata filosofico-sociologica e, in particolare, una storia legata al lavoro e alle strutture sociali; qui il fuoco resta sul quotidiano riconoscersi o non riconoscersi.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

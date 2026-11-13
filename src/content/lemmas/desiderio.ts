@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: desiderio
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -31,9 +31,8 @@ export const desiderio: LemmaEntry = {
 
   synonyms: [
     { term: "aspirazione", register: "comune", context: "È un desiderio organizzato attorno a un traguardo futuro o a un progetto di sé." },
-    { term: "bramare", register: "letterario", context: "Verbo di intensità più fisica e possessiva; non serve per ogni semplice desiderio." },
-    { term: "agognare", register: "letterario", context: "Introduce la pena della distanza e di un'attesa lunga." },
-    { term: "vagheggiare", register: "letterario", context: "Coltiva l'oggetto nell'immaginazione, con minore spinta all'azione." },
+    { term: "brama", register: "letterario", context: "Desiderio di intensità più fisica e possessiva; non serve per ogni semplice desiderio." },
+    { term: "anelito", register: "letterario", context: "Desiderio più acceso e impaziente, che conserva l'immagine del respiro che manca." },
   ],
 
   antonyms: [
@@ -50,7 +49,7 @@ export const desiderio: LemmaEntry = {
   paroliereNote:
     "Desiderio è la parola-cerniera del gruppo: non nobilita né condanna ciò che muove e lascia aperte intensità, oggetto e conseguenze. Anche quando riguarda la sessualità non equivale a pretesa: nomina un orientamento verso l'altro, non un diritto sull'altro. Quando si vuole nominare una direzione già costruita conviene passare a → aspirazione; quando prevale la mancanza, il rapporto con → attesa cambia il tono della frase.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

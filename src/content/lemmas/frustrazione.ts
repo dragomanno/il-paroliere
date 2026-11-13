@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: frustrazione
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -77,7 +77,7 @@ export const frustrazione: LemmaEntry = {
   paroliereNote:
     "La frustrazione è il punto in cui la spinta di → desiderio, → aspirazione o → attesa urta contro un limite. Può aprire una ricerca diversa, ma se si prolunga può scivolare verso → rassegnazione; → accettazione, invece, non consiste nel negarla, bensì nel capire che cosa è possibile cambiare e che cosa no.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

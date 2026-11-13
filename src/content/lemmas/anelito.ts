@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: anelito
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -14,10 +14,10 @@ export const anelito: LemmaEntry = {
   domains: ["psicologia", "filosofia", "vita interiore"],
 
   definition:
-    "1. Respiro ansante o affannoso, soprattutto in uso letterario. 2. Desiderio intenso di un cambiamento, di un miglioramento o di un bene sentito come necessario. Nel suo uso figurato è l'idea che vuole diventare azione, ma non l'ha ancora avviata: una tensione urgente, precedente allo → slancio. Rispetto a → aspirazione, che può essere stabile e ordinata attorno a un progetto, l'anelito è più acceso e conserva nell'origine l'immagine fisica del respiro che manca.",
+    "1. Respiro ansante o affannoso, soprattutto in uso letterario. 2. Desiderio intenso di un cambiamento, di un miglioramento o di un bene sentito come necessario. Nel suo uso figurato è spesso un desiderio che preme per diventare azione: una tensione urgente, che può precedere lo → slancio. Rispetto a → aspirazione, che può essere stabile e ordinata attorno a un progetto, l'anelito è più acceso e conserva nell'origine l'immagine fisica del respiro che manca.",
 
   shortDefinition:
-    "Desiderio ardente di cambiamento, ancora sulla soglia dell'azione.",
+    "Desiderio intenso di un bene sentito come necessario; in senso letterario, respiro affannoso.",
 
   etymology:
     "Dal latino anhelitus, «respiro affannoso», derivato di anhelare, «ansimare». Dal fiato spezzato dello sforzo nasce il valore figurato di desiderio ardente e urgente.",
@@ -78,7 +78,7 @@ export const anelito: LemmaEntry = {
   paroliereNote:
     "Anelito nomina un prima: non l'immobilità di chi non vuole, ma il punto in cui il desiderio di mutare si è fatto abbastanza intenso da chiedere una forma. Per questo non è sinonimo di → slancio: l'anelito è la pressione che precede la partenza, lo slancio è il desiderio quando entra nel gesto. Con → aspirazione condivide la direzione verso il futuro, ma la seconda può restare a lungo un progetto; l'anelito è più impaziente, più vicino al respiro e alla soglia.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

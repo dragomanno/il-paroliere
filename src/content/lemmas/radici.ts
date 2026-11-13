@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: radici
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -76,7 +76,7 @@ export const radici: LemmaEntry = {
   paroliereNote:
     "Le → radici guardano all'indietro e in basso: all'origine, alle generazioni, al terreno reale o immaginato da cui si viene. → Appartenenza nomina invece il sentirsi parte di un gruppo nel presente e → identità il modo in cui ci si riconosce nel tempo; le radici possono nutrire entrambe, ma non obbligano a restare fermi né a idealizzare il luogo da cui si parte.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

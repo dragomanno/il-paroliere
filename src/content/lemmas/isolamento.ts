@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: isolamento
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -14,7 +14,7 @@ export const isolamento: LemmaEntry = {
   domains: ["psicologia", "sociologia", "salute", "diritto penitenziario"],
 
   definition:
-    "1. In psicologia e nella vita sociale, condizione, spesso oggettiva o imposta dall’esterno, in cui una persona, un gruppo o un luogo resta separato da contatti, risorse e partecipazione. 2. In medicina, separazione di un paziente per prevenire o contenere un rischio sanitario o infettivo. 3. In ambito penitenziario, misura cautelare o disciplinare che separa una persona detenuta dagli altri reclusi. Diverso dal → estraneamento, che è soprattutto il vissuto interiore di non sentirsi parte anche in mezzo agli altri.",
+    "1. In psicologia e nella vita sociale, condizione, spesso oggettiva o imposta dall’esterno, in cui una persona, un gruppo o un luogo resta separato da contatti, risorse e partecipazione. 2. In medicina, separazione di un paziente per prevenire o contenere un rischio sanitario o infettivo. 3. In ambito penitenziario, separazione di una persona detenuta dagli altri reclusi, disposta per ragioni sanitarie, disciplinari o giudiziarie. Diverso dal → estraneamento, che è soprattutto il vissuto interiore di non sentirsi parte anche in mezzo agli altri.",
 
   shortDefinition:
     "Condizione di separazione dai contatti o dalla partecipazione; in medicina e in carcere, misura di separazione con finalità specifiche.",
@@ -50,7 +50,7 @@ export const isolamento: LemmaEntry = {
   paroliereNote:
     "L’isolamento descrive prima di tutto una posizione: si è tagliati fuori da qualcuno o da qualcosa. L’estraneamento può invece affiorare in una stanza piena di persone; la → solitudine, a sua volta, può essere scelta e persino feconda. Distinguere queste parole aiuta a rendere visibili le cause sociali, materiali o istituzionali della separazione.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

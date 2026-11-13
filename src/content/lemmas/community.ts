@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: community
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -20,7 +20,7 @@ export const community: LemmaEntry = {
     "Gruppo digitale di persone che interagiscono attorno a un interesse, un progetto o un contenuto condiviso.",
 
   etymology:
-    "Prestito dall’inglese community, a sua volta dal latino communitas. In italiano è invariabile e ha assunto soprattutto il valore specifico di gruppo che si forma e si riconosce in uno spazio digitale.",
+    "Prestito dall’inglese community, che risale, attraverso il francese antico, al latino communitas. In italiano è invariabile e ha assunto soprattutto il valore specifico di gruppo che si forma e si riconosce in uno spazio digitale.",
 
   examples: [
     "La community del videogioco ha raccolto guide per chi comincia e consigli per chi vuole migliorare.",
@@ -49,7 +49,7 @@ export const community: LemmaEntry = {
   paroliereNote:
     "Community non sostituisce automaticamente comunità. Il primo termine mette a fuoco un gruppo che prende forma e si mantiene attraverso interazioni digitali; il secondo resta più adatto quando contano il territorio, l’appartenenza civile, una storia comune o valori condivisi. Il prestito è invariabile: «una community», «le community».",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

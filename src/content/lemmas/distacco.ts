@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: distacco
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -80,13 +80,13 @@ export const distacco: LemmaEntry = {
   paroliereNote:
     "Il distacco non è automaticamente una fuga né una virtù e non va confuso con → menefreghismo: conta da che cosa ci si separa e con quale effetto. Può essere un limite sano, preso per il quieto vivere o per tornare a procedere dopo una ferita; nel rapporto con la perdita, lascia spazio al dolore senza ridurlo a una rinuncia. Un po' di distacco può sottrarre una → relazione alla → dipendenza; se si irrigidisce, può avvicinarsi a → estraneamento e lasciare il → legame senza voce.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {
     title: "Distacco — definizione, sinonimi, uso | Il Paroliere",
     description:
-      "Distacco: separazione materiale o emotiva, tra lucidità, protezione, lutto e raffreddamento dei legami. Definizione originale, sinonimi, esempi e contesti d'uso.",
+      "Distacco: separazione materiale o emotiva, tra lucidità, protezione, lutto e raffreddamento dei legami. Definizione originale, sinonimi ed esempi.",
   },
 
   createdAt: "2026-08-24",

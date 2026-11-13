@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: attesa
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -44,7 +44,7 @@ export const attesa: LemmaEntry = {
 
   paroliereNote: "L’attesa non dice ancora come andrà: può custodire una → speranza, alimentare la → tensione o preparare una → accettazione. È un tempo vissuto, non un semplice spazio vuoto tra due momenti.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: rassegnazione
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -77,7 +77,7 @@ export const rassegnazione: LemmaEntry = {
   paroliereNote:
     "Nella sequenza che va da → frustrazione a → rassegnazione, il problema non è più soltanto l'ostacolo: è la rinuncia a immaginare una via d'uscita. Per questo non coincide con → accettazione, che può essere lucida e attiva; la rassegnazione tende piuttosto a ritirare energia dal possibile.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

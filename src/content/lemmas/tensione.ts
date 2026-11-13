@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: tensione
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -46,7 +46,7 @@ export const tensione: LemmaEntry = {
 
   paroliereNote: "La tensione non è sempre un difetto da eliminare: può dare attenzione e forma a un confronto. Diventa corrosiva quando, in una → relazione, non trova parole, limiti o possibilità di sciogliersi.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

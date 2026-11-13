@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: maranza
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -47,7 +47,7 @@ export const maranza: LemmaEntry = {
   paroliereNote:
     "Le parole che nominano gruppi giovanili sono quasi sempre instabili: passano dall’esterno all’interno, dal dileggio alla rivendicazione e cambiano insieme a chi le usa. «Maranza» va letto come fenomeno di costume e di lingua, non come scorciatoia per una gerarchia sociale.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

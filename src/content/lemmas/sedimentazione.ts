@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: sedimentazione
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -29,19 +29,10 @@ export const sedimentazione: LemmaEntry = {
     "risultato finale.",
 
   shortDefinition:
-    "Deposito di particelle sul fondo di un liquido, o — in senso figurato — " +
-    "il consolidarsi progressivo e stratificato nel tempo di abitudini, " +
-    "lingue o culture.",
+    "Deposito di particelle sul fondo di un liquido; in senso figurato, il consolidarsi graduale di abitudini, lingue o culture.",
 
   etymology:
-    "Dal latino *sedimentum*, derivato di *sedere* («posarsi, stare fermo»), con " +
-    "il suffisso -azione che indica il processo. Il senso figurato applicato " +
-    "a fenomeni culturali e sociali è attestato in italiano almeno dal 1885, " +
-    "secondo i dizionari storici, e si sviluppa per analogia diretta col " +
-    "processo geologico: come gli strati di roccia sedimentaria raccontano, a " +
-    "chi sa leggerli, la storia successiva di depositi diversi, così una " +
-    "pratica culturale sedimentata porta ancora in sé, in filigrana, le " +
-    "tracce delle fasi storiche che l'hanno prodotta.",
+    "Da sedimentare, a sua volta dal latino *sedimentum*, derivato di *sedere* («posarsi, stare fermo»), con il suffisso -azione che indica il processo. Il senso figurato applicato a fenomeni culturali e sociali è attestato in italiano almeno dal 1885, secondo i dizionari storici, e si sviluppa per analogia diretta col processo geologico: come gli strati di roccia sedimentaria raccontano, a chi sa leggerli, la storia successiva di depositi diversi, così una pratica culturale sedimentata porta ancora in sé, in filigrana, le tracce delle fasi storiche che l'hanno prodotta.",
 
   examples: [
     "La sedimentazione millenaria dei detriti fluviali ha creato la pianura " +
@@ -117,7 +108,7 @@ export const sedimentazione: LemmaEntry = {
     "depositato, il risultato transitorio di condizioni che poi sono cambiate, " +
     "lasciando dietro di sé solo lo strato che le testimonia.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

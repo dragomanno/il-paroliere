@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: comunità
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -48,7 +48,7 @@ export const comunita: LemmaEntry = {
   paroliereNote:
     "Comunità non è un nome elegante per «molte persone»: nomina una forma di vicinanza in cui le differenze non cancellano la responsabilità reciproca. Per forum, gruppi social e spazi di discussione online l’italiano contemporaneo preferisce quasi sempre → community, che ha una voce distinta nel Paroliere: non è una semplice traduzione, ma il nome più specifico di una forma di partecipazione digitale. Comunità resta il termine più ampio, sociale, territoriale e valoriale.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

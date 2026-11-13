@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: slancio
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -79,7 +79,7 @@ export const slancio: LemmaEntry = {
   paroliereNote:
     "Lo slancio è l'istante in cui un'intenzione entra nel gesto: spesso è il seguito di un → anelito, non il suo sinonimo. Può aprire una strada verso una → aspirazione, ma non basta a percorrerla: il suo valore è nell'avvio, non nella garanzia dell'arrivo. Senza continuità, risorse o → volontà, può consumarsi nel primo movimento e lasciare un progetto sospeso; per questo non va confuso con un risultato raggiunto.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

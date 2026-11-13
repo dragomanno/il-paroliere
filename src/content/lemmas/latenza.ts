@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: latenza
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -30,21 +30,10 @@ export const latenza: LemmaEntry = {
     "non è ancora arrivato.",
 
   shortDefinition:
-    "Condizione di ciò che esiste, ma non si è ancora manifestato: in " +
-    "psicologia e medicina l'intervallo prima dei sintomi, in informatica il " +
-    "ritardo tra comando e risposta.",
+    "Condizione di ciò che c'è, ma non si manifesta ancora: in medicina il periodo prima dei sintomi, in informatica il ritardo di risposta.",
 
   etymology:
-    "Derivato di latente, dal latino *latens, latentis*, participio presente di " +
-    "*latere* («stare nascosto, essere celato»). La stessa radice, tramite il " +
-    "composto in-, dà anche 'invisibile' in senso figurato di ciò che sta " +
-    "sotto la superficie. L'estensione all'ambito informatico — il tempo di " +
-    "latenza di una rete o di un dispositivo — è un calco novecentesco " +
-    "dall'inglese *latency*, che a sua volta riprende il significato tecnico " +
-    "già presente nella fisiologia sperimentale ottocentesca, dove 'tempo di " +
-    "latenza' indicava lo spazio tra uno stimolo e la reazione corrispondente: " +
-    "il salto verso l'elettronica digitale ne è una traslazione diretta più " +
-    "che un'invenzione terminologica nuova.",
+    "Derivato di latente, dal latino *latens, latentis*, participio presente di *latere* («stare nascosto, essere celato»). L'estensione all'ambito informatico — il tempo di latenza di una rete o di un dispositivo — è un calco novecentesco dall'inglese *latency*, che a sua volta riprende il significato tecnico già presente nella fisiologia sperimentale ottocentesca, dove 'tempo di latenza' indicava lo spazio tra uno stimolo e la reazione corrispondente: il salto verso l'elettronica digitale ne è una traslazione diretta più che un'invenzione terminologica nuova.",
 
   examples: [
     "Il virus può restare in fase di latenza per anni nell'organismo, senza " +
@@ -63,11 +52,6 @@ export const latenza: LemmaEntry = {
       term: "incubazione",
       register: "tecnico-medico",
       context: "specifico per il periodo tra il contagio e la comparsa dei sintomi di una malattia infettiva",
-    },
-    {
-      term: "sopore",
-      register: "letterario",
-      context: "stato di quiete apparente che precede un risveglio o una riattivazione, con connotazione più fisica",
     },
     {
       term: "ritardo",
@@ -118,7 +102,7 @@ export const latenza: LemmaEntry = {
     "(qualcosa è già presente, il suo effetto no) migri da un dominio " +
     "all'altro della conoscenza senza perdere coerenza interna.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

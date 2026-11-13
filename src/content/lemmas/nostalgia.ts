@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: nostalgia
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -94,23 +94,9 @@ export const nostalgia: LemmaEntry = {
   },
 
   paroliereNote:
-    "Vale la pena ricordare che la nostalgia nasce come diagnosi medica, non " +
-    "come categoria letteraria: Johannes Hofer la descriveva con gli stessi " +
-    "strumenti clinici con cui si sarebbe descritta una febbre, sintomi " +
-    "compresi (inappetenza, insonnia, palpitazioni). Che un'emozione così " +
-    "universale sia stata per secoli trattata come patologia curabile — si " +
-    "prescrivevano perfino sanguisughe — dice qualcosa sul modo in cui ogni " +
-    "epoca medicalizza o normalizza le proprie sofferenze affettive a seconda " +
-    "degli strumenti concettuali disponibili. Oggi la nostalgia ha perso quasi " +
-    "del tutto la connotazione patologica ed è anzi studiata dalla psicologia " +
-    "contemporanea anche come risorsa: rievocare ricordi positivi, pure " +
-    "malinconici, aiuta a costruire senso di continuità e identità personale " +
-    "nei momenti di transizione. Resta comunque un lemma da maneggiare con " +
-    "cura editoriale: la nostalgia idealizza per definizione e la sua " +
-    "→ sedimentazione nella memoria collettiva è spesso il meccanismo dietro " +
-    "il mito del 'si stava meglio quando si stava peggio'.",
+    "Vale la pena ricordare che la nostalgia nasce come diagnosi medica, non come categoria letteraria: Johannes Hofer la descriveva con gli stessi strumenti clinici con cui si sarebbe descritta una febbre, sintomi compresi (inappetenza, insonnia, palpitazioni). Che un'emozione così universale sia stata per secoli trattata come patologia curabile — si prescrivevano perfino sanguisughe — dice qualcosa sul modo in cui ogni epoca medicalizza o normalizza le proprie sofferenze affettive a seconda degli strumenti concettuali disponibili. Oggi la nostalgia ha perso quasi del tutto la connotazione patologica ed è anzi studiata dalla psicologia contemporanea anche come risorsa: rievocare ricordi positivi, pure malinconici, aiuta a costruire senso di continuità e identità personale nei momenti di transizione. Resta comunque un lemma da maneggiare con cura editoriale: la nostalgia tende a idealizzare e la sua → sedimentazione nella memoria collettiva è spesso il meccanismo dietro il mito del 'si stava meglio quando si stava peggio'.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

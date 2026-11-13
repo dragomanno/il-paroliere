@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: aspirazione
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -28,9 +28,7 @@ export const aspirazione: LemmaEntry = {
   synonyms: [
     { term: "desiderio", register: "comune", context: "termine più ampio, che può restare momentaneo e non definire un percorso." },
     { term: "ideale", register: "formale", context: "indica una meta di valore generale, non necessariamente un obiettivo biografico concreto." },
-    { term: "bramare", register: "letterario", context: "esprime un volere più impetuoso e corporeo, privo della stessa architettura di progetto." },
-    { term: "agognare", register: "letterario", context: "pone l'accento sulla lontananza sofferta della meta, non sulla sua pianificazione." },
-    { term: "vagheggiare", register: "letterario", context: "immagina una meta gradevole senza l'impegno costante implicato dall'aspirazione." },
+    { term: "anelito", register: "letterario", context: "più acceso e impaziente, meno ordinato attorno a un progetto." },
   ],
 
   antonyms: [
@@ -46,7 +44,7 @@ export const aspirazione: LemmaEntry = {
 
   paroliereNote: "L'aspirazione non è un desiderio reso più elegante: chiede una linea nel tempo, anche quando resta incompiuta. Può nutrirsi di → speranza, ma contiene già una forma di orientamento e responsabilità verso il futuro.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

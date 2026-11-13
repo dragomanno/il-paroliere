@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: passione
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -44,7 +44,7 @@ export const passione: LemmaEntry = {
 
   paroliereNote: "La passione dà calore a un interesse, ma non garantisce misura. Quando smette di lasciare spazio all’altro o al resto della vita, il confine con la → dipendenza merita attenzione; non sono però la stessa cosa.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

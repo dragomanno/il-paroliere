@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: kronos
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -14,37 +14,13 @@ export const kronos: LemmaEntry = {
   domains: ["filosofia", "linguistica", "letteratura"],
 
   definition:
-    "Nel pensiero greco antico, il tempo cronologico: quello che scorre in " +
-    "modo lineare, sequenziale e misurabile — ore, giorni, anni — indifferente " +
-    "al contenuto degli eventi che contiene. È il tempo dell'orologio e del " +
-    "calendario, lo stesso per chiunque lo misuri, che si contrappone " +
-    "concettualmente a → kairos, il tempo qualitativo del momento opportuno. " +
-    "Kronos era anche il nome di una divinità della mitologia greca, il " +
-    "titano padre di Zeus, associato — complice una parziale sovrapposizione " +
-    "fonetica successiva col dio Chronos personificazione del tempo — " +
-    "all'immagine del tempo divoratore che consuma ogni cosa generata. " +
-    "Nell'uso filosofico e critico contemporaneo, 'tempo di kronos' o 'tempo " +
-    "cronologico' indica per estensione qualunque scansione oggettiva e " +
-    "quantitativa del tempo, distinta dal tempo vissuto soggettivamente.",
+    "Nel pensiero greco antico, il tempo cronologico: quello che scorre in modo lineare, sequenziale e misurabile — ore, giorni, anni — indifferente al contenuto degli eventi che contiene. È il tempo dell'orologio e del calendario, lo stesso per chiunque lo misuri, che si contrappone concettualmente a → kairos, il tempo qualitativo del momento opportuno. Con una grafia quasi identica si scrive anche il nome del titano Crono (Krónos), padre di Zeus, che già gli antichi accostarono al tempo: da qui l'immagine del tempo divoratore che consuma ogni cosa generata. Nell'uso filosofico e critico contemporaneo, 'tempo di kronos' o 'tempo cronologico' indica per estensione qualunque scansione oggettiva e quantitativa del tempo, distinta dal tempo vissuto soggettivamente.",
 
   shortDefinition:
-    "Il tempo cronologico, lineare e misurabile — ore, giorni, anni — " +
-    "contrapposto nella filosofia greca a → kairos, il tempo qualitativo " +
-    "dell'occasione opportuna.",
+    "Il tempo cronologico, lineare e misurabile — ore, giorni, anni — distinto da → kairos, il tempo dell'occasione opportuna.",
 
   etymology:
-    "Dal greco *Krónos* (Κρόνος), nome del titano figlio di Urano e Gea nella " +
-    "mitologia greca, la cui etimologia resta incerta e dibattuta tra i " +
-    "filologi: alcuni la collegano a *kraínō* («compiere, portare a termine»), " +
-    "altri a una radice indoeuropea legata all'idea di taglio o mietitura " +
-    "(coerente col mito della falce con cui Crono evira Urano), altri ancora " +
-    "la considerano di origine pre-greca e non etimologizzabile con certezza. " +
-    "Il nesso con *chrónos* (χρόνος, «tempo») — da cui derivano " +
-    "'cronologia', 'cronometro', 'sincrono' — è etimologicamente distinto: le " +
-    "due parole greche sono omofone solo in parte e non condividono radice, " +
-    "ma la tradizione popolare e iconografica le ha sovrapposte già in epoca " +
-    "ellenistica, fissando l'immagine del 'tempo divoratore' (Kronos che " +
-    "divora i propri figli) come metafora del logorio di chrónos.",
+    "Grafia con la k del greco *chrónos* (χρόνος, «tempo»), la parola da cui vengono 'cronologia', 'cronometro' e 'sincrono'. La traslitterazione corretta sarebbe chronos: la forma kronos si è diffusa nella divulgazione, soprattutto nella coppia con → kairos. Va distinta dal nome del titano *Krónos* (Κρόνος), padre di Zeus, che ha un'altra origine, incerta e discussa. Già nell'antichità le due parole furono accostate e da questo accostamento nasce l'immagine di Crono che divora i figli come metafora del tempo che consuma ogni cosa.",
 
   examples: [
     "Il romanzo racconta la stessa giornata da tre prospettive diverse: sul " +
@@ -107,14 +83,13 @@ export const kronos: LemmaEntry = {
     "sinonimi intercambiabili di 'tempo' in senso generico, è l'errore più " +
     "comune quando il lemma compare fuori da un contesto filosofico rigoroso.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {
     title: "Kronos — il tempo cronologico nella filosofia greca | Il Paroliere",
     description:
-      "Che cos'è kronos: tempo lineare e misurabile nel pensiero greco, " +
-      "differenza da kairos, origine mitologica e uso filosofico contemporaneo.",
+      "Che cos'è kronos: tempo lineare e misurabile nel pensiero greco, differenza da kairos, distinzione dal titano Crono e uso filosofico contemporaneo.",
   },
 
   createdAt: "2026-08-10",

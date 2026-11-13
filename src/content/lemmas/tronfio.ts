@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: tronfio
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -46,7 +46,7 @@ export const tronfio: LemmaEntry = {
   paroliereNote:
     "«Tronfio» giudica una messa in scena, non il fatto di essere contenti di sé. Per questo è spesso più preciso di → arroganza quando il problema non è l’offesa agli altri, ma l’aria troppo piena con cui si attraversa la stanza.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

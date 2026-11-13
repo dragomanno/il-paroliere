@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: accettazione
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -20,7 +20,7 @@ export const accettazione: LemmaEntry = {
     "Riconoscimento consapevole di una realtà, di una proposta o di una persona, senza che implichi resa.",
 
   etymology:
-    "Dal latino tardo acceptatio, derivato di acceptare, forma intensiva di accipere, «ricevere». L'origine richiama il gesto del prendere con sé, poi esteso al consenso e al riconoscimento di un fatto.",
+    "Dal latino tardo acceptatio, derivato di acceptare, forma frequentativa di accipere, «ricevere». L'origine richiama il gesto del prendere con sé, poi esteso al consenso e al riconoscimento di un fatto.",
 
   examples: [
     "L'accettazione dell'incarico è arrivata con una mail breve, ma preparata per giorni.",
@@ -77,7 +77,7 @@ export const accettazione: LemmaEntry = {
   paroliereNote:
     "Dopo → frustrazione e talvolta dopo → rassegnazione, l'→ accettazione può segnare un passaggio diverso: non il cedimento, ma una presa d'atto da cui ripartire. Nelle → relazioni, accettare una persona non significa sottrarla al confronto; significa non far dipendere la sua dignità dalla sua conformità alle nostre attese.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

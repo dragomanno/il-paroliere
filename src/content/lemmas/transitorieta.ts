@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: transitorietà
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -31,9 +31,7 @@ export const transitorieta: LemmaEntry = {
     "sull'impermanenza (anicca) alla dialettica occidentale del divenire.",
 
   shortDefinition:
-    "Qualità strutturale di ciò che è destinato a passare e a cedere il " +
-    "posto a uno stato successivo, distinta dalla connotazione estetica " +
-    "dell'→ effimero.",
+    "Qualità di ciò che è temporaneo e destinato a passare, spesso verso uno stato successivo; più neutra dell'→ effimero.",
 
   etymology:
     "Derivato di transitorio, dal latino tardo *transitorius*, a sua volta da " +
@@ -61,7 +59,7 @@ export const transitorieta: LemmaEntry = {
     {
       term: "provvisorietà",
       register: "comune",
-      context: "più orientato all'assenza di definitività pratica di una soluzione o disposizione",
+      context: "più orientata all'assenza di definitività pratica di una soluzione o disposizione",
     },
     {
       term: "impermanenza",
@@ -115,7 +113,7 @@ export const transitorieta: LemmaEntry = {
     "un ordine destinato a mutare per ragioni strutturali, riservando " +
     "effimero ai fenomeni la cui unica caratteristica rilevante è la brevità.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {
