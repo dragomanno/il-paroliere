@@ -5,9 +5,9 @@ export const guelfo: LemmaEntry = {
   partOfSpeech: "sostantivo",
   gender: "maschile",
   definition:
-    "Nel contesto della politica italiana medievale, membro o sostenitore del partito che appoggiava il papato contro l'imperatore del Sacro Romano Impero. I guelfi si contrapposero ai ghibellini per circa due secoli, tra il XII e il XIV, segnando la storia di tutte le maggiori città italiane con lotte intestine, esili e confische. Nel linguaggio comune il termine è sopravvissuto come aggettivo per indicare posizioni filostatali o filopapali, spesso con tono ironico.",
+    "Nel contesto della politica italiana medievale, membro o sostenitore del partito che appoggiava il papato contro l'imperatore del Sacro Romano Impero. I guelfi si contrapposero ai ghibellini per circa due secoli, tra il XII e il XIV, segnando la storia di tutte le maggiori città italiane con lotte intestine, esili e confische. Nel linguaggio politico successivo il termine è sopravvissuto per indicare posizioni filopapali o di ispirazione cattolica, dal neoguelfismo risorgimentale all'uso giornalistico di oggi, spesso con tono ironico.",
   shortDefinition:
-    "Nel Medioevo italiano, sostenitore del papato contro l'imperatore; oggi aggettivo per posizioni filostatali, spesso con ironia.",
+    "Nel Medioevo italiano, sostenitore del papato contro l'imperatore; oggi indica, spesso con ironia, posizioni filopapali o cattoliche.",
   register: ["storico", "comune"],
   domains: ["storia medievale", "politica", "Italia"],
   etymology:
@@ -22,7 +22,7 @@ export const guelfo: LemmaEntry = {
   relatedWords: ["ghibellino", "Dante", "fazione", "Firenze medievale", "papato"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/guelfo" },
   paroliereNote:
-    "Guelfi e ghibellini hanno insanguinato l'Italia medievale per generazioni — e Dante ne è il testimone più illustre: esiliato da Firenze guelfa, morto a Ravenna. Oggi i due termini sopravvivono come metafore politiche: chi vuole uno Stato forte è «guelfo», chi diffida del potere centrale è «ghibellino». La storia si è fatta lessico.",
+    "Guelfi e ghibellini hanno insanguinato l'Italia medievale per generazioni, e Dante ne è il testimone più illustre: guelfo di parte bianca, esiliato da Firenze nel 1302, morto a Ravenna. Oggi i due termini sopravvivono come metafore politiche: «guelfo» chi guarda alla Chiesa e al mondo cattolico, «ghibellino» chi difende la laicità dello Stato. La storia si è fatta lessico.",
   editorialStatus: "reviewed",
   indexable: true,
   seo: {
