@@ -28,7 +28,7 @@ export const statusCode: LemmaEntry = {
   examples: [
     "Il Crawl Stats di Google Search Console mostrava centinaia di status code 404 su URL mai esistiti.",
     "La differenza tra un 404 e un 410 sembra sottile, ma per Google il 410 accelera la rimozione dall'indice.",
-    "Un sito che restituisce 200 su pagine inesistenti — il soft 404 — è invisibile ai browser ma devastante per la SEO.",
+    "Un sito che restituisce 200 su pagine inesistenti — il soft 404 — è invisibile ai browser, ma devastante per la SEO.",
   ],
 
   synonyms: [
@@ -79,5 +79,5 @@ export const statusCode: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

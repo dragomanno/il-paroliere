@@ -51,7 +51,7 @@ export const tonicita: LemmaEntry = {
     "Il tono muscolare è uno di quei fenomeni che esistono solo quando funzionano: li " +
     "noti quando vengono meno. La tonicità di una narrazione funziona allo stesso modo " +
     "— si percepisce per sottrazione, quando manca. Un romanzo che perde tonicità a " +
-    "metà è un romanzo che si sente cedere sotto le mani, e il lettore lo avverte prima " +
+    "metà è un romanzo che si sente cedere sotto le mani e il lettore lo avverte prima " +
     "ancora di poterlo articolare.",
 
   sourceLinks: {},
@@ -65,5 +65,5 @@ export const tonicita: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

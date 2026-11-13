@@ -29,7 +29,7 @@ export const seo: LemmaEntry = {
   examples: [
     "La SEO non è una scorciatoia: è un lavoro continuativo che dà risultati nel tempo.",
     "Ha lavorato come SEO per dieci anni prima di aprire la sua agenzia.",
-    "La SEO tecnica e la SEO editoriale richiedono competenze diverse ma devono procedere insieme.",
+    "La SEO tecnica e la SEO editoriale richiedono competenze diverse, ma devono procedere insieme.",
     "Un buon SEO non ottimizza solo per Google: ottimizza per le persone che usano Google.",
   ],
 
@@ -91,5 +91,5 @@ export const seo: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

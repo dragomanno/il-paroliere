@@ -17,7 +17,7 @@ export const vacuo: LemmaEntry = {
     "nel registro comune e letterario la mancanza è sempre di sostanza, non di volume.",
 
   shortDefinition:
-    "Vuoto di senso e di sostanza: ciò che appare ma non è, che suona ma non dice nulla di reale.",
+    "Vuoto di senso e di sostanza: ciò che appare, ma non è, che suona, ma non dice nulla di reale.",
 
   register: ["comune", "letterario"],
   domains: ["linguaggio", "carattere", "fisica"],
@@ -90,10 +90,10 @@ export const vacuo: LemmaEntry = {
   seo: {
     title: "Vacuo — Il Paroliere",
     description:
-      "Definizione originale di 'vacuo': vuoto di senso e sostanza, ciò che suona ma non dice nulla di reale. " +
+      "Definizione originale di 'vacuo': vuoto di senso e sostanza, ciò che suona, ma non dice nulla di reale. " +
       "Con esempi, sinonimi, etimologia e nota editoriale.",
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

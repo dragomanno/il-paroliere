@@ -20,7 +20,7 @@ export const seminatrice: LemmaEntry = {
     "girasole e soia, dove ogni seme deve essere depositato singolarmente a distanza precisa. " +
     "Le componenti fondamentali di una seminatrice sono: il serbatoio del seme, il dispositivo " +
     "dosatore che regola la quantità di seme distribuita, i dischi semenzali o tutoli che " +
-    "aprono il solco nel terreno, il tubo guidaseme che convoglia il seme nel solco, e il " +
+    "aprono il solco nel terreno, il tubo guidaseme che convoglia il seme nel solco e il " +
     "copriseme che richiude il terreno dopo la deposizione.",
 
   shortDefinition:
@@ -71,7 +71,7 @@ export const seminatrice: LemmaEntry = {
   paroliereNote:
     "La meccanizzazione agricola del Novecento ha trasformato radicalmente il paesaggio " +
     "rurale italiano: macchine come la seminatrice hanno sostituito pratiche millenarie in " +
-    "pochi decenni. Questo ha avuto conseguenze profonde non solo sulla produttività ma sulla " +
+    "pochi decenni. Questo ha avuto conseguenze profonde non solo sulla produttività, ma sulla " +
     "struttura sociale delle campagne — meno manodopera, comunità rurali più piccole, fine " +
     "della mezzadria. La seminatrice è un oggetto tecnico con una storia sociale dietro.",
 
@@ -86,5 +86,5 @@ export const seminatrice: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

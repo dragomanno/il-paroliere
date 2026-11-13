@@ -27,7 +27,7 @@ export const sinestesia: LemmaEntry = {
 
   etymology:
     "Dal greco sýn («insieme») e aísthesis («sensazione, percezione»). Il termine " +
-    "retorico e quello neurologico condividono l'etimologia ma si sono sviluppati " +
+    "retorico e quello neurologico condividono l'etimologia, ma si sono sviluppati " +
     "come discipline separate a partire dal XIX secolo.",
 
   examples: [
@@ -67,9 +67,9 @@ export const sinestesia: LemmaEntry = {
     title: "Sinestesia — Il Paroliere",
     description:
       "Definizione originale di 'sinestesia': condizione neurologica che unisce " +
-      "sensi diversi, e figura retorica che li accosta nella stessa espressione. Con esempi e riferimento ai simbolisti.",
+      "sensi diversi e figura retorica che li accosta nella stessa espressione. Con esempi e riferimento ai simbolisti.",
   },
 
   createdAt: "2026-08-21",
-  updatedAt: "2026-08-21",
+  updatedAt: "2026-11-13",
 };

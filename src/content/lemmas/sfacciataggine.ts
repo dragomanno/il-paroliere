@@ -64,9 +64,9 @@ export const sfacciataggine: LemmaEntry = {
 
   seo: {
     title: "sfacciataggine — la faccia tosta tra vizio sociale e abilità adattiva",
-    description: "Che cos’è la sfacciataggine: definizione psicologica, differenza da impudenza e coraggio, e l’ambivalenza italiana verso chi non ha vergogna.",
+    description: "Che cos’è la sfacciataggine: definizione psicologica, differenza da impudenza e coraggio e l’ambivalenza italiana verso chi non ha vergogna.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

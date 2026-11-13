@@ -12,7 +12,7 @@ export const vagheggiare: LemmaEntry = {
   register: ["letterario", "elevato"],
   domains: ["letteratura", "psicologia", "immaginazione"],
 
-  definition: "Rappresentarsi con compiacimento una persona, una condizione o un futuro desiderabile, trattenendolo soprattutto nell'immaginazione. Può significare anche contemplare con ammirazione. Nel valore desiderativo è un verbo sognante e poco operativo: diversamente da → aspirazione non costruisce una meta, e a differenza di agognare non fa della distanza una sofferenza.",
+  definition: "Rappresentarsi con compiacimento una persona, una condizione o un futuro desiderabile, trattenendolo soprattutto nell'immaginazione. Può significare anche contemplare con ammirazione. Nel valore desiderativo è un verbo sognante e poco operativo: diversamente da → aspirazione non costruisce una meta e, a differenza di agognare, non fa della distanza una sofferenza.",
 
   shortDefinition: "Immaginare con desiderio e compiacimento qualcosa di bello, senza trasformarlo necessariamente in un progetto d'azione.",
 
@@ -21,7 +21,7 @@ export const vagheggiare: LemmaEntry = {
   examples: [
     "Vagheggiava una casa silenziosa in collina, ma non cercò mai un annuncio.",
     "Da ragazza vagheggiava città lontane guardando le fotografie nelle riviste usate.",
-    "Il poeta vagheggia un incontro che forse non è mai avvenuto, e proprio per questo resta perfetto.",
+    "Il poeta vagheggia un incontro che forse non è mai avvenuto e proprio per questo resta perfetto.",
   ],
 
   synonyms: [
@@ -54,5 +54,5 @@ export const vagheggiare: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-08-24",
+  updatedAt: "2026-11-13",
 };

@@ -19,7 +19,7 @@ export const simmetria: LemmaEntry = {
     "è la norma dei vertebrati; la simmetria radiale è quella dei crinoidi, delle stelle " +
     "marine, dei fiori. In fisica, le simmetrie fondamentali governano le leggi di " +
     "conservazione (Teorema di Noether). In estetica, la simmetria perfetta è spesso " +
-    "percepita come bella ma anche come morta: priva di tensione.",
+    "percepita come bella, ma anche come morta: priva di tensione.",
 
   shortDefinition:
     "Corrispondenza esatta tra le parti di un insieme rispetto a un asse o centro; in estetica, equilibrio che può sfiorare la staticità.",
@@ -65,5 +65,5 @@ export const simmetria: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

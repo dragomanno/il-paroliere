@@ -83,7 +83,7 @@ export const xenofobia: LemmaEntry = {
 
   paroliereNote:
     "Xenofobia è una parola che nel Novecento ha fatto un percorso inverso a quello di molti termini " +
-    "tecnici: è entrata nella scienza per descrivere un fenomeno, ed è uscita nel dibattito politico " +
+    "tecnici: è entrata nella scienza per descrivere un fenomeno ed è uscita nel dibattito politico " +
     "come parola di battaglia. Vale la pena ricordare l'etimologia: xenos in greco non significa solo " +
     "'straniero' — significa anche 'ospite'. La xenofobia è la paura di chi, in un altro contesto, " +
     "avresti accolto.",
@@ -99,5 +99,5 @@ export const xenofobia: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-06-08",
+  updatedAt: "2026-11-13",
 };

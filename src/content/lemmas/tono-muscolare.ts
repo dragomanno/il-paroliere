@@ -16,7 +16,7 @@ export const tonoMuscolare: LemmaEntry = {
   definition:
     "Stato di contrazione parziale e involontaria che il muscolo mantiene costantemente " +
     "a riposo, garantendo la postura, la prontezza al movimento e la resistenza di base " +
-    "agli agenti esterni. Non è una contrazione attiva ma un livello basale di attivazione " +
+    "agli agenti esterni. Non è una contrazione attiva, ma un livello basale di attivazione " +
     "neuromuscolare, regolato dal sistema nervoso centrale attraverso i fusi neuromuscolari. " +
     "Senza tono muscolare, il corpo collasserebbe sulla gravità.",
 
@@ -65,5 +65,5 @@ export const tonoMuscolare: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

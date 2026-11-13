@@ -39,7 +39,7 @@ export const smargiasso: LemmaEntry = {
 
   examples: [
     "Davanti agli amici era uno smargiasso che prometteva imprese impossibili; da solo, evitava accuratamente qualsiasi situazione di rischio.",
-    "Il Capitano della Commedia dell'Arte è l'archetipo dello smargiasso: bravate, spacconate, e poi la fuga alla prima difficoltà reale.",
+    "Il Capitano della Commedia dell'Arte è l'archetipo dello smargiasso: bravate, spacconate e poi la fuga alla prima difficoltà reale.",
     'Non fare lo smargiasso gli disse il nonno. Chi vale davvero non ha bisogno di dirtelo.',
   ],
 
@@ -102,7 +102,7 @@ export const smargiasso: LemmaEntry = {
   paroliereNote:
     "Il legame con rodomontesco è fondamentale per capire la genealogia culturale della figura. " +
     "Rodomonte — il guerriero saraceno dell'Orlando Furioso di Ariosto — era davvero valoroso: " +
-    "il suo difetto non era la codardia ma la tracotanza, la superbia di chi si fida troppo della " +
+    "il suo difetto non era la codardia, ma la tracotanza, la superbia di chi si fida troppo della " +
     "propria forza e la ostenta. Lo smargiasso di solito non ha nemmeno quel fondo di valore " +
     "autentico: è la versione degradata e comica del tipo eroico. Chi si comporta da smargiasso " +
     "adotta i gesti esteriori del guerriero senza averne la sostanza. La commedia italiana — " +
@@ -120,5 +120,5 @@ export const smargiasso: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

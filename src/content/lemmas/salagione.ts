@@ -5,7 +5,7 @@ export const salagione: LemmaEntry = {
   partOfSpeech: "sostantivo",
   gender: "femminile",
   definition:
-    "Conservazione degli alimenti con il sale: il pesce, la carne o altri prodotti vengono coperti o strofinati di sale, che sottrae acqua ai tessuti e rallenta lo sviluppo dei microrganismi. Il termine si usa soprattutto per il pesce, come le acciughe, le aringhe o il merluzzo che diventa baccalà, e nel linguaggio tecnico e storico della conservazione; per carni e salumi è più comune salatura, di cui salagione è in larga parte sinonimo.",
+    "Conservazione degli alimenti con il sale: il pesce, la carne o altri prodotti vengono coperti o strofinati di sale, che sottrae acqua ai tessuti e rallenta lo sviluppo dei microrganismi. Il termine si usa soprattutto per il pesce (come le acciughe, le aringhe o il merluzzo che diventa baccalà) e nel linguaggio tecnico e storico della conservazione; per carni e salumi è più comune salatura, di cui salagione è in larga parte sinonimo.",
   shortDefinition:
     "Conservazione degli alimenti con il sale, soprattutto del pesce; in larga parte sinonimo di salatura, più comune per i salumi.",
   register: ["tecnico"],
@@ -15,7 +15,7 @@ export const salagione: LemmaEntry = {
   examples: [
     "La salagione delle acciughe si fa a strati, pesce e sale grosso, dentro grandi barili.",
     "Durante la salagione il sale lavora in profondità e i tessuti perdono lentamente l'acqua.",
-    "Dopo mesi di salagione il merluzzo diventa baccalà, e prima di cucinarlo va messo a bagno.",
+    "Dopo mesi di salagione il merluzzo diventa baccalà e prima di cucinarlo va messo a bagno.",
   ],
   synonyms: [
     { term: "salatura", register: "comune", context: "più usato per carni e salumi" },

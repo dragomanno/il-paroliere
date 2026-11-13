@@ -36,7 +36,7 @@ export const subliminale: LemmaEntry = {
     "dalla psicanalisi e dalla psicologia della percezione del Novecento.",
 
   examples: [
-    "Il filmato conteneva immagini subliminali inserite a 1/24 di secondo: visivamente impercettibili ma registrate dal cervello.",
+    "Il filmato conteneva immagini subliminali inserite a 1/24 di secondo: visivamente impercettibili, ma registrate dal cervello.",
     "C'era nella sua voce qualcosa di subliminale che metteva a disagio senza che si riuscisse a capire esattamente perché.",
     "Il marketing subliminale è vietato in Italia dalla legge: ogni messaggio pubblicitario deve essere riconoscibile come tale.",
     "Certi bias cognitivi operano a livello subliminale: influenzano le nostre scelte prima ancora che le elaboriamo consciamente.",
@@ -51,7 +51,7 @@ export const subliminale: LemmaEntry = {
     {
       term: "pre-cosciente",
       register: "psicoanalitico",
-      context: "accessibile ma non ancora cosciente",
+      context: "accessibile, ma non ancora cosciente",
     },
     {
       term: "occulto",
@@ -103,7 +103,7 @@ export const subliminale: LemmaEntry = {
     "contesto e difficilmente replicabili in condizioni naturali. La parola però porta " +
     "con sé qualcosa di più interessante del mero dibattito sull'efficacia pubblicitaria: " +
     "ricorda che la coscienza è uno strato sottile sopra un oceano di elaborazione non " +
-    "consapevole, e che gran parte di ciò che ci muove opera proprio in quello spazio " +
+    "consapevole e che gran parte di ciò che ci muove opera proprio in quello spazio " +
     "sotto la soglia. In questo senso, subliminale è una parola filosoficamente " +
     "importante: dice che non siamo trasparenti a noi stessi.",
 
@@ -118,5 +118,5 @@ export const subliminale: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

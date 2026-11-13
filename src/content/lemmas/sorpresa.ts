@@ -29,7 +29,7 @@ export const sorpresa: LemmaEntry = {
   examples: [
     "La sorpresa durò un secondo — poi il volto si ricompose in qualcosa di più controllato.",
     "Era una sorpresa brutta: il tipo che non ti aspetti e che però, pensandoci, avresti dovuto.",
-    "Organizzarono una festa a sorpresa, e per una volta la sorpresa fu genuina.",
+    "Organizzarono una festa a sorpresa e per una volta la sorpresa fu genuina.",
     "La vita riserva sorprese, si dice. Peccato che non specifichi mai di che tipo.",
   ],
 
@@ -95,5 +95,5 @@ export const sorpresa: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

@@ -23,7 +23,7 @@ export const trebbiatrice: LemmaEntry = {
     "pesante dalla paglia e dalla pula leggera. In Toscana, la trebbiatura (chiamata " +
     "popolarmente la trebbia) era un momento comunitario di straordinaria importanza: i " +
     "contadini di più poderi si aiutavano vicendevolmente, la trebbiatrice passava da fattoria " +
-    "a fattoria, e la giornata si concludeva con il pasto della trebbia — uno dei pasti più " +
+    "a fattoria e la giornata si concludeva con il pasto della trebbia — uno dei pasti più " +
     "abbondanti dell'anno, simbolo di fatica condivisa e raccolto ottenuto.",
 
   shortDefinition:
@@ -40,7 +40,7 @@ export const trebbiatrice: LemmaEntry = {
   examples: [
     "La trebbiatrice arrivava in fattoria a luglio: era l'evento dell'estate, tutta la famiglia e i vicini si mobilitavano per la trebbia.",
     "La moderna mietitrebbiatrice fa in poche ore quello che richiedeva giorni di lavoro manuale e una trebbiatrice trainata da buoi.",
-    "Il pasto della trebbia era il più abbondante dell'anno: la fatica condivisa si celebrava con cibo condiviso, e i contadini di poderi diversi si ritrovavano intorno alla stessa tavola.",
+    "Il pasto della trebbia era il più abbondante dell'anno: la fatica condivisa si celebrava con cibo condiviso e i contadini di poderi diversi si ritrovavano intorno alla stessa tavola.",
   ],
 
   synonyms: [
@@ -92,5 +92,5 @@ export const trebbiatrice: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

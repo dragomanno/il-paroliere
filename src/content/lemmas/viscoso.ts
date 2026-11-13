@@ -73,7 +73,7 @@ export const viscoso: LemmaEntry = {
   paroliereNote:
     "Viscoso porta nel corpo della parola la memoria del vischio, la trappola dei " +
     "cacciatori di uccelli: non stupisce che il suo senso figurato sia sempre una " +
-    "forma di intrappolamento morbido, mai violento ma innegabile. Vicino a melassa " +
+    "forma di intrappolamento morbido, mai violento, ma innegabile. Vicino a melassa " +
     "per l'immagine fisica, la nota resta distinta perché melassa è la sostanza, " +
     "viscoso la qualità che la definisce e che si estende ad altro.",
 
@@ -88,5 +88,5 @@ export const viscoso: LemmaEntry = {
   },
 
   createdAt: "2026-08-21",
-  updatedAt: "2026-08-21",
+  updatedAt: "2026-11-13",
 };

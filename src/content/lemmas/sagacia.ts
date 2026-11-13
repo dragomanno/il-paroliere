@@ -12,7 +12,7 @@ export const sagacia: LemmaEntry = {
   gender: "femminile",
 
   definition:
-    "Prontezza di giudizio che unisce acutezza analitica e intuizione pratica: la capacità di leggere una situazione complessa prima che essa si dispieghi del tutto. Non è sinonimo di intelligenza astratta, ma di intelligenza orientata — quella che sa dove guardare, e quando.",
+    "Prontezza di giudizio che unisce acutezza analitica e intuizione pratica: la capacità di leggere una situazione complessa prima che essa si dispieghi del tutto. Non è sinonimo di intelligenza astratta, ma di intelligenza orientata — quella che sa dove guardare e quando.",
 
   shortDefinition:
     "Acutezza di giudizio che unisce ragionamento e intuizione pratica per cogliere ciò che sfugge a uno sguardo meno addestrato.",

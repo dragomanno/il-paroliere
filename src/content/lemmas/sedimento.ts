@@ -29,7 +29,7 @@ export const sedimento: LemmaEntry = {
 
   examples: [
     "Il sedimento sul fondo della bottiglia non compromette la qualità del vino — anzi.",
-    "Anni di convivenza lasciano un sedimento che non si vede ma si sente in ogni conversazione.",
+    "Anni di convivenza lasciano un sedimento che non si vede, ma si sente in ogni conversazione.",
     "I sedimenti lacustri conservano la memoria climatica di millenni — ogni strato è un archivio.",
     "Quello che rimane di un'amicizia finita non è il dolore: è il sedimento, più silenzioso e più pesante.",
   ],
@@ -96,5 +96,5 @@ export const sedimento: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

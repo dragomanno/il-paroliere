@@ -34,7 +34,7 @@ export const spaccone: LemmaEntry = {
     "In palestra, lo spaccone è quello che solleva più di quanto riesce senza far sapere a tutti quanti quanto solleva.",
     "Certi stili di leadership aziendale sono pura spacconate: riunioni ad alto volume, decisioni annunciate con fanfara, risultati che arrivano in sordina.",
     "Lo spaccone è quasi sempre un personaggio di confine: tra l’insicurezza profonda e la necessità di nasconderla sotto una maschera di forza.",
-    "Nelle commedie dialettali italiane, lo spaccone è una presenza fissa: fa ridere perché tutti lo riconoscono, e tutti lo riconoscono perché sanno che un po’ di spaccone c’è in ognuno.",
+    "Nelle commedie dialettali italiane, lo spaccone è una presenza fissa: fa ridere perché tutti lo riconoscono e tutti lo riconoscono perché sanno che un po’ di spaccone c’è in ognuno.",
   ],
 
   synonyms: [
@@ -62,9 +62,9 @@ export const spaccone: LemmaEntry = {
 
   seo: {
     title: "spaccone — l’ostentazione della forza tra commedia e psicologia",
-    description: "Che cos’è uno spaccone: definizione psicologica, differenza da gradasso e fanfarone, e la funzione comica del tipo nella tradizione italiana.",
+    description: "Che cos’è uno spaccone: definizione psicologica, differenza da gradasso e fanfarone e la funzione comica del tipo nella tradizione italiana.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

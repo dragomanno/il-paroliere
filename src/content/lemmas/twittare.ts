@@ -67,9 +67,9 @@ export const twittare: LemmaEntry = {
 
   seo: {
     title: "twittare — pubblicare su Twitter tra neologismo, formato e potere della brevità",
-    description: "Che cos’è twittare: origine del verbo, specificità del formato Twitter, e come il microblogging ha ridefinito la comunicazione pubblica.",
+    description: "Che cos’è twittare: origine del verbo, specificità del formato Twitter e come il microblogging ha ridefinito la comunicazione pubblica.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

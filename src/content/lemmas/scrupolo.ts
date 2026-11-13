@@ -27,7 +27,7 @@ export const scrupolo: LemmaEntry = {
     "del sasso nel sandalo trasferito alla sfera morale come senso di disagio interiore.",
 
   examples: [
-    "Aveva scrupoli che gli altri non capivano, e lui non sapeva come spiegarli.",
+    "Aveva scrupoli che gli altri non capivano e lui non sapeva come spiegarli.",
     "Agì senza scrupoli — non per cattiveria, ma per una sorta di certezza che lo rendeva impermeabile al dubbio.",
     "Lo scrupolo è un lusso che non tutti si possono permettere, diceva, e intendeva il contrario.",
     "Si fermò alla soglia: uno scrupolo vecchio come la sua coscienza.",
@@ -81,7 +81,7 @@ export const scrupolo: LemmaEntry = {
   paroliereNote:
     "L'etimologia di scrupolo — quel sasso appuntito nel sandalo — è una delle più felici dell'italiano. " +
     "Rende perfettamente la natura fisica del disagio morale: non un'astrazione, ma qualcosa che si sente " +
-    "ad ogni passo. Chi ha scrupoli cammina consapevolmente su un terreno scomodo, e non si toglie il sasso " +
+    "ad ogni passo. Chi ha scrupoli cammina consapevolmente su un terreno scomodo e non si toglie il sasso " +
     "finché non ha capito da dove viene.",
 
   editorialStatus: "reviewed",
@@ -95,5 +95,5 @@ export const scrupolo: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

@@ -48,7 +48,7 @@ export const violenza: LemmaEntry = {
   },
   paroliereNote:
     "Il concetto bourdieusiano di *violenza simbolica* ha ampliato enormemente il campo semantico del termine, " +
-    "includendo forme di dominio non fisiche ma altrettanto pervasive: stereotipi di genere, " +
+    "includendo forme di dominio non fisiche, ma altrettanto pervasive: stereotipi di genere, " +
     "discriminazione sistemica, linguaggio escludente. Attenzione all'uso giornalistico abusato: " +
     "non tutto ciò che è 'forte' o 'brusco' costituisce violenza nel senso sociologico o giuridico del termine. " +
     "In diritto penale, *violenza* come mezzo del reato (es. rapina, violenza sessuale) va distinta dalla " +
@@ -60,5 +60,5 @@ export const violenza: LemmaEntry = {
     description: "Violenza: forza fisica o psicologica usata per dominare o costringere. Violenza di genere, simbolica (Bourdieu), di Stato, diritto.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

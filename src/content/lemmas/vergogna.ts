@@ -34,7 +34,7 @@ export const vergogna: LemmaEntry = {
     "La vergogna come timore del giudizio altrui è già nella radice etimologica.",
 
   examples: [
-    "La vergogna e il senso di colpa sembrano simili ma agiscono in modo diverso: il senso di colpa spinge a riparare, la vergogna spinge a nascondersi.",
+    "La vergogna e il senso di colpa sembrano simili, ma agiscono in modo diverso: il senso di colpa spinge a riparare, la vergogna spinge a nascondersi.",
     "Le “culture della vergogna” — descritte da Ruth Benedict nel Giappone del dopoguerra — regolano il comportamento attraverso la paura della censura pubblica, non della coscienza individuale.",
     "La vergogna usata come strumento di controllo — nelle famiglie, nelle scuole, nelle comunità — produce obbedienza a breve termine e danni a lungo termine.",
     "Provare vergogna davanti a un’ingiustizia di cui si è stati complici è l’inizio di qualcosa: riconoscere di essersi traditi.",
@@ -58,7 +58,7 @@ export const vergogna: LemmaEntry = {
     "— e non sempre a torto. Usata come arma, è distruttiva. Ma dismisserla del tutto " +
     "come emozione «tossica» significa perdere qualcosa: la vergogna, quando è " +
     "proporzionata, dice che ci importa di qualcosa che abbiamo infranto. Il problema " +
-    "non è la vergogna in sé, ma la vergogna usata da altri per controllarci, e la " +
+    "non è la vergogna in sé, ma la vergogna usata da altri per controllarci e la " +
     "vergogna interna così radicata da non lasciare spazio a nessuna seconda " +
     "possibilità. La vergogna sana è quella che ci fa riparare, non quella che ci fa sparire.",
 
@@ -71,5 +71,5 @@ export const vergogna: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };
