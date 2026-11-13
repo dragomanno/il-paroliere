@@ -5,26 +5,26 @@ export const naZdarovje: LemmaEntry = {
   slug: "na-zdarovje",
   partOfSpeech: "locuzione",
   definition:
-    "Brindisi tradizionale russo, traducibile come «alla salute». In Russia viene usato anche come risposta di cortesia a chi ringrazia per qualcosa, con il significato di «prego» o «di nulla». In italiano è spesso usato per imitare o evocare il brindisi russo, non sempre nella forma ortografica corretta (la traslitterazione esatta sarebbe «na zdoróvye»).",
+    "Locuzione russa (на здоровье) che significa letteralmente «per la salute» e si usa soprattutto per rispondere a un ringraziamento, in particolare per cibo o bevande, con il valore di «prego, buon pro ti faccia»; può anche accompagnare l'offerta di qualcosa da mangiare. Fuori dalla Russia, e spesso anche in italiano, viene scambiata per il brindisi russo, che invece si costruisce con за (za), come in «za vaše zdorov'e», «alla vostra salute». La grafia italiana «na zdarovje» rende a orecchio la pronuncia; la traslitterazione scientifica è «na zdorov'e».",
   shortDefinition:
-    "Brindisi russo che significa «alla salute»; in Russia usato anche come risposta cortese a un ringraziamento.",
+    "Locuzione russa per rispondere a un grazie, specie per il cibo: «prego, buon pro ti faccia». Non è il brindisi russo.",
   register: ["colloquiale", "comune"],
   domains: ["russo", "cultura", "galateo"],
   etymology:
-    "Dal russo на здоро́вье (na zdoróvye): preposizione на (na, a, per) + здоро́вье (zdoróvye, salute, derivato di здоро́вый, sano).",
+    "Dal russo на здоро́вье (na zdoróvye): preposizione на (na, per) + здоро́вье (zdoróvye, salute, derivato di здоро́вый, sano).",
   examples: [],
   synonyms: [],
   antonyms: [],
   relatedWords: ["skål", "salute", "alla salute", "brindisi", "Zum Wohl", "Cheers", "russo"],
-  sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/na_zdorovye" },
+  sourceLinks: { wiktionary: "https://en.wiktionary.org/wiki/%D0%BD%D0%B0_%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D0%B5" },
   paroliereNote:
-    "La forma italiana na zdarovje è una traslitterazione approssimativa — fonetica, non scientifica — che nel parlato quotidiano è diventata la versione standard. Chi la usa raramente sa che in russo il brindisi alla salute ha un doppio uso: quello conviviale e quello come risposta galante a un grazie.",
+    "In italiano «na zdarovje» è diventata la formula da film per brindare «alla russa», ma in Russia non la si dice alzando il bicchiere: è la risposta gentile a chi ringrazia per la cena. La confusione nasce probabilmente dal polacco «na zdrowie», che invece è davvero un brindisi. Il brindisi russo, del resto, si costruisce quasi sempre con «za», «a»: alla salute, all'incontro, all'amicizia.",
   editorialStatus: "reviewed",
   indexable: true,
   seo: {
     title: "Na zdarovje — Il Paroliere",
-    description: "Definizione originale di 'na zdarovje': il brindisi russo alla salute e il suo doppio uso nella cultura russa.",
+    description: "Definizione originale di 'na zdarovje': la risposta russa a un ringraziamento, spesso scambiata per un brindisi.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };
