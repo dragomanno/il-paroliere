@@ -66,7 +66,7 @@ export const subitaneo: LemmaEntry = {
   paroliereNote:
     "Subitaneo è uno di quei sinonimi colti di improvviso che sopravvivono in poesia " +
     "e in prosa letteraria senza mai essere davvero entrati nel parlato. Ha una " +
-    "musicalità che improvviso non possiede — le quattro sillabe distese, la cadenza " +
+    "musicalità che improvviso non possiede — le cinque sillabe distese, la cadenza " +
     "sdrucciola — e questo lo rende prezioso in certi contesti ritmici. Nella lingua " +
     "quotidiana, però, suona ricercato: un segnale di registro che va usato " +
     "consapevolmente.",

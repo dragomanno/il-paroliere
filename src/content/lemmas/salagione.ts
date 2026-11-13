@@ -5,29 +5,31 @@ export const salagione: LemmaEntry = {
   partOfSpeech: "sostantivo",
   gender: "femminile",
   definition:
-    "Processo di maturazione e trasformazione che il sale induce nel salume nel corso della stagionatura: dopo la salatura iniziale, il cloruro di sodio penetra in profondità nei tessuti, estrae progressivamente l'acqua libera, inibisce la crescita batterica e innesca le reazioni enzimatiche che sviluppano il sapore e la consistenza finale del prodotto. La salagione non è quindi un singolo gesto ma un processo che dura settimane o mesi.",
+    "Conservazione degli alimenti con il sale: il pesce, la carne o altri prodotti vengono coperti o strofinati di sale, che sottrae acqua ai tessuti e rallenta lo sviluppo dei microrganismi. Il termine si usa soprattutto per il pesce, come le acciughe, le aringhe o il merluzzo che diventa baccalà, e nel linguaggio tecnico e storico della conservazione; per carni e salumi è più comune salatura, di cui salagione è in larga parte sinonimo.",
   shortDefinition:
-    "Processo di maturazione del salume indotto dal sale durante la stagionatura, distinto dalla salatura che è il gesto iniziale di applicazione.",
+    "Conservazione degli alimenti con il sale, soprattutto del pesce; in larga parte sinonimo di salatura, più comune per i salumi.",
   register: ["tecnico"],
   domains: ["gastronomia", "conservazione", "artigianato alimentare"],
   etymology:
-    "Derivato di salare (dal latino salare, conservare col sale) con il suffisso -ione che indica il processo prolungato; la distinzione tecnica con salatura si è consolidata nel lessico della norcineria artigianale italiana.",
+    "Derivato di salare, dal latino sal, salis, «sale».",
   examples: [
     "La salagione delle acciughe si fa a strati, pesce e sale grosso, dentro grandi barili.",
     "Durante la salagione il sale lavora in profondità e i tessuti perdono lentamente l'acqua.",
     "Dopo mesi di salagione il merluzzo diventa baccalà, e prima di cucinarlo va messo a bagno.",
   ],
-  synonyms: [],
+  synonyms: [
+    { term: "salatura", register: "comune", context: "più usato per carni e salumi" },
+  ],
   antonyms: [],
   relatedWords: ["salatura", "insaccato", "stagionatura", "prosciutto", "conservazione"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/salagione" },
   paroliereNote:
-    "La salagione è pazienza applicata alla chimica: il sale lavora nei tessuti per settimane, disidratando, proteggendo, trasformando. È il processo invisibile che fa di un pezzo di carne cruda un prosciutto di montagna. Chi fretta non ha non fa buoni prosciutti.",
+    "Salagione e salatura dicono quasi la stessa cosa; cambia l'ambiente in cui si sentono. Salagione ha il suono dei magazzini del porto, dei barili di acciughe e del baccalà; salatura è la parola della cucina e della norcineria. In tutti e due i casi il sale lavora lento: chi ha fretta non fa buone conserve.",
   editorialStatus: "reviewed",
   indexable: true,
   seo: {
     title: "Salagione — Il Paroliere",
-    description: "Definizione originale di 'salagione': il processo lento del sale nei tessuti del salume durante la stagionatura.",
+    description: "Definizione originale di 'salagione': la conservazione con il sale, soprattutto del pesce, e il rapporto con salatura.",
   },
   createdAt: "2026-05-25",
   updatedAt: "2026-11-13",

@@ -63,8 +63,8 @@ export const solingo: LemmaEntry = {
   },
 
   paroliereNote:
-    "Solingo è inseparabile da Leopardi, che lo usa nel Passero solitario — 'tu, " +
-    "solingo augelletto' — con una precisione emotiva che nessun sinonimo potrebbe " +
+    "Solingo è inseparabile da Leopardi, che lo usa nel Passero solitario — «Tu, " +
+    "solingo augellin, venuto a sera» — con una precisione emotiva che nessun sinonimo potrebbe " +
     "sostituire. L'aggettivo porta con sé tutta la solitudine volontaria del poeta di " +
     "Recanati, quella che non cerca consolazione ma contempla la propria condizione " +
     "con lucidità quasi crudele. Usarlo fuori dalla poesia suona anacronistico, ma è " +

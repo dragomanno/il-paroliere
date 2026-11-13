@@ -15,7 +15,8 @@ export const rodomontesco: LemmaEntry = {
     "Che ha il carattere di una vanteria clamorosa e vuota, di un coraggio esibito " +
     "senza sostanza: si dice di discorsi, atteggiamenti o dichiarazioni che gonfiano " +
     "senza misura il proprio valore o le proprie capacità. L'aggettivo nasce come " +
-    "riferimento diretto a Rodomonte, re d'Algeri nell'Orlando Furioso di Ariosto, " +
+    "riferimento diretto a Rodomonte, re di Sarza e d'Algeri, nato nell'Orlando " +
+    "innamorato di Boiardo e reso celebre dall'Orlando furioso di Ariosto: " +
     "personaggio di forza brutale e millanteria spettacolare.",
 
   shortDefinition:
@@ -26,16 +27,13 @@ export const rodomontesco: LemmaEntry = {
   domains: ["letteratura", "retorica"],
 
   etymology:
-    "Da Rodomonte, personaggio dell'Orlando Furioso di Ludovico Ariosto (1516–1532), " +
-    "re d'Algeri e guerriero di forza straordinaria ma carattere arrogante e " +
-    "millantatore. Il nome divenne sinonimo di braveria vuota già nel Cinquecento, " +
-    "diffondendosi in varie lingue europee (fr. rodomont, ingl. rodomontade).",
+    "Da Rodomonte, re di Sarza e d'Algeri, guerriero saraceno dell'Orlando innamorato di Matteo Maria Boiardo (1483–1495), reso celebre dall'Orlando furioso di Ludovico Ariosto (1516–1532): forza straordinaria, carattere arrogante e millantatore. Il nome divenne sinonimo di braveria vuota già nel Cinquecento, diffondendosi in varie lingue europee (fr. rodomont, ingl. rodomontade).",
 
   synonyms: [
     { term: "spaccone", register: "colloquiale", context: "tono più diretto e popolare, senza la patina letteraria" },
     { term: "fanfarone", register: "colloquiale", context: "chi fa rumore senza sostanza — registro vivace" },
     { term: "millantatore", register: "comune", context: "chi esagera le proprie qualità con intenzione deliberata" },
-    { term: "gradasso", register: "colloquiale/letterario", context: "altro personaggio ariostesco diventato nome comune: Gradasso, re di Sericana" }
+    { term: "gradasso", register: "colloquiale/letterario", context: "altro personaggio cavalleresco, da Boiardo ad Ariosto, diventato nome comune: Gradasso, re di Sericana" }
   ],
 
   antonyms: [
@@ -65,12 +63,7 @@ export const rodomontesco: LemmaEntry = {
   },
 
   paroliereNote:
-    "L'Orlando Furioso è una miniera inesauribile per la lingua italiana: da Ariosto " +
-    "vengono gradasso, rodomontesco e — meno usato ma altrettanto bello — " +
-    "bradamantesco. Il fatto che un personaggio di finzione del Cinquecento sia " +
-    "ancora vivo nella lingua contemporanea come aggettivo ironico dice molto sulla " +
-    "forza dell'iperbole ariostesca. Usare rodomontesco oggi è sempre un piccolo " +
-    "omaggio letterario, voluto o no.",
+    "I poemi cavallereschi del Rinascimento sono una miniera inesauribile per la lingua italiana: da Boiardo, e poi da Ariosto che ne ha fatto la fortuna, vengono gradasso e rodomontesco. Il fatto che un personaggio nato alla fine del Quattrocento sia ancora vivo nella lingua contemporanea come aggettivo ironico dice molto sulla forza dell'iperbole cavalleresca. Usare rodomontesco oggi è sempre un piccolo omaggio letterario, voluto o no.",
 
   editorialStatus: "reviewed",
   indexable: true,
