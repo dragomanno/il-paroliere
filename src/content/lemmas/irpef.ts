@@ -70,9 +70,9 @@ export const irpef: LemmaEntry = {
     "deduzione-fiscale",
     "detrazione-fiscale",
     "defiscalizzazione",
-    "IRAP",
+    "irap",
     "ires",
-    "scaglioni",
+    "scaglione",
     "aliquota",
     "imponibile",
     "CUD",
@@ -108,5 +108,5 @@ export const irpef: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

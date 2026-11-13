@@ -369,6 +369,17 @@ import { ires } from "./ires";
 import { deduzioneFiscale } from "./deduzione-fiscale";
 import { detrazioneIrpef } from "./detrazione-fiscale";
 import { defiscalizzazione } from "./defiscalizzazione";
+import { aliquota } from "./aliquota";
+import { imponibile } from "./imponibile";
+import { scaglione } from "./scaglione";
+import { progressivita } from "./progressivita";
+import { capacitaContributiva } from "./capacita-contributiva";
+import { redditoLordo } from "./reddito-lordo";
+import { redditoNetto } from "./reddito-netto";
+import { redditoImponibile } from "./reddito-imponibile";
+import { flatTax } from "./flat-tax";
+import { irap } from "./irap";
+import { regimeFiscale } from "./regime-fiscale";
 import { incentivo } from "./incentivo";
 import { investimento } from "./investimento";
 import { f24 } from "./f24";
@@ -1294,5 +1305,17 @@ export const allLemmas: LemmaEntry[] = [
   gemini,
   // BATCH-010 (2026-11) — Pensiero, conoscenza e limite
   dissonanzaCognitiva,
+  // BATCH-016 (2026-11) — Fiscalità e tributi, sottogruppo 1: struttura dell'imposta
+  aliquota,
+  imponibile,
+  scaglione,
+  progressivita,
+  capacitaContributiva,
+  redditoLordo,
+  redditoNetto,
+  redditoImponibile,
+  flatTax,
+  irap,
+  regimeFiscale,
 ];
 
