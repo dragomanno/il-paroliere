@@ -54,7 +54,11 @@ export const malleabile: LemmaEntry = {
     "temprato"
   ],
 
-  examples: [],
+  examples: [
+    "L'oro è così malleabile che un solo grammo si può stendere in una foglia sottilissima.",
+    "Il rame, malleabile e resistente, era il materiale preferito dai calderai.",
+    "Un carattere malleabile aiuta nei primi mesi di un nuovo lavoro, purché non diventi incapacità di dire no.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/malleabile"
@@ -80,5 +84,5 @@ export const malleabile: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

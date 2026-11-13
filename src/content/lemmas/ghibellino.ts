@@ -12,7 +12,11 @@ export const ghibellino: LemmaEntry = {
   domains: ["storia medievale", "politica", "Italia"],
   etymology:
     "Dall'italiano medievale Ghibellino, adattamento del castello Waiblingen, proprietà degli Hohenstaufen, opposti ai Welf (Guelfi).",
-  examples: [],
+  examples: [
+    "Dopo Montaperti i ghibellini tornarono a Firenze, ma la loro vittoria durò pochi anni.",
+    "Siena ghibellina e Firenze guelfa: per secoli la rivalità tra le due città ebbe anche questo nome.",
+    "Lo chiamavano ghibellino, scherzando, perché a ogni cena finiva per polemizzare con il parroco.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["guelfo", "imperiale", "Siena medievale", "fazione", "imperatore"],
@@ -26,5 +30,5 @@ export const ghibellino: LemmaEntry = {
     description: "Definizione originale di 'ghibellino': dal partito imperiale medievale all'identità senese.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

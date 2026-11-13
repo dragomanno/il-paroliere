@@ -12,7 +12,11 @@ export const hiking: LemmaEntry = {
   domains: ["sport", "outdoor", "turismo"],
   etymology:
     "Dall'inglese to hike, di origine incerta, forse dallo scozzese o dal dialetto inglese; in italiano si diffonde come prestito integrale negli anni 2010 con le app di navigazione escursionistica.",
-  examples: [],
+  examples: [
+    "Il sabato mattina fanno hiking sulle colline del Chianti, tre ore di cammino e poi il pranzo.",
+    "Per un'escursione di hiking non serve attrezzatura tecnica: bastano buone scarpe e acqua a sufficienza.",
+    "L'agenzia propone pacchetti di hiking per famiglie, con percorsi brevi e senza dislivelli impegnativi.",
+  ],
   synonyms: [{ term: "escursione", register: "comune", note: "termine italiano equivalente, più formale" }],
   antonyms: [],
   relatedWords: ["trekking", "escursionismo", "natura", "sentiero"],
@@ -26,5 +30,5 @@ export const hiking: LemmaEntry = {
     description: "Definizione originale di 'hiking': la camminata accessibile in natura, distinta dal trekking più impegnativo.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

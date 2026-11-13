@@ -54,7 +54,11 @@ export const mellifluo: LemmaEntry = {
     "vellutato"
   ],
 
-  examples: [],
+  examples: [
+    "Con tono mellifluo il venditore gli ha assicurato che quella era l'occasione della vita.",
+    "Il discorso del direttore era così mellifluo che tutti si aspettavano una brutta notizia alla fine.",
+    "Diffido delle lettere troppo melliflue: di solito nascondono una richiesta.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/mellifluo"
@@ -79,5 +83,5 @@ export const mellifluo: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

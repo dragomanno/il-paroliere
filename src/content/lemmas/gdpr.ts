@@ -12,7 +12,11 @@ export const gdpr: LemmaEntry = {
   domains: ["diritto", "privacy", "web"],
   etymology:
     "Sigla dell'inglese General Data Protection Regulation; in italiano spesso accompagnata dalla traduzione ufficiale RGPD (Regolamento generale sulla protezione dei dati).",
-  examples: [],
+  examples: [
+    "Con il GDPR anche il piccolo studio professionale ha dovuto nominare chi tratta i dati dei clienti.",
+    "Il garante ha sanzionato l'azienda per una violazione del GDPR legata alle email di marketing.",
+    "Dal 2018 il GDPR ha cambiato il modo in cui i siti chiedono e conservano i dati degli utenti.",
+  ],
   synonyms: [{ term: "RGPD", register: "tecnico", note: "sigla italiana ufficiale, meno usata nella pratica" }],
   antonyms: [],
   relatedWords: ["privacy policy", "cookie consent", "cookie policy", "cookie"],
@@ -26,5 +30,5 @@ export const gdpr: LemmaEntry = {
     description: "Definizione originale di 'GDPR': il regolamento europeo sulla protezione dei dati che ha cambiato il web.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

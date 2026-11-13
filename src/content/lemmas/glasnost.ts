@@ -13,7 +13,11 @@ export const glasnost: LemmaEntry = {
   domains: ["storia", "politica", "russo"],
   etymology:
     "Dal russo гла́сность (glásnost'), derivato di голос (golos, voce); in italiano e nelle altre lingue occidentali è entrato come prestito integrale durante la perestrojka.",
-  examples: [],
+  examples: [
+    "Con la glasnost i giornali sovietici cominciarono a parlare di temi che prima erano tabù.",
+    "Chernobyl fu un banco di prova durissimo per la glasnost appena annunciata.",
+    "Il nuovo direttore ha promesso una piccola glasnost aziendale: bilanci pubblici e riunioni aperte.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["perestrojka", "URSS", "Gorbačëv", "trasparenza"],
@@ -27,5 +31,5 @@ export const glasnost: LemmaEntry = {
     description: "Definizione originale di 'glasnost': la trasparenza come slogan politico di Gorbačëv nell'URSS degli anni Ottanta.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

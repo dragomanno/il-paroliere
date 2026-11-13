@@ -51,7 +51,11 @@ export const manifatturiero: LemmaEntry = {
     "export"
   ],
 
-  examples: [],
+  examples: [
+    "Il distretto manifatturiero di Prato è cresciuto intorno alla lavorazione della lana.",
+    "I dati sul settore manifatturiero mostrano un rallentamento degli ordini dall'estero.",
+    "Molte imprese manifatturiere faticano a trovare tecnici specializzati.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/manifatturiero"
@@ -76,5 +80,5 @@ export const manifatturiero: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

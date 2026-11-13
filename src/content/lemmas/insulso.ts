@@ -54,7 +54,11 @@ export const insulso: LemmaEntry = {
     "inconsistente"
   ],
 
-  examples: [],
+  examples: [
+    "La serata è stata insulsa: discorsi di circostanza e nessuno che avesse davvero voglia di parlare.",
+    "Il film ha un buon cast, ma una sceneggiatura insulsa che non porta da nessuna parte.",
+    "La zuppa era insulsa, serviva almeno un pizzico di sale e un filo d'olio.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/insulso"
@@ -79,5 +83,5 @@ export const insulso: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

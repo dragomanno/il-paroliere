@@ -53,7 +53,11 @@ export const manifattura: LemmaEntry = {
     "lavorazione"
   ],
 
-  examples: [],
+  examples: [
+    "La manifattura tabacchi di Firenze ospita oggi uffici, scuole e laboratori.",
+    "Nel Settecento le manifatture reali producevano porcellane e arazzi per le corti europee.",
+    "La manifattura italiana regge ancora l'export, soprattutto nella meccanica e nella moda.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/manifattura"
@@ -79,5 +83,5 @@ export const manifattura: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };
