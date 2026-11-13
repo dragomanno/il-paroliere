@@ -12,7 +12,11 @@ export const costanza: LemmaEntry = {
   domains: ["psicologia", "etica", "comportamento"],
   etymology:
     "Dal latino constantia, derivato di constare (stare insieme, essere saldo); in italiano conserva sia il senso morale di fermezza d'animo sia quello fisico originario di stabilità.",
-  examples: [],
+  examples: [
+    "Ha imparato il russo con una costanza invidiabile: mezz'ora al giorno, per quattro anni.",
+    "Nel giardinaggio la costanza conta più del talento: le piante si accorgono di chi c'è ogni giorno.",
+    "Non serviva un gesto eroico, serviva costanza, e quella è mancata proprio quando era più necessaria.",
+  ],
   synonyms: [
     { term: "perseveranza", register: "comune", note: "più orientata al superamento degli ostacoli" },
     { term: "tenacia", register: "comune", note: "sfumatura di forza fisica o caratteriale" },
@@ -32,5 +36,5 @@ export const costanza: LemmaEntry = {
     description: "Definizione originale di 'costanza': non abitudine, non ostinazione — la scelta rinnovata ogni giorno.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

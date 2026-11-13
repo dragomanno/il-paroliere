@@ -13,7 +13,11 @@ export const faringalizzazione: LemmaEntry = {
   domains: ["linguistica", "fonetica"],
   etymology:
     "Derivato di faringe (dal greco φάρυγξ, phárynx) con il suffisso nominalizzante -izzazione; terminologia consolidata nella fonetica descrittiva del Novecento.",
-  examples: [],
+  examples: [
+    "In arabo la faringalizzazione distingue parole che, per un orecchio italiano, suonano quasi uguali.",
+    "Il corso di fonetica dedicava un'intera lezione alla faringalizzazione delle consonanti enfatiche.",
+    "Nello spettrogramma la faringalizzazione si riconosce dall'abbassamento del secondo formante delle vocali vicine.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["fonetica", "fonema", "allofono", "nasal twang"],
@@ -27,5 +31,5 @@ export const faringalizzazione: LemmaEntry = {
     description: "Definizione originale di 'faringalizzazione': il fenomeno fonetico che modifica il timbro avvicinando la radice della lingua alla faringe.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

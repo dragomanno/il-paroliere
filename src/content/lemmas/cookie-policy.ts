@@ -13,7 +13,11 @@ export const cookiePolicy: LemmaEntry = {
   domains: ["diritto", "web", "privacy"],
   etymology:
     "Locuzione inglese composta da cookie (v.) e policy (politica, normativa); in uso diffuso in italiano dopo il Regolamento GDPR del 2016.",
-  examples: [],
+  examples: [
+    "La cookie policy del sito era ferma al 2019 e citava strumenti che nessuno usava più.",
+    "Prima di lanciare la campagna abbiamo aggiornato la cookie policy, indicando anche i fornitori terzi.",
+    "Pochi la leggono, ma una cookie policy chiara è il primo segnale di rispetto verso chi visita il sito.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["cookie", "cookie consent", "privacy policy", "GDPR"],
@@ -27,5 +31,5 @@ export const cookiePolicy: LemmaEntry = {
     description: "Definizione originale di 'cookie policy': il documento che spiega quali cookie usa un sito e perché.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

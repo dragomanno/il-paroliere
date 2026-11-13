@@ -12,7 +12,11 @@ export const fegatelli: LemmaEntry = {
   domains: ["gastronomia", "cucina toscana", "tradizione"],
   etymology:
     "Plurale di fegatello, diminutivo di fegato (dal latino ficatum, fegato di animale ingrassato con fichi, dall'usanza romana); il diminutivo indica i bocconi porzionati.",
-  examples: [],
+  examples: [
+    "A gennaio, in campagna, i fegatelli allo spiedo erano la festa di tutta la famiglia.",
+    "I fegatelli si avvolgono nella rete con una foglia d'alloro, che in cottura profuma tutta la cucina.",
+    "Una volta i fegatelli si conservavano sotto strutto, per averli anche in primavera.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["ribollita", "finocchiona", "cucina povera", "quinto quarto", "toscana"],
@@ -26,5 +30,5 @@ export const fegatelli: LemmaEntry = {
     description: "Definizione originale di 'fegatelli': il piatto invernale toscano con l'etimologia più curiosa del lessico gastronomico.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

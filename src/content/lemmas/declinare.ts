@@ -22,7 +22,11 @@ export const declinare: LemmaEntry = {
   etymology:
     "Dal latino declinare (piegare, allontanarsi), da de- (verso il basso, via da) + clinare (inclinare).",
 
-  examples: [],
+  examples: [
+    "Ha declinato l'invito con un biglietto gentile, senza inventare scuse.",
+    "Al liceo dovevamo declinare rosa, rosae fino a saperla a memoria.",
+    "Verso sera la febbre ha cominciato a declinare, e tutti in casa hanno tirato un sospiro di sollievo.",
+  ],
 
   synonyms: [
       {
@@ -73,5 +77,5 @@ export const declinare: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

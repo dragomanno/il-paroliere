@@ -12,7 +12,11 @@ export const espoliazione: LemmaEntry = {
   domains: ["diritto", "storia dell'arte", "architettura"],
   etymology:
     "Dal latino tardo expoliatio, -onis, derivato di expoliare (spogliare, depredare); in italiano conserva il senso tecnico architettonico-storico.",
-  examples: [],
+  examples: [
+    "Molte colonne della chiesa romanica provengono dall'espoliazione di un vicino tempio romano.",
+    "L'espoliazione del Colosseo ha fornito travertino a mezza Roma per secoli.",
+    "Gli archeologi riconoscono l'espoliazione dai segni lasciati quando i blocchi venivano rimossi.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["abside", "modanatura", "architettura medievale", "reimpiego"],
@@ -26,5 +30,5 @@ export const espoliazione: LemmaEntry = {
     description: "Definizione originale di 'espoliazione': il riuso medievale dei materiali romani, tra distruzione e trasmissione.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

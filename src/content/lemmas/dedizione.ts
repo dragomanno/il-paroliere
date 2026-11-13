@@ -54,7 +54,11 @@ export const dedizione: LemmaEntry = {
     "cura"
   ],
 
-  examples: [],
+  examples: [
+    "Ha seguito il restauro dell'organo con una dedizione che andava ben oltre il contratto.",
+    "La dedizione al proprio mestiere si riconosce nei dettagli che nessun cliente noterebbe.",
+    "Non tutti capivano la sua dedizione al coro del paese, ma per lei era il momento più bello della settimana.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/dedizione"
@@ -78,5 +82,5 @@ export const dedizione: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

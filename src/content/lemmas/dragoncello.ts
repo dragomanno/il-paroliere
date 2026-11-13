@@ -12,7 +12,11 @@ export const dragoncello: LemmaEntry = {
   domains: ["gastronomia", "botanica", "erbe aromatiche"],
   etymology:
     "Dal latino medievale tarconum, a sua volta dall'arabo ṭarḫūn, che riprende il greco δράκων (drago) per la forma delle radici; dragoncello è l'adattamento italiano che conserva il riferimento al drago.",
-  examples: [],
+  examples: [
+    "La salsa al dragoncello è un classico della cucina senese, perfetta con il bollito.",
+    "Basta poco dragoncello fresco per dare all'insalata un profumo che ricorda l'anice.",
+    "Mia nonna teneva una pianta di dragoncello sul davanzale, e lo chiamava semplicemente «l'erba».",
+  ],
   synonyms: [{ term: "tarragon", register: "tecnico", note: "nome inglese e francese (estragon), diffuso in cucina internazionale" }],
   antonyms: [],
   relatedWords: ["finocchiona", "ribollita", "pici", "erbe aromatiche", "senese"],
@@ -26,5 +30,5 @@ export const dragoncello: LemmaEntry = {
     description: "Definizione originale di 'dragoncello': l'erba aromatica senese con l'etimologia che attraversa mezzo mondo.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

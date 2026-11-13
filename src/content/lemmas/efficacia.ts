@@ -53,7 +53,11 @@ export const efficacia: LemmaEntry = {
     "potenza"
   ],
 
-  examples: [],
+  examples: [
+    "Lo studio ha confermato l'efficacia del vaccino nel ridurre i ricoveri.",
+    "L'efficacia di una campagna si misura sui risultati, non sul numero di post pubblicati.",
+    "Il discorso era breve, ma di un'efficacia sorprendente: alla fine nessuno aveva più obiezioni.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/efficacia"
@@ -77,5 +81,5 @@ export const efficacia: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

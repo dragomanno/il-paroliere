@@ -54,7 +54,11 @@ export const empatia: LemmaEntry = {
     "specchio"
   ],
 
-  examples: [],
+  examples: [
+    "Il medico ha ascoltato la paziente con un'empatia che i farmaci, da soli, non danno.",
+    "L'empatia non significa dare sempre ragione: significa capire da dove parte l'altro.",
+    "Nei colloqui di lavoro la parola empatia compare ovunque, ma raramente qualcuno spiega come la si misura.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/empatia"
@@ -79,5 +83,5 @@ export const empatia: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };
