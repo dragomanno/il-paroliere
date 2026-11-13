@@ -23,7 +23,7 @@ export const tributo: LemmaEntry = {
   ],
   etymology: "Dal latino tributum, da tribuere «assegnare, ripartire», verbo legato a tribus «tribù»: in origine indicava la quota ripartita tra le tribù di Roma.",
   examples: [
-    "Il codice del tributo va scritto con cura nell'F24, altrimenti il versamento finisce nel posto sbagliato.",
+    "Il codice tributo va scritto con cura nell'F24, altrimenti il versamento finisce nel posto sbagliato.",
     "Per la Costituzione nessun tributo può essere chiesto se non in base a una legge.",
     "Il concerto si è chiuso con un lungo tributo di applausi al direttore.",
   ],
@@ -68,7 +68,7 @@ export const tributo: LemmaEntry = {
     title: "Tributo — significato, differenza con imposta e tassa | Il Paroliere",
     description: "Che cos'è un tributo: il prelievo obbligatorio stabilito per legge che comprende imposte, tasse e contributi. Differenze, etimologia ed esempi.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

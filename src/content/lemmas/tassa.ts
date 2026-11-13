@@ -10,7 +10,7 @@ export const tassa: LemmaEntry = {
   slug: "tassa",
   partOfSpeech: "sostantivo femminile",
   gender: "femminile",
-  definition: "Tributo dovuto allo Stato o a un altro ente in cambio di un servizio chiesto dal singolo, come quelle per l'iscrizione all'università o la tassa per il porto d'armi. A differenza dell'imposta ha quindi una controprestazione precisa, anche se l'importo non deve coprire per intero il costo del servizio. Nel parlato si usa per qualsiasi prelievo fiscale, come in «pagare le tasse».",
+  definition: "Tributo dovuto allo Stato o a un altro ente in cambio di un servizio chiesto dal singolo, come le tasse universitarie o quella per il porto d'armi. A differenza dell'imposta ha quindi una controprestazione precisa, anche se l'importo non deve coprire per intero il costo del servizio. Nel parlato si usa per qualsiasi prelievo fiscale, come in «pagare le tasse».",
   shortDefinition: "Tributo pagato in cambio di un servizio pubblico chiesto dal singolo; nel parlato, qualsiasi prelievo fiscale.",
   register: [
     "tecnico-fiscale",
@@ -66,7 +66,7 @@ export const tassa: LemmaEntry = {
     title: "Tassa — significato, differenza con imposta | Il Paroliere",
     description: "Che cos'è una tassa: il tributo pagato in cambio di un servizio pubblico chiesto dal singolo. Differenza con imposta e tributo, etimologia, esempi.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

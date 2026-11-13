@@ -44,12 +44,12 @@ export const ici: LemmaEntry = {
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/ici/",
   },
-  paroliereNote: "Per quindici anni l'ICI è stata il simbolo della tassa sulla casa. Nel 2008 un decreto l'ha tolta dall'abitazione principale, lasciandola solo sulle categorie signorili, ville e castelli. Quattro anni dopo l'→ IMU l'ha sostituita e ha riportato il prelievo anche sulla prima casa, finché un nuovo intervento non l'ha esclusa di nuovo.",
+  paroliereNote: "Per quindici anni l'ICI è stata il simbolo della tassa sulla casa. Nel 2008 un decreto l'ha tolta dall'abitazione principale, lasciandola solo sulle categorie signorili, ville e castelli. Quattro anni dopo l'→ IMU l'ha sostituita e ha riportato il prelievo anche sulla prima casa, finché, dal 2014, la prima casa non è tornata esente.",
   seo: {
     title: "ICI — significato, storia dell'imposta sulla casa | Il Paroliere",
     description: "Che cos'era l'ICI: l'imposta comunale sugli immobili in vigore dal 1993 al 2011, abolita sulla prima casa nel 2008 e sostituita dall'IMU nel 2012.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",
