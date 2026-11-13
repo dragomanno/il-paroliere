@@ -37,7 +37,7 @@ export default function PrivacyPage() {
           className="text-sm text-[#b8b3a7]" 
           style={{ fontFamily: "Poppins, sans-serif" }}
         >
-          Ultima modifica: 19 maggio 2026
+          Ultima modifica: <time dateTime="2026-05-19">19/05/2026</time>
         </p>
       </header>
 
