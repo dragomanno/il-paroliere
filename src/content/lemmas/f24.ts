@@ -55,7 +55,7 @@ export const f24: LemmaEntry = {
     {
       term: "bollettino fiscale",
       register: "comune",
-      context: "impreciso ma diffuso nel parlato",
+      context: "impreciso, ma diffuso nel parlato",
     },
   ],
 
@@ -99,5 +99,5 @@ export const f24: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

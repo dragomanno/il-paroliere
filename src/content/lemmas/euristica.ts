@@ -14,7 +14,7 @@ export const euristica: LemmaEntry = {
   domains: ["psicologia-cognitiva", "informatica", "epistemologia", "economia-comportamentale"],
 
   definition:
-    "Procedura di ricerca o di soluzione di problemi che non garantisce un risultato esatto o dimostrabile, ma consente di arrivare rapidamente a una risposta accettabile risparmiando tempo e risorse cognitive: si contrappone al procedimento *algoritmico*, esaustivo e rigoroso ma spesso troppo costoso da applicare in condizioni reali. In psicologia cognitiva, a partire dagli studi di Amos Tversky e Daniel Kahneman, le euristiche indicano le scorciatoie mentali automatiche con cui il cervello semplifica giudizi complessi — come l'euristica della disponibilità, che ci fa stimare più probabile ciò che ricordiamo con più facilità — e che possono generare i → bias cognitivi quando applicate fuori dal contesto per cui sono utili. In informatica, un'euristica è un metodo di ricerca o ottimizzazione che trova soluzioni buone, anche se non necessariamente ottimali, in tempi computazionalmente accettabili.",
+    "Procedura di ricerca o di soluzione di problemi che non garantisce un risultato esatto o dimostrabile, ma consente di arrivare rapidamente a una risposta accettabile risparmiando tempo e risorse cognitive: si contrappone al procedimento *algoritmico*, esaustivo e rigoroso, ma spesso troppo costoso da applicare in condizioni reali. In psicologia cognitiva, a partire dagli studi di Amos Tversky e Daniel Kahneman, le euristiche indicano le scorciatoie mentali automatiche con cui il cervello semplifica giudizi complessi — come l'euristica della disponibilità, che ci fa stimare più probabile ciò che ricordiamo con più facilità — e che possono generare i → bias cognitivi quando applicate fuori dal contesto per cui sono utili. In informatica, un'euristica è un metodo di ricerca o ottimizzazione che trova soluzioni buone, anche se non necessariamente ottimali, in tempi computazionalmente accettabili.",
 
   shortDefinition:
     "Procedura di ricerca rapida e non esaustiva, che offre una soluzione accettabile senza garanzia di esattezza; scorciatoia mentale o computazionale.",
@@ -30,7 +30,7 @@ export const euristica: LemmaEntry = {
   ],
 
   synonyms: [
-    { term: "scorciatoia mentale", register: "divulgativo", note: "Resa colloquiale del concetto psicologico, meno precisa ma più immediata." },
+    { term: "scorciatoia mentale", register: "divulgativo", note: "Resa colloquiale del concetto psicologico, meno precisa, ma più immediata." },
     { term: "regola pratica", register: "comune", note: "Traduzione informale dell'inglese rule of thumb, spesso usata come quasi sinonimo in ambito divulgativo." },
     { term: "metodo approssimativo", register: "tecnico", note: "Sottolinea l'assenza di garanzia di esattezza, tipica dell'approccio euristico in informatica." },
   ],
@@ -55,9 +55,9 @@ export const euristica: LemmaEntry = {
   seo: {
     title: "euristica — significato, dal greco eureka alla psicologia cognitiva",
     description:
-      "Che cos'è un'euristica tra psicologia cognitiva e informatica, il legame etimologico con eureka e Archimede, e la differenza con l'algoritmo.",
+      "Che cos'è un'euristica tra psicologia cognitiva e informatica, il legame etimologico con eureka e Archimede e la differenza con l'algoritmo.",
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

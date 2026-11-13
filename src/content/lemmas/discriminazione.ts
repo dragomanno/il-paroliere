@@ -26,7 +26,7 @@ export const discriminazione: LemmaEntry = {
     "Rifiutare un colloquio di lavoro solo perché il candidato porta un nome straniero è un caso di discriminazione, indipendentemente dalle competenze effettive della persona.",
     "La legge 654/1975 recepisce in Italia la Convenzione ONU del 1965 contro ogni forma di discriminazione razziale.",
     "Non ogni pregiudizio si traduce in discriminazione: una persona può nutrire convinzioni stereotipate senza mai tradurle in un comportamento concreto verso qualcuno.",
-    "Il glossario delle Nazioni Unite distingue la discriminazione diretta, esplicita e dichiarata, da quella indiretta, che nasce da norme apparentemente neutre ma che di fatto svantaggiano un gruppo specifico.",
+    "Il glossario delle Nazioni Unite distingue la discriminazione diretta, esplicita e dichiarata, da quella indiretta, che nasce da norme apparentemente neutre, ma che di fatto svantaggiano un gruppo specifico.",
   ],
 
   synonyms: [
@@ -59,5 +59,5 @@ export const discriminazione: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

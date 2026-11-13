@@ -25,7 +25,7 @@ export const genz: LemmaEntry = {
     "motori di ricerca ai feed social: quasi il 40% usa TikTok o Instagram come motore " +
     "di ricerca alternativo. Gli acquisti avvengono prevalentemente su mobile, spesso " +
     "direttamente dall'app social in cui il prodotto è stato scoperto (social commerce). " +
-    "Valorizza l'autenticità, la sostenibilità e la trasparenza dei brand, ed è molto " +
+    "Valorizza l'autenticità, la sostenibilità e la trasparenza dei brand ed è molto " +
     "sensibile alle cause sociali.",
 
   shortDefinition:
@@ -62,16 +62,16 @@ export const genz: LemmaEntry = {
   paroliereNote:
     "La Gen Z ha cambiato le regole del marketing digitale più rapidamente di quanto le " +
     "aziende abbiano potuto adattarsi. Non si fida della pubblicità tradizionale, non si " +
-    "fida dei brand che «fingono valori», e non si fida nemmeno degli influencer troppo " +
+    "fida dei brand che «fingono valori» e non si fida nemmeno degli influencer troppo " +
     "patinati: preferisce creator autentici, contenuti grezzi, recensioni vere. In Italia " +
     "il termine «zoomer» è usato soprattutto dai Millennials per riferirsi alla generazione " +
     "più giovane, spesso con affetto ironico — quasi a specchiare il rapporto che i Boomers " +
     "hanno con loro attraverso «ok, boomer». Il cluster McCrindle 1995–2009 diverge da " +
-    "quello Pew (1997–2012) di 2–3 anni: la divergenza è la più ampia del sistema, e " +
+    "quello Pew (1997–2012) di 2–3 anni: la divergenza è la più ampia del sistema e " +
     "riflette un nodo reale: l'identità della Gen Z è particolarmente sfumata ai bordi, " +
     "tanto che Pew nel 2023 ha ufficialmente smesso di usare le etichette generazionali " +
     "come categoria predefinita. Zygmunt Bauman avrebbe riconosciuto in questo il segno " +
-    "più chiaro della modernità liquida applicata all'identità: i bordi si annacquano, " +
+    "più chiaro della modernità liquida applicata all'identità: i bordi si annacquano " +
     "e pretendere una data esatta di inizio e fine di una generazione è, in fondo, " +
     "un'illusione tassonomica — utile operativamente, falsa ontologicamente. Dal punto " +
     "di vista di chi lavora nel marketing digitale, il segnale più interessante della " +
@@ -90,5 +90,5 @@ export const genz: LemmaEntry = {
   },
 
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

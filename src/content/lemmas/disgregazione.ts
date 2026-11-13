@@ -18,7 +18,7 @@ export const disgregazione: LemmaEntry = {
     "implica una fine totale e spesso rapida, e del dissolvimento, che evoca una " +
     "dispersione graduale quasi impercettibile, la disgregazione enfatizza la rottura " +
     "progressiva dei legami che tenevano unito il tutto, lasciando i frammenti ancora " +
-    "visibili ma irrelati.",
+    "visibili, ma irrelati.",
 
   shortDefinition:
     "Rottura dei legami interni di un insieme coeso — fisico, politico o sociale — " +
@@ -81,5 +81,5 @@ export const disgregazione: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-05-30",
+  updatedAt: "2026-11-13",
 };

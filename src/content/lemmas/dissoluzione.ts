@@ -15,7 +15,7 @@ export const dissoluzione: LemmaEntry = {
     "Processo di disfacimento o scioglimento di un'entità organizzata — che sia una " +
     "sostanza chimica in un solvente, una struttura politica o un legame sociale. La " +
     "dissoluzione ha sempre una dimensione di perdita di coesione: ciò che era tenuto " +
-    "insieme cessa di esserlo, e le parti si separano o si disperdono. Nel linguaggio " +
+    "insieme cessa di esserlo e le parti si separano o si disperdono. Nel linguaggio " +
     "formale e giuridico si usa per la fine di enti, istituzioni, matrimoni, " +
     "parlamenti.",
 
@@ -79,5 +79,5 @@ export const dissoluzione: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-05-30",
+  updatedAt: "2026-11-13",
 };

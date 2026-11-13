@@ -35,7 +35,7 @@ export const galoppino: LemmaEntry = {
   ],
 
   synonyms: [
-    { term: "portaborse", register: "colloquiale/politico", context: "figura affine ma con accezione più cortigiana e adulatoria" },
+    { term: "portaborse", register: "colloquiale/politico", context: "figura affine, ma con accezione più cortigiana e adulatoria" },
     { term: "fattorino", register: "comune", context: "nella accezione generica di chi svolge commissioni, senza connotazione politica" },
     { term: "procacciatore di voti", register: "politico", context: "la perifrasi descrittiva per l'accezione elettorale" }
   ],
@@ -68,5 +68,5 @@ export const galoppino: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-05-30",
+  updatedAt: "2026-11-13",
 };

@@ -16,7 +16,7 @@ export const etereo: LemmaEntry = {
     "Etereo descrive una bellezza, una qualità o una presenza che sembra appartenere a " +
     "un piano diverso da quello della materia ordinaria — non pesante, non opprimente, " +
     "non legato alla gravità fisica o alla costrizione del corpo. Una bellezza eterea è " +
-    "quella che colpisce non per intensità carnale ma per levità quasi spirituale: il " +
+    "quella che colpisce non per intensità carnale, ma per levità quasi spirituale: il " +
     "tipo di volto, di corporatura, di presenza che sembra sul punto di dissolversi " +
     "nell'aria come se la materialità fosse per esso accidentale. In estetica, una " +
     "bellezza eterea è quella che non pesa: fisica sottile o longilinea, tratti delicati " +
@@ -119,7 +119,7 @@ export const etereo: LemmaEntry = {
 
   paroliereNote:
     "Etereo è una di quelle parole che il linguaggio estetico ha sottratto alla " +
-    "filosofia senza chiedere permesso, e ha fatto bene. L'etere aristotelico — la quinta " +
+    "filosofia senza chiedere permesso e ha fatto bene. L'etere aristotelico — la quinta " +
     "essenza, la sostanza pura del cielo — ha dato all'aggettivo una profondità filosofica " +
     "che sopravvive anche in chi non conosce Aristotele. Quando si dice «bellezza eterea», " +
     "si sta usando senza saperlo una categoria cosmologica antica: si sta dicendo che " +
@@ -137,5 +137,5 @@ export const etereo: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

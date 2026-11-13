@@ -43,7 +43,7 @@ export const fulgore: LemmaEntry = {
     {
       term: "bagliore",
       register: "comune",
-      context: "luce intensa ma fugace, opposto del fulgore per durata",
+      context: "luce intensa, ma fugace, opposto del fulgore per durata",
     },
     {
       term: "luminosità",
@@ -99,5 +99,5 @@ export const fulgore: LemmaEntry = {
   },
 
   createdAt: "2026-06-12",
-  updatedAt: "2026-06-12",
+  updatedAt: "2026-11-13",
 };

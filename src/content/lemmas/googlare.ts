@@ -66,9 +66,9 @@ export const googlare: LemmaEntry = {
 
   seo: {
     title: "googlare — cercare su Google tra neologismo, abitudine e trasformazione cognitiva",
-    description: "Che cos’è googlare: origine del verbo, uso nell’italiano contemporaneo, e come la ricerca istantanea ha cambiato il modo in cui memorizziamo.",
+    description: "Che cos’è googlare: origine del verbo, uso nell’italiano contemporaneo e come la ricerca istantanea ha cambiato il modo in cui memorizziamo.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

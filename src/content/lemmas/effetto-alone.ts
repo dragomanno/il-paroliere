@@ -46,7 +46,7 @@ export const effettoAlone: LemmaEntry = {
       "valutazioni di competenza più alte a parità di curriculum, in colloqui " +
       "di lavoro condotti alla cieca su carta.",
     "Il marchio aveva costruito la propria reputazione su un solo prodotto di " +
-      "punta, e l'effetto alone faceva sì che anche le linee più deboli " +
+      "punta e l'effetto alone faceva sì che anche le linee più deboli " +
       "vendessero bene solo per associazione.",
     "Gli insegnanti, mostrò lo studio, tendevano a giudicare più intelligenti gli " +
       "studenti con una scrittura ordinata — un classico effetto alone che nulla " +
@@ -61,7 +61,7 @@ export const effettoAlone: LemmaEntry = {
     {
       term: "effetto pigmalione",
       register: "tecnico-psicologico",
-      context: "concetto affine ma distinto: riguarda come le aspettative su una persona ne influenzano il comportamento effettivo, non solo il giudizio su di essa",
+      context: "concetto affine, ma distinto: riguarda come le aspettative su una persona ne influenzano il comportamento effettivo, non solo il giudizio su di essa",
     },
     {
       term: "generalizzazione impropria",
@@ -114,5 +114,5 @@ export const effettoAlone: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

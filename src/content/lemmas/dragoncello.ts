@@ -15,7 +15,7 @@ export const dragoncello: LemmaEntry = {
   examples: [
     "La salsa al dragoncello è un classico della cucina senese, perfetta con il bollito.",
     "Basta poco dragoncello fresco per dare all'insalata un profumo che ricorda l'anice.",
-    "Mia nonna teneva una pianta di dragoncello sul davanzale, e lo chiamava semplicemente «l'erba».",
+    "Mia nonna teneva una pianta di dragoncello sul davanzale e lo chiamava semplicemente «l'erba».",
   ],
   synonyms: [{ term: "tarragon", register: "tecnico", note: "nome inglese e francese (estragon), diffuso in cucina internazionale" }],
   antonyms: [],

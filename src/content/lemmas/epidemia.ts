@@ -51,7 +51,7 @@ export const epidemia: LemmaEntry = {
     "linguaggio comune. Epidemia si riferisce a un eccesso di casi rispetto al livello " +
     "endemico atteso; pandemia implica diffusione geografica a scala globale; endemia " +
     "indica una presenza stabile e prevedibile in un territorio. L'uso figurato è " +
-    "diffuso ma rischia di banalizzare fenomeni sanitari gravi.",
+    "diffuso, ma rischia di banalizzare fenomeni sanitari gravi.",
   editorialStatus: "reviewed",
   indexable: true,
   seo: {
@@ -61,5 +61,5 @@ export const epidemia: LemmaEntry = {
       "Distinzione da pandemia ed endemia. Etimologia ed esempi.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

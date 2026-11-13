@@ -20,7 +20,7 @@ export const expertise: LemmaEntry = {
     "Nel framework E-E-A-T di Google, Expertise è il terzo elemento nella gerarchia operativa approvata — " +
     "Experience > Authoritativeness > Expertise > Trustworthiness — e risponde alla domanda: " +
     "«l'autore conosce l'argomento in modo approfondito e verificabile?». " +
-    "La distinzione con Experience è fondamentale: si può avere esperienza diretta senza expertise formale, " +
+    "La distinzione con Experience è fondamentale: si può avere esperienza diretta senza expertise formale " +
     "e si può possedere expertise teorica senza esperienza vissuta; " +
     "il contenuto di massima qualità li combina entrambi.",
   shortDefinition:
@@ -75,5 +75,5 @@ export const expertise: LemmaEntry = {
       "Terzo elemento del framework E-E-A-T di Google.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

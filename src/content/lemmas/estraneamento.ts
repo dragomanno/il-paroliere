@@ -75,7 +75,7 @@ export const estraneamento: LemmaEntry = {
   sourceLinks: {},
 
   paroliereNote:
-    "Estraneamento racconta un'esperienza ravvicinata: il sentirsi poco a poco fuori dalla scena ordinaria delle proprie → relazioni e dei propri luoghi. Per questo può assomigliare a → solitudine anche in una stanza piena: non è la semplice assenza degli altri, ma il non riuscire a raggiungerli o a lasciarsi raggiungere. È affine ma non sovrapponibile a → alienazione, che conserva una portata filosofico-sociologica e, in particolare, una storia legata al lavoro e alle strutture sociali; qui il fuoco resta sul quotidiano riconoscersi o non riconoscersi.",
+    "Estraneamento racconta un'esperienza ravvicinata: il sentirsi poco a poco fuori dalla scena ordinaria delle proprie → relazioni e dei propri luoghi. Per questo può assomigliare a → solitudine anche in una stanza piena: non è la semplice assenza degli altri, ma il non riuscire a raggiungerli o a lasciarsi raggiungere. È affine, ma non sovrapponibile a → alienazione, che conserva una portata filosofico-sociologica e, in particolare, una storia legata al lavoro e alle strutture sociali; qui il fuoco resta sul quotidiano riconoscersi o non riconoscersi.",
 
   editorialStatus: "draft",
   indexable: true,
@@ -87,5 +87,5 @@ export const estraneamento: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-08-24",
+  updatedAt: "2026-11-13",
 };

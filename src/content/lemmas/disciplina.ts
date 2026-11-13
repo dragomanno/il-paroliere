@@ -22,7 +22,7 @@ export const disciplina: LemmaEntry = {
   relatedWords: ["costanza", "autocontrollo", "abitudine", "allenamento"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/disciplina" },
   paroliereNote:
-    "Disciplina viene da discere — imparare. Non è la prigione dell'impulso, ma la sua educazione. L'etimologia suggerisce che la vera disciplina non nasce dalla costrizione ma dall'apprendimento: si impara a fare la cosa difficile finché non diventa naturale.",
+    "Disciplina viene da discere — imparare. Non è la prigione dell'impulso, ma la sua educazione. L'etimologia suggerisce che la vera disciplina non nasce dalla costrizione, ma dall'apprendimento: si impara a fare la cosa difficile finché non diventa naturale.",
   editorialStatus: "reviewed",
   indexable: true,
   seo: {

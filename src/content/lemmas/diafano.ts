@@ -48,7 +48,7 @@ export const diafano: LemmaEntry = {
   paroliereNote:
     "Diafano è una di quelle parole che cambiano ciò che descrivono: dire che qualcosa è " +
     "diafano aggiunge una qualità luminosa che “traslucido” — il sinonimo tecnico — non ha. " +
-    "C’è una radice greca che parla di qualcosa che si mostra attraverso, e questo " +
+    "C’è una radice greca che parla di qualcosa che si mostra attraverso e questo " +
     "“attraverso” è tutto: non è il vetro che si vede, è la luce che lo attraversa.",
 
   sourceLinks: {},
@@ -62,5 +62,5 @@ export const diafano: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

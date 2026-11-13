@@ -62,7 +62,7 @@ export const garbo: LemmaEntry = {
       term: "garbatezza",
       register: "meno comune",
       note:
-        "Forma derivata, più esplicita ma meno usata di 'garbo'. Tende verso il " +
+        "Forma derivata, più esplicita, ma meno usata di 'garbo'. Tende verso il " +
         "registro formale o leggermente burocratico.",
     },
   ],
@@ -119,5 +119,5 @@ export const garbo: LemmaEntry = {
   },
 
   createdAt: "2026-05-18",
-  updatedAt: "2026-05-18",
+  updatedAt: "2026-11-13",
 };

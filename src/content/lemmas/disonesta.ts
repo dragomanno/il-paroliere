@@ -12,7 +12,7 @@ export const disonesta: LemmaEntry = {
   gender: "femminile",
   definition:
     "Mancanza di onestà in senso pieno: nelle azioni, nelle parole, nel modo di stare con gli altri. " +
-    "È il termine più ampio del cluster — non descrive un tipo di persona ma una qualità morale " +
+    "È il termine più ampio del cluster — non descrive un tipo di persona, ma una qualità morale " +
     "che può essere circostanziale o strutturale, piccola o grave. " +
     "A differenza della slealtà, non richiede una relazione preesistente: " +
     "si può essere disonesti anche verso chi non ci conosce.",
@@ -26,8 +26,8 @@ export const disonesta: LemmaEntry = {
     "Il concetto di honestus nella tradizione latina era insieme etico ed estetico: " +
     "la disonestà non era solo una colpa morale, ma anche una bruttezza.",
   examples: [
-    "Non era crudeltà la sua — era disonestà: quella qualità sottile che non ferisce subito ma consuma nel tempo.",
-    "La disonestà piccola è più comune della grande, e per questo più pericolosa.",
+    "Non era crudeltà la sua — era disonestà: quella qualità sottile che non ferisce subito, ma consuma nel tempo.",
+    "La disonestà piccola è più comune della grande e per questo più pericolosa.",
     "Ci sono forme di disonestà che non violano nessuna legge — eppure tutti le riconoscono.",
   ],
   synonyms: [
@@ -47,7 +47,7 @@ export const disonesta: LemmaEntry = {
     "La disonestà è il contenitore più grande del cluster. " +
     "Gli altri termini — slealtà, tradimento, perfidia — sono suoi figli specializzati: " +
     "ciascuno descrive una modalità particolare di essere disonesti. " +
-    "Lei resta generale, e per questo a volte meno precisa, ma mai meno grave.",
+    "Lei resta generale e per questo a volte meno precisa, ma mai meno grave.",
   editorialStatus: "reviewed",
   indexable: true,
   seo: {
@@ -56,5 +56,5 @@ export const disonesta: LemmaEntry = {
       "Definizione originale di 'disonestà': mancanza di onestà nelle azioni e nelle parole, verso chiunque. Il termine più ampio del cluster morale.",
   },
   createdAt: "2026-06-12",
-  updatedAt: "2026-06-12",
+  updatedAt: "2026-11-13",
 };

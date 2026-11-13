@@ -99,7 +99,7 @@ export const gaslighting: LemmaEntry = {
   paroliereNote:
     "L'assenza di un termine italiano nativo altrettanto preciso è essa stessa " +
     "informativa: 'far impazzire qualcuno' o 'far dubitare di sé' colgono " +
-    "l'effetto ma non il metodo sistematico e intenzionale che il termine " +
+    "l'effetto, ma non il metodo sistematico e intenzionale che il termine " +
     "inglese cattura con precisione clinica. È utile anche notare un uso " +
     "improprio molto diffuso: nel linguaggio comune 'gaslighting' viene talvolta " +
     "applicato a qualunque disaccordo o minimizzazione, svuotando il termine del " +
@@ -119,5 +119,5 @@ export const gaslighting: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

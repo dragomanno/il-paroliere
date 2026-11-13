@@ -84,10 +84,9 @@ export const epidermico: LemmaEntry = {
   seo: {
     title: "Epidermico — Il Paroliere",
     description:
-      "Definizione originale di 'epidermico': relativo alla pelle, e in senso " +
-      "figurato una reazione istintiva e immediata. Con esempi, etimologia e distinzione da viscerale.",
+      "Definizione originale di 'epidermico': relativo alla pelle e, in senso figurato, una reazione istintiva e immediata. Con esempi, etimologia e distinzione da viscerale.",
   },
 
   createdAt: "2026-08-21",
-  updatedAt: "2026-08-21",
+  updatedAt: "2026-11-13",
 };

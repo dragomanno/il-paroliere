@@ -18,7 +18,7 @@ export const demagogia: LemmaEntry = {
     "assecondando gli umori, i pregiudizi o i desideri immediati della maggioranza, " +
     "invece di proporre analisi e soluzioni realistiche — spesso scomode — ai problemi " +
     "reali. Il demagogo non necessariamente mente in senso stretto: semplifica, " +
-    "polarizza, promette senza indicare i costi, e individua nemici comodi su cui " +
+    "polarizza, promette senza indicare i costi e individua nemici comodi su cui " +
     "scaricare responsabilità complesse. Il termine, nato in senso neutro nella Grecia " +
     "classica per indicare chi guidava il demos, ha assunto un valore quasi " +
     "esclusivamente negativo già in Tucidide e Aristotele, che la contrapponevano alla " +
@@ -43,7 +43,7 @@ export const demagogia: LemmaEntry = {
       "riconosce quasi sempre da un tratto: identifica un colpevole facile invece di un " +
       "problema complesso.",
     "Gli storici distinguono la demagogia di Cleone, che sfruttava le paure di Atene in " +
-      "guerra, dallo statismo di Pericle, che pure cercava il consenso ma senza rinunciare " +
+      "guerra, dallo statismo di Pericle, che pure cercava il consenso, ma senza rinunciare " +
       "a proposte impopolari quando necessario.",
     "La → propaganda lavora sulla ripetizione e sul controllo dei canali di informazione; " +
       "la demagogia lavora piuttosto sulla scelta dei temi e sulla loro semplificazione " +
@@ -72,7 +72,7 @@ export const demagogia: LemmaEntry = {
     {
       term: "responsabilità politica",
       register: "formale",
-      context: "assumersi il costo di decisioni impopolari ma necessarie",
+      context: "assumersi il costo di decisioni impopolari, ma necessarie",
     },
   ],
 
@@ -113,5 +113,5 @@ export const demagogia: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

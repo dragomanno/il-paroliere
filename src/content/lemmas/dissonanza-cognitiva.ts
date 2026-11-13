@@ -33,8 +33,8 @@ export const dissonanzaCognitiva: LemmaEntry = {
     "pienamente integrato, non un prestito: non c’è un anglicismo da sostituire.",
 
   examples: [
-    "Ha speso una cifra per quel corso deludente, e adesso ne parla benissimo: è il modo più comodo di gestire la dissonanza cognitiva.",
-    "Chi si dice ambientalista e prende l’aereo ogni settimana vive una piccola dissonanza cognitiva, e di solito la risolve con una buona giustificazione.",
+    "Ha speso una cifra per quel corso deludente e adesso ne parla benissimo: è il modo più comodo di gestire la dissonanza cognitiva.",
+    "Chi si dice ambientalista e prende l’aereo ogni settimana vive una piccola dissonanza cognitiva e di solito la risolve con una buona giustificazione.",
     "Davanti ai dati che smentivano il suo piano, il comitato non ha cambiato rotta: ha cambiato i criteri con cui leggeva i dati.",
     "La dissonanza cognitiva non è ipocrisia: l’ipocrita sa di fingere, chi è in dissonanza spesso non se ne accorge.",
   ],
@@ -57,7 +57,7 @@ export const dissonanzaCognitiva: LemmaEntry = {
   },
 
   paroliereNote:
-    "È diventata una delle formule più usate per accusare gli altri, ed è un piccolo " +
+    "È diventata una delle formule più usate per accusare gli altri ed è un piccolo " +
     "paradosso: il concetto nasce per descrivere un meccanismo che riguarda tutti, chi " +
     "accusa compreso. Festinger lo mise a fuoco osservando un gruppo che attendeva una " +
     "catastrofe annunciata (raccontato in When Prophecy Fails, 1956): mancata la " +
@@ -77,5 +77,5 @@ export const dissonanzaCognitiva: LemmaEntry = {
   },
 
   createdAt: "2026-11-12",
-  updatedAt: "2026-11-12",
+  updatedAt: "2026-11-13",
 };

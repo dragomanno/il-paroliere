@@ -13,7 +13,7 @@ export const epistemologia: LemmaEntry = {
   definition:
     "La branca della filosofia che studia la conoscenza stessa: come è possibile, quali sono " +
     "i suoi fondamenti, i suoi limiti e i suoi criteri di validità. Non si chiede cosa sappiamo, " +
-    "ma come sappiamo, perché ci fidiamo di certi metodi di conoscenza e non di altri, e cosa " +
+    "ma come sappiamo, perché ci fidiamo di certi metodi di conoscenza e non di altri e cosa " +
     "significa davvero «sapere qualcosa». Il Novecento è stato il secolo in cui l'epistemologia " +
     "ha raggiunto la sua massima maturità e, al tempo stesso, la sua crisi più profonda. " +
     "Martin Heidegger (1889–1976) sposta l'asse dall'epistemologia alla ontologia: la conoscenza " +
@@ -31,7 +31,7 @@ export const epistemologia: LemmaEntry = {
 
   shortDefinition:
     "La branca della filosofia che studia i fondamenti, i limiti e i criteri della conoscenza; " +
-    "la domanda non è cosa sappiamo ma come e perché sappiamo.",
+    "la domanda non è cosa sappiamo, ma come e perché sappiamo.",
 
   register: ["tecnico (filosofia)", "comune nel parlato accademico e colto"],
   domains: ["filosofia", "scienze umane", "storia del pensiero", "teoria della conoscenza"],
@@ -113,5 +113,5 @@ export const epistemologia: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-13",
 };

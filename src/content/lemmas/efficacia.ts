@@ -64,10 +64,10 @@ export const efficacia: LemmaEntry = {
   },
 
   paroliereNote:
-    "In farmacologia si usa efficacy per indicare i risultati in trial controllato, " +
+    "In farmacologia si usa efficacy per indicare i risultati in trial controllato " +
     "ed effectiveness per i risultati nel mondo reale: la distinzione non esiste in " +
-    "italiano con la stessa nettezza, e questo crea spesso ambiguità nella " +
-    "divulgazione scientifica. Efficacia copre entrambi i significati, e questo può " +
+    "italiano con la stessa nettezza e questo crea spesso ambiguità nella " +
+    "divulgazione scientifica. Efficacia copre entrambi i significati e questo può " +
     "essere tanto una ricchezza quanto una fonte di confusione.",
 
   editorialStatus: "reviewed",

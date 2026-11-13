@@ -16,7 +16,7 @@ export const doppiezza: LemmaEntry = {
   definition:
     "Qualità di chi si comporta in modo diverso a seconda del contesto o " +
     "dell’interlocutore, dicendo una cosa e facendone un’altra, o mostrando una " +
-    "faccia in pubblico e un’altra in privato — non per adattamento sociale normale " +
+    "faccia in pubblico e un’altra in privato — non per adattamento sociale normale, " +
     "ma per calcolo strategico o per mancanza di una coerenza interiore autentica. " +
     "La doppiezza non è sempre consapevole come la malafede: può essere un tratto " +
     "caratteriale consolidato che chi lo ha fatica a riconoscere in sé stesso.",
@@ -65,9 +65,9 @@ export const doppiezza: LemmaEntry = {
 
   seo: {
     title: "doppiezza — avere due facce tra vizio personale e norma sistemica",
-    description: "Che cos’è la doppiezza: definizione etica, differenza da ipocrisia e falsità, e perché in certi sistemi politici diventa quasi una competenza.",
+    description: "Che cos’è la doppiezza: definizione etica, differenza da ipocrisia e falsità e perché in certi sistemi politici diventa quasi una competenza.",
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

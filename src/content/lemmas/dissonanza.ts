@@ -51,7 +51,7 @@ export const dissonanza: LemmaEntry = {
     "La dissonanza è il motore segreto di tanta grande arte: non è il problema da risolvere, " +
     "è la tensione che rende possibile la risoluzione. Un’opera senza dissonanza non ha " +
     "tragitto — arriva dove stava già. La dissonanza pone una domanda; la consonanza è " +
-    "la risposta. Togliere la dissonanza significa togliere la domanda, e quindi annullare " +
+    "la risposta. Togliere la dissonanza significa togliere la domanda e quindi annullare " +
     "il senso del percorso.",
 
   sourceLinks: {
@@ -67,5 +67,5 @@ export const dissonanza: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-12",
+  updatedAt: "2026-11-13",
 };

@@ -15,7 +15,7 @@ export const eleganza: LemmaEntry = {
 
   definition:
     "Qualità di chi o ciò che è raffinato, ben proporzionato e privo di eccessi — non " +
-    "per ostentazione ma per misura. L’eleganza non è il lusso: è la qualità di ciò che " +
+    "per ostentazione, ma per misura. L’eleganza non è il lusso: è la qualità di ciò che " +
     "fa esattamente quello che deve fare, nel modo più efficiente e armonioso possibile. " +
     "In matematica, una dimostrazione elegante è quella che risolve un problema complesso " +
     "con il minimo di passaggi necessari. In moda, è la cura della forma senza la sua " +
@@ -37,7 +37,7 @@ export const eleganza: LemmaEntry = {
   ],
 
   synonyms: [
-    { term: "raffinatezza", register: "comune", note: "Simile ma enfatizza la cura e la sottigliezza; eleganza include l’idea di misura e proporzione." },
+    { term: "raffinatezza", register: "comune", note: "Simile, ma enfatizza la cura e la sottigliezza; eleganza include l’idea di misura e proporzione." },
     { term: "distinzione", register: "formale", note: "La qualità di essere riconoscibilmente diverso in modo superiore; eleganza è più formale." },
   ],
 
@@ -49,7 +49,7 @@ export const eleganza: LemmaEntry = {
   relatedWords: ["grazia", "proporzione", "composizione", "leggerezza"],
 
   paroliereNote:
-    "L’eleganza è la parola che la moda ha sequestrato ma che appartiene alla matematica, " +
+    "L’eleganza è la parola che la moda ha sequestrato, ma che appartiene alla matematica, " +
     "alla fisica, alla biologia tanto quanto all’abbigliamento. Una soluzione elegante è " +
     "quella che non potrebbe essere più semplice — il che richiede più lavoro di qualunque " +
     "soluzione complicata. Come la grazia, l’eleganza si ottiene togliendo, non aggiungendo.",
@@ -65,5 +65,5 @@ export const eleganza: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-13",
 };

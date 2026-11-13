@@ -22,9 +22,9 @@ export const generazioneAlpha: LemmaEntry = {
     "primissimi anni di vita. Non ha mai conosciuto un mondo senza touchscreen, " +
     "connettività permanente e contenuti personalizzati per algoritmo. Sul piano " +
     "digitale, è la generazione più esposta agli schermi in assoluto: i genitori " +
-    "millennial li hanno introdotti ai device molto presto, e la pandemia del 2020 " +
+    "millennial li hanno introdotti ai device molto presto e la pandemia del 2020 " +
     "ha accelerato questa immersione. Si prevede che sarà la generazione con maggiore " +
-    "capacità di spesa della storia, e le sue abitudini di consumo — ancora in formazione " +
+    "capacità di spesa della storia e le sue abitudini di consumo — ancora in formazione " +
     "— ruotano già intorno a piattaforme come YouTube, Roblox e, per i più grandi, TikTok.",
 
   shortDefinition:
@@ -65,7 +65,7 @@ export const generazioneAlpha: LemmaEntry = {
     "Alpha/Beta: un bambino nato nel 2023 e uno nato nel 2026 condivideranno molto " +
     "più di quanto li divida. I confini generazionali sono mappe utili, non territori " +
     "reali. La Gen Alpha eredita il disamoramento verso i social che si inizia a " +
-    "vedere nei GenZ più adulti, e potrebbe portarlo a compimento — oppure esserne " +
+    "vedere nei GenZ più adulti e potrebbe portarlo a compimento — oppure esserne " +
     "travolta da una nuova ondata di piattaforme immersive. Nel 2026, entrambe le " +
     "strade restano aperte.",
 
@@ -80,5 +80,5 @@ export const generazioneAlpha: LemmaEntry = {
   },
 
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-13",
 };

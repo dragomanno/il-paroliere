@@ -85,9 +85,9 @@ export const gravita: LemmaEntry = {
     title: "Gravità — Il Paroliere",
     description:
       "Definizione originale di 'gravità': la forza che attrae i corpi verso la " +
-      "Terra, e in senso figurato il peso morale di una situazione. Con esempi e link a levità.",
+      "Terra e, in senso figurato, il peso morale di una situazione. Con esempi e link a levità.",
   },
 
   createdAt: "2026-08-21",
-  updatedAt: "2026-08-21",
+  updatedAt: "2026-11-13",
 };
