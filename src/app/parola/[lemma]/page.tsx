@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getLemmaFromDB, getAllSlugsFromDB } from "@/lib/db";
 import type { LemmaEntry } from "@/lib/types";
+import { formatDate, isoDay } from "@/lib/format-date";
 
 type Props = {
   params: Promise<{ lemma: string }>;
@@ -456,8 +457,16 @@ export default async function LemmaPage({ params }: Props) {
         className="pt-4 flex flex-wrap gap-4 text-sm text-[#b8b3a7]"
         style={{ fontFamily: "Poppins, sans-serif" }}
       >
-        {createdAt && <span>Voce creata: {createdAt}</span>}
-        {updatedAt && <span>Ultimo aggiornamento: {updatedAt}</span>}
+        {formatDate(createdAt) && (
+          <span>
+            Voce creata: <time dateTime={isoDay(createdAt)}>{formatDate(createdAt)}</time>
+          </span>
+        )}
+        {formatDate(updatedAt) && (
+          <span>
+            Ultimo aggiornamento: <time dateTime={isoDay(updatedAt)}>{formatDate(updatedAt)}</time>
+          </span>
+        )}
         <span className="ml-auto">
           <Link href="/" className="hover:text-[#b8dc16] transition-colors">
             ← Tutte le voci
