@@ -52,7 +52,7 @@ export const tari: LemmaEntry = {
     title: "TARI — significato, chi la paga, come si calcola | Il Paroliere",
     description: "Che cos'è la TARI: la tassa sui rifiuti che finanzia raccolta e smaltimento, pagata da chi possiede o occupa un immobile. Calcolo e storia delle sigle.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

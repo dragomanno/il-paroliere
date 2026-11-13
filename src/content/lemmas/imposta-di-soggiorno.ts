@@ -55,7 +55,7 @@ export const impostaDiSoggiorno: LemmaEntry = {
     title: "Imposta di soggiorno — significato, tassa di soggiorno | Il Paroliere",
     description: "Che cos'è l'imposta di soggiorno: l'imposta comunale che si paga per ogni notte in una struttura ricettiva, chiamata di solito tassa di soggiorno.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",
