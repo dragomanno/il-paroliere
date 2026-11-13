@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: flebile
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -46,7 +46,7 @@ export const flebile: LemmaEntry = {
   paroliereNote:
     "La grafia standard è «flebile», senza accento scritto. «Flèbile» può servire solo come indicazione di pronuncia, mentre «fievole» è un lemma autonomo e vicino, non una correzione grafica della stessa parola.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: volontà
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -44,7 +44,7 @@ export const volonta: LemmaEntry = {
 
   paroliereNote: "La volontà è meno spettacolare dello slancio: si riconosce soprattutto nella continuità. Può accompagnare una → aspirazione e perfino una scelta di → accettazione, senza ridursi a ostinazione.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

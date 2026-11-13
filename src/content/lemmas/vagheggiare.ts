@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: vagheggiare
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -45,7 +45,7 @@ export const vagheggiare: LemmaEntry = {
 
   paroliereNote: "Vagheggiare è il verbo di un desiderio che preferisce restare figura: non per forza debole, ma sottratto alla verifica dei fatti. Accanto a → speranza conserva più immaginazione che fiducia nell'esito; accanto a → aspirazione mostra invece la sua quieta passività.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

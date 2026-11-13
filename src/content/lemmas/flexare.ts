@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: flexare
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -74,7 +74,7 @@ export const flexare: LemmaEntry = {
   paroliereNote:
     "Flexare è l'azione; → sborone è il tipo umano che la rende un'abitudine. Non ogni foto di un acquisto è un flex: servono l'intenzione di farsi notare e una messa in scena che trasformi il possesso in prova di status. Il verbo può essere usato con ironia — anche su di sé — ma resta legato alla cultura visiva di social, trap e conversazioni di gruppo, dove mostrare vale anche come dichiararsi superiori.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

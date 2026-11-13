@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: connessione
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -49,7 +49,7 @@ export const connessione: LemmaEntry = {
   paroliereNote:
     "Una connessione non garantisce da sola profondità: si può essere sempre raggiungibili e restare poco in relazione. Nel linguaggio di rete indica una condizione tecnica, misurabile; tra persone nomina invece una corrispondenza sottile, che può essere amicale quanto amorosa. Non confondere la disponibilità di un canale con la presenza dell’altro.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: anacronismo
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -27,8 +27,7 @@ export const anacronismo: LemmaEntry = {
     "con una punta di rispetto per ciò che resiste al cambiamento.",
 
   shortDefinition:
-    "Errore cronologico per cui un elemento del presente viene collocato nel " +
-    "passato; in senso figurato, ciò che è rimasto fuori dal proprio tempo.",
+    "Errore cronologico che colloca un elemento in un'epoca che non è la sua; in senso figurato, ciò che è rimasto fuori dal proprio tempo.",
 
   etymology:
     "Dal greco *anachronismós* (ἀναχρονισμός), composto dal prefisso *anà-* " +
@@ -43,9 +42,7 @@ export const anacronismo: LemmaEntry = {
   examples: [
     "Il critico segnalò un anacronismo nel romanzo storico: un personaggio " +
       "dell'Ottocento citava un'espressione entrata nell'uso solo un secolo dopo.",
-    "Alcuni chiamano anacronismo la monarchia in una repubblica moderna, altri " +
-      "ne difendono la sopravvivenza proprio in nome della continuità storica " +
-      "che rappresenta — lo stesso fatto, letto con giudizi opposti.",
+    "Alcuni chiamano anacronismo la monarchia nell'Europa di oggi, altri ne difendono la sopravvivenza proprio in nome della continuità storica che rappresenta — lo stesso fatto, letto con giudizi opposti.",
     "\"Sei un anacronismo vivente\", gli disse ridendo, guardando la sua " +
       "collezione di dischi in vinile e il rifiuto ostinato di usare lo streaming.",
     "A differenza del → vestigio, che è un resto materiale onestamente " +
@@ -107,7 +104,7 @@ export const anacronismo: LemmaEntry = {
     "usato, vale la pena renderla esplicita ogni volta che il lemma compare " +
     "in un contesto valutativo piuttosto che puramente descrittivo.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

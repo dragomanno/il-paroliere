@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: bramare
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -44,7 +44,7 @@ export const bramare: LemmaEntry = {
 
   paroliereNote: "Bramare non è soltanto desiderare molto: fa sentire la pressione del desiderio sul corpo e sul linguaggio. Per questo può risultare preciso in una scena di appetito, ambizione o gelosia, ma eccessivo per la semplice → aspirazione a un lavoro.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

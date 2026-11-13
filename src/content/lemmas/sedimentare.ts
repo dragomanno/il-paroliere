@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: sedimentare
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -13,23 +13,10 @@ export const sedimentare: LemmaEntry = {
   domains: ["geologia", "chimica", "società", "linguistica", "cultura"],
 
   definition:
-    "Depositarsi lentamente sul fondo, per effetto della gravità, di " +
-    "particelle solide sospese in un liquido — il senso tecnico originario, " +
-    "proprio della geologia (la sabbia che sedimenta sul letto di un fiume) e " +
-    "della chimica (un precipitato che sedimenta in una soluzione). Per " +
-    "estensione figurata, ampiamente più frequente nell'uso corrente non " +
-    "tecnico, sedimentare significa consolidarsi lentamente nel tempo fino a " +
-    "diventare parte stabile e riconoscibile di qualcosa — un'abitudine, una " +
-    "lingua, una cultura, un'istituzione. In questo senso figurato il verbo " +
-    "descrive un processo necessariamente lento e cumulativo, mai istantaneo: " +
-    "ciò che sedimenta non lo fa in un solo passaggio, ma per accumulo " +
-    "progressivo di strati successivi, ciascuno dei quali resta parzialmente " +
-    "visibile in filigrana sotto quelli più recenti.",
+    "Detto di particelle solide sospese in un liquido, depositarsi lentamente sul fondo per effetto della gravità: il senso tecnico originario, proprio della geologia (la sabbia che sedimenta sul letto di un fiume) e della chimica (un precipitato che sedimenta in una soluzione). Per estensione figurata, ampiamente più frequente nell'uso corrente non tecnico, sedimentare significa consolidarsi lentamente nel tempo fino a diventare parte stabile e riconoscibile di qualcosa — un'abitudine, una lingua, una cultura, un'istituzione. In questo senso figurato il verbo descrive un processo necessariamente lento e cumulativo, mai istantaneo: ciò che sedimenta non lo fa in un solo passaggio, ma per accumulo progressivo di strati successivi, ciascuno dei quali resta parzialmente visibile in filigrana sotto quelli più recenti.",
 
   shortDefinition:
-    "Depositarsi lentamente per accumulo, in senso fisico (particelle in un " +
-    "liquido) o figurato (un'abitudine, una lingua, una cultura che si " +
-    "consolida nel tempo).",
+    "Depositarsi lentamente per accumulo, detto di particelle in un liquido o, in senso figurato, di abitudini, lingue e culture.",
 
   etymology:
     "Verbo denominale formato su sedimento, dal latino *sedimentum*, derivato " +
@@ -97,23 +84,9 @@ export const sedimentare: LemmaEntry = {
   },
 
   paroliereNote:
-    "Il passaggio dal senso fisico a quello figurato di sedimentare è un " +
-    "esempio particolarmente pulito di come la lingua italiana ricicli il " +
-    "vocabolario delle scienze naturali per descrivere fenomeni sociali e " +
-    "culturali: si dice che una lingua, un'abitudine o una norma sociale " +
-    "sedimentano esattamente come si direbbe di un fiume, perché il modello " +
-    "cognitivo di fondo — accumulo lento, strati sovrapposti, risultato " +
-    "irreversibile senza intervento esterno — è lo stesso in entrambi i casi. " +
-    "Vale la pena, in un'eventuale voce gemella su → sedimentazione, tenere " +
-    "distinto il processo (sedimentare, verbo, l'atto del depositarsi nel " +
-    "tempo) dal suo risultato osservabile in un dato momento (sedimentazione, " +
-    "sostantivo, lo stato di ciò che si è già depositato) — una distinzione " +
-    "sottile, ma utile per chi scrive di cultura o di istituzioni, dove " +
-    "confondere il processo con l'esito porta spesso a descrivere come " +
-    "'naturali' abitudini che sono in realtà il risultato di un accumulo " +
-    "storico ben preciso e tutt'altro che inevitabile.",
+    "Il passaggio dal senso fisico a quello figurato di sedimentare è un esempio particolarmente pulito di come la lingua italiana ricicli il vocabolario delle scienze naturali per descrivere fenomeni sociali e culturali: si dice che una lingua, un'abitudine o una norma sociale sedimentano esattamente come si direbbe di un fiume, perché il modello cognitivo di fondo — accumulo lento, strati sovrapposti, risultato stabile finché qualcosa non lo rimuove — è lo stesso in entrambi i casi. Vale la pena, in un'eventuale voce gemella su → sedimentazione, tenere distinto il processo (sedimentare, verbo, l'atto del depositarsi nel tempo) dal suo risultato osservabile in un dato momento (sedimentazione, sostantivo, lo stato di ciò che si è già depositato) — una distinzione sottile, ma utile per chi scrive di cultura o di istituzioni, dove confondere il processo con l'esito porta spesso a descrivere come 'naturali' abitudini che sono in realtà il risultato di un accumulo storico ben preciso e tutt'altro che inevitabile.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

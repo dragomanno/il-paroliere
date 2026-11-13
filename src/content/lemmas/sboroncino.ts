@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: sboroncino
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -45,7 +45,7 @@ export const sboroncino: LemmaEntry = {
   paroliereNote:
     "Il diminutivo non assolve automaticamente chi si vanta: può addolcire, ma anche rendere più pungente la presa in giro. In «sboroncino» conta soprattutto la scena sociale — chi lo dice, a chi e se il sorriso è condiviso.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

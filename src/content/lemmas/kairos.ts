@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: kairos
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -119,7 +119,7 @@ export const kairos: LemmaEntry = {
     "passa nel tempo di kronos ha lo stesso peso — alcuni istanti pesano " +
     "quanto anni, altri passano senza lasciare → vestigio alcuno.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: legame
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -48,7 +48,7 @@ export const legame: LemmaEntry = {
   paroliereNote:
     "Il legame non è una catena: la sua qualità si misura anche dalla libertà che lascia respirare. Nel continuum relazionale, → relazione nomina il rapporto, legame la sua densità affettiva, → dipendenza il punto in cui la vicinanza diventa necessità eccessiva; accettazione e → rassegnazione non sono, perciò, modi equivalenti di restare.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

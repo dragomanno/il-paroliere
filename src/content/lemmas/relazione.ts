@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: relazione
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -49,7 +49,7 @@ export const relazione: LemmaEntry = {
   paroliereNote:
     "«Relazione» è una parola strutturale: dice che qualcosa sta in rapporto con qualcos’altro, senza decidere ancora se quel rapporto sia buono, intimo o duraturo. Nella vita affettiva il passaggio da relazione a → legame richiede riconoscimento e cura; il desiderio, l’→ attesa e la → frustrazione ne possono rivelare i punti delicati.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

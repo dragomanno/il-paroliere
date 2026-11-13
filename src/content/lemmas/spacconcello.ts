@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: spacconcello
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -45,7 +45,7 @@ export const spacconcello: LemmaEntry = {
   paroliereNote:
     "I diminutivi non sono sempre piccoli: spesso regolano la temperatura sociale di un giudizio. «Spacconcello» permette di segnalare un eccesso senza attribuirgli automaticamente la durezza o la minaccia di → spaccone.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

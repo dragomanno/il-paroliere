@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: agognare
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -44,7 +44,7 @@ export const agognare: LemmaEntry = {
 
   paroliereNote: "Agognare lascia affiorare la ferita della lontananza: la meta non è solo desiderata, è sentita come sottratta. Ha bisogno di un contesto che regga quella gravità — un'assenza, una prova, una lunga → attesa — e nel parlato quotidiano può suonare deliberatamente letterario.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

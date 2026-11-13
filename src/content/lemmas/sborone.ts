@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: sborone
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -48,7 +48,7 @@ export const sborone: LemmaEntry = {
   paroliereNote:
     "«Sborone» appartiene a un lessico che giudica anche il modo in cui si occupa lo spazio comune. Il diminutivo → sboroncino ne abbassa spesso il volume e può introdurre complicità, ma non elimina l’idea di un io messo troppo vistosamente al centro.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {

@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: speranza
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -17,7 +17,7 @@ export const speranza: LemmaEntry = {
 
   shortDefinition: "Fiducia rivolta a un possibile esito positivo nel futuro.",
 
-  etymology: "Dal latino spes, «attesa fiduciosa»; il termine conserva il legame con il futuro, ma nell’uso corrente mette al centro la fiducia nell’esito.",
+  etymology: "Dal latino volgare *sperantia, derivato di sperare, a sua volta da spes, «attesa fiduciosa»; il termine conserva il legame con il futuro, ma nell’uso corrente mette al centro la fiducia nell’esito.",
 
   examples: [
     "La speranza di rivedere il quartiere vivo teneva insieme il comitato.",
@@ -44,7 +44,7 @@ export const speranza: LemmaEntry = {
 
   paroliereNote: "La speranza non è ottimismo automatico: può restare lucida sulle difficoltà. Rispetto alla → attesa, aggiunge una direzione affettiva; rispetto alla → rassegnazione, mantiene aperta la possibilità di un altro esito.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {
