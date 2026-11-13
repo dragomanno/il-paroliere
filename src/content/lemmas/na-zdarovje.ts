@@ -11,7 +11,7 @@ export const naZdarovje: LemmaEntry = {
   register: ["colloquiale", "comune"],
   domains: ["russo", "cultura", "galateo"],
   etymology:
-    "Dal russo на здоро́вье (na zdoróvye): preposizione на (na, per) + здоро́вье (zdoróvye, salute, derivato di здоро́вый, sano).",
+    "Dal russo на здоро́вье (na zdoróvye): preposizione на (na, a, per) + здоро́вье (zdoróvye, salute, derivato di здоро́вый, sano).",
   examples: [],
   synonyms: [],
   antonyms: [],
