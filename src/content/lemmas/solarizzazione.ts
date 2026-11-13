@@ -12,16 +12,16 @@ export const solarizzazione: LemmaEntry = {
   gender: "femminile",
 
   definition:
-    "L'effetto Sabattier nasce in camera oscura quando una pellicola o una stampa parzialmente sviluppata viene riesposta alla luce: i toni si invertono parzialmente e ai bordi dei soggetti compaiono aloni sottili, detti linea di Mackie. Nel lessico astronomico indica invece la saturazione del sensore per sovraesposizione solare. Man Ray e Moholy-Nagy ne fecero uno strumento di sperimentazione visiva tra gli anni Venti e Trenta del Novecento.",
+    "In fotografia, inversione parziale dei toni di un'immagine. In senso stretto si produce con una sovraesposizione estrema, ma il nome si usa soprattutto per l'effetto Sabattier, ottenuto riesponendo alla luce una pellicola o una stampa durante lo sviluppo: i toni si invertono in parte e attorno ai contorni compaiono sottili aloni chiari, detti linee di Mackie. Man Ray e Moholy-Nagy ne fecero uno strumento di sperimentazione visiva tra gli anni Venti e Trenta del Novecento. In agronomia, tecnica che riscalda il terreno umido coprendolo con un telo di plastica trasparente nei mesi più caldi, per ridurre funghi, nematodi e semi di erbe infestanti senza prodotti chimici.",
 
   shortDefinition:
-    "In fotografia, effetto di inversione parziale dei toni prodotto riesponendo alla luce una pellicola in sviluppo — noto come effetto Sabattier.",
+    "In fotografia, inversione parziale dei toni di una pellicola riesposta alla luce; in agronomia, riscaldamento del terreno sotto teli.",
 
   register: ["tecnico", "comune"],
-  domains: ["fotografia", "astronomia"],
+  domains: ["fotografia", "agronomia"],
 
   etymology:
-    "Derivato di solare, con suffisso -izzazione; descrive l'effetto della luce (originariamente solare) su materiale fotosensibile.",
+    "Derivato di solare, con suffisso -izzazione; in fotografia richiama l'effetto della luce, in origine solare, sul materiale fotosensibile, in agronomia l'uso diretto del calore del sole.",
 
   examples: [],
 
@@ -29,7 +29,7 @@ export const solarizzazione: LemmaEntry = {
       {
         term: "effetto Sabattier",
         register: "tecnico",
-        context: "nome tecnico preciso del fenomeno fotografico",
+        context: "nome tecnico del procedimento fotografico più spesso chiamato solarizzazione",
       },
     ],
 
@@ -41,7 +41,7 @@ export const solarizzazione: LemmaEntry = {
   },
 
   paroliereNote:
-    "Man Ray scoprì la solarizzazione per errore nel 1929, quando la sua assistente Lee Miller accese la luce in camera oscura su una pellicola in sviluppo. Quello che ne risultò — i contorni argentati, i toni parzialmente invertiti — divenne uno dei segni distintivi dell'estetica surrealista. È uno dei pochi casi in cui un errore tecnico è diventato un'opera d'arte prima ancora di avere un nome.",
+    "La tecnica era nota dall'Ottocento, ma la sua fortuna artistica nasce da un incidente: intorno al 1929, nello studio di Man Ray, Lee Miller accese la luce mentre una pellicola era in sviluppo. Quello che ne risultò — i contorni argentati, i toni parzialmente invertiti — divenne uno dei segni distintivi dell'estetica surrealista. Nei campi, invece, la stessa parola indica una tecnica umile e concreta: il sole, sotto un telo di plastica, fa da disinfettante.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -49,9 +49,9 @@ export const solarizzazione: LemmaEntry = {
   seo: {
     title: "Solarizzazione — Il Paroliere",
     description:
-      "Definizione originale di 'solarizzazione': l'effetto Sabattier in fotografia, l'inversione parziale dei toni da Man Ray a Moholy-Nagy. Con etimologia e nota editoriale.",
+      "Definizione originale di 'solarizzazione': l'inversione dei toni in fotografia, da Man Ray a Moholy-Nagy, e il riscaldamento del terreno in agronomia.",
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };
