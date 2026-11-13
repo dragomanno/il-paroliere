@@ -12,7 +12,11 @@ export const sanatoria: LemmaEntry = {
   domains: ["diritto", "amministrazione", "fiscalità", "urbanistica"],
   etymology:
     "Dal latino sanatorius (che porta rimedio, che risana), derivato di sanare; il termine giuridico si afferma nell'italiano del Novecento per analogia con il significato medico originario.",
-  examples: [],
+  examples: [
+    "Grazie alla sanatoria, la veranda chiusa senza permesso è stata finalmente regolarizzata.",
+    "Ogni nuova sanatoria fiscale riapre il dibattito su chi paga le tasse regolarmente.",
+    "Il geometra ci ha spiegato che per quell'abuso edilizio la sanatoria non è possibile.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["condono", "abuso edilizio", "definizione agevolata"],
@@ -26,5 +30,5 @@ export const sanatoria: LemmaEntry = {
     description: "Definizione originale di 'sanatoria': il provvedimento che regolarizza ciò che era irregolare.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

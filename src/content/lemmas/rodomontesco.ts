@@ -54,7 +54,11 @@ export const rodomontesco: LemmaEntry = {
     "rodomontata"
   ],
 
-  examples: [],
+  examples: [
+    "Il suo discorso rodomontesco sulla vittoria certa è durato fino al primo gol degli avversari.",
+    "Non sopporto quel tono rodomontesco: promette imprese che non ha mai avuto intenzione di fare.",
+    "La sfida lanciata in conferenza stampa aveva qualcosa di rodomontesco, più spettacolo che sostanza.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/rodomontesco"
@@ -79,5 +83,5 @@ export const rodomontesco: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

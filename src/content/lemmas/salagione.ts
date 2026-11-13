@@ -12,7 +12,11 @@ export const salagione: LemmaEntry = {
   domains: ["gastronomia", "conservazione", "artigianato alimentare"],
   etymology:
     "Derivato di salare (dal latino salare, conservare col sale) con il suffisso -ione che indica il processo prolungato; la distinzione tecnica con salatura si è consolidata nel lessico della norcineria artigianale italiana.",
-  examples: [],
+  examples: [
+    "La salagione delle acciughe si fa a strati, pesce e sale grosso, dentro grandi barili.",
+    "Durante la salagione il sale lavora in profondità e i tessuti perdono lentamente l'acqua.",
+    "Dopo mesi di salagione il merluzzo diventa baccalà, e prima di cucinarlo va messo a bagno.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["salatura", "insaccato", "stagionatura", "prosciutto", "conservazione"],
@@ -26,5 +30,5 @@ export const salagione: LemmaEntry = {
     description: "Definizione originale di 'salagione': il processo lento del sale nei tessuti del salume durante la stagionatura.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

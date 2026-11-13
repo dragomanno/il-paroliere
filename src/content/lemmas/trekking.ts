@@ -12,7 +12,11 @@ export const trekking: LemmaEntry = {
   domains: ["sport", "outdoor", "turismo"],
   etymology:
     "Dall'inglese trekking, derivato di to trek (camminare a lungo), a sua volta dall'afrikaans trek (viaggio, spedizione), di origine olandese; in italiano si afferma negli anni Ottanta con il turismo d'avventura.",
-  examples: [],
+  examples: [
+    "Abbiamo fatto un trekking di tre giorni sulle Alpi Apuane, dormendo nei rifugi.",
+    "Per questo trekking servono scarponi seri e almeno due litri d'acqua a testa.",
+    "Il trekking nel deserto richiede una pianificazione accurata di soste e rifornimenti.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["hiking", "escursionismo", "montagna", "zaino in spalla"],
@@ -26,5 +30,5 @@ export const trekking: LemmaEntry = {
     description: "Definizione originale di 'trekking': l'escursionismo impegnativo con la sua storia dall'afrikaans.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

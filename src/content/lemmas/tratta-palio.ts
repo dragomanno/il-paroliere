@@ -12,7 +12,11 @@ export const trattaPalio: LemmaEntry = {
   domains: ["Palio di Siena", "tradizione", "ippica"],
   etymology:
     "In questo senso specifico, dal verbo trarre nel significato di estrarre a sorte; termine tecnico esclusivo del lessico contradaiolo e paliestico senese.",
-  examples: [],
+  examples: [
+    "Alla tratta di luglio la contrada ha avuto in sorte un cavallo esordiente, e in rione è calato il gelo.",
+    "In Piazza del Campo, durante la tratta, ogni contradaiolo trattiene il fiato quando viene estratto il proprio nome.",
+    "Dopo la tratta il barbaresco accompagna il cavallo fino alla stalla della contrada.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["barbero", "malacarne", "contrada", "Palio di Siena", "alfiere"],
@@ -26,5 +30,5 @@ export const trattaPalio: LemmaEntry = {
     description: "Definizione originale di 'tratta': il sorteggio dei cavalli del Palio di Siena, tre giorni prima della corsa.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

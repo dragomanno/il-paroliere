@@ -23,7 +23,11 @@ export const solarizzazione: LemmaEntry = {
   etymology:
     "Derivato di solare, con suffisso -izzazione; descrive l'effetto della luce (originariamente solare) su materiale fotosensibile.",
 
-  examples: [],
+  examples: [
+    "La solarizzazione dà ai ritratti quei contorni argentati che sembrano disegnati a mano.",
+    "In camera oscura abbiamo provato la solarizzazione accendendo la luce per un istante durante lo sviluppo.",
+    "Molte foto surrealiste devono il loro aspetto irreale alla solarizzazione.",
+  ],
 
   synonyms: [
       {
@@ -53,5 +57,5 @@ export const solarizzazione: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };
