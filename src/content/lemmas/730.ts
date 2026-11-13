@@ -76,8 +76,8 @@ export const mod730: LemmaEntry = {
     "f24",
     "deduzione-fiscale",
     "detrazione-fiscale",
-    "CU",
-    "sostituto d",
+    "cud",
+    "sostituto-dimposta",
   ],
 
   sourceLinks: {
