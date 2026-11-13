@@ -380,6 +380,17 @@ import { redditoImponibile } from "./reddito-imponibile";
 import { flatTax } from "./flat-tax";
 import { irap } from "./irap";
 import { regimeFiscale } from "./regime-fiscale";
+import { dichiarazioneDeiRedditi } from "./dichiarazione-dei-redditi";
+import { cud } from "./cud";
+import { modelloUnico } from "./modello-unico";
+import { sostitutoDimposta } from "./sostituto-dimposta";
+import { ritenutaDacconto } from "./ritenuta-dacconto";
+import { accontoFiscale } from "./acconto-fiscale";
+import { saldoFiscale } from "./saldo-fiscale";
+import { ravvedimentoOperoso } from "./ravvedimento-operoso";
+import { cartellaEsattoriale } from "./cartella-esattoriale";
+import { condono } from "./condono";
+import { dichiarazioneSostitutiva } from "./dichiarazione-sostitutiva";
 import { incentivo } from "./incentivo";
 import { investimento } from "./investimento";
 import { f24 } from "./f24";
@@ -1317,5 +1328,17 @@ export const allLemmas: LemmaEntry[] = [
   flatTax,
   irap,
   regimeFiscale,
+  // BATCH-016 (2026-11) — Fiscalità e tributi, sottogruppo 2: adempimenti e riscossione
+  dichiarazioneDeiRedditi,
+  cud,
+  modelloUnico,
+  sostitutoDimposta,
+  ritenutaDacconto,
+  accontoFiscale,
+  saldoFiscale,
+  ravvedimentoOperoso,
+  cartellaEsattoriale,
+  condono,
+  dichiarazioneSostitutiva,
 ];
 
