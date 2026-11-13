@@ -12,7 +12,11 @@ export const coworking: LemmaEntry = {
   domains: ["lavoro", "urbanistica", "economia"],
   etymology:
     "Dall'inglese coworking, composto di co- (insieme) e working (lavorare); il fenomeno si struttura come modello economico dagli anni 2000 negli Stati Uniti.",
-  examples: [],
+  examples: [
+    "Da quando lavora in proprio passa le mattine in un coworking vicino alla stazione.",
+    "Il coworking gli ha dato quello che la casa non poteva: colleghi, orari e una porta da chiudere la sera.",
+    "In molti paesi di montagna i coworking stanno riportando giovani professionisti che lavorano a distanza.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["smart working", "freelance", "ufficio", "comunità"],
@@ -26,5 +30,5 @@ export const coworking: LemmaEntry = {
     description: "Definizione originale di 'coworking': lo spazio condiviso che risponde all'esigenza di flessibilità e comunità nel lavoro.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

@@ -12,7 +12,11 @@ export const cpt: LemmaEntry = {
   domains: ["diritto", "immigrazione", "politica"],
   etymology:
     "Sigla italiana di Centro di Permanenza Temporanea; introdotto con la legge Turco-Napolitano (L. 40/1998).",
-  examples: [],
+  examples: [
+    "Il dibattito sui CPT, alla fine degli anni Novanta, divise anche la maggioranza che li aveva istituiti.",
+    "Molti continuano a chiamarli CPT, anche se il nome ufficiale è cambiato più di una volta.",
+    "Il rapporto descriveva le condizioni di trattenimento nei vecchi CPT con un linguaggio molto duro.",
+  ],
   synonyms: [
     { term: "CIE", register: "tecnico", note: "denominazione 2011-2017" },
     { term: "CPR", register: "tecnico", note: "denominazione dal 2017, tuttora in uso" },
@@ -29,5 +33,5 @@ export const cpt: LemmaEntry = {
     description: "Definizione originale di 'CPT': la sigla e la storia dei rebranding di una struttura detentiva italiana.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

@@ -55,7 +55,11 @@ export const esecrabile: LemmaEntry = {
     "nefando"
   ],
 
-  examples: [],
+  examples: [
+    "L'attacco contro la scuola è stato definito un gesto esecrabile da tutte le forze politiche.",
+    "Trovo esecrabile che si lucri sulla paura delle persone più fragili.",
+    "Il giornale usava esecrabile così spesso che la parola, alla fine, non pesava più nulla.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/esecrabile"
@@ -79,5 +83,5 @@ export const esecrabile: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

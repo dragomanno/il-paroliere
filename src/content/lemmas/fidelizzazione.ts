@@ -23,7 +23,11 @@ export const fidelizzazione: LemmaEntry = {
   etymology:
     "Derivato di fedeltà, con suffisso -izzazione; calco semantico del marketing anglosassone (customer loyalty).",
 
-  examples: [],
+  examples: [
+    "La tessera a punti è lo strumento di fidelizzazione più antico, ma non il più efficace.",
+    "Per un ristorante la fidelizzazione passa più dal saluto del cameriere che dalle promozioni.",
+    "Investire nella fidelizzazione costa meno che cercare ogni mese nuovi clienti.",
+  ],
 
   synonyms: [
       {
@@ -63,5 +67,5 @@ export const fidelizzazione: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-13",
 };

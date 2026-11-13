@@ -12,7 +12,11 @@ export const fascistello: LemmaEntry = {
   domains: ["politica", "società", "linguaggio comune"],
   etymology:
     "Derivato di fascista con il suffisso diminutivo-spregiativo -ello; il suffisso sposta il senso dal piano ideologico a quello comportamentale e caratteriale.",
-  examples: [],
+  examples: [
+    "Al circolo c'era il solito fascistello che voleva decidere chi poteva sedersi e dove.",
+    "Bastò dargli un cartellino da caposquadra per scoprire il fascistello che era in lui.",
+    "Lo chiamavano fascistello per come trattava i nuovi arrivati, non per le idee politiche.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["autoritario", "prevaricatore", "intollerante"],
@@ -26,5 +30,5 @@ export const fascistello: LemmaEntry = {
     description: "Definizione originale di 'fascistello': il diminutivo spregiativo che svuota l'ideologia e lascia solo il carattere.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

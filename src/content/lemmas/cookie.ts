@@ -18,7 +18,11 @@ export const cookie: LemmaEntry = {
   domains: ["informatica", "diritto", "web"],
   etymology:
     "Dall'inglese cookie (biscottino), in uso nel lessico informatico dagli anni Novanta; il termine fu coniato dal programmatore Lou Montulli nel 1994.",
-  examples: [],
+  examples: [
+    "Il sito ricorda la lingua scelta grazie a un cookie tecnico, che non richiede consenso.",
+    "Cancellando i cookie dal browser ha perso anche il carrello che aveva riempito il giorno prima.",
+    "I cookie di terza parte sono quelli che permettono a un inserzionista di seguirti da un sito all'altro.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["cookie policy", "cookie consent", "cookieless", "GDPR"],
@@ -35,5 +39,5 @@ export const cookie: LemmaEntry = {
       "Definizione originale di 'cookie': il file che un sito deposita nel tuo browser. Con etimologia, nota editoriale e fonti aperte.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

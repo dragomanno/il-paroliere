@@ -12,7 +12,11 @@ export const espletamento: LemmaEntry = {
   domains: ["diritto", "amministrazione", "burocrazia"],
   etymology:
     "Derivato del verbo espletare, a sua volta dal latino expletus, participio passato di explere (compiere, riempire), con il suffisso -mento.",
-  examples: [],
+  examples: [
+    "Per l'espletamento della pratica servono altri due documenti e una marca da bollo.",
+    "L'espletamento del concorso ha richiesto quasi tre anni, tra ricorsi e rinvii.",
+    "Ha vissuto quell'incontro come un semplice espletamento di formalità, senza alcun interesse vero.",
+  ],
   synonyms: [
     { term: "adempimento", register: "burocratico", note: "quasi sinonimo, leggermente più ampio" },
     { term: "svolgimento", register: "comune", note: "più neutro, meno burocratico" },
@@ -29,5 +33,5 @@ export const espletamento: LemmaEntry = {
     description: "Definizione originale di 'espletamento': il termine burocratico per il compimento di una formalità.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

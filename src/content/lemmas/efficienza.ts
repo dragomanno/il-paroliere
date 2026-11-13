@@ -53,7 +53,11 @@ export const efficienza: LemmaEntry = {
     "output"
   ],
 
-  examples: [],
+  examples: [
+    "La nuova caldaia ha un'efficienza molto più alta e i consumi si sono quasi dimezzati.",
+    "In nome dell'efficienza hanno tagliato tutte le pause, e la qualità del lavoro è peggiorata.",
+    "Un ufficio può essere efficientissimo e del tutto inutile, se lavora bene sulle cose sbagliate.",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/efficienza"
@@ -78,5 +82,5 @@ export const efficienza: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-05-29",
+  updatedAt: "2026-11-13",
 };

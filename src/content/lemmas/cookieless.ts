@@ -12,7 +12,11 @@ export const cookieless: LemmaEntry = {
   domains: ["marketing digitale", "web", "privacy"],
   etymology:
     "Dall'inglese cookieless, composto di cookie (v.) e il suffisso privativo -less; entrato nel lessico del marketing digitale italiano tra il 2020 e il 2022 con l'annuncio della deprecazione dei cookie di terza parte da parte di Google Chrome.",
-  examples: [],
+  examples: [
+    "Con una misurazione cookieless il sito conta le visite senza chiedere alcun consenso.",
+    "Molte agenzie stanno ripensando il targeting in chiave cookieless, puntando sui dati raccolti direttamente.",
+    "Un sito cookieless non è un sito senza dati: è un sito che raccoglie solo quelli di cui ha davvero bisogno.",
+  ],
   synonyms: [],
   antonyms: [],
   relatedWords: ["cookie", "cookie consent", "cookie policy", "GDPR", "privacy"],
@@ -26,5 +30,5 @@ export const cookieless: LemmaEntry = {
     description: "Definizione originale di 'cookieless': l'approccio senza cookie di terza parte nel marketing digitale.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };

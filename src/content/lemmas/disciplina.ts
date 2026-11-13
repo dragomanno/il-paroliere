@@ -12,7 +12,11 @@ export const disciplina: LemmaEntry = {
   domains: ["etica", "psicologia", "istruzione", "sport"],
   etymology:
     "Dal latino disciplina, derivato di discipulus (allievo), a sua volta da discere (imparare); il termine conserva la traccia dell'apprendimento come forma di governo di sé.",
-  examples: [],
+  examples: [
+    "Per correre la maratona non basta la forza: ci vuole disciplina, soprattutto nei giorni di pioggia.",
+    "La storia dell'arte è diventata una disciplina universitaria autonoma solo nell'Ottocento.",
+    "In quella scuola la disciplina era rigida, ma i ragazzi ricordano soprattutto la passione degli insegnanti.",
+  ],
   synonyms: [{ term: "autocontrollo", register: "comune", note: "enfasi sulla gestione degli impulsi" }],
   antonyms: [{ term: "indisciplina", register: "comune" }],
   relatedWords: ["costanza", "autocontrollo", "abitudine", "allenamento"],
@@ -26,5 +30,5 @@ export const disciplina: LemmaEntry = {
     description: "Definizione originale di 'disciplina': dall'etimologia di discere all'autocontrollo come forma di apprendimento.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-05-25",
+  updatedAt: "2026-11-13",
 };
