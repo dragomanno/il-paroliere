@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: neologismo
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -20,12 +20,12 @@ export const neologismo: LemmaEntry = {
     "Parola o espressione di recente formazione, non ancora radicata nel lessico consolidato; solo una parte dei neologismi sopravvive nell'uso.",
 
   etymology:
-    "Dal francese *néologisme*, composto dal greco *néos* «nuovo» e *lógos* «parola», con il suffisso *-isme* «-ismo»: letteralmente, «la qualità di essere una parola nuova».",
+    "Dal francese *néologisme*, composto dal greco *néos* «nuovo» e *lógos* «parola», con il suffisso *-isme* «-ismo»: letteralmente, «uso di parole nuove».",
 
   examples: [
     "'Informatica' fu un neologismo degli anni '60, adattato dal francese *informatique*, oggi perfettamente integrato nel lessico italiano.",
     "Molti neologismi legati ai social media, come 'shadowban' o 'engagement', restano per ora confinati a un gergo tecnico specifico.",
-    "Gabriele D'Annunzio è celebre per i suoi neologismi d'autore, spesso ricercati e mai entrati nell'uso comune.",
+    "Gabriele D'Annunzio è celebre per i suoi neologismi d'autore: alcuni, come 'tramezzino' e 'velivolo', sono entrati nell'uso quotidiano, mentre molti altri sono rimasti sulla pagina letteraria.",
     "Un neologismo che non supera la prova del tempo viene retrospettivamente etichettato come modismo, una parola di moda passeggera.",
   ],
 
@@ -47,7 +47,7 @@ export const neologismo: LemmaEntry = {
   paroliereNote:
     "Ogni lingua viva produce neologismi in continuazione, spesso senza che i suoi parlanti se ne accorgano: la lingua che usiamo oggi è piena di parole che, cento anni fa, non esistevano affatto. Il criterio che distingue un neologismo destinato a restare da uno destinato a scomparire non è mai puramente linguistico — dipende dalla persistenza del bisogno che lo ha generato. Finché esisterà il fenomeno che nomina, un neologismo utile ha buone probabilità di sopravvivere; se il fenomeno svanisce, la parola lo segue quasi sempre nell'oblio.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {
@@ -57,5 +57,5 @@ export const neologismo: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };

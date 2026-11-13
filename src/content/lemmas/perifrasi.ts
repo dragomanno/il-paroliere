@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: perifrasi
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -14,10 +14,10 @@ export const perifrasi: LemmaEntry = {
   domains: ["linguaggio", "retorica"],
 
   definition:
-    "Figura retorica che consiste nell'esprimere un concetto non con il termine diretto e proprio, ma con un giro di parole più esteso che ne evoca il senso — comunemente detta anche circonlocuzione. La perifrasi può nascere da esigenze stilistiche, per evitare una ripetizione ravvicinata dello stesso termine o per creare un effetto poetico ed evocativo ('il re della foresta' per 'il leone'), oppure da esigenze pragmatiche di cortesia o attenuazione, sovrapponendosi in questo caso alla funzione dell'eufemismo ('cadere fra le braccia di Morfeo' per 'addormentarsi'). Nel linguaggio burocratico e amministrativo, la stessa struttura — dire con molte parole ciò che si potrebbe dire con poche — perde però la sua funzione espressiva e diventa spesso un difetto stilistico, sintomo di verbosità o di volontà di attenuare responsabilità.",
+    "Figura retorica che consiste nell'esprimere un concetto non con il termine diretto e proprio, ma con un giro di parole più esteso che ne evoca il senso — comunemente detta anche circonlocuzione. La perifrasi può nascere da esigenze stilistiche, per evitare una ripetizione ravvicinata dello stesso termine o per creare un effetto poetico ed evocativo ('il re della foresta' per 'il leone'), oppure da esigenze pragmatiche di cortesia o attenuazione, sovrapponendosi in questo caso alla funzione dell'eufemismo ('è venuto a mancare' per 'è morto'). Nel linguaggio burocratico e amministrativo, la stessa struttura — dire con molte parole ciò che si potrebbe dire con poche — perde però la sua funzione espressiva e diventa spesso un difetto stilistico, sintomo di verbosità o di volontà di attenuare responsabilità.",
 
   shortDefinition:
-    "Espressione di un concetto tramite un giro di parole invece del termine diretto — circonlocuzione, per effetto poetico, cortesia o verbosità.",
+    "Giro di parole al posto del termine diretto, detto anche circonlocuzione: per effetto poetico, per cortesia o per pura verbosità.",
 
   etymology:
     "Dal greco *períphrasis*, composto da *perí* «intorno» e *phrázein* «parlare, esprimere»: letteralmente «parlare intorno» — dire qualcosa girandoci attorno invece di nominarla direttamente.",
@@ -48,7 +48,7 @@ export const perifrasi: LemmaEntry = {
   paroliereNote:
     "La perifrasi ha un doppio volto morale, per così dire: in poesia è quasi sempre una virtù, un modo per arricchire un'immagine e sottrarla alla banalità del nome proprio; nel linguaggio amministrativo e aziendale, invece, la stessa identica tecnica retorica diventa spesso un sintomo di burocratese o, peggio, uno strumento per diluire responsabilità dietro formulazioni vaghe e prolisse. Il confine tra le due funzioni non sta nella struttura linguistica — identica in entrambi i casi — ma nell'intenzione di chi scrive: arricchire il senso, oppure occultarlo.",
 
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
 
   seo: {
@@ -58,5 +58,5 @@ export const perifrasi: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-13",
 };
