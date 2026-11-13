@@ -71,6 +71,8 @@ export const f24: LemmaEntry = {
     "INPS",
     "scadenza fiscale",
     "Entratel",
+    "imu",
+    "iva",
   ],
 
   sourceLinks: {

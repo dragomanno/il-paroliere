@@ -44,6 +44,7 @@ export const catasto: LemmaEntry = {
     "rendita-catastale",
     "imponibile",
     "capacita-contributiva",
+    "imu",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/catasto/",

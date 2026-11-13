@@ -40,6 +40,8 @@ export const capacitaContributiva: LemmaEntry = {
     "aliquota",
     "irpef",
     "evasione",
+    "imposta",
+    "tributo",
   ],
   sourceLinks: {},
   paroliereNote: "«Tutti sono tenuti a concorrere alle spese pubbliche in ragione della loro capacità contributiva»: la prima frase dell'articolo 53 è tra le più citate della Costituzione, spesso a proposito e qualche volta a sproposito. Non dice «tutti i cittadini», ma «tutti»: il dovere riguarda chiunque abbia redditi o beni in Italia, cittadino o straniero. E la stessa frase che obbliga a pagare protegge anche dal pagare troppo, perché un tributo che colpisce una ricchezza inesistente è, prima ancora che ingiusto, illegittimo.",

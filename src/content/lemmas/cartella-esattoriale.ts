@@ -44,6 +44,7 @@ export const cartellaEsattoriale: LemmaEntry = {
     "condono",
     "evasione",
     "f24",
+    "bollo-auto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/esattoriale/",

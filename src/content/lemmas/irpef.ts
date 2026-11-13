@@ -79,6 +79,7 @@ export const irpef: LemmaEntry = {
     "730",
     "modello-unico",
     "Agenzia delle Entrate",
+    "addizionale",
   ],
 
   sourceLinks: {

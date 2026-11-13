@@ -52,6 +52,7 @@ export const flatTax: LemmaEntry = {
     "capacita-contributiva",
     "irpef",
     "prestito-linguistico",
+    "cedolare-secca",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/flat-tax_(Neologismi)/",

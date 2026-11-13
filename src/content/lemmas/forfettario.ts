@@ -57,6 +57,7 @@ export const forfettario: LemmaEntry = {
     "partita-iva",
     "ritenuta-dacconto",
     "aliquota",
+    "iva",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/forfetario/",
