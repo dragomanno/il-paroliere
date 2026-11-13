@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: CUD
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -49,7 +49,7 @@ export const cud: LemmaEntry = {
     title: "CUD — significato, differenza con la CU | Il Paroliere",
     description: "Che cos'era il CUD: la certificazione dei redditi rilasciata da datori di lavoro ed enti pensionistici, sostituita dal 2015 dalla Certificazione Unica.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

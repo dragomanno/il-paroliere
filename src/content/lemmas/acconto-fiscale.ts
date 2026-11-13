@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: acconto fiscale
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -56,7 +56,7 @@ export const accontoFiscale: LemmaEntry = {
     title: "Acconto fiscale — significato, rate e scadenze | Il Paroliere",
     description: "Che cos'è l'acconto fiscale: il pagamento anticipato dell'imposta dell'anno in corso. Acconto IRPEF al 100%, rate del 30 giugno e del 30 novembre.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

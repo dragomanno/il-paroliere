@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: fondo pensione
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -54,7 +54,7 @@ export const fondoPensione: LemmaEntry = {
     title: "Fondo pensione — significato, come funziona | Il Paroliere",
     description: "Che cos'è un fondo pensione: la previdenza complementare che investe versamenti e TFR. Fondi negoziali e aperti, deducibilità e adesione automatica.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

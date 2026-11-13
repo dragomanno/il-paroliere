@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: dichiarazione sostitutiva
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -23,7 +23,7 @@ export const dichiarazioneSostitutiva: LemmaEntry = {
   etymology: "Dichiarazione viene dal latino declaratio, da declarare «rendere chiaro»; sostitutiva deriva da sostituire, dal latino substituere «porre al posto di»: la dichiarazione occupa il posto che spetterebbe a un documento rilasciato da un ufficio.",
   examples: [
     "Per iscrivermi al concorso è bastata una dichiarazione sostitutiva sul titolo di studio, senza chiedere il certificato all'università.",
-    "Per sbloccare il conto del padre, la banca le ha chiesto una dichiarazione sostitutiva dell'atto di notorietà con l'elenco degli eredi.",
+    "Alla morte del padre, la banca ha chiesto a Giulia una dichiarazione sostitutiva dell'atto di notorietà con l'elenco degli eredi.",
     "La dichiarazione sostitutiva è soggetta a controlli: se risulta falsa, si perdono i benefici ottenuti e si risponde davanti al giudice penale.",
   ],
   synonyms: [
@@ -47,7 +47,7 @@ export const dichiarazioneSostitutiva: LemmaEntry = {
     title: "Dichiarazione sostitutiva — cos'è, autocertificazione | Il Paroliere",
     description: "Che cos'è la dichiarazione sostitutiva: il documento che sostituisce certificati e atti di notorietà. Autocertificazione, DPR 445/2000 ed esempi.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: credito d'imposta
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -58,7 +58,7 @@ export const creditoDimposta: LemmaEntry = {
     title: "Credito d'imposta — significato, compensazione, esempi | Il Paroliere",
     description: "Che cos'è il credito d'imposta: la somma che si può usare per pagare meno imposte, di solito in compensazione con l'F24. Differenza con la detrazione.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

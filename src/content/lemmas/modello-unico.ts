@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: modello Unico
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -10,7 +10,7 @@ export const modelloUnico: LemmaEntry = {
   slug: "modello-unico",
   partOfSpeech: "locuzione sostantivale",
   gender: "maschile",
-  definition: "Modello con cui, dal 1998 al 2016, persone fisiche, società ed enti presentavano in un solo documento la dichiarazione dei redditi e, in origine, anche quella IVA. Dal 2017 si chiama modello Redditi, distinto per tipo di contribuente: PF per le persone fisiche, SP per le società di persone, SC per le società di capitali, ENC per gli enti non commerciali. Il modello Redditi PF resta l'alternativa al 730, obbligatoria per chi ha redditi d'impresa o di lavoro autonomo.",
+  definition: "Modello con cui, dal 1998 al 2016, persone fisiche, società ed enti presentavano in un solo documento la dichiarazione dei redditi e, in origine, anche quella IVA. Dal 2017 si chiama modello Redditi, distinto per tipo di contribuente: PF per le persone fisiche, SP per le società di persone, SC per le società di capitali, ENC per gli enti non commerciali. Il modello Redditi PF resta l'alternativa al 730, obbligatoria per chi ha una partita IVA.",
   shortDefinition: "Nome del modello unificato per la dichiarazione dei redditi dal 1998 al 2016; dal 2017 si chiama modello Redditi.",
   register: [
     "tecnico-fiscale",
@@ -53,7 +53,7 @@ export const modelloUnico: LemmaEntry = {
     title: "Modello Unico — significato, oggi modello Redditi | Il Paroliere",
     description: "Che cos'era il modello Unico: la dichiarazione unificata dei redditi dal 1998 al 2016. Perché dal 2017 si chiama modello Redditi e chi deve usarlo.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

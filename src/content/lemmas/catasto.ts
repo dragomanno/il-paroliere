@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: catasto
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -54,7 +54,7 @@ export const catasto: LemmaEntry = {
     title: "Catasto — significato, etimologia, storia | Il Paroliere",
     description: "Che cos'è il catasto: l'inventario pubblico di terreni e fabbricati tenuto a fini fiscali. Etimologia dal greco bizantino e il catasto fiorentino del 1427.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

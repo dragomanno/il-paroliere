@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: sostituto d'imposta
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -56,7 +56,7 @@ export const sostitutoDimposta: LemmaEntry = {
     title: "Sostituto d'imposta — significato, chi è, esempi | Il Paroliere",
     description: "Che cos'è il sostituto d'imposta: chi versa le imposte al posto di un altro, trattenendole dalle somme che gli paga. Datori di lavoro, enti, committenti.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

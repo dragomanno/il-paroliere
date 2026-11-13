@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: dichiarazione dei redditi
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -54,12 +54,12 @@ export const dichiarazioneDeiRedditi: LemmaEntry = {
     treccani: "https://www.treccani.it/vocabolario/dichiarazione/",
     wiktionary: "https://it.wiktionary.org/wiki/dichiarazione_dei_redditi",
   },
-  paroliereNote: "Per quasi venticinque anni gli italiani hanno chiamato la dichiarazione dei redditi semplicemente «il 740», dal nome del modello nato nel 1975. Poi il nome è passato ad altri moduli, ma l'abitudine è rimasta: ancora oggi «fare il 730» significa, per milioni di persone, fare la dichiarazione dei redditi. È uno dei rari casi in cui il numero di un modulo diventa una parola della lingua comune.",
+  paroliereNote: "Per più di vent'anni gli italiani hanno chiamato la dichiarazione dei redditi semplicemente «il 740», dal nome del modello nato nel 1975. Poi sono arrivati il 730, nel 1993, e il modello Unico, nel 1998, ma l'abitudine di chiamarla con il numero di un modulo è rimasta: ancora oggi «fare il 730» significa, per milioni di persone, fare la dichiarazione dei redditi. È uno dei rari casi in cui il numero di un modulo diventa una parola della lingua comune.",
   seo: {
     title: "Dichiarazione dei redditi — significato, 730 e Redditi | Il Paroliere",
     description: "Che cos'è la dichiarazione dei redditi: il documento annuale con cui si comunicano i redditi al fisco. Modello 730, modello Redditi e precompilata.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: ravvedimento operoso
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -55,7 +55,7 @@ export const ravvedimentoOperoso: LemmaEntry = {
     title: "Ravvedimento operoso — significato, riduzioni, esempi | Il Paroliere",
     description: "Che cos'è il ravvedimento operoso: la correzione spontanea di errori e omessi versamenti con sanzioni ridotte. Le riduzioni dopo la riforma del 2024.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",

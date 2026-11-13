@@ -1,5 +1,5 @@
 // Il Paroliere — Lemma: condono
-// Editorial status: draft | Content license: CC BY-SA 4.0
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
 // IMPORTANT: all definitions and examples are original.
 // External sources linked, not copied.
 
@@ -24,7 +24,7 @@ export const condono: LemmaEntry = {
   ],
   etymology: "Deverbale di condonare, dal latino condonare «donare, rimettere», composto di cum e donare: in origine il gesto di chi abbuona un debito come se ne facesse dono.",
   examples: [
-    "Il primo condono edilizio, nel 1985, ha permesso di sanare costruzioni realizzate senza licenza.",
+    "Il primo condono edilizio, nel 1985, ha permesso di sanare costruzioni realizzate senza i titoli edilizi richiesti.",
     "Ogni volta che si annuncia un condono, c'è chi rimanda il pagamento delle imposte sperando nel prossimo.",
     "La rottamazione delle cartelle viene spesso chiamata condono, anche se non riduce le imposte, ma solo sanzioni e interessi.",
   ],
@@ -56,7 +56,7 @@ export const condono: LemmaEntry = {
     title: "Condono — significato fiscale, edilizio, penale | Il Paroliere",
     description: "Che cos'è un condono: la rinuncia dello Stato a una pretesa in cambio di un pagamento ridotto. Condono fiscale, edilizio e penale, etimologia ed esempi.",
   },
-  editorialStatus: "draft",
+  editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
   updatedAt: "2026-11-13",
