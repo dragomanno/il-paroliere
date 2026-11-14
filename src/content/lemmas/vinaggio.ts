@@ -10,57 +10,49 @@ export const vinaggio: LemmaEntry = {
   slug: "vinaggio",
   partOfSpeech: "sostantivo maschile",
   gender: "maschile",
-
-  definition:
-    "La pratica di mescolare vini di diversa provenienza, annata o vitigno dopo che sono " +
-    "stati prodotti separatamente, al fine di ottenere un vino finale con caratteristiche " +
-    "organolettiche più equilibrate, complesse o costanti rispetto ai componenti singoli. " +
-    "Il vinaggio — o assemblaggio (termine francese usato nella tradizione enologica " +
-    "internazionale, blending in inglese) — è una pratica antica e legittima, ma soggetta a " +
-    "regolamentazione precisa nelle denominazioni di origine. Va distinto dall'uvaggio — il " +
-    "miscuglio di uve di vitigni diversi prima o durante la fermentazione, quindi a monte del " +
-    "vino — e dal taglio (termine meno tecnico e talvolta con connotazione negativa, usato per " +
-    "indicare l'aggiunta di vini di qualità inferiore o di altra provenienza geografica per " +
-    "aumentare il volume). Nei vini a denominazione (DOC, DOCG), il disciplinare regola " +
-    "rigorosamente cosa si può e non si può aggiungere: il Chianti Classico DOCG permette " +
-    "percentuali di vitigni complementari al Sangiovese base; il Brunello di Montalcino DOCG " +
-    "deve essere 100% Sangiovese e quindi non ammette vinaggio tra vitigni diversi.",
-
-  shortDefinition:
-    "La pratica di mescolare vini già prodotti per ottenere un blend finale con caratteristiche " +
-    "desiderate; assemblaggio post-fermentazione, da distinguere dall'uvaggio (pre-fermentazione).",
-
-  register: ["tecnico-enologico", "raro nel parlato comune"],
-  domains: ["enologia", "chimica del vino", "legislazione alimentare"],
-
-  etymology:
-    "Da vino (latino vinum) + suffisso -aggio di origine francese che indica un processo o " +
-    "un'operazione tecnica. Lo stesso meccanismo di imbottigliaggio, filtraggio, travaso.",
-
-  examples: [
-    "Il vinaggio tra Sangiovese e Merlot è alla base di molti Supertuscans: l'internazionale Merlot ammorbidisce i tannini aspri del Sangiovese giovane.",
-    "Il vinaggio non è una frode: è una tecnica enologica che richiede competenza e sensibilità. La frode è quando si viola il disciplinare o si aggiungono vini non consentiti.",
-    "Nei grandi Champagne non millesimati, il vinaggio tra annate diverse è fondamentale per mantenere uno stile costante di maison.",
+  definition: "Termine raro del linguaggio enologico, formato su uvaggio, per l'unione di vini già fatti, ottenuti separatamente da vitigni, vigne o annate diverse. Compare in alcuni glossari e testi di settore; la parola corrente è assemblaggio, e nei testi normativi si dice taglio.",
+  shortDefinition: "Termine raro, formato su uvaggio, per l'unione di vini già fatti; la parola corrente è assemblaggio, nella norma taglio.",
+  register: [
+    "tecnico, poco attestato",
   ],
-
+  domains: [
+    "enologia",
+    "chimica del vino",
+    "legislazione alimentare",
+  ],
+  etymology: "Formazione analogica su uvaggio: da vino, dal latino vinum, con il suffisso -aggio, come se ai vini toccasse quello che l'uvaggio fa con le uve. Non ha una voce nei principali vocabolari consultati; l'uso è documentato in glossari e testi tecnici di settore.",
+  examples: [
+    "Qualche glossario parla di vinaggio, ma in cantina quasi tutti dicono assemblaggio, o semplicemente taglio.",
+    "Il vinaggio non è una frode: unire vini diversi è una tecnica legittima, purché rispetti il disciplinare.",
+    "Molti Supertuscan nascono da Sangiovese e vitigni internazionali vinificati a parte e poi uniti: un assemblaggio, o con la parola rara, un vinaggio.",
+    "Nei grandi Champagne senza annata l'unione di vini di anni diversi tiene costante lo stile della maison; il nome d'uso, lì, è cuvée.",
+  ],
   synonyms: [
     {
       term: "assemblaggio",
       register: "tecnico",
-      context: "termine francese di uso internazionale",
-    },
-    {
-      term: "blending",
-      register: "tecnico",
-      context: "anglicismo di uso internazionale",
+      context: "la forma corrente, adattata dal francese assemblage",
+      note: "È la parola da preferire: vinaggio ne è un doppione raro.",
     },
     {
       term: "taglio",
-      register: "comune",
-      context: "termine meno tecnico, talvolta con connotazione spregiativa",
+      register: "tecnico-giuridico",
+      context: "la parola dei regolamenti europei per la mescolanza di vini o di mosti",
+      note: "Nel parlato può suonare negativa, come nel vino «tagliato» con altro.",
+    },
+    {
+      term: "blend",
+      register: "tecnico",
+      context: "anglicismo di uso internazionale",
     },
   ],
-
+  antonyms: [
+    {
+      term: "uvaggio",
+      register: "tecnico",
+      context: "unione delle uve prima della fermentazione, invece che dei vini dopo",
+    },
+  ],
   relatedWords: [
     "uvaggio",
     "vino",
@@ -69,7 +61,7 @@ export const vinaggio: LemmaEntry = {
     "disciplinare",
     "DOC",
     "DOCG",
-    "Supertuscans",
+    "supertuscan",
     "enologia",
     "blend",
     "botte",
@@ -78,33 +70,20 @@ export const vinaggio: LemmaEntry = {
     "enologo",
     "igt",
     "varietale",
+    "assemblaggio",
+    "cuvee",
+    "taglio",
+    "frode",
+    "vinificazione",
   ],
-
-  sourceLinks: {
-    treccani: "https://www.treccani.it/vocabolario/vinaggio/",
-    wiktionary: "https://it.wiktionary.org/wiki/vinaggio",
-  },
-
-  paroliereNote:
-    "Uvaggio e vinaggio sono spesso confusi — persino da appassionati di vino — perché " +
-    "entrambi descrivono una pratica di «mescolare». La distinzione temporale è però " +
-    "fondamentale: nell'uvaggio, i vitigni fermentano insieme, le loro componenti chimiche " +
-    "interagiscono durante il processo, i tannini si fondono, le acidità si compensano mentre " +
-    "il vino si forma. Nel vinaggio, si mescolano prodotti già formati, con caratteri già " +
-    "definiti. È la differenza tra cucinare con ingredienti mescolati fin dall'inizio o " +
-    "impiattare piatti diversi sullo stesso piatto. Entrambi danno risultati interessanti; " +
-    "sono cose diverse.",
-
+  sourceLinks: {},
+  paroliereNote: "Vinaggio è una parola che vive più nei glossari che nelle cantine. Nasce per simmetria con → [uvaggio](https://ilparoliere.online/parola/uvaggio): se quello mescola le uve, vinaggio mescola i vini. Qualche attestazione c'è: il [glossario di Luca Maroni](https://www.lucamaroni.it/index.php/it/home/20-i-sensi-e-il-bicchiere/97-glossario-del-vino-e-della-degustazione-2) la registra come miscela di vini diversi, e la [guida dell'ERSA ai vini del Friuli Venezia Giulia](http://www.ersa.fvg.it/export/sites/ersa/consumatore/associazioni-e-consorzi/Allegati-pubblicazioni/Vini-FVG.pdf) la dà come altro nome di blend. Ma i glossari più diffusi, come quello di [Quattrocalici](https://www.quattrocalici.it/glossario-vino/assemblaggio/) o il [Glossario del vino di Wikipedia](https://it.wikipedia.org/wiki/Glossario_del_vino), parlano di assemblaggio e di taglio, e il diritto europeo usa taglio fin dal [regolamento (CEE) 3282/73](https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX:31973R3282). Per questo Il Paroliere la tiene come voce di uso raro e rimanda all'→ [assemblaggio](https://ilparoliere.online/parola/assemblaggio), dove la tecnica è spiegata per intero, dal taglio bordolese alla → [cuvée](https://ilparoliere.online/parola/cuvee). Non c'entra nulla, infine, con la frode: unire vini è legittimo, violare il disciplinare no.",
   editorialStatus: "reviewed",
   indexable: true,
-
   seo: {
-    title: "Vinaggio — definizione, assemblaggio, differenza da taglio | Il Paroliere",
-    description:
-      "Cos'è il vinaggio, come si distingue dall'uvaggio e dal taglio, il ruolo " +
-      "nell'enologia italiana. Definizione tecnica con nota sui Supertuscans.",
+    title: "Vinaggio — significato, termine raro per assemblaggio | Il Paroliere",
+    description: "Che cosa vuol dire vinaggio: termine raro, formato su uvaggio, per l'unione di vini già fatti. Perché si preferisce assemblaggio, e il taglio nelle norme UE.",
   },
-
   createdAt: "2026-06-06",
   updatedAt: "2026-11-14",
 };

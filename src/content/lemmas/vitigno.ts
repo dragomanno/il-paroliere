@@ -10,38 +10,56 @@ export const vitigno: LemmaEntry = {
   slug: "vitigno",
   partOfSpeech: "sostantivo maschile",
   gender: "maschile",
-
-  definition:
-    "La varietà botanica della vite (Vitis vinifera) coltivata per la produzione di uva da " +
-    "vino. Il vitigno è l'elemento genetico di base che determina — insieme al territorio " +
-    "(terroir) e alle pratiche di cantina — le caratteristiche fondamentali del vino: i " +
-    "profumi, i sapori, la struttura tannica, l'acidità, il colore. L'Italia è il paese con " +
-    "il più alto numero di vitigni autoctoni al mondo: si stima ne coltivi oltre 500 varietà " +
-    "documentate, su un totale mondiale di circa 10.000. Tra i principali vitigni italiani a " +
-    "bacca rossa: Sangiovese (base del Chianti, del Brunello, del Morellino), Nebbiolo (Barolo, " +
-    "Barbaresco), Barbera, Montepulciano, Aglianico, Nero d'Avola, Primitivo. Tra quelli a " +
-    "bacca bianca: Trebbiano, Vermentino, Fiano, Greco, Garganega (base del Soave), Glera " +
-    "(Prosecco), Pinot Grigio. Va distinto dall'uva da tavola (varietà coltivate per il " +
-    "consumo diretto) e dal portainnesto (la radice su cui si innesta il vitigno nobile dopo " +
-    "la fillossera del XIX secolo).",
-
-  shortDefinition:
-    "La varietà botanica della vite coltivata per la produzione di uva da vino; elemento " +
-    "genetico che determina le caratteristiche fondamentali del vino prodotto.",
-
-  register: ["tecnico-enologico", "comune nel parlato enogastronomico"],
-  domains: ["enologia", "botanica", "agricoltura", "cultura italiana"],
-
-  etymology:
-    "Da vite (latino vitis) + suffisso -igno che forma aggettivi e sostantivi con senso di " +
-    "appartenenza o derivazione. Vitigno è letteralmente «ciò che appartiene alla vite».",
-
-  examples: [
-    "Il Sangiovese è il vitigno più coltivato in Italia: dalla sua uva nascono vini molto diversi, dal Chianti più semplice al Brunello di Montalcino più complesso.",
-    "La fillossera del XIX secolo distrusse quasi tutti i vigneti europei: fu necessario innestare i vitigni nobili europei su portainnesti americani resistenti al parassita.",
-    "L'Italia è il paese con il maggior numero di vitigni autoctoni al mondo: una biodiversità enologica unica che si traduce in una diversità di vini irriproducibile altrove.",
+  definition: "Varietà di vite coltivata, quasi sempre della specie Vitis vinifera, riconoscibile per i caratteri della pianta, del grappolo e dell'uva, e moltiplicata per talea o per innesto in modo da conservarli identici. È l'unità con cui si nominano i vini e se ne scrivono le regole: in etichetta, nei disciplinari e nel registro delle varietà ammesse alla coltivazione.",
+  shortDefinition: "Varietà di vite coltivata, con caratteri propri di pianta e uva; l'unità con cui si nominano i vini e se ne scrivono le regole.",
+  register: [
+    "comune",
+    "tecnico in enologia e viticoltura",
   ],
-
+  domains: [
+    "enologia",
+    "botanica",
+    "agricoltura",
+    "cultura italiana",
+  ],
+  etymology: "Dal latino volgare vitignus, «della vite, relativo alla vite», aggettivo derivato da vitis «vite», come registra il Wikizionario; va tenuto distinto dal latino classico vitigenus, «nato dalla vite», che è un'altra parola. Dalla stessa base vengono viticoltura e viticolo.",
+  examples: [
+    "Il Sangiovese è da tempo il vitigno più diffuso in Italia, con circa l'8% della superficie vitata nei dati del 2015: ne nascono il Chianti, il Brunello e il Morellino.",
+    "Dopo la fillossera di fine Ottocento quasi tutti i vitigni europei si coltivano innestati su portainnesti americani, resistenti all'insetto.",
+    "Nel Registro nazionale delle varietà di vite sono iscritti alcune centinaia di vitigni da vino, autoctoni e internazionali.",
+    "Il Nebbiolo è un vitigno esigente: matura tardi, vuole le colline giuste e dà vini tannici che chiedono anni, come il Barolo.",
+  ],
+  synonyms: [
+    {
+      term: "varietà di vite",
+      register: "tecnico-giuridico",
+      context: "la formula dei registri e delle norme",
+    },
+    {
+      term: "cépage",
+      register: "francesismo",
+      context: "il corrispettivo francese, usato anche nella degustazione italiana",
+    },
+    {
+      term: "cultivar",
+      register: "botanico",
+      context: "termine generale della botanica per le varietà coltivate",
+      note: "Nell'olio ha preso il posto di varietà; nel vino si dice vitigno, e cultivar resta raro.",
+    },
+  ],
+  antonyms: [
+    {
+      term: "portainnesto",
+      register: "tecnico",
+      context: "la vite, di solito americana, che fornisce le radici su cui si innesta il vitigno",
+      note: "Più che un contrario è l'altra metà della pianta.",
+    },
+    {
+      term: "vite selvatica",
+      register: "botanico",
+      context: "la forma spontanea della specie, non coltivata e non selezionata",
+    },
+  ],
   relatedWords: [
     "vino",
     "vinaggio",
@@ -61,31 +79,29 @@ export const vitigno: LemmaEntry = {
     "disciplinare",
     "enologo",
     "denominazione-dorigine",
+    "cultivar",
+    "viticoltura",
+    "vigneto",
+    "acino",
+    "annata",
+    "cru",
+    "assemblaggio",
+    "supertuscan",
+    "consorzio-di-tutela",
+    "portainnesto",
+    "sapidita",
   ],
-
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/vitigno/",
     wiktionary: "https://it.wiktionary.org/wiki/vitigno",
   },
-
-  paroliereNote:
-    "I 500+ vitigni autoctoni italiani sono una delle grandi ricchezze culturali e " +
-    "agricole del paese — e una delle meno conosciute al grande pubblico. Mentre il mondo " +
-    "vinicolo internazionale si è a lungo omologato su pochi vitigni globali (Cabernet " +
-    "Sauvignon, Merlot, Chardonnay, Pinot Noir), l'Italia ha mantenuto una biodiversità " +
-    "enologica straordinaria. Ogni vitigno autoctono è anche un pezzo di storia locale, di " +
-    "adattamento al territorio, di selezione secolare da parte degli agricoltori.",
-
+  paroliereNote: "Vitigno, varietà di vite, → [cultivar](https://ilparoliere.online/parola/cultivar) e → [cépage](https://ilparoliere.online/parola/cepage) nominano quasi la stessa cosa, ma da quattro lati. Vitigno è la parola italiana del vino, viva nel parlato e nelle etichette; varietà di vite è la formula delle norme e del [Registro nazionale delle varietà di vite](https://www.masaf.gov.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/10085) del Ministero dell'agricoltura; cultivar è il termine generale della botanica, che nell'olio ha preso il posto di varietà e nel vino resta raro; cépage è il corrispettivo francese. Il portainnesto è un'altra cosa: dopo la fillossera la vite europea vive quasi sempre su radici americane, e quello che chiamiamo vitigno è la parte sopra l'innesto. Sui numeri conviene prudenza: le cifre sui vitigni italiani che circolano cambiano secondo che si contino le varietà iscritte, quelle coltivate o quelle conservate in collezione, e qui non ne diamo una. Che il Sangiovese sia il più diffuso lo dicono invece i dati: nel 2015 copriva 53.865 dei 637.634 ettari vitati italiani, secondo [WineNews](https://winenews.it/it/il-re-del-vigneto-italia-e-ancora-il-sangiovese-che_332398/). Il vino da un solo vitigno si dice → [varietale](https://ilparoliere.online/parola/varietale); quello da più vitigni nasce da un → [uvaggio](https://ilparoliere.online/parola/uvaggio) o da un → [assemblaggio](https://ilparoliere.online/parola/assemblaggio).",
   editorialStatus: "reviewed",
   indexable: true,
-
   seo: {
-    title: "Vitigno — definizione, varietà italiane, differenza da uva | Il Paroliere",
-    description:
-      "Cos'è un vitigno, i principali vitigni italiani autoctoni, differenza da uva da " +
-      "tavola. L'Italia e i 500 vitigni. Definizione tecnica con note enologiche.",
+    title: "Vitigno — significato, differenza con cultivar e cépage | Il Paroliere",
+    description: "Che cos'è un vitigno, la varietà di vite coltivata. Differenza con cultivar, cépage, varietà di vite e portainnesto, il Sangiovese e l'etimologia latina.",
   },
-
   createdAt: "2026-06-06",
   updatedAt: "2026-11-14",
 };

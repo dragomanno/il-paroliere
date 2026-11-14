@@ -9,7 +9,7 @@ export const sapidita: LemmaEntry = {
   lemma: "sapidità",
   slug: "sapidita",
   partOfSpeech: "sostantivo femminile",
-  definition: "La proprietà organolettica di un alimento o di una bevanda di avere un sapore pieno, persistente e caratteristico — di «saper di qualcosa» in modo riconoscibile e soddisfacente. In enologia, la sapidità indica la presenza di sali minerali disciolti nel vino (soprattutto cloruri, solfati e fosfati), che conferiscono una sensazione di freschezza salina e di persistenza aromatica. Un vino sapido non è salato nel senso ordinario: ha una qualità minerale che richiama vagamente la percezione del sale senza essere salato, che stimola la salivazione e prolunga la persistenza in bocca. È una delle qualità più apprezzate nei vini bianchi di zone vulcaniche o marine — il Vermentino di Sardegna, il Greco di Tufo, il Chablis francese, il Muscadet sur lie della Loira sono esempi tipici di vini ad alta sapidità. In gastronomia più ampia, sapidità è sinonimo parziale di umami — il quinto gusto fondamentale, identificato dal chimico giapponese Kikunae Ikeda nel 1908 come la sensazione di «pieno, saporito, rotondo» prodotta dall'acido glutammico. Parmigiano stagionato, acciughe, funghi porcini secchi, pomodori concentrati: tutti alimenti ad altissima sapidità/umami.",
+  definition: "1. In generale, l'avere un sapore pieno, deciso e riconoscibile. 2. Nella degustazione del vino, la sensazione salina che fa salivare e allunga il sorso, spesso chiamata minerale; si lega ai sali del vino, ma non è il sapore della roccia del vigneto. 3. In senso figurato, arguzia e vivacità di un discorso o di uno scritto.",
   shortDefinition: "La proprietà di avere un sapore pieno e persistente; nel vino, sensazione salina, spesso detta minerale, che fa salivare e allunga il sorso.",
   register: [
     "tecnico (enologia, gastronomia, chimica degli alimenti)",
@@ -23,9 +23,10 @@ export const sapidita: LemmaEntry = {
   ],
   etymology: "Dal latino sapidus («saporito, gustoso»), da sapere («avere sapore», ma anche «essere saggio» — la stessa radice di saggezza e sapiente: chi sa è chi ha assaggiato il mondo). Questa doppia radice — sapore e sapienza — è una delle etimologie più ricche della lingua italiana: lo stesso verbo latino ha generato sapiente, sapido, insipido, sapienza.",
   examples: [
-    "Il Vermentino di Gallura DOCG è uno dei vini italiani più sapidi: la sensazione salina, che molti attribuiscono ai graniti e al mare, si sente chiaramente nella persistenza in bocca.",
-    "La sapidità del Parmigiano Reggiano stagionato 36 mesi è il risultato della concentrazione di glutammato libero: è il motivo per cui basta una scaglia per trasformare un piatto semplice.",
-    "Nella degustazione, sapidità non è sinonimo di salinità: è una sensazione più complessa, che riguarda la pienezza e la persistenza del sapore.",
+    "Il Vermentino di Gallura è uno dei vini italiani più sapidi: la sensazione salina, che molti attribuiscono al granito e al mare, si sente nella persistenza.",
+    "La sapidità del Parmigiano Reggiano stagionato viene dal sale e dal glutammato libero: per questo basta una scaglia per cambiare un piatto.",
+    "Nella degustazione sapidità e salinità si avvicinano, ma sapidità dice anche la pienezza e la durata del sapore.",
+    "Le sue lettere hanno una sapidità toscana che nessuna traduzione riesce a rendere.",
   ],
   synonyms: [
     {
@@ -35,14 +36,20 @@ export const sapidita: LemmaEntry = {
       note: "Non è un sinonimo esatto: la sapidità è una sensazione salina in bocca, la mineralità un'impressione più vaga e discussa, anche olfattiva.",
     },
     {
-      term: "umami",
-      register: "gastronomico",
-      context: "in gastronomia, il quinto gusto fondamentale",
+      term: "salinità",
+      register: "enologico",
+      context: "la sensazione salata del vino, quasi sinonimo nel senso 2",
     },
     {
       term: "saporosità",
       register: "comune",
       context: "qualità di avere sapore pieno",
+    },
+    {
+      term: "umami",
+      register: "gastronomico",
+      context: "il gusto del glutammato, vicino ma distinto",
+      note: "Non è un sinonimo: l'umami è un gusto fondamentale, la sapidità una sensazione più ampia, che può includerlo.",
     },
   ],
   antonyms: [
@@ -68,11 +75,15 @@ export const sapidita: LemmaEntry = {
     "Greco di Tufo",
     "Parmigiano",
     "glutammato",
-    "Ikeda",
+    "Kikunae Ikeda",
     "degustazione",
     "assaggio",
     "sommelier",
     "terroir",
+    "acidita",
+    "tannino",
+    "fruttato",
+    "salinità",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/sapidita/",
@@ -80,8 +91,8 @@ export const sapidita: LemmaEntry = {
   },
   paroliereNote: "L'etimologia di sapidità è una delle più ricche del lessico italiano: sapere nel senso di «avere sapore» e sapere nel senso di «conoscere» vengono dalla stessa radice latina. Il latino sapio significa insieme «ho sapore» e «sono saggio» — perché la saggezza è intesa come il frutto di aver assaggiato l'esperienza. Chi sa, ha assaggiato. Chi non sa, è insipido. È uno di quei nessi etimologici che cambiano il modo di sentire una parola: non solo un aggettivo enologico, ma una piccola filosofia della conoscenza.",
   seo: {
-    title: "Sapidità — enologia, gastronomia, umami, etimologia | Il Paroliere",
-    description: "Cos'è la sapidità nel vino e in cucina, differenza da salinità, connessione con umami. L'etimologia di sapere tra gusto e saggezza. Definizione originale completa.",
+    title: "Sapidità — significato nel vino, in cucina, etimologia | Il Paroliere",
+    description: "Che cos'è la sapidità: il sapore pieno in cucina, la sensazione salina del vino detta minerale, l'arguzia in figura. Differenza da umami e l'etimologia.",
   },
   editorialStatus: "reviewed",
   indexable: true,
