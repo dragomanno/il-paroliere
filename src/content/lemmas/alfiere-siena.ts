@@ -19,7 +19,7 @@ export const alfiereSiena: LemmaEntry = {
   ],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["Tratta", "barbero", "malacarne", "Contrada", "Palio di Siena", "festa-titolare"],
+  relatedWords: ["tratta-palio-siena", "barbero-siena", "malacarne", "Contrada", "Palio di Siena", "festa-titolare", "correttore", "tamburino", "alfiere"],
   sourceLinks: { treccani: "https://www.treccani.it/vocabolario/alfiere/" },
   paroliereNote:
     "L'Alfiere è l'elemento visivo del Palio che tutti ricordano: le bandiere che volano alte, i lanci precisi, i colori che raccontano una Contrada senza bisogno di parole. E la parola stessa — alfiere — viene dall'elefante: al-fīl in arabo, il pezzo degli scacchi che nel Medioevo veniva chiamato così. Un percorso lungo secoli per arrivare a Piazza del Campo.",
