@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Il progetto — Il Paroliere",
+  title: { absolute: "Il progetto — Il Paroliere" },
   description:
     "Il Paroliere è un dizionario italiano aperto, curato da Pistakkio®. " +
     "Scopri la visione, il metodo editoriale e i principi del progetto.",

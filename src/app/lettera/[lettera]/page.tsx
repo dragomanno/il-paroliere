@@ -23,7 +23,7 @@ export async function generateMetadata({
   const upper = lettera.toUpperCase();
 
   if (!process.env.DATABASE_URL) {
-    return { title: `Parole con la ${upper} — Il Paroliere` };
+    return { title: { absolute: `Parole con la ${upper} — Il Paroliere` } };
   }
 
   const allLemmas = await getAllLemmasFromDB();
@@ -32,7 +32,7 @@ export async function generateMetadata({
   ).length;
 
   return {
-    title: `Parole con la ${upper} — Il Paroliere`,
+    title: { absolute: `Parole con la ${upper} — Il Paroliere` },
     alternates: { canonical: `/lettera/${lettera.toLowerCase()}` },
     description:
       count > 0

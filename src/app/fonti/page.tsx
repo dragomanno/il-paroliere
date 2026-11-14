@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Fonti — Il Paroliere",
+  title: { absolute: "Fonti — Il Paroliere" },
   description:
     "Politica sulle fonti di Il Paroliere: cosa viene collegato, cosa non viene " +
     "copiato, come vengono usate Wiktionary e le risorse aperte.",

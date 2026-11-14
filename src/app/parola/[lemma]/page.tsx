@@ -19,12 +19,18 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { lemma: slug } = await params;
-  if (!process.env.DATABASE_URL) return { title: "Il Paroliere" };
+  if (!process.env.DATABASE_URL) return { title: { absolute: "Il Paroliere" } };
   const entry = await getLemmaFromDB(slug);
   if (!entry) return { title: "Voce non trovata" };
 
+  // Most seo.title values already end with the brand ("… | Il Paroliere"):
+  // render them as-is, otherwise the root layout template appends it twice.
+  const title = entry.seo.title.includes("Il Paroliere")
+    ? { absolute: entry.seo.title }
+    : entry.seo.title;
+
   return {
-    title: entry.seo.title,
+    title,
     description: entry.seo.description,
     alternates: { canonical: `/parola/${entry.slug}` },
     robots: entry.indexable

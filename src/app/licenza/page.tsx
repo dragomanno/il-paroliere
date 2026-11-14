@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Licenza — Il Paroliere",
+  title: { absolute: "Licenza — Il Paroliere" },
   description:
     "Licenze di Il Paroliere: codice MIT, contenuto editoriale CC BY-SA 4.0. " +
     "Come riutilizzare e attribuire correttamente.",

@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy — Il Paroliere",
+  title: { absolute: "Privacy Policy — Il Paroliere" },
   description:
     "Informativa sulla privacy di Il Paroliere: nessun cookie, nessun tracker, " +
     "nessun dato personale raccolto. Trattamento dei log di accesso ai sensi del GDPR.",
