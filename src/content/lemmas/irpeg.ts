@@ -45,6 +45,7 @@ export const irpeg: LemmaEntry = {
     "persone giuridiche",
     "società di capitali",
     "aliquota proporzionale",
+    "capitale",
   ],
 
   sourceLinks: {
@@ -72,5 +73,5 @@ export const irpeg: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-14",
 };

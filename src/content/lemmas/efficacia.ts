@@ -50,7 +50,8 @@ export const efficacia: LemmaEntry = {
     "performance",
     "rendimento",
     "incisività",
-    "potenza"
+    "potenza",
+    "kpi",
   ],
 
   examples: [
@@ -81,5 +82,5 @@ export const efficacia: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

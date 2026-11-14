@@ -48,7 +48,9 @@ export const manifatturiero: LemmaEntry = {
     "distretto industriale",
     "filiera",
     "PMI",
-    "export"
+    "export",
+    "lean",
+    "kanban",
   ],
 
   examples: [
@@ -80,5 +82,5 @@ export const manifatturiero: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

@@ -50,7 +50,9 @@ export const manifattura: LemmaEntry = {
     "fabbrica",
     "artigianato",
     "filiera",
-    "lavorazione"
+    "lavorazione",
+    "lean",
+    "kanban",
   ],
 
   examples: [
@@ -83,5 +85,5 @@ export const manifattura: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

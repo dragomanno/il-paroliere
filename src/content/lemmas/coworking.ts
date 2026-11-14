@@ -19,7 +19,7 @@ export const coworking: LemmaEntry = {
   ],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["smart working", "freelance", "ufficio", "comunità"],
+  relatedWords: ["smart working", "freelance", "ufficio", "comunità", "lavoro-agile", "startup"],
   sourceLinks: { wiktionary: "https://en.wiktionary.org/wiki/coworking" },
   paroliereNote:
     "Il coworking ha risolto un problema che il lavoro remoto aveva creato: la solitudine del professionista indipendente. Non è solo uno spazio condiviso — è un antidoto all'isolamento, un luogo dove la prossimità fisica genera conversazioni, collaborazioni e, a volte, progetti che non sarebbero nati davanti a uno schermo di casa.",
@@ -30,5 +30,5 @@ export const coworking: LemmaEntry = {
     description: "Definizione originale di 'coworking': lo spazio condiviso che risponde all'esigenza di flessibilità e comunità nel lavoro.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

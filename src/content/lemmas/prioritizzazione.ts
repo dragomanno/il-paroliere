@@ -19,7 +19,7 @@ export const prioritizzazione: LemmaEntry = {
   ],
   synonyms: [{ term: "definizione delle priorità", register: "comune", note: "forma preferita dai puristi" }],
   antonyms: [],
-  relatedWords: ["disciplina", "gestione", "organizzazione"],
+  relatedWords: ["disciplina", "gestione", "organizzazione", "kanban", "deadline", "sprint", "milestone"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/prioritizzazione" },
   paroliereNote:
     "La Crusca non l'ha ancora benedetta, ma la prioritizzazione è ormai nei verbali di ogni riunione aziendale italiana. La resistenza dei puristi è comprensibile — «definizione delle priorità» esiste ed è corretta — ma la lingua non chiede il permesso.",
@@ -30,5 +30,5 @@ export const prioritizzazione: LemmaEntry = {
     description: "Definizione originale di 'prioritizzazione': l'anglismo che ha conquistato il lessico manageriale italiano.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

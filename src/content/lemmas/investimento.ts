@@ -79,6 +79,10 @@ export const investimento: LemmaEntry = {
     "asset",
     "capitale",
     "ROI",
+    "portafoglio",
+    "kpi",
+    "startup",
+    "scalabilita",
   ],
 
   sourceLinks: {
@@ -107,5 +111,5 @@ export const investimento: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-14",
 };

@@ -93,6 +93,8 @@ export const resilienza: LemmaEntry = {
     "elasticità",
     "robustezza",
     "post-traumatic growth",
+    "burnout",
+    "rischio",
   ],
 
   sourceLinks: {
@@ -121,5 +123,5 @@ export const resilienza: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

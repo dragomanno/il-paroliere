@@ -62,6 +62,7 @@ export const ranking: LemmaEntry = {
     "topic-cluster",
     "geo",
     "indicizzazione",
+    "kpi",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/ranking/",

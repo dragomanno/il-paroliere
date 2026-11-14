@@ -40,7 +40,7 @@ export const community: LemmaEntry = {
     { term: "disconnessione", register: "comune/tecnico", context: "Interruzione del canale o della continuità di partecipazione che rende possibile l’interazione online." },
   ],
 
-  relatedWords: ["comunità", "connessione", "forum", "partecipazione", "appartenenza", "moderazione", "interazione"],
+  relatedWords: ["comunità", "connessione", "forum", "partecipazione", "appartenenza", "moderazione", "interazione", "engagement", "early-adopter"],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/community",
@@ -58,5 +58,5 @@ export const community: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

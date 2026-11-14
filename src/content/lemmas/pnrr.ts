@@ -19,7 +19,7 @@ export const pnrr: LemmaEntry = {
   ],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["resilienza", "Next Generation EU", "investimenti", "riforme"],
+  relatedWords: ["resilienza", "Next Generation EU", "investimenti", "riforme", "milestone", "kpi"],
   sourceLinks: { treccani: "https://www.governo.it/it/approfondimento/pnrr" },
   paroliereNote:
     "Il PNRR ha portato la parola resilienza nel vocabolario della politica italiana. Una parola che nel dizionario indicava la capacità di un materiale di tornare alla forma originale dopo una deformazione — e che qui è diventata la promessa di un paese che vuole riprendersi da una pandemia costruendo qualcosa di nuovo.",
@@ -30,5 +30,5 @@ export const pnrr: LemmaEntry = {
     description: "Definizione originale di 'PNRR': il Piano Nazionale di Ripresa e Resilienza e la parola che lo definisce.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

@@ -50,7 +50,8 @@ export const abnegazione: LemmaEntry = {
     "mortificazione",
     "ascesi",
     "rinuncia",
-    "devozione"
+    "devozione",
+    "burnout",
   ],
 
   examples: [
@@ -81,5 +82,5 @@ export const abnegazione: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-12",
+  updatedAt: "2026-11-14",
 };

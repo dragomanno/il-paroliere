@@ -45,6 +45,10 @@ export const fondoPensione: LemmaEntry = {
     "deduzione-fiscale",
     "reddito-imponibile",
     "irpef",
+    "welfare-aziendale",
+    "capitale",
+    "rendimento",
+    "portafoglio",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/fondo_pensione",
@@ -57,5 +61,5 @@ export const fondoPensione: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

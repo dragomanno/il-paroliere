@@ -59,6 +59,10 @@ export const ponderare: LemmaEntry = {
       },
     ],
 
+  relatedWords: [
+    "rischio",
+  ],
+
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/ponderare/",
     wiktionary: "https://it.wiktionary.org/wiki/ponderare",
@@ -77,5 +81,5 @@ export const ponderare: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

@@ -57,7 +57,7 @@ export const stigma: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["discriminazione", "pregiudizio", "identità", "esclusione"],
+  relatedWords: ["discriminazione", "pregiudizio", "identità", "esclusione", "burnout"],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/stigma",
@@ -81,5 +81,5 @@ export const stigma: LemmaEntry = {
   },
 
   createdAt: "2026-08-21",
-  updatedAt: "2026-08-21",
+  updatedAt: "2026-11-14",
 };

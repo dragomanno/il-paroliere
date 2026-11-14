@@ -49,6 +49,7 @@ export const coach: LemmaEntry = {
     "leadership",
     "tutor",
     "facilitatore",
+    "empowerment",
   ],
 
   sourceLinks: {
@@ -78,5 +79,5 @@ export const coach: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-14",
 };

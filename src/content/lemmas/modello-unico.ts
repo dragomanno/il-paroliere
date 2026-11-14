@@ -46,6 +46,7 @@ export const modelloUnico: LemmaEntry = {
     "irpef",
     "ires",
     "irap",
+    "capitale",
   ],
   sourceLinks: {},
   paroliereNote: "Unico è il nome di un'ambizione: un solo modulo per dichiarare tutto al fisco. L'ambizione è durata poco meno di vent'anni; quando la dichiarazione IVA è diventata autonoma, il nome non corrispondeva più alla realtà e il modello è diventato, più modestamente, Redditi. Nel parlato di commercialisti e contribuenti, però, «l'Unico» è ancora vivo.",
@@ -56,5 +57,5 @@ export const modelloUnico: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

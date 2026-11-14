@@ -77,6 +77,7 @@ export const depressione: LemmaEntry = {
     "carta-meteorologica",
     "ettopascal",
     "uragano",
+    "burnout",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/depressione/",

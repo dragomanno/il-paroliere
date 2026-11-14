@@ -40,7 +40,7 @@ export const potere: LemmaEntry = {
     { term: "sudditanza", register: "formale", context: "posizione di chi è soggetto al potere altrui" },
     { term: "resistenza", register: "politico", context: "opposizione attiva all'esercizio del potere" },
   ],
-  relatedWords: ["autorita", "norma", "diritto", "violenza", "consenso", "liberalismo", "coalizione", "conflitto", "epidemia", "pandemia", "trasformismo"],
+  relatedWords: ["autorita", "norma", "diritto", "violenza", "consenso", "liberalismo", "coalizione", "conflitto", "epidemia", "pandemia", "trasformismo", "empowerment"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/potere/",
     wiktionary: "https://it.wiktionary.org/wiki/potere",
@@ -58,5 +58,5 @@ export const potere: LemmaEntry = {
     description: "Potere: capacità di influenzare il comportamento altrui. Weber, Arendt, Foucault: dominio, risorsa, relazione. Diritto e politica.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

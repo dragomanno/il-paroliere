@@ -80,6 +80,7 @@ export const irpef: LemmaEntry = {
     "modello-unico",
     "Agenzia delle Entrate",
     "addizionale",
+    "capitale",
   ],
 
   sourceLinks: {
@@ -109,5 +110,5 @@ export const irpef: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

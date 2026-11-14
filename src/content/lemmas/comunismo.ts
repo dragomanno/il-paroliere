@@ -49,7 +49,8 @@ export const comunismo: LemmaEntry = {
     "fascismo",
     "nazionalismo",
     "populismo",
-    "consumismo"
+    "consumismo",
+    "capitale",
   ],
 
   sourceLinks: {
@@ -74,5 +75,5 @@ export const comunismo: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-05-30",
+  updatedAt: "2026-11-14",
 };

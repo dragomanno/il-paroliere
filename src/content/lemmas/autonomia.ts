@@ -39,7 +39,7 @@ export const autonomia: LemmaEntry = {
     { term: "dipendenza", register: "standard", context: "condizione di subordinazione a un'altra volontà" },
     { term: "sudditanza", register: "formale", context: "sottomissione a un'autorità superiore" },
   ],
-  relatedWords: ["liberta", "autodeterminazione", "diritto", "norma", "consenso"],
+  relatedWords: ["liberta", "autodeterminazione", "diritto", "norma", "consenso", "empowerment", "lavoro-agile"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/autonomia/",
     wiktionary: "https://it.wiktionary.org/wiki/autonomia",
@@ -56,5 +56,5 @@ export const autonomia: LemmaEntry = {
     description: "Autonomia: capacità di darsi la propria legge (Kant). Auto-governo individuale, enti territoriali, psicologia dello sviluppo.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-14",
 };

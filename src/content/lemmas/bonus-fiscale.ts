@@ -45,6 +45,7 @@ export const bonusFiscale: LemmaEntry = {
     "defiscalizzazione",
     "incentivo",
     "irpef",
+    "welfare-aziendale",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/bonus/",
@@ -58,5 +59,5 @@ export const bonusFiscale: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

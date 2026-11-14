@@ -55,6 +55,7 @@ export const quota: LemmaEntry = {
     "geoide",
     "igm",
     "isobata",
+    "capitale",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/quota/",

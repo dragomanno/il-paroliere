@@ -101,6 +101,8 @@ export const alienazione: LemmaEntry = {
     "capitalismo",
     "identità",
     "proprietà",
+    "capitale",
+    "burnout",
   ],
 
   sourceLinks: {
@@ -130,5 +132,5 @@ export const alienazione: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-14",
 };

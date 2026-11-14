@@ -70,7 +70,7 @@ export const appalto: LemmaEntry = {
       context: "esecuzione interna senza ricorso al mercato",
     },
   ],
-  relatedWords: ["contratto", "normativa", "cessione", "diritto", "proprieta"],
+  relatedWords: ["contratto", "normativa", "cessione", "diritto", "proprieta", "rischio", "deliverable", "milestone"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/appalto",
     wiktionary: "https://it.wiktionary.org/wiki/appalto",
@@ -90,5 +90,5 @@ export const appalto: LemmaEntry = {
       "con rischio imprenditoriale. Appalto pubblico vs privato.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

@@ -38,7 +38,7 @@ export const rivoluzioneScientifica: LemmaEntry = {
     { term: "scienza normale", register: "tecnico", note: "Nel lessico di Kuhn, la fase di lavoro ordinario dentro un paradigma condiviso e non messo in discussione — l'opposto funzionale della rivoluzione." },
   ],
 
-  relatedWords: ["paradigma", "epistemologia", "assioma", "inferenza"],
+  relatedWords: ["paradigma", "epistemologia", "assioma", "inferenza", "innovazione"],
 
   sourceLinks: {
     treccani: "https://www.treccani.it/enciclopedia/rivoluzione-scientifica",
@@ -58,5 +58,5 @@ export const rivoluzioneScientifica: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };
