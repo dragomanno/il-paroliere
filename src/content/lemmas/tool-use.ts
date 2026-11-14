@@ -48,6 +48,7 @@ export const toolUse: LemmaEntry = {
     "prompt",
     "automazione-cognitiva",
     "context-window",
+    "sottoagente",
   ],
   sourceLinks: {},
   paroliereNote: "Il modello non usa davvero lo strumento: scrive la richiesta nel formato previsto, un programma esterno la esegue e gli restituisce l'esito. La distinzione conta, perché è lì che si decidono i permessi. Il tool use separa un → chatbot da un → agente AI; protocolli come MCP, presentato da Anthropic nel 2024, cercano di renderlo uniforme fra strumenti diversi. Fuori dai testi tecnici, uso di strumenti è chiaro e va benissimo.",

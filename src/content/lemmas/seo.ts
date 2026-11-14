@@ -68,6 +68,7 @@ export const seo: LemmaEntry = {
     "geo",
     "search-intent",
     "topic-cluster",
+    "qualità del contenuto",
   ],
 
   sourceLinks: {

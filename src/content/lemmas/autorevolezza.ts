@@ -41,7 +41,7 @@ export const autorevolezza: LemmaEntry = {
     { term: "anonimato", register: "standard", context: "assenza di identità riconoscibile e reputazione pubblica" },
     { term: "irrilevanza", register: "standard", context: "mancanza di peso e riconoscimento in un determinato campo" },
   ],
-  relatedWords: ["potere", "autorita", "diritto", "e-e-a-t", "expertise", "affidabilita", "esperienza"],
+  relatedWords: ["potere", "autorita", "diritto", "e-e-a-t", "expertise", "affidabilita", "esperienza", "qualità del contenuto"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/autorevolezza/",
     wiktionary: "https://it.wiktionary.org/wiki/autorevolezza",
@@ -65,5 +65,5 @@ export const autorevolezza: LemmaEntry = {
     description: "Autorevolezza: reputazione guadagnata per competenza e coerenza. Nel framework E-E-A-T è la A di Authoritativeness; distinta da autorità ed expertise.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

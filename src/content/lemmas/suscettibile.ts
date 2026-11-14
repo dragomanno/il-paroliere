@@ -99,6 +99,7 @@ export const suscettibile: LemmaEntry = {
     "reattività",
     "passibile",
     "vulnerabilità",
+    "irascibilità",
   ],
 
   sourceLinks: {
@@ -126,5 +127,5 @@ export const suscettibile: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-14",
 };

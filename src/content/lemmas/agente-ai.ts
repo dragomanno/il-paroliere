@@ -64,6 +64,7 @@ export const agenteAi: LemmaEntry = {
     "assistente-virtuale",
     "bot",
     "context-window",
+    "sottoagente",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/agente/",

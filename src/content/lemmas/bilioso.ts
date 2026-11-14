@@ -98,6 +98,7 @@ export const bilioso: LemmaEntry = {
     "risentimento",
     "Galeno",
     "teoria degli umori",
+    "irascibilità",
   ],
 
   sourceLinks: {
@@ -125,5 +126,5 @@ export const bilioso: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-14",
 };

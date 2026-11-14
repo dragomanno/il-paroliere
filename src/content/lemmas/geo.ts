@@ -58,6 +58,7 @@ export const geo: LemmaEntry = {
     "knowledge-graph",
     "allucinazione-ai",
     "modello-linguistico",
+    "qualità del contenuto",
   ],
   sourceLinks: {},
   paroliereNote: "Sigla giovane e ancora contesa con AEO e altre formule. Il cambiamento che descrive è reale: quando la risposta arriva già scritta, spesso nessuno clicca, e la visibilità si misura in citazioni più che in visite. Molto di ciò che funziona coincide con la buona → SEO, perché i sistemi generativi recuperano le fonti attraverso i motori di ricerca (→ RAG) e premiano chiarezza, struttura e → autorevolezza. Attenzione all'omografo: in astronautica GEO è l'orbita geostazionaria, e geo- è il prefisso della terra; il contesto, di solito, scioglie ogni dubbio.",

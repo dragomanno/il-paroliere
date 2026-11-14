@@ -10,6 +10,7 @@ import { getDb } from "@/lib/db/client";
 import { lemmas } from "@/db/schema";
 import { eq, sql } from "drizzle-orm";
 import type { LemmaEntry } from "@/lib/types";
+import type { LinkTarget } from "@/lib/lemma-links";
 
 /**
  * Map a DB row to the LemmaEntry type used throughout the app.
@@ -63,6 +64,28 @@ export async function getAllSlugsFromDB(): Promise<string[]> {
   const db = getDb();
   const rows = await db.select({ slug: lemmas.slug }).from(lemmas);
   return rows.map((r) => r.slug);
+}
+
+/**
+ * Get the minimal projection needed to render internal lemma links
+ * (synonyms, antonyms, related words): slug, lemma, part of speech, domains.
+ */
+export async function getLinkTargetsFromDB(): Promise<LinkTarget[]> {
+  const db = getDb();
+  const rows = await db
+    .select({
+      slug: lemmas.slug,
+      lemma: lemmas.lemma,
+      partOfSpeech: lemmas.partOfSpeech,
+      domains: lemmas.domains,
+    })
+    .from(lemmas);
+  return rows.map((r) => ({
+    slug: r.slug,
+    lemma: r.lemma,
+    partOfSpeech: r.partOfSpeech,
+    domains: (r.domains as string[]) ?? [],
+  }));
 }
 
 /** Get all published lemmas — used by search index and homepage chips. */

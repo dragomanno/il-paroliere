@@ -853,6 +853,12 @@ import { milestone } from "./milestone";
 import { kpi } from "./kpi";
 import { smartWorking } from "./smart-working";
 import { lavoroAgile } from "./lavoro-agile";
+// Voci da correlate (2026-11)
+import { palioDiSiena } from "./palio-di-siena";
+import { qualitaDelContenuto } from "./qualita-del-contenuto";
+import { irascibilita } from "./irascibilita";
+import { sottoagente } from "./sottoagente";
+import { dirittiUmani } from "./diritti-umani";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -1679,5 +1685,11 @@ export const allLemmas: LemmaEntry[] = [
   // BATCH-019 (2026-11) — Economia, finanza e lavoro, Dove si lavora
   smartWorking,
   lavoroAgile,
+  // Voci da correlate (2026-11)
+  palioDiSiena,
+  qualitaDelContenuto,
+  irascibilita,
+  sottoagente,
+  dirittiUmani,
 ];
 

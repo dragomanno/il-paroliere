@@ -53,6 +53,7 @@ export const topicCluster: LemmaEntry = {
     "posizionamento",
     "autorevolezza",
     "e-e-a-t",
+    "qualità del contenuto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/cluster/",

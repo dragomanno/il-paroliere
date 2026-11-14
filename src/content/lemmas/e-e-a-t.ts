@@ -55,7 +55,7 @@ export const eeat: LemmaEntry = {
     },
   ],
   antonyms: [],
-  relatedWords: ["esperienza", "expertise", "autorevolezza", "affidabilita", "seo", "qualita-contenuto", "geo"],
+  relatedWords: ["esperienza", "expertise", "autorevolezza", "affidabilita", "seo", "qualità del contenuto", "geo"],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/E-E-A-T",
   },

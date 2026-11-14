@@ -56,7 +56,7 @@ export const affidabilita: LemmaEntry = {
     { term: "dubbio", register: "standard", context: "stato di incertezza sulla fonte" },
     { term: "disonestà", register: "standard", context: "violazione deliberata della fiducia" },
   ],
-  relatedWords: ["e-e-a-t", "autorevolezza", "expertise", "esperienza", "fiducia", "trasparenza"],
+  relatedWords: ["e-e-a-t", "autorevolezza", "expertise", "esperienza", "fiducia", "trasparenza", "qualità del contenuto"],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/affidabilit%C3%A0",
     treccani: "https://www.treccani.it/vocabolario/affidabilita",
@@ -79,5 +79,5 @@ export const affidabilita: LemmaEntry = {
       "In E-E-A-T è Trustworthiness, il più importante dei quattro criteri Google.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

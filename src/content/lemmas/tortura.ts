@@ -38,7 +38,7 @@ export const tortura: LemmaEntry = {
     { term: "protezione", register: "standard", context: "difesa dell'integrità fisica e psicologica" },
     { term: "rispetto della dignità", register: "formale", context: "riconoscimento del valore intrinseco della persona" },
   ],
-  relatedWords: ["violenza", "coercizione", "diritto", "diritti-umani", "detenzione"],
+  relatedWords: ["violenza", "coercizione", "diritto", "diritti umani", "detenzione"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/tortura/",
     wiktionary: "https://it.wiktionary.org/wiki/tortura",
@@ -57,5 +57,5 @@ export const tortura: LemmaEntry = {
     description: "Tortura: inflizione deliberata di dolore vietata dalla Convenzione ONU del 1984. Storia, diritto internazionale, etica del divieto assoluto.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-14",
 };
