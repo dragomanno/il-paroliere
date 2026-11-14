@@ -62,6 +62,7 @@ export const tamburino: LemmaEntry = {
     "tamburo",
     "musica medievale",
     "tradizione orale",
+    "festa-titolare",
   ],
 
   sourceLinks: {
