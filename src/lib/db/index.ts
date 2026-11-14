@@ -4,4 +4,4 @@
  */
 
 export { getDb } from "./client";
-export { getLemmaFromDB, getAllSlugsFromDB, getAllLemmasFromDB } from "./queries";
+export { getLemmaFromDB, getAllSlugsFromDB, getAllLemmasFromDB, getLinkTargetsFromDB } from "./queries";

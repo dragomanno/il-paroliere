@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getLemmaFromDB, getAllSlugsFromDB } from "@/lib/db";
+import { getLemmaFromDB, getAllSlugsFromDB, getLinkTargetsFromDB } from "@/lib/db";
+import { termToSlug, linkLabel, type LinkTarget } from "@/lib/lemma-links";
 import type { LemmaEntry } from "@/lib/types";
 import { formatDate, isoDay } from "@/lib/format-date";
 
@@ -115,57 +116,33 @@ function EmphasisText({ text }: { text: string }) {
 }
 
 /**
- * Normalises a display term to a URL slug.
- * Mirrors the slug convention used in LemmaEntry:
- *   - lowercase
- *   - spaces → hyphens
- *   - special/accented chars stripped to ASCII equivalent
- *     (Italian accents: à→a, è→e, é→e, ì→i, ò→o, ù→u)
- *     (Nordic chars: å→a, ä→a, ö→o, ø→o)
- *
- * Examples:
- *   "GenX"            → "genx"
- *   "Generazione Alpha" → "generazione-alpha"
- *   "e-commerce"      → "e-commerce"
- *   "skål"            → "skal"
- *   "slealtà"         → "slealta"
- */
-function termToSlug(term: string): string {
-  return term
-    .toLowerCase()
-    .replace(/[àáâã]/g, "a")
-    .replace(/[èéêë]/g, "e")
-    .replace(/[ìíîï]/g, "i")
-    .replace(/[òóôõ]/g, "o")
-    .replace(/[ùúûü]/g, "u")
-    .replace(/[åä]/g, "a")
-    .replace(/[öø]/g, "o")
-    .replace(/\s+/g, "-");
-}
-
-/**
- * Renders a lemma term as an internal link if the normalised slug is already
+ * Renders a lemma term as an internal link if its normalised slug is already
  * published, or as plain text if not. This prevents dead links to stubs/drafts.
+ * Linked terms show the target's lemma (see linkLabel); unlinked terms keep
+ * the text as written.
  *
  * Used in synonyms, antonyms, and relatedWords sections.
  */
 function LemmaLink({
   term,
-  publishedSlugs,
+  linkTargets,
+  current,
   className,
 }: {
   term: string;
-  publishedSlugs: Set<string>;
+  linkTargets: Map<string, LinkTarget>;
+  current: LinkTarget;
   className?: string;
 }) {
   const slug = termToSlug(term);
-  if (publishedSlugs.has(slug)) {
+  const target = linkTargets.get(slug);
+  if (target) {
     return (
       <Link
         href={`/parola/${slug}`}
         className={`hover:text-[#b8dc16] transition-colors underline underline-offset-2 decoration-[#b8dc16]/40 ${className ?? ""}`}
       >
-        {term}
+        {linkLabel(target, current)}
       </Link>
     );
   }
@@ -218,12 +195,20 @@ export default async function LemmaPage({ params }: Props) {
   const entry = await getLemmaFromDB(slug);
   if (!entry) notFound();
 
-  // Build a Set of all published slugs for O(1) conditional link checks.
-  // Re-uses the same lightweight query already run by generateStaticParams.
-  // Falls back to empty set if DB is unavailable (preview/CI environments).
-  const publishedSlugs = new Set(
-    process.env.DATABASE_URL ? await getAllSlugsFromDB() : []
+  // Build a slug → link target Map for O(1) conditional link checks and labels.
+  // Lightweight projection (slug, lemma, partOfSpeech, domains).
+  // Falls back to an empty Map if DB is unavailable (preview/CI environments).
+  const linkTargets = new Map<string, LinkTarget>(
+    (process.env.DATABASE_URL ? await getLinkTargetsFromDB() : []).map(
+      (t) => [t.slug, t]
+    )
   );
+  const currentTarget: LinkTarget = {
+    slug: entry.slug,
+    lemma: entry.lemma,
+    partOfSpeech: entry.partOfSpeech,
+    domains: entry.domains ?? [],
+  };
 
   const {
     lemma,
@@ -353,7 +338,8 @@ export default async function LemmaPage({ params }: Props) {
                   <div className="flex flex-wrap items-baseline gap-2">
                     <LemmaLink
                       term={s.term}
-                      publishedSlugs={publishedSlugs}
+                      linkTargets={linkTargets}
+                      current={currentTarget}
                       className="font-semibold text-[1rem] sm:text-[1.0625rem] text-[#f7f3e8]"
                     />
                     {s.register && (
@@ -394,7 +380,8 @@ export default async function LemmaPage({ params }: Props) {
                   <div className="flex flex-wrap items-baseline gap-2">
                     <LemmaLink
                       term={a.term}
-                      publishedSlugs={publishedSlugs}
+                      linkTargets={linkTargets}
+                      current={currentTarget}
                       className="font-semibold text-[1rem] sm:text-[1.0625rem] text-[#f7f3e8]"
                     />
                     {a.register && (
@@ -426,7 +413,8 @@ export default async function LemmaPage({ params }: Props) {
                 <LemmaLink
                   key={word}
                   term={word}
-                  publishedSlugs={publishedSlugs}
+                  linkTargets={linkTargets}
+                  current={currentTarget}
                   className="tag-pos"
                 />
               ))}
