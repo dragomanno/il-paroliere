@@ -48,7 +48,14 @@ export const opportunismo: LemmaEntry = {
     { term: "principio", register: "etico", note: "Il criterio stabile di scelta che l’opportunismo non ha o non segue." },
   ],
 
-  relatedWords: ["ipocrisia", "malafede", "doppiezza", "cinismo", "adulazione"],
+  relatedWords: [
+    "ipocrisia",
+    "malafede",
+    "doppiezza",
+    "cinismo",
+    "adulazione",
+    "opportunismo-politico",
+  ],
   sourceLinks: {},
 
   paroliereNote:
@@ -68,5 +75,5 @@ export const opportunismo: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

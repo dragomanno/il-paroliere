@@ -83,6 +83,7 @@ export const demagogia: LemmaEntry = {
     "propaganda",
     "consenso",
     "retorica",
+    "antipolitica",
   ],
 
   sourceLinks: {
@@ -113,5 +114,5 @@ export const demagogia: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

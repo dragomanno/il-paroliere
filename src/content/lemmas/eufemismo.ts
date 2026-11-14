@@ -50,6 +50,12 @@ export const eufemismo: LemmaEntry = {
       },
     ],
 
+  relatedWords: [
+    "antifrasi",
+    "figura-retorica",
+    "metafora",
+    "arrivederci",
+  ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/eufemismo/",
     wiktionary: "https://it.wiktionary.org/wiki/eufemismo",
@@ -68,5 +74,5 @@ export const eufemismo: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

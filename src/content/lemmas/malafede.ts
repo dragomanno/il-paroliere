@@ -47,7 +47,16 @@ export const malafede: LemmaEntry = {
     { term: "lealtà", register: "comune", note: "La fedeltà alle regole del gioco, inclusa quella di non fingere di seguirle mentre le si viola." },
   ],
 
-  relatedWords: ["ipocrisia", "doppiezza", "opportunismo", "fiducia", "lealta"],
+  relatedWords: [
+    "ipocrisia",
+    "doppiezza",
+    "opportunismo",
+    "fiducia",
+    "lealta",
+    "sarcasmo",
+    "cinismo-politico",
+    "dialogo",
+  ],
   sourceLinks: {},
 
   paroliereNote:
@@ -68,5 +77,5 @@ export const malafede: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

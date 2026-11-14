@@ -76,6 +76,7 @@ export const pregiudizio: LemmaEntry = {
     "discriminazione",
     "stereotipo",
     "accoglienza",
+    "luogo-comune",
   ],
 
   sourceLinks: {
@@ -99,5 +100,5 @@ export const pregiudizio: LemmaEntry = {
   },
 
   createdAt: "2026-06-08",
-  updatedAt: "2026-06-08",
+  updatedAt: "2026-11-14",
 };

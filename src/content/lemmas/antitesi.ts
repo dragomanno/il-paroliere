@@ -47,7 +47,9 @@ export const antitesi: LemmaEntry = {
 
   relatedWords: [
     "tesi",
-    "sintesi"
+    "sintesi",
+    "figura-retorica",
+    "ossimoro",
   ],
 
   sourceLinks: {
@@ -72,5 +74,5 @@ export const antitesi: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-05-30",
+  updatedAt: "2026-11-14",
 };

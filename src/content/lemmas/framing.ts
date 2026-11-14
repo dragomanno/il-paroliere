@@ -85,6 +85,8 @@ export const framing: LemmaEntry = {
     "narrativa",
     "spin",
     "rischio",
+    "metafora",
+    "dibattito",
   ],
 
   sourceLinks: {

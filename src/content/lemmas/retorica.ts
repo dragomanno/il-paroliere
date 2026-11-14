@@ -83,6 +83,17 @@ export const retorica: LemmaEntry = {
     "persuasione",
     "captatio benevolentiae",
     "argomentazione",
+    "satira",
+    "antifrasi",
+    "figura-retorica",
+    "metafora",
+    "analogia",
+    "ossimoro",
+    "luogo-comune",
+    "cliche",
+    "lapalissiano",
+    "dialogo",
+    "dibattito",
   ],
 
   sourceLinks: {
@@ -113,5 +124,5 @@ export const retorica: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

@@ -71,6 +71,7 @@ export const scrupolo: LemmaEntry = {
     "remora",
     "esitazione",
     "dubbio",
+    "meticolosita",
   ],
 
   sourceLinks: {
@@ -95,5 +96,5 @@ export const scrupolo: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

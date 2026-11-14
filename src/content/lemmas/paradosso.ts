@@ -58,6 +58,10 @@ export const paradosso: LemmaEntry = {
     "logica",
     "sofisma",
     "dilemma",
+    "analogia",
+    "ossimoro",
+    "luogo-comune",
+    "lapalissiano",
   ],
 
   sourceLinks: {
@@ -83,5 +87,5 @@ export const paradosso: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

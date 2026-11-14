@@ -56,7 +56,17 @@ export const dialettica: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["filosofia", "idee-platoniche", "dubbio", "retorica"],
+  relatedWords: [
+    "filosofia",
+    "idee-platoniche",
+    "dubbio",
+    "retorica",
+    "analogia",
+    "mediazione",
+    "dialogo",
+    "confronto",
+    "dibattito",
+  ],
 
   sourceLinks: {},
 
@@ -73,5 +83,5 @@ export const dialettica: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-14",
 };

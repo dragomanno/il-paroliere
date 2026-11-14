@@ -49,7 +49,9 @@ export const menefreghismo: LemmaEntry = {
   ],
 
   relatedWords: [
-    "dissimulare"
+    "dissimulare",
+    "altruismo",
+    "callosita",
   ],
 
   sourceLinks: {
@@ -81,5 +83,5 @@ export const menefreghismo: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-05-30",
+  updatedAt: "2026-11-14",
 };

@@ -37,7 +37,15 @@ export const metonimia: LemmaEntry = {
     { term: "designazione diretta", register: "comune", note: "L'uso del nome proprio dell'oggetto o del concetto, senza mediazione figurata." },
   ],
 
-  relatedWords: ["iperbole", "litote", "perifrasi"],
+  relatedWords: [
+    "iperbole",
+    "litote",
+    "perifrasi",
+    "figura-retorica",
+    "metafora",
+    "camp-david",
+    "mar-a-lago",
+  ],
 
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/metonimia/",
@@ -57,5 +65,5 @@ export const metonimia: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

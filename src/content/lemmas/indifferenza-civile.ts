@@ -67,7 +67,18 @@ export const indifferenzaCivile: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["astensionismo", "cinismo", "fatalismo", "sociologia", "modernita-liquida", "antisocialita"],
+  relatedWords: [
+    "astensionismo",
+    "cinismo",
+    "fatalismo",
+    "sociologia",
+    "modernita-liquida",
+    "antisocialita",
+    "altruismo",
+    "callosita",
+    "antipolitica",
+    "cinismo-politico",
+  ],
 
   sourceLinks: {},
 
@@ -91,5 +102,5 @@ export const indifferenzaCivile: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-14",
 };

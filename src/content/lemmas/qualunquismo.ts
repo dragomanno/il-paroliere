@@ -78,6 +78,8 @@ export const qualunquismo: LemmaEntry = {
     "Guglielmo Giannini",
     "Fronte dell",
     "populismo",
+    "luogo-comune",
+    "antipolitica",
   ],
 
   sourceLinks: {
@@ -105,5 +107,5 @@ export const qualunquismo: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

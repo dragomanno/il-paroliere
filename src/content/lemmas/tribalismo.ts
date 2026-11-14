@@ -56,7 +56,14 @@ export const tribalismo: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["tribù", "etnocentrismo", "polarizzazione", "appartenenza", "fazione"],
+  relatedWords: [
+    "tribù",
+    "etnocentrismo",
+    "polarizzazione",
+    "appartenenza",
+    "fazione",
+    "polarizzazione-sociale",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/tribalismo",
@@ -80,5 +87,5 @@ export const tribalismo: LemmaEntry = {
   },
 
   createdAt: "2026-08-21",
-  updatedAt: "2026-08-21",
+  updatedAt: "2026-11-14",
 };
