@@ -37,7 +37,7 @@ export const alfiere: LemmaEntry = {
     "comune nel senso figurato",
     "storico-militare",
   ],
-  domains: ["tradizione senese", "Palio", "storia", "arte performativa", "scacchi"],
+  domains: ["storia", "tradizione senese", "Palio", "arte performativa", "scacchi"],
 
   etymology:
     "Dall'arabo al-fīl («l'elefante»), passato allo spagnolo alférez («portabandiera militare») " +
