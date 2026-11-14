@@ -49,7 +49,6 @@ export const palioDiSiena: LemmaEntry = {
     "alfiere-siena",
     "tamburino",
     "correttore",
-    "malacarne",
     "alleanza",
     "drappellone",
     "fantino",
