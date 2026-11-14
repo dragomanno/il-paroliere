@@ -85,6 +85,7 @@ export const fermentazione: LemmaEntry = {
     "diraspatura",
     "vinificazione",
     "macerazione",
+    "vendemmia",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/fermentazione/",

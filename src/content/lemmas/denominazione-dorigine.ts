@@ -82,6 +82,7 @@ export const denominazioneDorigine: LemmaEntry = {
     "extravergine",
     "cru",
     "supertuscan",
+    "vitigno",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/denominazione/",

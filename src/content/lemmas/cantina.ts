@@ -86,6 +86,7 @@ export const cantina: LemmaEntry = {
     "lievito",
     "assemblaggio",
     "cuvee",
+    "vinaggio",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/cantina/",

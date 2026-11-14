@@ -86,6 +86,8 @@ export const disciplinare: LemmaEntry = {
     "affinamento",
     "assemblaggio",
     "supertuscan",
+    "olio-doliva",
+    "vendemmia",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/disciplinare1/",
