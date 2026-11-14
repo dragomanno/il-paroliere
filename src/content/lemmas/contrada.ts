@@ -61,7 +61,7 @@ export const contrada: LemmaEntry = {
     "tamburino",
     "correttore",
     "barbero-siena",
-    "tratta-palio",
+    "tratta-palio-siena",
     "patrono",
     "devozione",
     "appartenenza",
