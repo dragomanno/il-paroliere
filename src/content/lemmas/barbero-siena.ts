@@ -19,7 +19,7 @@ export const barberoSiena: LemmaEntry = {
   ],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["Tratta", "malacarne", "Contrada", "Palio di Siena"],
+  relatedWords: ["Tratta", "malacarne", "Contrada", "Palio di Siena", "alfiere-siena"],
   sourceLinks: { treccani: "https://www.treccani.it/vocabolario/barbero/" },
   paroliereNote:
     "Il barbero è protagonista e strumento al tempo stesso: corre per la Contrada, ma non ne porta i colori nel cuore. Il Palio è vinto dal cavallo, anche senza fantino — e questo dice molto di quanto il barbero sia al centro della tradizione senese.",
@@ -30,5 +30,5 @@ export const barberoSiena: LemmaEntry = {
     description: "Definizione originale di 'barbero': il cavallo del Palio di Siena, dalla storica razza barbaresca nordafricana.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

@@ -59,7 +59,7 @@ export const correttore: LemmaEntry = {
 
   relatedWords: [
     "tamburino",
-    "alfiere",
+    "alfiere-siena",
     "Contrada",
     "Palio di Siena",
     "Siena",
@@ -92,5 +92,5 @@ export const correttore: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

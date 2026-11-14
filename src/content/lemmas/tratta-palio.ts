@@ -19,7 +19,7 @@ export const trattaPalio: LemmaEntry = {
   ],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["barbero", "malacarne", "Contrada", "Palio di Siena", "alfiere"],
+  relatedWords: ["barbero", "malacarne", "Contrada", "Palio di Siena", "alfiere-siena"],
   sourceLinks: {},
   paroliereNote:
     "La Tratta è il momento in cui il destino di una Contrada si decide in pochi minuti. Un sorteggio che sembra casuale, ma apre stagioni di alleanze, trattative, speranze e rinunce. Nel lessico senese, la parola porta il peso di secoli di strategia.",
@@ -30,5 +30,5 @@ export const trattaPalio: LemmaEntry = {
     description: "Definizione originale di 'Tratta': il sorteggio dei cavalli del Palio di Siena, tre giorni prima della corsa.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };
