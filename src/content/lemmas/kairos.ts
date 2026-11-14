@@ -98,6 +98,7 @@ export const kairos: LemmaEntry = {
     "opportunità",
     "retorica",
     "aion",
+    "first-mover",
   ],
 
   sourceLinks: {
@@ -130,5 +131,5 @@ export const kairos: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

@@ -50,7 +50,7 @@ export const retrogrado: LemmaEntry = {
     { term: "avanguardista", register: "formale" },
   ],
 
-  relatedWords: ["boomer", "conservatore", "reazionario", "tradizionalista", "parruccone", "GenX", "millennial"],
+  relatedWords: ["boomer", "conservatore", "reazionario", "tradizionalista", "parruccone", "GenX", "millennial", "smart-working"],
 
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/retrogrado/",
@@ -76,5 +76,5 @@ export const retrogrado: LemmaEntry = {
   },
 
   createdAt: "2026-06-07",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

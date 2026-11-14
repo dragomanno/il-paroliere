@@ -38,7 +38,7 @@ export const liberismo: LemmaEntry = {
     { term: "statalismo", register: "politico", context: "dottrina che assegna allo Stato un ruolo centrale nell'economia" },
     { term: "interventismo", register: "tecnico-economico", context: "politica di intervento attivo dello Stato nel sistema produttivo" },
   ],
-  relatedWords: ["liberalismo", "liberal", "capitalismo", "mercato", "proprieta", "norma"],
+  relatedWords: ["liberalismo", "liberal", "capitalismo", "mercato", "proprieta", "norma", "capitale"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/liberismo/",
     wiktionary: "https://it.wiktionary.org/wiki/liberismo",
@@ -56,5 +56,5 @@ export const liberismo: LemmaEntry = {
     description: "Liberismo: dottrina del libero mercato con minimo intervento statale. Distinto dal liberalismo politico; Smith, neoliberismo.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

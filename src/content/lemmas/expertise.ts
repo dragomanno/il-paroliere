@@ -53,7 +53,7 @@ export const expertise: LemmaEntry = {
     { term: "dilettantismo", register: "standard", context: "pratica senza metodo né formazione" },
     { term: "pressapochismo", register: "colloquiale", context: "scarsa cura nella qualità" },
   ],
-  relatedWords: ["e-e-a-t", "esperienza", "autorevolezza", "affidabilita", "seo"],
+  relatedWords: ["e-e-a-t", "esperienza", "autorevolezza", "affidabilita", "seo", "recruitment", "onboarding"],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/expertise",
   },
@@ -75,5 +75,5 @@ export const expertise: LemmaEntry = {
       "Terzo elemento del framework E-E-A-T di Google.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

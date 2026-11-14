@@ -61,6 +61,8 @@ export const automazioneCognitiva: LemmaEntry = {
     "modello-linguistico",
     "chatbot",
     "algoritmo",
+    "innovazione",
+    "scalabilita",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/automazione/",

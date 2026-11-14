@@ -40,6 +40,7 @@ export const irap: LemmaEntry = {
     "irpeg",
     "aliquota",
     "imponibile",
+    "capitale",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/irap/",
@@ -53,5 +54,5 @@ export const irap: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

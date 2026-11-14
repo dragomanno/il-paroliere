@@ -66,6 +66,7 @@ export const effervescente: LemmaEntry = {
     "esuberante",
     "dinamico",
     "energia",
+    "startup",
   ],
 
   sourceLinks: {
@@ -90,5 +91,5 @@ export const effervescente: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-14",
 };

@@ -68,6 +68,7 @@ export const frustrazione: LemmaEntry = {
     "accettazione",
     "relazione",
     "dipendenza",
+    "burnout",
   ],
 
   sourceLinks: {
@@ -87,5 +88,5 @@ export const frustrazione: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-08-24",
+  updatedAt: "2026-11-14",
 };

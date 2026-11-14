@@ -62,7 +62,7 @@ export const inclusione: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["esclusione", "appartenenza", "diversità", "accessibilità", "rappresentanza"],
+  relatedWords: ["esclusione", "appartenenza", "diversità", "accessibilità", "rappresentanza", "empowerment"],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/inclusione",
@@ -86,5 +86,5 @@ export const inclusione: LemmaEntry = {
   },
 
   createdAt: "2026-08-21",
-  updatedAt: "2026-08-21",
+  updatedAt: "2026-11-14",
 };

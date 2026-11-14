@@ -50,6 +50,7 @@ export const igm: LemmaEntry = {
     "coordinate-geografiche",
     "geodesia",
     "isobata",
+    "capitale",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/enciclopedia/istituto-geografico-militare_(Dizionario-delle-Scienze-Fisiche)/",

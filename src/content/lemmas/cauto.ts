@@ -59,6 +59,10 @@ export const cauto: LemmaEntry = {
       },
     ],
 
+  relatedWords: [
+    "rischio",
+  ],
+
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/cauto/",
     wiktionary: "https://it.wiktionary.org/wiki/cauto",
@@ -77,5 +81,5 @@ export const cauto: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-12",
+  updatedAt: "2026-11-14",
 };

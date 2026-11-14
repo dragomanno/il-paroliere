@@ -50,6 +50,11 @@ export const fidelizzazione: LemmaEntry = {
       },
     ],
 
+  relatedWords: [
+    "engagement",
+    "turnover",
+  ],
+
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/fidelizzazione",
   },
@@ -67,5 +72,5 @@ export const fidelizzazione: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

@@ -98,6 +98,7 @@ export const saturazione: LemmaEntry = {
     "termodinamica",
     "nebbia",
     "rugiada",
+    "scalabilita",
   ],
 
   sourceLinks: {

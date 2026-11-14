@@ -84,6 +84,7 @@ export const framing: LemmaEntry = {
     "effetto alone",
     "narrativa",
     "spin",
+    "rischio",
   ],
 
   sourceLinks: {
@@ -115,5 +116,5 @@ export const framing: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

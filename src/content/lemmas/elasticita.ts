@@ -45,7 +45,7 @@ export const elasticita: LemmaEntry = {
     { term: "fragilità", register: "comune", note: "Si rompe sotto la pressione invece di cedere e tornare." },
   ],
 
-  relatedWords: ["tonicita", "atrofia", "flosco", "proporzione"],
+  relatedWords: ["tonicita", "atrofia", "flosco", "proporzione", "agile"],
 
   paroliereNote:
     "L’elasticità è più sofisticata della flessibilità: non è solo piegarsi, è piegarsi e " +
@@ -65,5 +65,5 @@ export const elasticita: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

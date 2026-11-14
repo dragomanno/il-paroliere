@@ -51,7 +51,9 @@ export const dedizione: LemmaEntry = {
     "sacrificio",
     "passione",
     "costanza",
-    "cura"
+    "cura",
+    "engagement",
+    "burnout",
   ],
 
   examples: [
@@ -82,5 +84,5 @@ export const dedizione: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

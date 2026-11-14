@@ -48,7 +48,7 @@ export const fiducia: LemmaEntry = {
     { term: "sfiducia", register: "comune-politico", note: "La perdita attiva di fiducia, spesso a seguito di una delusione." },
   ],
 
-  relatedWords: ["lealta", "diffidenza", "trasparenza", "malafede"],
+  relatedWords: ["lealta", "diffidenza", "trasparenza", "malafede", "rischio"],
   sourceLinks: {},
 
   paroliereNote:
@@ -69,5 +69,5 @@ export const fiducia: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

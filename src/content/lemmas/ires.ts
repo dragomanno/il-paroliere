@@ -49,6 +49,7 @@ export const ires: LemmaEntry = {
     "detrazione-fiscale",
     "f24",
     "società di capitali",
+    "capitale",
   ],
 
   sourceLinks: {
@@ -76,5 +77,5 @@ export const ires: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

@@ -74,6 +74,7 @@ export const corporazioni: LemmaEntry = {
     "lavoro",
     "artigianato",
     "welfare medievale",
+    "welfare-aziendale",
   ],
 
   sourceLinks: {
@@ -101,5 +102,5 @@ export const corporazioni: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

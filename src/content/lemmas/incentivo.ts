@@ -47,6 +47,8 @@ export const incentivo: LemmaEntry = {
     "rinforzo positivo",
     "nudge",
     "motivazione",
+    "welfare-aziendale",
+    "engagement",
   ],
 
   sourceLinks: {
@@ -72,5 +74,5 @@ export const incentivo: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

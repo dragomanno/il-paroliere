@@ -40,7 +40,7 @@ export const paradigma: LemmaEntry = {
     { term: "eccezione", register: "comune", note: "Nell'uso corrente, ciò che sfugge al modello dominante senza necessariamente scalzarlo." },
   ],
 
-  relatedWords: ["rivoluzione-scientifica", "epistemologia", "assioma", "inferenza"],
+  relatedWords: ["rivoluzione-scientifica", "epistemologia", "assioma", "inferenza", "innovazione"],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/paradigma",
@@ -59,5 +59,5 @@ export const paradigma: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

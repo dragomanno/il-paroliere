@@ -93,6 +93,7 @@ export const probabile: LemmaEntry = {
     "indizio",
     "standard probatorio",
     "ragionevole dubbio",
+    "rischio",
   ],
 
   sourceLinks: {
@@ -121,5 +122,5 @@ export const probabile: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

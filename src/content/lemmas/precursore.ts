@@ -95,6 +95,8 @@ export const precursore: LemmaEntry = {
     "startup",
     "pioniere",
     "avanguardia",
+    "first-mover",
+    "early-adopter",
   ],
 
   sourceLinks: {
@@ -123,5 +125,5 @@ export const precursore: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

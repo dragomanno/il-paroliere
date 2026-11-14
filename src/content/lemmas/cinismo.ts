@@ -69,7 +69,7 @@ export const cinismo: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["fatalismo", "indifferenza-civile", "astensionismo", "dialettica", "diffidenza", "modernita-liquida"],
+  relatedWords: ["fatalismo", "indifferenza-civile", "astensionismo", "dialettica", "diffidenza", "modernita-liquida", "burnout"],
 
   sourceLinks: {},
 
@@ -93,5 +93,5 @@ export const cinismo: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

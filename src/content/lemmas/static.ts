@@ -822,6 +822,37 @@ import { searchIntent } from "./search-intent";
 import { ranking } from "./ranking";
 import { topicCluster } from "./topic-cluster";
 import { geo } from "./geo";
+// BATCH-019 (2026-11) — Economia, finanza e lavoro
+import { rendimento } from "./rendimento";
+import { rischio } from "./rischio";
+import { asset } from "./asset";
+import { capitale } from "./capitale";
+import { roi } from "./roi";
+import { portafoglio } from "./portafoglio";
+import { burnout } from "./burnout";
+import { engagement } from "./engagement";
+import { empowerment } from "./empowerment";
+import { recruitment } from "./recruitment";
+import { onboarding } from "./onboarding";
+import { turnover } from "./turnover";
+import { welfareAziendale } from "./welfare-aziendale";
+import { startup } from "./startup";
+import { innovazione } from "./innovazione";
+import { firstMover } from "./first-mover";
+import { earlyAdopter } from "./early-adopter";
+import { pioniere } from "./pioniere";
+import { scalabilita } from "./scalabilita";
+import { lean } from "./lean";
+import { agile } from "./agile";
+import { sprint } from "./sprint";
+import { kanban } from "./kanban";
+import { stakeholder } from "./stakeholder";
+import { deliverable } from "./deliverable";
+import { deadline } from "./deadline";
+import { milestone } from "./milestone";
+import { kpi } from "./kpi";
+import { smartWorking } from "./smart-working";
+import { lavoroAgile } from "./lavoro-agile";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -1612,5 +1643,41 @@ export const allLemmas: LemmaEntry[] = [
   ranking,
   topicCluster,
   geo,
+  // BATCH-019 (2026-11) — Economia, finanza e lavoro, Rendere e rischiare
+  rendimento,
+  rischio,
+  asset,
+  capitale,
+  roi,
+  portafoglio,
+  // BATCH-019 (2026-11) — Economia, finanza e lavoro, Persone e lavoro
+  burnout,
+  engagement,
+  empowerment,
+  recruitment,
+  onboarding,
+  turnover,
+  welfareAziendale,
+  // BATCH-019 (2026-11) — Economia, finanza e lavoro, Innovare e arrivare primi
+  startup,
+  innovazione,
+  firstMover,
+  earlyAdopter,
+  pioniere,
+  scalabilita,
+  // BATCH-019 (2026-11) — Economia, finanza e lavoro, Metodi di lavoro
+  lean,
+  agile,
+  sprint,
+  kanban,
+  // BATCH-019 (2026-11) — Economia, finanza e lavoro, Progetti e misure
+  stakeholder,
+  deliverable,
+  deadline,
+  milestone,
+  kpi,
+  // BATCH-019 (2026-11) — Economia, finanza e lavoro, Dove si lavora
+  smartWorking,
+  lavoroAgile,
 ];
 

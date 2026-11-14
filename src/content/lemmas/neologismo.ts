@@ -37,7 +37,7 @@ export const neologismo: LemmaEntry = {
     { term: "arcaismo", register: "tecnico-linguistico", note: "Termine caduto in disuso, opposto simmetrico del neologismo sull'asse temporale della lingua." },
   ],
 
-  relatedWords: ["prestito-linguistico", "calco", "burocratese"],
+  relatedWords: ["prestito-linguistico", "calco", "burocratese", "engagement"],
 
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/neologismo/",
@@ -57,5 +57,5 @@ export const neologismo: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

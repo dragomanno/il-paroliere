@@ -42,6 +42,7 @@ export const cedolareSecca: LemmaEntry = {
     "flat-tax",
     "aliquota",
     "regime-fiscale",
+    "rendimento",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/cedolare/",
@@ -55,5 +56,5 @@ export const cedolareSecca: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

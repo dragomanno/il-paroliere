@@ -71,6 +71,7 @@ export const distacco: LemmaEntry = {
     "estraneamento",
     "alienazione",
     "accettazione",
+    "burnout",
   ],
 
   sourceLinks: {
@@ -90,5 +91,5 @@ export const distacco: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

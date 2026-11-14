@@ -93,6 +93,9 @@ export const liquidita: LemmaEntry = {
     "flessibilità",
     "precarietà",
     "globalizzazione",
+    "asset",
+    "portafoglio",
+    "rendimento",
   ],
 
   sourceLinks: {
@@ -120,5 +123,5 @@ export const liquidita: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

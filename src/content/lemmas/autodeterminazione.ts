@@ -38,7 +38,7 @@ export const autodeterminazione: LemmaEntry = {
     { term: "colonialismo", register: "storico-politico", context: "dominio esterno che nega l'autogoverno" },
     { term: "imposizione", register: "standard", context: "costrizione proveniente da un'autorità esterna" },
   ],
-  relatedWords: ["autonomia", "liberta", "diritto", "consenso", "norma"],
+  relatedWords: ["autonomia", "liberta", "diritto", "consenso", "norma", "empowerment"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/autodeterminazione/",
     wiktionary: "https://it.wiktionary.org/wiki/autodeterminazione",
@@ -56,5 +56,5 @@ export const autodeterminazione: LemmaEntry = {
     description: "Autodeterminazione: diritto di popoli e individui di decidere il proprio destino. Diritto internazionale, etica, bioetica.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-14",
 };

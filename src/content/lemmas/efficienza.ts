@@ -50,7 +50,11 @@ export const efficienza: LemmaEntry = {
     "ottimizzazione",
     "performance",
     "risorsa",
-    "output"
+    "output",
+    "lean",
+    "kpi",
+    "kanban",
+    "scalabilita",
   ],
 
   examples: [
@@ -82,5 +86,5 @@ export const efficienza: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

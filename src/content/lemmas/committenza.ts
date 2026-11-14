@@ -92,6 +92,9 @@ export const committenza: LemmaEntry = {
     "progettista",
     "artista",
     "architetto",
+    "rischio",
+    "deliverable",
+    "stakeholder",
   ],
 
   sourceLinks: {
@@ -120,5 +123,5 @@ export const committenza: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

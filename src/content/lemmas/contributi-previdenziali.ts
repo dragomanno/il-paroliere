@@ -46,6 +46,7 @@ export const contributiPrevidenziali: LemmaEntry = {
     "reddito-imponibile",
     "partita-iva",
     "sostituto-dimposta",
+    "welfare-aziendale",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/contributo/",
@@ -59,5 +60,5 @@ export const contributiPrevidenziali: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };
