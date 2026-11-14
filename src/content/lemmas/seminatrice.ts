@@ -61,6 +61,11 @@ export const seminatrice: LemmaEntry = {
     "seme",
     "cereali",
     "agricoltura meccanizzata",
+    "aratro",
+    "solco",
+    "coltura",
+    "raccolta",
+    "irrigazione",
   ],
 
   sourceLinks: {
@@ -86,5 +91,5 @@ export const seminatrice: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

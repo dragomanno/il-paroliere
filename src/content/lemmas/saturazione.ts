@@ -99,6 +99,8 @@ export const saturazione: LemmaEntry = {
     "nebbia",
     "rugiada",
     "scalabilita",
+    "cantina",
+    "fermentazione",
   ],
 
   sourceLinks: {

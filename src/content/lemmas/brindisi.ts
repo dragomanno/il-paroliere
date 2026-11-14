@@ -59,6 +59,9 @@ export const brindisi: LemmaEntry = {
     "skål",
     "Zum Wohl",
     "Cheers",
+    "enoteca",
+    "sommelier",
+    "cantina",
   ],
 
   sourceLinks: {
@@ -84,5 +87,5 @@ export const brindisi: LemmaEntry = {
   },
 
   createdAt: "2026-06-12",
-  updatedAt: "2026-06-12",
+  updatedAt: "2026-11-14",
 };

@@ -56,7 +56,7 @@ export const frode: LemmaEntry = {
     { term: "trasparenza", register: "standard", context: "assenza di occultamento" },
     { term: "buona fede", register: "tecnico-giuridico", context: "principio contrattuale opposto al dolo" },
   ],
-  relatedWords: ["evasione", "contratto", "diritto", "norma", "reato", "illecito"],
+  relatedWords: ["evasione", "contratto", "diritto", "norma", "reato", "illecito", "dop", "denominazione-dorigine", "disciplinare"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/frode",
     wiktionary: "https://it.wiktionary.org/wiki/frode",
@@ -77,5 +77,5 @@ export const frode: LemmaEntry = {
       "Frode fiscale, informatica, in commercio. Dolo specifico.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-14",
 };

@@ -71,6 +71,13 @@ export const vinaggio: LemmaEntry = {
     "DOCG",
     "Supertuscans",
     "enologia",
+    "blend",
+    "botte",
+    "barrique",
+    "cantina",
+    "enologo",
+    "igt",
+    "varietale",
   ],
 
   sourceLinks: {
@@ -99,5 +106,5 @@ export const vinaggio: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-14",
 };

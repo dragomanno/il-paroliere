@@ -19,7 +19,7 @@ export const sbalzo: LemmaEntry = {
   ],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["cesellatura", "oreficeria", "architettura", "modanatura"],
+  relatedWords: ["cesellatura", "oreficeria", "architettura", "modanatura", "grappolo"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/sbalzo" },
   paroliereNote:
     "Lo sbalzo è uno dei pochi termini tecnici condivisi tra metallurgia e architettura con la stessa logica di fondo: qualcosa che sporge, che si proietta, che occupa lo spazio oltre il suo limite naturale. Anche gli orafi etruschi lavoravano a sbalzo le sottili lamine d'oro, come le brattee da cucire su vesti e cinture, accanto alla granulazione e alla filigrana, che restano le tecniche più celebri della loro oreficeria: un filo diretto con la Toscana più antica.",
@@ -30,5 +30,5 @@ export const sbalzo: LemmaEntry = {
     description: "Definizione originale di 'sbalzo': la tecnica orafa, l'elemento architettonico e il loro filo comune.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

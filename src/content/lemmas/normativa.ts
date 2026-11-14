@@ -40,7 +40,7 @@ export const normativa: LemmaEntry = {
     { term: "deregulation", register: "tecnico-economico", context: "eliminazione o riduzione delle norme che vincolano un settore" },
     { term: "vuoto normativo", register: "tecnico-giuridico", context: "assenza di norme applicabili a una fattispecie" },
   ],
-  relatedWords: ["norma", "diritto", "legge", "contratto", "appalto", "cessione"],
+  relatedWords: ["norma", "diritto", "legge", "contratto", "appalto", "cessione", "disciplinare", "denominazione-dorigine"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/normativa/",
     wiktionary: "https://it.wiktionary.org/wiki/normativa",
@@ -59,5 +59,5 @@ export const normativa: LemmaEntry = {
     description: "Normativa: insieme di norme che disciplinano un settore, di rango diverso (leggi, decreti, regolamenti). Linguaggio giuridico e amministrativo.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-08",
+  updatedAt: "2026-11-14",
 };

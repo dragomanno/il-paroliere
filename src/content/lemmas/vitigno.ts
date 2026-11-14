@@ -53,6 +53,14 @@ export const vitigno: LemmaEntry = {
     "terroir",
     "fillossera",
     "enologia",
+    "cepage",
+    "varietale",
+    "grappolo",
+    "coltura",
+    "blend",
+    "disciplinare",
+    "enologo",
+    "denominazione-dorigine",
   ],
 
   sourceLinks: {
@@ -79,5 +87,5 @@ export const vitigno: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-14",
 };

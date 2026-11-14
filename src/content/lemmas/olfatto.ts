@@ -52,7 +52,10 @@ export const olfatto: LemmaEntry = {
     "recettore",
     "memoria olfattiva",
     "proust",
-    "sinestesia"
+    "sinestesia",
+    "degustazione",
+    "persistenza",
+    "sommelier",
   ],
 
   examples: [
@@ -86,5 +89,5 @@ export const olfatto: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

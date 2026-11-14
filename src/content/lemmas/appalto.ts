@@ -70,7 +70,7 @@ export const appalto: LemmaEntry = {
       context: "esecuzione interna senza ricorso al mercato",
     },
   ],
-  relatedWords: ["contratto", "normativa", "cessione", "diritto", "proprieta", "rischio", "deliverable", "milestone"],
+  relatedWords: ["contratto", "normativa", "cessione", "diritto", "proprieta", "rischio", "deliverable", "milestone", "disciplinare"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/appalto",
     wiktionary: "https://it.wiktionary.org/wiki/appalto",

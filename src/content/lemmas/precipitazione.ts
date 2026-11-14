@@ -66,6 +66,7 @@ export const precipitazione: LemmaEntry = {
     "nebbia",
     "pluviometro",
     "pioviggine",
+    "irrigazione",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/precipitazione/",

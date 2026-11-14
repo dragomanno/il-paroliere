@@ -60,6 +60,9 @@ export const allaSalute: LemmaEntry = {
     "skål",
     "Zum Wohl",
     "Cheers",
+    "enoteca",
+    "sommelier",
+    "cantina",
   ],
 
   sourceLinks: {
@@ -83,5 +86,5 @@ export const allaSalute: LemmaEntry = {
   },
 
   createdAt: "2026-06-12",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

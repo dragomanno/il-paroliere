@@ -66,6 +66,9 @@ export const trebbiatrice: LemmaEntry = {
     "civiltà contadina",
     "mezzadria",
     "Toscana",
+    "raccolta",
+    "aratro",
+    "coltura",
   ],
 
   sourceLinks: {
@@ -92,5 +95,5 @@ export const trebbiatrice: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

@@ -35,7 +35,11 @@ export const pistacchio: LemmaEntry = {
   ],
 
   relatedWords: [
-    "pistakkio"
+    "pistakkio",
+    "dop",
+    "disciplinare",
+    "denominazione-dorigine",
+    "coltura",
   ],
 
   sourceLinks: {
@@ -65,5 +69,5 @@ export const pistacchio: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-05-30",
+  updatedAt: "2026-11-14",
 };

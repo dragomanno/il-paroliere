@@ -1,0 +1,95 @@
+// Il Paroliere — Lemma: disciplinare
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
+// IMPORTANT: all definitions and examples are original.
+// External sources linked, not copied.
+
+import type { LemmaEntry } from "@/lib/types";
+
+export const disciplinare: LemmaEntry = {
+  lemma: "disciplinare",
+  slug: "disciplinare",
+  partOfSpeech: "sostantivo maschile; anche aggettivo",
+  gender: "maschile",
+  definition: "1. Documento che fissa le regole da rispettare per svolgere un'attività o per avere diritto a un nome: il disciplinare di produzione di una DOP, di una IGP o di un vino DOC stabilisce zona, materie prime, rese, tecniche e controlli; negli appalti, il disciplinare di gara indica come partecipare e come saranno valutate le offerte. 2. Come aggettivo, relativo alla disciplina intesa come insieme di regole e sanzioni di un'organizzazione: procedimento disciplinare.",
+  shortDefinition: "Documento che fissa le regole di un prodotto tutelato o di una gara; come aggettivo, legato a sanzioni: procedimento disciplinare.",
+  register: [
+    "tecnico-giuridico",
+    "burocratico",
+    "comune",
+  ],
+  domains: [
+    "diritto agroalimentare",
+    "diritto amministrativo",
+    "enologia",
+  ],
+  etymology: "Dal latino tardo disciplinaris «relativo all'insegnamento, alla regola», da disciplina, che è da discipulus «allievo», a sua volta legato a discere «imparare». L'uso come sostantivo per il documento normativo è tipico del linguaggio amministrativo del Novecento. Esiste anche il verbo disciplinare, «regolare» o «sottoporre a disciplina», dalla stessa radice.",
+  examples: [
+    "Il disciplinare del Chianti Classico chiede almeno l'80% di Sangiovese.",
+    "Nel disciplinare del Bolgheri Sassicaia ci sono anche i diciotto mesi in botti di rovere da non più di 225 litri.",
+    "Il disciplinare di gara premia l'offerta economicamente più vantaggiosa, non solo il prezzo più basso.",
+    "Per quel ritardo gli hanno aperto un procedimento disciplinare, e lui ancora non ci crede.",
+  ],
+  synonyms: [
+    {
+      term: "regolamento",
+      register: "comune",
+      context: "più generico; il disciplinare è il regolamento di un prodotto o di una procedura precisa",
+    },
+    {
+      term: "capitolato",
+      register: "tecnico-giuridico",
+      context: "negli appalti, il documento che descrive le prestazioni richieste",
+      note: "Il capitolato dice che cosa fare, il disciplinare di gara come partecipare.",
+    },
+    {
+      term: "protocollo",
+      register: "comune",
+      context: "nel senso 1, per procedure tecniche adottate volontariamente",
+    },
+  ],
+  antonyms: [
+    {
+      term: "arbitrio",
+      register: "comune",
+      context: "nel senso 1, dove manca una regola condivisa e ciascuno decide da sé",
+    },
+  ],
+  relatedWords: [
+    "disciplina",
+    "dop",
+    "igp",
+    "doc",
+    "docg",
+    "igt",
+    "denominazione-dorigine",
+    "normativa",
+    "norma",
+    "appalto",
+    "committenza",
+    "contratto",
+    "consuetudine",
+    "irrigazione",
+    "barrique",
+    "mosto",
+    "botte",
+    "vitigno",
+    "uvaggio",
+    "vinaggio",
+    "consorzio di tutela",
+    "capitolato",
+    "procedimento disciplinare",
+  ],
+  sourceLinks: {
+    treccani: "https://www.treccani.it/vocabolario/disciplinare1/",
+    wiktionary: "https://it.wiktionary.org/wiki/disciplinare",
+  },
+  paroliereNote: "Disciplinare e → disciplina sono parenti stretti, ma non vanno confusi. La disciplina, nella scheda già pubblicata, è una qualità della persona, la capacità di darsi regole e mantenerle; il disciplinare è un documento, scritto da qualcuno perché altri lo rispettino. Nel lessico agroalimentare è il cuore di ogni → denominazione d'origine: dice dove, con che cosa e come si produce, e quando cambia cambia il prodotto. Leggerlo riserva sorprese istruttive: molti disciplinari del vino vietano le «pratiche di forzatura» ma ammettono l'→ irrigazione di soccorso, cioè l'acqua data solo per salvare la pianta nei periodi di siccità; altri fissano il legno e la misura dei contenitori, come la → barrique. Negli appalti il disciplinare di gara accompagna il bando e il capitolato. Come aggettivo, infine, la parola è quasi sempre legata a una sanzione: guarda alla disciplina dall'esterno, come controllo, più che come virtù.",
+  seo: {
+    title: "Disciplinare — significato nei prodotti DOP, negli appalti e come aggettivo | Il Paroliere",
+    description: "Che cosa significa disciplinare: il documento con le regole di una DOP, di un vino DOC o di una gara d'appalto, e l'aggettivo di sanzioni e procedimenti.",
+  },
+  editorialStatus: "reviewed",
+  indexable: true,
+  createdAt: "2026-11-14",
+  updatedAt: "2026-11-14",
+};

@@ -19,7 +19,7 @@ export const cesellatura: LemmaEntry = {
   ],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["sbalzo", "oreficeria", "bullinatura", "pellame", "coltelleria"],
+  relatedWords: ["sbalzo", "oreficeria", "bullinatura", "pellame", "coltelleria", "grappolo"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/cesellatura" },
   paroliereNote:
     "«Cesellato» è uno dei complimenti più alti per un testo letterario — significa lavorato con cura maniacale, parola per parola. La metafora viene direttamente dall'oreficeria: un mestiere in cui la differenza tra buono e straordinario si vede solo avvicinando molto l'occhio.",
@@ -30,5 +30,5 @@ export const cesellatura: LemmaEntry = {
     description: "Definizione originale di 'cesellatura': la tecnica orafa e la sua potente vita metaforica nel lessico letterario.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-12",
+  updatedAt: "2026-11-14",
 };

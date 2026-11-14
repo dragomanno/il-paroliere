@@ -44,6 +44,9 @@ export const crasi: LemmaEntry = {
     { term: "separazione", register: "comune", context: "Divisione di ciò che era unito; contrario del processo di crasi" }
   ],
 
+  relatedWords: [
+    "blend",
+  ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/crasi"
   },
@@ -78,5 +81,5 @@ export const crasi: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

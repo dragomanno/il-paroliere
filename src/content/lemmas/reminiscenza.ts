@@ -101,6 +101,7 @@ export const reminiscenza: LemmaEntry = {
     "Fedro",
     "Proust",
     "inconscio",
+    "persistenza",
   ],
 
   sourceLinks: {
@@ -131,5 +132,5 @@ export const reminiscenza: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

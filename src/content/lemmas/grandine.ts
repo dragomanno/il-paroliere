@@ -53,6 +53,8 @@ export const grandine: LemmaEntry = {
     "pioggia",
     "zero-termico",
     "fronte-atmosferico",
+    "raccolta",
+    "coltura",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/grandine/",

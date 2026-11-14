@@ -72,6 +72,8 @@ export const sedimento: LemmaEntry = {
     "deposito",
     "stratificazione",
     "fondale",
+    "botte",
+    "mosto",
   ],
 
   sourceLinks: {
@@ -96,5 +98,5 @@ export const sedimento: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

@@ -88,6 +88,7 @@ export const fervore: LemmaEntry = {
     "entusiasmo",
     "devozione",
     "effervescenza",
+    "fermentazione",
   ],
 
   sourceLinks: {
@@ -114,5 +115,5 @@ export const fervore: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-14",
 };

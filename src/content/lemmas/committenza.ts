@@ -95,6 +95,7 @@ export const committenza: LemmaEntry = {
     "rischio",
     "deliverable",
     "stakeholder",
+    "disciplinare",
   ],
 
   sourceLinks: {
