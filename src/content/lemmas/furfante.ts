@@ -40,7 +40,7 @@ export const furfante: LemmaEntry = {
     { term: "galantuomo", register: "comune", context: "uomo di condotta onesta e irreprensibile" },
     { term: "probo", register: "formale", context: "di integrità morale riconosciuta" },
   ],
-  relatedWords: ["birbante", "mascalzone", "canaglia", "farabutto", "malandrino", "imbroglione"],
+  relatedWords: ["birbante", "mascalzone", "canaglia", "farabutto", "malandrino", "imbroglione", "malacarne"],
   sourceLinks: {},
   paroliereNote:
     "Il furfante è il personaggio disonesto più simpatico della lingua italiana. " +
@@ -54,5 +54,5 @@ export const furfante: LemmaEntry = {
       "Definizione originale di 'furfante': disonesto di registro letterario, figura da romanzo d'avventura. Distinto da farabutto, mascalzone, birbante.",
   },
   createdAt: "2026-06-12",
-  updatedAt: "2026-06-12",
+  updatedAt: "2026-11-14",
 };
