@@ -51,7 +51,8 @@ export const pendenza: LemmaEntry = {
     "discesa",
     "curva",
     "debito",
-    "contenzioso"
+    "contenzioso",
+    "equidistanza",
   ],
 
   examples: [
@@ -83,5 +84,5 @@ export const pendenza: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

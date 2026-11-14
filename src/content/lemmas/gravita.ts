@@ -65,7 +65,7 @@ export const gravita: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["levità", "lieve", "peso", "serietà", "grave", "caduta"],
+  relatedWords: ["levità", "lieve", "peso", "serietà", "grave", "caduta", "geoide", "geodesia"],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/gravit%C3%A0",
@@ -89,5 +89,5 @@ export const gravita: LemmaEntry = {
   },
 
   createdAt: "2026-08-21",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

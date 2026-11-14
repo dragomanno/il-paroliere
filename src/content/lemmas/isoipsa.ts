@@ -73,6 +73,9 @@ export const isoipsa: LemmaEntry = {
     "cima",
     "valle",
     "crinale",
+    "isobata",
+    "geodesia",
+    "geoide",
   ],
 
   sourceLinks: {
@@ -99,5 +102,5 @@ export const isoipsa: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

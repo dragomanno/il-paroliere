@@ -719,6 +719,81 @@ import { anelito } from "./anelito";
 import { flexare } from "./flexare";
 // Voce singola (2026-11) — Gemini
 import { gemini } from "./gemini";
+// BATCH-017 (2026-11) — Scienze della Terra e dell'atmosfera
+import { pressioneAtmosferica } from "./pressione-atmosferica";
+import { anticiclone } from "./anticiclone";
+import { ciclone } from "./ciclone";
+import { uragano } from "./uragano";
+import { tifone } from "./tifone";
+import { depressione } from "./depressione";
+import { gradienteBarico } from "./gradiente-barico";
+import { millibar } from "./millibar";
+import { ettopascal } from "./ettopascal";
+import { fronteAtmosferico } from "./fronte-atmosferico";
+import { vento } from "./vento";
+import { cartaMeteorologica } from "./carta-meteorologica";
+import { temperatura } from "./temperatura";
+import { calore } from "./calore";
+import { canicola } from "./canicola";
+import { solleone } from "./solleone";
+import { troposfera } from "./troposfera";
+import { tropopausa } from "./tropopausa";
+import { stratosfera } from "./stratosfera";
+import { gradienteTermico } from "./gradiente-termico";
+import { inversioneTermica } from "./inversione-termica";
+import { zeroTermico } from "./zero-termico";
+import { climatologia } from "./climatologia";
+import { fasciaClimatica } from "./fascia-climatica";
+import { cartografia } from "./cartografia";
+import { geodesia } from "./geodesia";
+import { geoide } from "./geoide";
+import { scalaCartografica } from "./scala-cartografica";
+import { igm } from "./igm";
+import { altitudine } from "./altitudine";
+import { quota } from "./quota";
+import { equidistanza } from "./equidistanza";
+import { isobata } from "./isobata";
+import { batimetria } from "./batimetria";
+import { topografia } from "./topografia";
+import { rilievo } from "./rilievo";
+import { longitudine } from "./longitudine";
+import { latitudine } from "./latitudine";
+import { equatore } from "./equatore";
+import { tropico } from "./tropico";
+import { circoloPolare } from "./circolo-polare";
+import { greenwich } from "./greenwich";
+import { fusoOrario } from "./fuso-orario";
+import { coordinateGeografiche } from "./coordinate-geografiche";
+import { gps } from "./gps";
+import { termodinamica } from "./termodinamica";
+import { entropia } from "./entropia";
+import { leggeDiBoyle } from "./legge-di-boyle";
+import { condensazione } from "./condensazione";
+import { evaporazione } from "./evaporazione";
+import { umiditaRelativa } from "./umidita-relativa";
+import { puntoDiRugiada } from "./punto-di-rugiada";
+import { precipitazione } from "./precipitazione";
+import { pioggia } from "./pioggia";
+import { pioviggine } from "./pioviggine";
+import { temporale } from "./temporale";
+import { cumulonembo } from "./cumulonembo";
+import { neve } from "./neve";
+import { grandine } from "./grandine";
+import { nebbia } from "./nebbia";
+import { foschia } from "./foschia";
+import { caligine } from "./caligine";
+import { rugiada } from "./rugiada";
+import { brina } from "./brina";
+import { galaverna } from "./galaverna";
+import { calaverna } from "./calaverna";
+import { gelicidio } from "./gelicidio";
+import { vetrone } from "./vetrone";
+import { barometro } from "./barometro";
+import { pascal } from "./pascal";
+import { pluviometro } from "./pluviometro";
+import { kelvin } from "./kelvin";
+import { joule } from "./joule";
+import { caloria } from "./caloria";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -1396,5 +1471,86 @@ export const allLemmas: LemmaEntry[] = [
   cedolareSecca,
   impostaDiSuccessione,
   canoneRai,
+  // BATCH-017 (2026-11) — Scienze della Terra e dell'atmosfera, sottogruppo A: pressione e circolazione
+  pressioneAtmosferica,
+  anticiclone,
+  ciclone,
+  uragano,
+  tifone,
+  depressione,
+  gradienteBarico,
+  millibar,
+  ettopascal,
+  fronteAtmosferico,
+  vento,
+  cartaMeteorologica,
+  // BATCH-017 (2026-11) — Scienze della Terra e dell'atmosfera, sottogruppo B: temperatura e clima
+  temperatura,
+  calore,
+  canicola,
+  solleone,
+  troposfera,
+  tropopausa,
+  stratosfera,
+  gradienteTermico,
+  inversioneTermica,
+  zeroTermico,
+  climatologia,
+  fasciaClimatica,
+  // BATCH-017 (2026-11) — Scienze della Terra e dell'atmosfera, sottogruppo C: cartografia e misura del terreno
+  cartografia,
+  geodesia,
+  geoide,
+  scalaCartografica,
+  igm,
+  altitudine,
+  quota,
+  equidistanza,
+  isobata,
+  batimetria,
+  topografia,
+  rilievo,
+  // BATCH-017 (2026-11) — Scienze della Terra e dell'atmosfera, sottogruppo D: reticolo geografico e tempo
+  longitudine,
+  latitudine,
+  equatore,
+  tropico,
+  circoloPolare,
+  greenwich,
+  fusoOrario,
+  coordinateGeografiche,
+  gps,
+  // BATCH-017 (2026-11) — Scienze della Terra e dell'atmosfera, sottogruppo E: termodinamica e vapore
+  termodinamica,
+  entropia,
+  leggeDiBoyle,
+  condensazione,
+  evaporazione,
+  umiditaRelativa,
+  puntoDiRugiada,
+  // BATCH-017 (2026-11) — Scienze della Terra e dell'atmosfera, sottogruppo F: idrometeore e nubi
+  precipitazione,
+  pioggia,
+  pioviggine,
+  temporale,
+  cumulonembo,
+  neve,
+  grandine,
+  nebbia,
+  foschia,
+  caligine,
+  rugiada,
+  brina,
+  galaverna,
+  calaverna,
+  gelicidio,
+  vetrone,
+  // BATCH-017 (2026-11) — Scienze della Terra e dell'atmosfera, sottogruppo G: strumenti e unità di misura
+  barometro,
+  pascal,
+  pluviometro,
+  kelvin,
+  joule,
+  caloria,
 ];
 

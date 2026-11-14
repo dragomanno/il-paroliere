@@ -62,9 +62,12 @@ export const isoterma: LemmaEntry = {
     "gradiente termico",
     "zero termico",
     "climatologia",
-    "fasce climatiche",
+    "fascia climatica",
     "fronte atmosferico",
     "legge di Boyle",
+    "inversione termica",
+    "troposfera",
+    "stratosfera",
   ],
 
   sourceLinks: {
@@ -90,5 +93,5 @@ export const isoterma: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };
