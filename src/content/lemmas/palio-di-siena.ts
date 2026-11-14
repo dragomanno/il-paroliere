@@ -57,6 +57,10 @@ export const palioDiSiena: LemmaEntry = {
     "cavallo scosso",
     "Piazza del Campo",
     "corteo storico",
+    "comune-medievale",
+    "folklore",
+    "patrono",
+    "festa-titolare",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/palio/",

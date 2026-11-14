@@ -79,6 +79,7 @@ export const solco: LemmaEntry = {
     "vinile",
     "sulcus primigenius",
     "tradizione",
+    "rinnovo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/solco/",

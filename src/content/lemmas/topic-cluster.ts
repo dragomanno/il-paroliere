@@ -55,6 +55,7 @@ export const topicCluster: LemmaEntry = {
     "e-e-a-t",
     "qualità del contenuto",
     "grappolo",
+    "architettura",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/cluster/",

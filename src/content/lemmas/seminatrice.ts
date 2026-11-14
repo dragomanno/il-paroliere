@@ -66,6 +66,7 @@ export const seminatrice: LemmaEntry = {
     "coltura",
     "raccolta",
     "irrigazione",
+    "rinnovo",
   ],
 
   sourceLinks: {

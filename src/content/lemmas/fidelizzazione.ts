@@ -53,6 +53,8 @@ export const fidelizzazione: LemmaEntry = {
   relatedWords: [
     "engagement",
     "turnover",
+    "sponsorizzazione",
+    "referral",
   ],
 
   sourceLinks: {

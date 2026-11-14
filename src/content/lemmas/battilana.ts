@@ -19,7 +19,7 @@ export const battilana: LemmaEntry = {
   ],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["guelfo", "ghibellino", "Firenze medievale", "Arte della Lana", "Ciompi"],
+  relatedWords: ["guelfo", "ghibellino", "Firenze medievale", "Arte della Lana", "Ciompi", "arti-medievali", "rivoltoso"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/battilana" },
   paroliereNote:
     "I battilana erano l'ultimo anello della catena produttiva della lana fiorentina — il lavoro più duro, meno pagato, privo di rappresentanza nelle arti. La rivolta dei Ciompi del 1378 è rimasta nella storia come il primo tentativo organizzato di lavoratori non qualificati di ottenere diritti. Una storia che suona sorprendentemente moderna.",
@@ -30,5 +30,5 @@ export const battilana: LemmaEntry = {
     description: "Definizione originale di 'battilana': l'artigiano medievale e la rivolta dei Ciompi del 1378.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-12",
+  updatedAt: "2026-11-14",
 };

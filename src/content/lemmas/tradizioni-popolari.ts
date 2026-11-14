@@ -1,0 +1,85 @@
+// Il Paroliere — Lemma: tradizioni popolari
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
+// IMPORTANT: all definitions and examples are original.
+// External sources linked, not copied.
+
+import type { LemmaEntry } from "@/lib/types";
+
+export const tradizioniPopolari: LemmaEntry = {
+  lemma: "tradizioni popolari",
+  slug: "tradizioni-popolari",
+  partOfSpeech: "locuzione sostantivale femminile plurale",
+  gender: "femminile",
+  definition: "1. Le usanze, le feste, i riti, i canti, le fiabe, i proverbi, le tecniche di lavoro e i saperi domestici che una comunità tramanda da una generazione all'altra, spesso fuori dalla scuola e dalla scrittura. 2. Storia delle tradizioni popolari, la disciplina universitaria che li studia, nella tradizione italiana chiamata anche demologia.",
+  shortDefinition: "Usanze, feste, canti, racconti e saperi che una comunità tramanda fra generazioni; anche la disciplina che li studia.",
+  register: [
+    "comune",
+    "tecnico",
+  ],
+  domains: [
+    "tradizioni popolari",
+    "antropologia culturale",
+    "folklore",
+  ],
+  etymology: "Tradizione viene dal latino traditio, «consegna, trasmissione», da tradere, «consegnare, affidare»; popolare da populus, «popolo». La tradizione è letteralmente qualcosa che si passa di mano. Lo stesso verbo latino ha dato anche tradire, perché consegnare può voler dire consegnare al nemico: un'ambivalenza che ricorda come ogni tradizione, passando di mano, cambi un poco.",
+  examples: [
+    "Il museo delle tradizioni popolari conserva aratri, telai ed ex voto donati dalle famiglie del paese.",
+    "Nel corso di storia delle tradizioni popolari abbiamo registrato i canti di questua di tre frazioni.",
+    "Le tradizioni popolari non sono fossili: cambiano ogni volta che qualcuno le ripete.",
+    "La nonna conosceva a memoria le formule contro il malocchio, ma non le chiamava tradizioni popolari.",
+  ],
+  synonyms: [
+    {
+      term: "folklore",
+      register: "comune",
+      context: "il termine internazionale, con una sfumatura ironica nell'uso corrente",
+    },
+    {
+      term: "demologia",
+      register: "tecnico",
+      context: "il nome della disciplina",
+    },
+    {
+      term: "usanze",
+      register: "comune",
+      context: "le pratiche, senza i saperi e i racconti",
+    },
+    {
+      term: "patrimonio culturale immateriale",
+      register: "tecnico",
+      context: "nella terminologia della Convenzione UNESCO del 2003",
+      note: "Inquadra le stesse pratiche in chiave di tutela.",
+    },
+  ],
+  antonyms: [],
+  relatedWords: [
+    "folklore",
+    "rito-agrario",
+    "maggio",
+    "infiorata",
+    "sagra",
+    "festa-patronale",
+    "festa-titolare",
+    "processione",
+    "maggiolata",
+    "consuetudine",
+    "memoria",
+    "radici",
+    "identita",
+    "comunita",
+    "contrada",
+  ],
+  sourceLinks: {
+    treccani: "https://www.treccani.it/vocabolario/tradizione/",
+    wiktionary: "https://it.wiktionary.org/wiki/tradizione",
+  },
+  paroliereNote: "Tradizioni popolari è il nome che l'università italiana ha scelto per evitare l'ambiguità di → [folklore](https://ilparoliere.online/parola/folklore). La scelta dice molto: tradizione mette l'accento sulla trasmissione, popolare sul gruppo sociale che trasmette. Alberto Mario Cirese ha proposto di leggere questo patrimonio attraverso i dislivelli di cultura, cioè come il sapere dei gruppi rimasti ai margini della cultura ufficiale. Il punto delicato è l'autenticità. Molte tradizioni che sembrano antichissime sono state ricostruite o reinventate nel Novecento, a volte per il turismo, a volte per orgoglio locale, e non per questo sono false: una tradizione vive finché qualcuno la pratica e la riconosce. La → [maggiolata](https://ilparoliere.online/parola/maggiolata), la → [sagra](https://ilparoliere.online/parola/sagra), la → [festa patronale](https://ilparoliere.online/parola/festa-patronale) e l'→ [infiorata](https://ilparoliere.online/parola/infiorata) sono esempi diversi di questo equilibrio fra memoria e invenzione. A Siena la → [Festa Titolare](https://ilparoliere.online/parola/festa-titolare) mostra come una tradizione possa avere regole scritte e restare popolare.",
+  seo: {
+    title: "Tradizioni popolari — significato e disciplina | Il Paroliere",
+    description: "Che cosa sono le tradizioni popolari: usanze, feste, canti e saperi tramandati, la demologia e il rapporto fra autenticità e invenzione. Etimologia ed esempi.",
+  },
+  editorialStatus: "reviewed",
+  indexable: true,
+  createdAt: "2026-11-14",
+  updatedAt: "2026-11-14",
+};

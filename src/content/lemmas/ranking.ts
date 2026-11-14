@@ -63,6 +63,7 @@ export const ranking: LemmaEntry = {
     "geo",
     "indicizzazione",
     "kpi",
+    "referral",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/ranking/",

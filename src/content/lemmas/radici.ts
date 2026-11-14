@@ -69,6 +69,7 @@ export const radici: LemmaEntry = {
     "nostalgia",
     "terroir",
     "coltura",
+    "tradizioni-popolari",
   ],
 
   sourceLinks: {

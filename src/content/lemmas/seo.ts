@@ -69,6 +69,9 @@ export const seo: LemmaEntry = {
     "search-intent",
     "topic-cluster",
     "qualità del contenuto",
+    "affiliazione",
+    "referral",
+    "architettura",
   ],
 
   sourceLinks: {

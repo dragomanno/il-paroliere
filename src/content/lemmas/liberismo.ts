@@ -38,7 +38,7 @@ export const liberismo: LemmaEntry = {
     { term: "statalismo", register: "politico", context: "dottrina che assegna allo Stato un ruolo centrale nell'economia" },
     { term: "interventismo", register: "tecnico-economico", context: "politica di intervento attivo dello Stato nel sistema produttivo" },
   ],
-  relatedWords: ["liberalismo", "liberal", "capitalismo", "mercato", "proprieta", "norma", "capitale"],
+  relatedWords: ["liberalismo", "liberal", "capitalismo", "mercato", "proprieta", "norma", "capitale", "corporativismo"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/liberismo/",
     wiktionary: "https://it.wiktionary.org/wiki/liberismo",

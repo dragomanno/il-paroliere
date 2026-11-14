@@ -86,6 +86,9 @@ export const vendemmia: LemmaEntry = {
     "vigneto",
     "viticoltura",
     "olivicoltura",
+    "rito-agrario",
+    "ciclo-stagionale",
+    "sagra",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/vendemmia/",

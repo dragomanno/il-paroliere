@@ -56,7 +56,7 @@ export const identita: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["memoria", "coscienza", "trauma", "appartenenza", "alterità", "terroir", "denominazione-dorigine"],
+  relatedWords: ["memoria", "coscienza", "trauma", "appartenenza", "alterità", "terroir", "denominazione-dorigine", "folklore", "tradizioni-popolari", "contrada"],
 
   sourceLinks: {},
 

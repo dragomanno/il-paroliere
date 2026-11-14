@@ -19,7 +19,7 @@ export const abside: LemmaEntry = {
   ],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["navata", "presbiterio", "basilica", "modanatura"],
+  relatedWords: ["navata", "presbiterio", "basilica", "modanatura", "progettista", "architettura"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/abside" },
   paroliereNote:
     "L'abside è la parte di una chiesa dove lo spazio smette di essere corridoio e diventa destinazione. La sua forma concava — che raccoglie, che abbraccia — non è casuale: è la risposta architettonica alla necessità liturgica di un centro. Mosaici e affreschi absidali sono spesso le immagini più alte di un'intera tradizione artistica.",
@@ -30,5 +30,5 @@ export const abside: LemmaEntry = {
     description: "Definizione originale di 'abside': la parte finale della chiesa tra architettura e liturgia.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-12",
+  updatedAt: "2026-11-14",
 };

@@ -1,0 +1,86 @@
+// Il Paroliere — Lemma: sagra
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
+// IMPORTANT: all definitions and examples are original.
+// External sources linked, not copied.
+
+import type { LemmaEntry } from "@/lib/types";
+
+export const sagra: LemmaEntry = {
+  lemma: "sagra",
+  slug: "sagra",
+  partOfSpeech: "sostantivo femminile",
+  gender: "femminile",
+  definition: "1. Festa popolare organizzata da un paese o da un quartiere attorno a un prodotto tipico, a un piatto o a una ricorrenza, con stand gastronomici, musica, balli e bancarelle. 2. In origine e ancora in alcune regioni, festa religiosa per l'anniversario della dedicazione di una chiesa, o per il santo della parrocchia. 3. In senso figurato e ironico, grande abbondanza di qualcosa di poco pregio.",
+  shortDefinition: "Festa popolare di paese attorno a un prodotto o a un piatto tipico; in origine festa della consacrazione di una chiesa.",
+  register: [
+    "comune",
+    "regionale",
+  ],
+  domains: [
+    "tradizioni popolari",
+    "gastronomia",
+    "folklore",
+    "tradizioni religiose",
+  ],
+  etymology: "Dal latino sacra, plurale neutro di sacer, «sacro», poi sentito come femminile singolare: le cose sacre, cioè i riti. Nel Medioevo la parola indica la consacrazione di una chiesa e l'anniversario che la ricorda, con la fiera che l'accompagnava. In Veneto e in Friuli conserva ancora il valore di festa parrocchiale, mentre nel resto d'Italia è diventata soprattutto festa del cibo.",
+  examples: [
+    "Ad agosto la sagra dei pici riempie la piazza di tavolate e di fumo di brace.",
+    "Per la sagra del paese, in Friuli, si celebra prima la messa e poi si balla sotto il tendone.",
+    "Il convegno è stato una sagra di luoghi comuni sull'intelligenza artificiale.",
+    "Molte sagre nate negli anni Settanta oggi si presentano come antichissime.",
+  ],
+  synonyms: [
+    {
+      term: "festa paesana",
+      register: "comune",
+      context: "senza riferimento al cibo",
+    },
+    {
+      term: "fiera",
+      register: "comune",
+      context: "quando prevalgono commercio e bancarelle",
+      note: "La fiera nasce come mercato; la sagra come festa.",
+    },
+    {
+      term: "festa patronale",
+      register: "comune",
+      context: "senso 2, quando la ricorrenza è il santo patrono",
+    },
+    {
+      term: "festival",
+      register: "comune",
+      context: "per eventi gastronomici di taglio più commerciale",
+    },
+  ],
+  antonyms: [],
+  relatedWords: [
+    "festa-patronale",
+    "festivita",
+    "processione",
+    "patrono",
+    "folklore",
+    "tradizioni-popolari",
+    "ciclo-stagionale",
+    "rito-agrario",
+    "infiorata",
+    "maggio",
+    "sponsorizzazione",
+    "vendemmia",
+    "pici",
+    "ribollita",
+    "fegatelli",
+  ],
+  sourceLinks: {
+    treccani: "https://www.treccani.it/vocabolario/sagra/",
+    wiktionary: "https://it.wiktionary.org/wiki/sagra",
+  },
+  paroliereNote: "La sagra ha fatto un viaggio lungo: dal sacro al piatto di → [pici](https://ilparoliere.online/parola/pici). In origine è la festa della consacrazione di una chiesa e il nome lo dice, perché viene dal latino sacra ([WordOrigin](https://wordorigin.app/it/etymology/sagra)). Nel Nord-Est il senso religioso resiste e la sagra è ancora la festa della parrocchia; nel resto d'Italia, dal secondo dopoguerra, è diventata soprattutto un evento gastronomico estivo, spesso organizzato da pro loco e associazioni per finanziare le proprie attività. Molte sagre sono recenti e non c'è niente di male, ma conviene ricordarlo quando il cartello promette tradizioni millenarie. Il legame con il → [ciclo stagionale](https://ilparoliere.online/parola/ciclo-stagionale) resta forte: la sagra della castagna in autunno, quella dei → [fegatelli](https://ilparoliere.online/parola/fegatelli) d'inverno, quella della → [ribollita](https://ilparoliere.online/parola/ribollita) quando il cavolo nero è al punto giusto. Per la festa con il santo al centro, → [festa patronale](https://ilparoliere.online/parola/festa-patronale). L'uso ironico, una sagra di banalità, dice abbondanza e poca qualità.",
+  seo: {
+    title: "Sagra — significato, etimologia e festa patronale | Il Paroliere",
+    description: "Che cos'è una sagra: la festa di paese attorno a un piatto tipico, l'origine nella consacrazione delle chiese e il senso ironico. Etimologia ed esempi.",
+  },
+  editorialStatus: "reviewed",
+  indexable: true,
+  createdAt: "2026-11-14",
+  updatedAt: "2026-11-14",
+};

@@ -50,6 +50,7 @@ export const searchIntent: LemmaEntry = {
     "posizionamento",
     "vettore-semantico",
     "qualità del contenuto",
+    "ciclo-stagionale",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/intent",

@@ -64,6 +64,8 @@ export const stakeholder: LemmaEntry = {
     "pnrr",
     "appalto",
     "sostenibilità",
+    "sponsor",
+    "committente",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/stakeholder_(Neologismi)/",

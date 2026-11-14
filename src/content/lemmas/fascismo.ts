@@ -52,6 +52,7 @@ export const fascismo: LemmaEntry = {
     "populismo",
     "comunismo",
     "aratro",
+    "corporativismo",
   ],
 
   sourceLinks: {

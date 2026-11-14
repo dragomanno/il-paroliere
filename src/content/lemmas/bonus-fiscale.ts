@@ -46,6 +46,7 @@ export const bonusFiscale: LemmaEntry = {
     "incentivo",
     "irpef",
     "welfare-aziendale",
+    "mecenatismo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/bonus/",

@@ -19,7 +19,7 @@ export const ribollita: LemmaEntry = {
   ],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["pici", "fegatelli", "cavolo nero", "cucina povera", "toscana", "fruttato"],
+  relatedWords: ["pici", "fegatelli", "cavolo nero", "cucina povera", "toscana", "fruttato", "sagra"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/ribollita" },
   paroliereNote:
     "La ribollita è nata per non sprecare: il pane raffermo, la minestra di ieri, le verdure avanzate. Il giorno dopo era migliore del giorno prima — e così è rimasta. Un piatto che porta nel nome la sua logica: non si butta, si ribolla.",

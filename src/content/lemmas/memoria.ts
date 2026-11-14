@@ -61,7 +61,7 @@ export const memoria: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["oblio", "anamnesi", "identita", "trauma", "epistemologia", "context-window", "persistenza"],
+  relatedWords: ["oblio", "anamnesi", "identita", "trauma", "epistemologia", "context-window", "persistenza", "folklore", "tradizioni-popolari"],
 
   sourceLinks: {},
 

@@ -47,6 +47,7 @@ export const contributiPrevidenziali: LemmaEntry = {
     "partita-iva",
     "sostituto-dimposta",
     "welfare-aziendale",
+    "patronato",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/contributo/",

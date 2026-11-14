@@ -76,6 +76,8 @@ export const coltura: LemmaEntry = {
     "cultivar",
     "viticoltura",
     "vigneto",
+    "rito-agrario",
+    "rinnovo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/coltura/",

@@ -58,6 +58,8 @@ export const ipocrisia: LemmaEntry = {
     "altruismo",
     "cinismo-politico",
     "opportunismo-politico",
+    "bigotto",
+    "bigottismo",
   ],
   sourceLinks: {},
 

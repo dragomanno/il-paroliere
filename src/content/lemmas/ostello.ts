@@ -19,7 +19,7 @@ export const ostello: LemmaEntry = {
   ],
   synonyms: [{ term: "youth hostel", register: "comune", note: "forma inglese diffusa nel turismo internazionale" }],
   antonyms: [],
-  relatedWords: ["albergo", "B&B", "turismo", "viaggio"],
+  relatedWords: ["albergo", "B&B", "turismo", "viaggio", "pellegrino", "pellegrinaggio"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/ostello" },
   paroliereNote:
     "L'ostello ha cambiato identità nel tempo: da rifugio spartano per zaino in spalla a struttura con bar, eventi, sale comuni e wifi veloce. Il concetto di base — dormire vicino a sconosciuti per spendere poco e incontrare il mondo — è rimasto. È cambiato chi lo fa e come lo racconta.",
@@ -30,5 +30,5 @@ export const ostello: LemmaEntry = {
     description: "Definizione originale di 'ostello': dal latin hospitale all'ostello contemporaneo, con storia e identità cambiata.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

@@ -57,6 +57,7 @@ export const partitaIva: LemmaEntry = {
     "ritenuta-dacconto",
     "f24",
     "iva",
+    "fee",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/partita_IVA",
@@ -69,5 +70,5 @@ export const partitaIva: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

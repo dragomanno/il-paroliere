@@ -84,6 +84,7 @@ export const caparbio: LemmaEntry = {
     "tenacia",
     "testardaggine",
     "determinazione",
+    "bastian-contrario",
   ],
 
   sourceLinks: {
@@ -110,5 +111,5 @@ export const caparbio: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-14",
 };

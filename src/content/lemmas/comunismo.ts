@@ -51,6 +51,7 @@ export const comunismo: LemmaEntry = {
     "populismo",
     "consumismo",
     "capitale",
+    "corporativismo",
   ],
 
   sourceLinks: {

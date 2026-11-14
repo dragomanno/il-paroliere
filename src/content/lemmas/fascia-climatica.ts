@@ -47,6 +47,7 @@ export const fasciaClimatica: LemmaEntry = {
     "climatologia",
     "temperatura",
     "isoterma",
+    "ciclo-stagionale",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/fascia/",

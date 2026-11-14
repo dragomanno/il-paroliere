@@ -19,7 +19,7 @@ export const modanatura: LemmaEntry = {
   ],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["abside", "sbalzo", "cesellatura", "architettura", "ordine architettonico"],
+  relatedWords: ["abside", "sbalzo", "cesellatura", "architettura", "ordine architettonico", "progettista"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/modanatura" },
   paroliereNote:
     "Le modanature sono la grammatica dell'architettura classica: senza conoscerle, non si riesce a leggere un edificio come si legge un testo. Gola, toro, ovolo, listello — ciascuna ha un peso visivo preciso e il loro accostamento produce ritmo, ombra, carattere. Un lessico tecnico che è anche un lessico estetico.",
@@ -30,5 +30,5 @@ export const modanatura: LemmaEntry = {
     description: "Definizione originale di 'modanatura': la grammatica decorativa dell'architettura classica.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

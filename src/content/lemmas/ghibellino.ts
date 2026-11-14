@@ -19,7 +19,7 @@ export const ghibellino: LemmaEntry = {
   ],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["guelfo", "imperiale", "Siena medievale", "fazione", "imperatore"],
+  relatedWords: ["guelfo", "imperiale", "Siena medievale", "fazione", "imperatore", "medioevo", "comune-medievale", "signoria"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/ghibellino" },
   paroliereNote:
     "Siena è rimasta ghibellina nella memoria collettiva — e lo è ancora, in qualche senso, nel carattere. La battaglia di Montaperti (1260), dove i senesi ghibellini sconfissero i fiorentini guelfi, è ancora celebrata come momento fondativo dell'identità cittadina. Una fazione medievale che è diventata identità.",
@@ -30,5 +30,5 @@ export const ghibellino: LemmaEntry = {
     description: "Definizione originale di 'ghibellino': dal partito imperiale medievale all'identità senese.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };
