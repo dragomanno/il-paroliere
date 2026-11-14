@@ -956,6 +956,43 @@ import { polarizzazioneSociale } from "./polarizzazione-sociale";
 import { scontroSociale } from "./scontro-sociale";
 import { autunnoCaldo } from "./autunno-caldo";
 
+// BATCH-022 (2026-11) — Corpo, medicina e salute
+import { semiotica } from "./semiotica";
+import { semioticaPragmatica } from "./semiotica-pragmatica";
+import { sintomo } from "./sintomo";
+import { sindrome } from "./sindrome";
+import { diagnosi } from "./diagnosi";
+import { prognosi } from "./prognosi";
+import { patologia } from "./patologia";
+import { terapia } from "./terapia";
+import { farmacologia } from "./farmacologia";
+import { psicofarmaco } from "./psicofarmaco";
+import { anestesia } from "./anestesia";
+import { sedazione } from "./sedazione";
+import { palliativo } from "./palliativo";
+import { immunita } from "./immunita";
+import { infiammazione } from "./infiammazione";
+import { acuzie } from "./acuzie";
+import { cronicita } from "./cronicita";
+import { convalescenza } from "./convalescenza";
+import { guarigione } from "./guarigione";
+import { riabilitazione } from "./riabilitazione";
+import { nutrizione } from "./nutrizione";
+import { dieta } from "./dieta";
+import { metabolismo } from "./metabolismo";
+import { benessereFisico } from "./benessere-fisico";
+import { ortoressia } from "./ortoressia";
+import { stress } from "./stress";
+import { ansia } from "./ansia";
+import { depressioneClinica } from "./depressione-clinica";
+import { burnoutClinico } from "./burnout-clinico";
+import { psicoterapia } from "./psicoterapia";
+import { quaquaraqua } from "./quaquaraqua";
+import { parolaio } from "./parolaio";
+import { fuffarolo } from "./fuffarolo";
+import { patacca } from "./patacca";
+import { epossidico } from "./epossidico";
+
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
   abitudine,
@@ -1881,5 +1918,41 @@ export const allLemmas: LemmaEntry[] = [
   polarizzazioneSociale,
   scontroSociale,
   autunnoCaldo,
+  // BATCH-022 (2026-11) — Corpo, medicina e salute
+  semiotica,
+  semioticaPragmatica,
+  sintomo,
+  sindrome,
+  diagnosi,
+  prognosi,
+  patologia,
+  terapia,
+  farmacologia,
+  psicofarmaco,
+  anestesia,
+  sedazione,
+  palliativo,
+  immunita,
+  infiammazione,
+  acuzie,
+  cronicita,
+  convalescenza,
+  guarigione,
+  riabilitazione,
+  nutrizione,
+  dieta,
+  metabolismo,
+  benessereFisico,
+  ortoressia,
+  stress,
+  ansia,
+  depressioneClinica,
+  burnoutClinico,
+  psicoterapia,
+  quaquaraqua,
+  parolaio,
+  fuffarolo,
+  patacca,
+  epossidico,
 ];
 
