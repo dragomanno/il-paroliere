@@ -859,6 +859,37 @@ import { qualitaDelContenuto } from "./qualita-del-contenuto";
 import { irascibilita } from "./irascibilita";
 import { sottoagente } from "./sottoagente";
 import { dirittiUmani } from "./diritti-umani";
+import { denominazioneDorigine } from "./denominazione-dorigine";
+import { dop } from "./dop";
+import { igp } from "./igp";
+import { doc } from "./doc";
+import { docg } from "./docg";
+import { igt } from "./igt";
+import { disciplinare } from "./disciplinare";
+import { terroir } from "./terroir";
+import { coltura } from "./coltura";
+import { aratro } from "./aratro";
+import { solco } from "./solco";
+import { irrigazione } from "./irrigazione";
+import { raccolta } from "./raccolta";
+import { grappolo } from "./grappolo";
+import { mosto } from "./mosto";
+import { fermentazione } from "./fermentazione";
+import { cantina } from "./cantina";
+import { botte } from "./botte";
+import { barrique } from "./barrique";
+import { varietale } from "./varietale";
+import { cepage } from "./cepage";
+import { blend } from "./blend";
+import { assaggio } from "./assaggio";
+import { degustazione } from "./degustazione";
+import { persistenza } from "./persistenza";
+import { mineralita } from "./mineralita";
+import { umami } from "./umami";
+import { glutammato } from "./glutammato";
+import { enologo } from "./enologo";
+import { sommelier } from "./sommelier";
+import { enoteca } from "./enoteca";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -1691,5 +1722,36 @@ export const allLemmas: LemmaEntry[] = [
   irascibilita,
   sottoagente,
   dirittiUmani,
+  denominazioneDorigine,
+  dop,
+  igp,
+  doc,
+  docg,
+  igt,
+  disciplinare,
+  terroir,
+  coltura,
+  aratro,
+  solco,
+  irrigazione,
+  raccolta,
+  grappolo,
+  mosto,
+  fermentazione,
+  cantina,
+  botte,
+  barrique,
+  varietale,
+  cepage,
+  blend,
+  assaggio,
+  degustazione,
+  persistenza,
+  mineralita,
+  umami,
+  glutammato,
+  enologo,
+  sommelier,
+  enoteca,
 ];
 

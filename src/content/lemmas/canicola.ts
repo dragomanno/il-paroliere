@@ -68,6 +68,7 @@ export const canicola: LemmaEntry = {
     "fascia-climatica",
     "umidita-relativa",
     "solleone",
+    "irrigazione",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/canicola/",

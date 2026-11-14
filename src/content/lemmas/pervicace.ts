@@ -59,6 +59,9 @@ export const pervicace: LemmaEntry = {
       },
     ],
 
+  relatedWords: [
+    "persistenza",
+  ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/pervicace/",
     wiktionary: "https://it.wiktionary.org/wiki/pervicace",
@@ -77,5 +80,5 @@ export const pervicace: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

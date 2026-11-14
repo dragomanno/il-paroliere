@@ -83,6 +83,7 @@ export const propaganda: LemmaEntry = {
     "manipolazione",
     "disinformazione",
     "persuasione",
+    "aratro",
   ],
 
   sourceLinks: {
@@ -112,5 +113,5 @@ export const propaganda: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-14",
 };

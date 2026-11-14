@@ -52,6 +52,7 @@ export const pluviometro: LemmaEntry = {
     "neve",
     "climatologia",
     "carta-meteorologica",
+    "irrigazione",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/pluviometro/",

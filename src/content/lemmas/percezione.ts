@@ -61,7 +61,7 @@ export const percezione: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["sensazione", "bias-cognitivo", "subliminale", "intuizione"],
+  relatedWords: ["sensazione", "bias-cognitivo", "subliminale", "intuizione", "degustazione", "assaggio", "umami", "mineralita"],
 
   sourceLinks: {},
 
@@ -78,5 +78,5 @@ export const percezione: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

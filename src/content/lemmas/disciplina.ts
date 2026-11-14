@@ -19,7 +19,7 @@ export const disciplina: LemmaEntry = {
   ],
   synonyms: [{ term: "autocontrollo", register: "comune", note: "enfasi sulla gestione degli impulsi" }],
   antonyms: [{ term: "indisciplina", register: "comune" }],
-  relatedWords: ["costanza", "autocontrollo", "abitudine", "allenamento"],
+  relatedWords: ["costanza", "autocontrollo", "abitudine", "allenamento", "disciplinare"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/disciplina" },
   paroliereNote:
     "Disciplina viene da discere — imparare. Non è la prigione dell'impulso, ma la sua educazione. L'etimologia suggerisce che la vera disciplina non nasce dalla costrizione, ma dall'apprendimento: si impara a fare la cosa difficile finché non diventa naturale.",
@@ -30,5 +30,5 @@ export const disciplina: LemmaEntry = {
     description: "Definizione originale di 'disciplina': dall'etimologia di discere all'autocontrollo come forma di apprendimento.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

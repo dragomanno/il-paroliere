@@ -44,6 +44,8 @@ export const climatologia: LemmaEntry = {
     "tropico",
     "canicola",
     "pluviometro",
+    "terroir",
+    "irrigazione",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/climatologia/",

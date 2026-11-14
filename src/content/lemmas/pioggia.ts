@@ -75,6 +75,7 @@ export const pioggia: LemmaEntry = {
     "grandine",
     "pioviggine",
     "pluviometro",
+    "irrigazione",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/pioggia/",

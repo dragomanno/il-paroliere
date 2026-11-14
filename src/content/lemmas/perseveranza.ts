@@ -50,7 +50,8 @@ export const perseveranza: LemmaEntry = {
     "autoregolazione",
     "grit",
     "volontà",
-    "perseverare"
+    "perseverare",
+    "persistenza",
   ],
 
   examples: [
@@ -83,5 +84,5 @@ export const perseveranza: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

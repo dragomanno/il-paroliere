@@ -91,6 +91,7 @@ export const ostinazione: LemmaEntry = {
     "tenacia",
     "pervicacia",
     "perseveranza",
+    "persistenza",
   ],
 
   sourceLinks: {
@@ -116,5 +117,5 @@ export const ostinazione: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-14",
 };

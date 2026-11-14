@@ -25,7 +25,7 @@ export const costanza: LemmaEntry = {
     { term: "volubilità", register: "comune" },
     { term: "incostanza", register: "comune" },
   ],
-  relatedWords: ["disciplina", "perseveranza", "abitudine", "ostinazione"],
+  relatedWords: ["disciplina", "perseveranza", "abitudine", "ostinazione", "persistenza"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/costanza" },
   paroliereNote:
     "La costanza si distingue dall'abitudine perché richiede ancora una scelta: non fai quella cosa perché ci sei abituato, ma perché hai deciso di continuare. È la differenza tra andare in palestra per inerzia e andarci perché lo hai scelto di nuovo, anche oggi.",
@@ -36,5 +36,5 @@ export const costanza: LemmaEntry = {
     description: "Definizione originale di 'costanza': non abitudine, non ostinazione — la scelta rinnovata ogni giorno.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

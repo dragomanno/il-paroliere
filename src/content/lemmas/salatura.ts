@@ -19,7 +19,7 @@ export const salatura: LemmaEntry = {
   ],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["salagione", "insaccato", "prosciutto", "stagionatura", "conservazione"],
+  relatedWords: ["salagione", "insaccato", "prosciutto", "stagionatura", "conservazione", "dop"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/salatura" },
   paroliereNote:
     "La salatura è il gesto: il norcino che sfrega il sale sulla coscia con le mani e poi torna a farlo dopo qualche giorno. Il resto lo fa il tempo, nelle settimane seguenti, mentre il sale lavora in silenzio nei tessuti. Chi fa prosciutti di qualità sa che qui la fretta non paga.",
@@ -30,5 +30,5 @@ export const salatura: LemmaEntry = {
     description: "Definizione originale di 'salatura': il gesto del norcino che apre la conservazione del salume con il sale.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

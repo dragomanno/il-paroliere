@@ -67,6 +67,8 @@ export const radici: LemmaEntry = {
     "estraneamento",
     "alienazione",
     "nostalgia",
+    "terroir",
+    "coltura",
   ],
 
   sourceLinks: {
@@ -86,5 +88,5 @@ export const radici: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

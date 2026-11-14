@@ -41,7 +41,7 @@ export const norma: LemmaEntry = {
     { term: "deroga", register: "tecnico-giuridico", context: "scostamento autorizzato dalla norma generale" },
     { term: "arbitrio", register: "formale", context: "azione senza vincoli normativi" },
   ],
-  relatedWords: ["normativa", "diritto", "legge", "autorita", "contratto", "coalizione", "epidemia", "pandemia"],
+  relatedWords: ["normativa", "diritto", "legge", "autorita", "contratto", "coalizione", "epidemia", "pandemia", "disciplinare"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/norma/",
     wiktionary: "https://it.wiktionary.org/wiki/norma",
@@ -60,5 +60,5 @@ export const norma: LemmaEntry = {
     description: "Norma: regola giuridica, sociale o linguistica. Obbligo, permesso, divieto; anomia di Durkheim; norme ISO e linguistiche.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-14",
 };

@@ -90,6 +90,12 @@ export const uvaggio: LemmaEntry = {
     "Nebbiolo",
     "Bordeaux",
     "vigne promiscue",
+    "blend",
+    "varietale",
+    "cepage",
+    "mosto",
+    "igt",
+    "enologo",
   ],
 
   sourceLinks: {
@@ -118,5 +124,5 @@ export const uvaggio: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };
