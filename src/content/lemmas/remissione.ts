@@ -44,7 +44,7 @@ export const remissione: LemmaEntry = {
     { term: "aggravamento", register: "tecnico-medico", context: "peggioramento della condizione patologica" },
     { term: "ricaduta", register: "medico-colloquiale", context: "ritorno dei sintomi dopo un periodo positivo" },
   ],
-  relatedWords: ["recidiva", "ricaduta", "aggravamento", "epidemia", "diritto"],
+  relatedWords: ["recidiva", "ricaduta", "aggravamento", "epidemia", "diritto", "sintomo", "prognosi", "acuzie", "cronicita", "guarigione"],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/remissione",
     treccani: "https://www.treccani.it/vocabolario/remissione/",
@@ -64,5 +64,5 @@ export const remissione: LemmaEntry = {
       "rinuncia alla querela. Etimologia, sinonimi ed esempi.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-14",
 };

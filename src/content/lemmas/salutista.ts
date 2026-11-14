@@ -77,12 +77,14 @@ export const salutista: LemmaEntry = {
   ],
 
   relatedWords: [
-    "benessere",
+    "benessere-fisico",
     "wellness",
     "alimentazione",
     "fitness",
     "ortoressia",
     "stile di vita",
+    "nutrizione",
+    "dieta",
   ],
 
   sourceLinks: {
@@ -110,5 +112,5 @@ export const salutista: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-14",
 };

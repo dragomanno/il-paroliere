@@ -48,7 +48,7 @@ export const millantatore: LemmaEntry = {
     { term: "understatement", register: "comune", note: "Il comportamento opposto: minimizzare anziché gonfiare." },
   ],
 
-  relatedWords: ["millanteria", "fanfarone", "gradasso", "spaccone", "ipocrisia", "malafede"],
+  relatedWords: ["millanteria", "fanfarone", "gradasso", "spaccone", "ipocrisia", "malafede", "quaquaraqua", "fuffarolo", "patacca"],
   sourceLinks: {},
 
   paroliereNote:
@@ -68,5 +68,5 @@ export const millantatore: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

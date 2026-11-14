@@ -47,7 +47,7 @@ export const spaccone: LemmaEntry = {
     { term: "understatement", register: "comune", note: "Il comportamento opposto: minimizzare invece di amplificare." },
   ],
 
-  relatedWords: ["gradasso", "fanfarone", "millantatore", "bravata", "arroganza"],
+  relatedWords: ["gradasso", "fanfarone", "millantatore", "bravata", "arroganza", "quaquaraqua", "patacca"],
   sourceLinks: {},
 
   paroliereNote:
@@ -66,5 +66,5 @@ export const spaccone: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

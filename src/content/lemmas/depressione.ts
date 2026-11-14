@@ -78,6 +78,7 @@ export const depressione: LemmaEntry = {
     "ettopascal",
     "uragano",
     "burnout",
+    "depressione-clinica",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/depressione/",

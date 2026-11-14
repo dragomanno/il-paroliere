@@ -56,7 +56,7 @@ export const trauma: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["rimozione", "memoria", "oblio", "amnesia"],
+  relatedWords: ["rimozione", "memoria", "oblio", "amnesia", "riabilitazione", "stress", "psicoterapia"],
 
   sourceLinks: {},
 
@@ -73,5 +73,5 @@ export const trauma: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-14",
 };

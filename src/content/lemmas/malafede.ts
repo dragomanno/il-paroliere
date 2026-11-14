@@ -56,6 +56,7 @@ export const malafede: LemmaEntry = {
     "sarcasmo",
     "cinismo-politico",
     "dialogo",
+    "quaquaraqua",
   ],
   sourceLinks: {},
 

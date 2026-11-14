@@ -86,6 +86,7 @@ export const semantica: LemmaEntry = {
     "ontologia",
     "vettore-semantico",
     "embedding",
+    "semiotica-pragmatica",
   ],
 
   sourceLinks: {

@@ -91,6 +91,9 @@ export const propaganda: LemmaEntry = {
     "cinismo-politico",
     "consenso-sociale",
     "polarizzazione-sociale",
+    "parolaio",
+    "fuffarolo",
+    "patacca",
   ],
 
   sourceLinks: {

@@ -94,6 +94,7 @@ export const retorica: LemmaEntry = {
     "lapalissiano",
     "dialogo",
     "dibattito",
+    "parolaio",
   ],
 
   sourceLinks: {

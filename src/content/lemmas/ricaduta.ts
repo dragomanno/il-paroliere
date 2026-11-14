@@ -40,7 +40,7 @@ export const ricaduta: LemmaEntry = {
     { term: "guarigione", register: "tecnico-medico", context: "cessazione definitiva della condizione patologica" },
     { term: "ripresa", register: "neutro", context: "ritorno a uno stato di benessere" },
   ],
-  relatedWords: ["recidiva", "remissione", "aggravamento", "epidemia", "pandemia"],
+  relatedWords: ["recidiva", "remissione", "aggravamento", "epidemia", "pandemia", "prognosi", "acuzie", "convalescenza", "guarigione"],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/ricaduta",
     treccani: "https://www.treccani.it/vocabolario/ricaduta/",
@@ -60,5 +60,5 @@ export const ricaduta: LemmaEntry = {
       "miglioramento. Etimologia, sinonimi, esempi.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

@@ -92,6 +92,8 @@ export const smargiasso: LemmaEntry = {
     "Falstaff",
     "bravata",
     "millanteria",
+    "quaquaraqua",
+    "patacca",
   ],
 
   sourceLinks: {
@@ -120,5 +122,5 @@ export const smargiasso: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

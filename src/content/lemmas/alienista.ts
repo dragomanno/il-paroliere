@@ -56,7 +56,7 @@ export const alienista: LemmaEntry = {
 
   antonyms: [],
 
-  relatedWords: ["psicopatia", "coscienza", "inconscio", "rimozione", "sociologia"],
+  relatedWords: ["psicopatia", "coscienza", "inconscio", "rimozione", "sociologia", "psicofarmaco"],
 
   sourceLinks: {},
 
@@ -79,5 +79,5 @@ export const alienista: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

@@ -87,6 +87,10 @@ export const cura: LemmaEntry = {
     "diligenza",
     "responsabilità",
     "cura di sé",
+    "terapia",
+    "palliativo",
+    "convalescenza",
+    "guarigione",
   ],
 
   sourceLinks: {
@@ -113,5 +117,5 @@ export const cura: LemmaEntry = {
   },
 
   createdAt: "2026-05-18",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

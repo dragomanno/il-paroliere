@@ -74,6 +74,8 @@ export const engagement: LemmaEntry = {
     "dedizione",
     "neologismo",
     "social media",
+    "burnout-clinico",
+    "fuffarolo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/engagement/",

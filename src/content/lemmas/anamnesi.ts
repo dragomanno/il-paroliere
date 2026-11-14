@@ -87,8 +87,11 @@ export const anamnesi: LemmaEntry = {
     "mnemonica",
     "Mnemosine",
     "diagnosi",
-    "semeiotica",
+    "semiotica",
     "maieutica",
+    "sintomo",
+    "prognosi",
+    "cronicita",
   ],
 
   sourceLinks: {
@@ -116,5 +119,5 @@ export const anamnesi: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

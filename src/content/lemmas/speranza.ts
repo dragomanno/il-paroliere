@@ -36,7 +36,7 @@ export const speranza: LemmaEntry = {
     { term: "rassegnazione", register: "comune", note: "Accoglie un esito sfavorevole o immodificabile, senza continuare a orientarsi verso un cambiamento." }
   ],
 
-  relatedWords: ["attesa", "desiderio", "aspirazione", "volontà", "slancio", "tensione", "frustrazione", "rassegnazione", "accettazione"],
+  relatedWords: ["attesa", "desiderio", "aspirazione", "volontà", "slancio", "tensione", "frustrazione", "rassegnazione", "accettazione", "guarigione"],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/speranza"
@@ -53,5 +53,5 @@ export const speranza: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-08-24"
+  updatedAt: "2026-11-14"
 };
