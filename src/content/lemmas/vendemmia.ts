@@ -9,41 +9,57 @@ export const vendemmia: LemmaEntry = {
   lemma: "vendemmia",
   slug: "vendemmia",
   partOfSpeech: "sostantivo femminile",
-
-  definition:
-    "La raccolta dell'uva matura dai vigneti, tipicamente tra agosto e ottobre nell'emisfero " +
-    "nord, con variazioni significative in base alla varietà del vitigno, all'altitudine, " +
-    "all'esposizione e all'annata climatica. La vendemmia non è solo un'operazione agricola: " +
-    "è un momento identitario nella cultura rurale italiana, soprattutto in Toscana, in " +
-    "Piemonte, in Veneto e nelle altre grandi regioni vinicole, dove ha mantenuto — accanto " +
-    "alla meccanizzazione sempre più diffusa — una dimensione comunitaria e rituale. " +
-    "Il processo si articola in fasi distinte: la determinazione del momento ottimale (si " +
-    "misura la maturità tecnologica dell'uva attraverso l'indice rifrattometrico in gradi " +
-    "Brix, che indica il contenuto di zuccheri e determinerà la gradazione alcolica del vino); " +
-    "la raccolta, manuale (ancora preferita per vini di alta qualità) o meccanica; la cernita " +
-    "dei grappoli con eliminazione degli acini danneggiati o immaturi; il trasporto in cantina " +
-    "in cassette o rimorchi; infine la diraspatura e pigiatura, con separazione dei raspi e " +
-    "rottura della buccia per liberare il succo. La data di vendemmia è uno dei dati " +
-    "fondamentali dell'etichetta del vino: l'annata (millesimo) determina in modo significativo " +
-    "le caratteristiche del vino prodotto.",
-
-  shortDefinition:
-    "La raccolta dell'uva matura; il processo che dà avvio alla produzione del vino, con " +
-    "forte valenza culturale nella tradizione italiana.",
-
-  register: ["comune", "con forte valenza culturale e identitaria in Italia"],
-  domains: ["agricoltura", "viticoltura", "cultura italiana", "enologia"],
-
-  etymology:
-    "Dal latino vindemia, composto di vinum («vino») + demere («togliere, raccogliere»): " +
-    "letteralmente «raccogliere il vino».",
-
-  examples: [
-    "La vendemmia del 2019 in Toscana fu eccezionale: un'estate calda e asciutta aveva prodotto uve di concentrazione straordinaria.",
-    "Ogni anno a settembre, la vendemmia trasforma le colline del Chianti in un paesaggio umano oltre che naturale: decine di persone nei filari, il profumo del mosto nell'aria.",
-    "La vendemmia manuale è ancora la scelta dei produttori di Brunello: ogni grappolo viene scelto a mano, ogni acino conta.",
+  gender: "femminile",
+  definition: "1. Raccolta dell'uva matura destinata a diventare vino, e il periodo dell'anno in cui si fa, nell'emisfero nord di solito fra agosto e ottobre. 2. Per metonimia, l'uva raccolta in un anno e il vino che ne nasce: una buona vendemmia. 3. In senso figurato, raccolta abbondante di qualcosa, come premi, vittorie o successi.",
+  shortDefinition: "La raccolta dell'uva da vino e il suo periodo; per metonimia l'annata; in figura, un raccolto abbondante di premi o successi.",
+  register: [
+    "comune",
+    "con forte valenza culturale e identitaria in Italia",
   ],
-
+  domains: [
+    "agricoltura",
+    "viticoltura",
+    "cultura italiana",
+    "enologia",
+  ],
+  etymology: "Dal latino vindemia, composto di vinum «vino» e demere «togliere, staccare», a sua volta da de- e emere «prendere»: letteralmente «staccare il vino», cioè l'uva che lo diventerà. Ne derivano vendemmiare, vendemmiatore e vendemmiaio, il mese del calendario rivoluzionario francese.",
+  examples: [
+    "Dopo un'estate calda e asciutta la vendemmia è cominciata a metà agosto, con due settimane d'anticipo.",
+    "Ogni anno a settembre la vendemmia riempie le colline del Chianti di persone nei filari e di odore di mosto.",
+    "Per i loro vini migliori molti produttori di Brunello fanno ancora la vendemmia a mano, grappolo per grappolo.",
+    "Alle Olimpiadi la squadra di scherma ha fatto una vera vendemmia di medaglie.",
+  ],
+  synonyms: [
+    {
+      term: "vendemmiatura",
+      register: "tecnico",
+      context: "l'operazione della raccolta in sé, meno usata",
+    },
+    {
+      term: "raccolta dell'uva",
+      register: "comune",
+      context: "perifrasi descrittiva",
+    },
+    {
+      term: "annata",
+      register: "comune",
+      context: "nel senso 2: l'anno di raccolta e il vino che ne nasce",
+      note: "Annata guarda all'anno, vendemmia al raccolto: «una grande annata», «una grande vendemmia».",
+    },
+  ],
+  antonyms: [
+    {
+      term: "potatura",
+      register: "tecnico",
+      context: "il lavoro d'inverno che apre il ciclo della vigna, all'altro capo del calendario",
+      note: "Contrario di calendario, non di significato.",
+    },
+    {
+      term: "magra",
+      register: "comune",
+      context: "nel senso figurato, periodo di scarsità opposto all'abbondanza",
+    },
+  ],
   relatedWords: [
     "vino",
     "vitigno",
@@ -64,31 +80,24 @@ export const vendemmia: LemmaEntry = {
     "botte",
     "disciplinare",
     "irrigazione",
+    "acino",
+    "raspo",
+    "vinificazione",
+    "vigneto",
+    "viticoltura",
+    "olivicoltura",
   ],
-
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/vendemmia/",
     wiktionary: "https://it.wiktionary.org/wiki/vendemmia",
   },
-
-  paroliereNote:
-    "La vendemmia è uno dei pochi momenti del ciclo agricolo che ha mantenuto una dimensione " +
-    "comunitaria anche nell'era della meccanizzazione. Nei grandi territori vinicoli italiani, " +
-    "la vendemmia manuale è ancora una scelta — non solo tecnica, ma culturale e identitaria. " +
-    "Vendemmia è anche una parola con una bella etimologia che racconta qualcosa di antico: " +
-    "«raccogliere il vino», come se il vino fosse già nell'uva e la vendemmia fosse solo il " +
-    "gesto di tirarlo fuori.",
-
+  paroliereNote: "La vendemmia è uno dei pochi momenti del ciclo agricolo che ha mantenuto una dimensione comunitaria anche nell'era delle macchine: nei territori del vino la raccolta a mano resta una scelta tecnica, ma anche culturale. Quello che succede dopo, in cantina, ha nomi propri: la → [diraspatura](https://ilparoliere.online/parola/diraspatura) stacca gli acini dal → [raspo](https://ilparoliere.online/parola/raspo), la → [pigiatura](https://ilparoliere.online/parola/pigiatura) li rompe, la → [vinificazione](https://ilparoliere.online/parola/vinificazione) trasforma il mosto in vino. Il senso metonimico avvicina vendemmia ad → [annata](https://ilparoliere.online/parola/annata), ma le due parole guardano in punti diversi: l'annata è l'anno, la vendemmia è il raccolto. L'etimologia, intanto, racconta qualcosa di antico: «staccare il vino», come se il vino fosse già nell'uva e la vendemmia fosse solo il gesto di prenderlo. Il senso figurato, una vendemmia di medaglie, è registrato anche dal Wikizionario.",
   editorialStatus: "reviewed",
   indexable: true,
-
   seo: {
-    title: "Vendemmia — processo, storia, cultura italiana | Il Paroliere",
-    description:
-      "Cos'è la vendemmia, come si svolge il processo, il significato culturale in Italia. " +
-      "Dalla maturità dell'uva al mosto. Definizione con nota culturale.",
+    title: "Vendemmia — significato, etimologia, senso figurato | Il Paroliere",
+    description: "Che cos'è la vendemmia: la raccolta dell'uva da vino e il suo periodo, il senso di annata e quello figurato. Etimologia da vinum e demere, cosa viene dopo.",
   },
-
   createdAt: "2026-06-06",
   updatedAt: "2026-11-14",
 };

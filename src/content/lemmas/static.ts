@@ -890,6 +890,36 @@ import { glutammato } from "./glutammato";
 import { enologo } from "./enologo";
 import { sommelier } from "./sommelier";
 import { enoteca } from "./enoteca";
+import { olivo } from "./olivo";
+import { oliva } from "./oliva";
+import { olivicoltura } from "./olivicoltura";
+import { cultivar } from "./cultivar";
+import { frantoio } from "./frantoio";
+import { frangitura } from "./frangitura";
+import { gramolatura } from "./gramolatura";
+import { extravergine } from "./extravergine";
+import { polifenolo } from "./polifenolo";
+import { panelTest } from "./panel-test";
+import { fruttato } from "./fruttato";
+import { viticoltura } from "./viticoltura";
+import { vigneto } from "./vigneto";
+import { acino } from "./acino";
+import { raspo } from "./raspo";
+import { annata } from "./annata";
+import { cru } from "./cru";
+import { enologia } from "./enologia";
+import { pigiatura } from "./pigiatura";
+import { diraspatura } from "./diraspatura";
+import { vinificazione } from "./vinificazione";
+import { macerazione } from "./macerazione";
+import { lievito } from "./lievito";
+import { affinamento } from "./affinamento";
+import { assemblaggio } from "./assemblaggio";
+import { cuvee } from "./cuvee";
+import { supertuscan } from "./supertuscan";
+import { consorzioDiTutela } from "./consorzio-di-tutela";
+import { tannino } from "./tannino";
+import { acidita } from "./acidita";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -1753,5 +1783,35 @@ export const allLemmas: LemmaEntry[] = [
   enologo,
   sommelier,
   enoteca,
+  olivo,
+  oliva,
+  olivicoltura,
+  cultivar,
+  frantoio,
+  frangitura,
+  gramolatura,
+  extravergine,
+  polifenolo,
+  panelTest,
+  fruttato,
+  viticoltura,
+  vigneto,
+  acino,
+  raspo,
+  annata,
+  cru,
+  enologia,
+  pigiatura,
+  diraspatura,
+  vinificazione,
+  macerazione,
+  lievito,
+  affinamento,
+  assemblaggio,
+  cuvee,
+  supertuscan,
+  consorzioDiTutela,
+  tannino,
+  acidita,
 ];
 
