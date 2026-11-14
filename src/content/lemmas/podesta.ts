@@ -10,42 +10,25 @@ export const podesta: LemmaEntry = {
   slug: "podesta",
   partOfSpeech: "sostantivo maschile invariabile",
   gender: "maschile",
-
-  definition:
-    "Il termine podestà ha due vite storiche distinte, separate da sei secoli. Nel Medioevo " +
-    "italiano (XII-XIV secolo), il podestà era il magistrato forestiero — scelto cioè fuori " +
-    "dalla città per garantirne l'imparzialità — incaricato di governare un comune, " +
-    "amministrare la giustizia e guidare l'esercito in tempo di guerra. Era una figura chiave " +
-    "nell'ordinamento comunale italiano: la sua estraneità al tessuto locale era una garanzia " +
-    "contro i conflitti di interesse tra le fazioni cittadine. Nel fascismo italiano (1926-1945), " +
-    "il termine fu deliberatamente recuperato dal lessico medievale per designare la figura del " +
-    "capo del governo comunale nominato dall'alto, senza elezione democratica. Con la legge del " +
-    "4 febbraio 1926, il sindaco elettivo fu abolito e sostituito con il podestà, nominato con " +
-    "decreto reale su proposta del Ministro dell'Interno. Il podestà fascista non era eletto dai " +
-    "cittadini: era un funzionario del regime, spesso un militare o un gerarca locale, che " +
-    "concentrava in sé tutte le funzioni prima spettanti al consiglio comunale. La scelta del " +
-    "nome medievale non fu casuale: il fascismo era ossessionato dalla grandezza del passato " +
-    "italiano e scelse sistematicamente termini storici — fascio (dai fasci littori romani), " +
-    "duce (dux latino), podestà (dal diritto medievale) — per legittimare con la patina della " +
-    "tradizione una struttura di potere nuova e antidemocratica.",
-
-  shortDefinition:
-    "Nel Medioevo, magistrato forestiero a capo del comune; nel fascismo (1926-1945), capo del " +
-    "comune nominato dal regime in sostituzione del sindaco elettivo.",
-
-  register: ["storico", "istituzionale"],
-  domains: ["storia italiana", "diritto pubblico", "fascismo", "storia medievale"],
-
-  etymology:
-    "Dal latino medievale potestas («potere, autorità»), derivato di posse («potere»). " +
-    "Il termine indica chi detiene il potere esecutivo.",
-
+  definition: "1. Nei comuni italiani del Medioevo, il magistrato che dalla fine del XII secolo prende il governo della città al posto del collegio dei consoli. Di norma è un forestiero, chiamato da un'altra città proprio perché estraneo alle famiglie e alle fazioni locali: resta in carica per un tempo breve, un anno e poi più spesso sei mesi, arriva con un proprio seguito di giudici, notai e cavalieri, presiede i consigli, amministra la giustizia civile e penale, tiene l'ordine pubblico e guida le milizie cittadine in guerra. I suoi poteri sono fissati dallo statuto del comune, su cui giura all'insediamento; a fine mandato deve restare in città finché il suo operato non è stato esaminato nel sindacato, e solo allora riceve il salario. Con l'affermarsi delle signorie la carica perde peso politico: il podestà diventa un funzionario nominato dal signore e sopravvive soprattutto come ufficio giudiziario. 2. Nell'Italia fascista, il capo dell'amministrazione comunale nominato dal governo al posto degli organi eletti. Introdotto con la legge 4 febbraio 1926, n. 237, nei comuni fino a cinquemila abitanti ed esteso a tutti gli altri con il regio decreto-legge 3 settembre 1926, n. 1910, era nominato con regio decreto per cinque anni, poteva essere rimosso in qualsiasi momento e riuniva in sé le funzioni che prima spettavano al sindaco, alla giunta e al consiglio comunale, sotto lo stretto controllo del prefetto. La figura scompare con la caduta del regime: dal 1944 i comuni tornano ad avere un sindaco e una giunta, nominati dal prefetto, e dal 1946 consigli comunali eletti.",
+  shortDefinition: "Nel Medioevo, magistrato forestiero a capo del comune; nel fascismo, dal 1926, capo del comune nominato dal governo al posto del sindaco.",
+  register: [
+    "storico",
+    "istituzionale",
+  ],
+  domains: [
+    "storia italiana",
+    "diritto pubblico",
+    "fascismo",
+    "storia medievale",
+  ],
+  etymology: "Dal latino medievale potestas («potere, autorità»), derivato di posse («potere»). Il termine indica chi detiene il potere esecutivo.",
   examples: [
     "Il podestà medievale di Firenze era scelto fuori dalla città per evitare che si alleasse con una delle fazioni in conflitto.",
-    "Con la legge del 1926, Mussolini abolì i sindaci eletti e li sostituì con i podestà: fine del governo locale democratico in Italia.",
-    "Il podestà fascista di Siena era responsabile non solo dell'amministrazione comunale, ma anche dell'organizzazione del Palio, che il regime usò come strumento di propaganda nazionalista.",
+    "Con le leggi del 1926 i sindaci eletti furono sostituiti da podestà nominati con decreto del governo.",
+    "Negli atti comunali degli anni Trenta le delibere non portano più la firma del sindaco, ma quella del podestà.",
+    "Il Cortile del Podestà, nel Palazzo Pubblico di Siena, conserva il nome della magistratura che vi aveva sede.",
   ],
-
   synonyms: [
     {
       term: "sindaco",
@@ -63,7 +46,6 @@ export const podesta: LemmaEntry = {
       context: "termine moderno per figure nominate dall'alto",
     },
   ],
-
   relatedWords: [
     "corporazioni",
     "fascismo",
@@ -74,31 +56,22 @@ export const podesta: LemmaEntry = {
     "democrazia locale",
     "storia italiana",
     "Palio di Siena",
+    "statuto-medievale",
+    "arti-medievali",
+    "signoria",
+    "corporativismo",
   ],
-
   sourceLinks: {
-    treccani: "https://www.treccani.it/vocabolario/podesta/",
+    treccani: "https://www.treccani.it/vocabolario/podesta2/",
     wiktionary: "https://it.wiktionary.org/wiki/podest%C3%A0",
   },
-
-  paroliereNote:
-    "Il recupero del termine podestà da parte del fascismo è un caso da manuale di come il " +
-    "potere usi il linguaggio storico per legittimarsi. Chiamare «podestà» il capo del comune " +
-    "nominato dal regime evocava secoli di storia italiana, dava una patina di tradizione a " +
-    "un'istituzione antidemocratica e nascondeva la rottura con il governo locale elettivo " +
-    "sotto la continuità del nome. È un meccanismo di cui vale la pena essere consapevoli, " +
-    "perché si ripete: ogni regime che vuole legittimità cerca le sue radici nella storia.",
-
+  paroliereNote: "Podestà ha due vite storiche separate da sei secoli: la scheda le tiene in due sensi numerati. Nel → [comune medievale](https://ilparoliere.online/parola/comune-medievale) il podestà era un professionista del governo: un giurista o un cavaliere forestiero, pagato dalla città, che arrivava con il proprio seguito e se ne andava a fine mandato, sottoposto a un controllo sul suo operato. La sua estraneità era la garanzia contro le fazioni e il suo potere era fissato dallo → [statuto medievale](https://ilparoliere.online/parola/statuto-medievale); con la → [signoria](https://ilparoliere.online/parola/signoria), in molte città, la carica perde peso. Nel Novecento il fascismo riprende la parola. La legge 4 febbraio 1926, n. 237, introduce il podestà nei comuni fino a cinquemila abitanti ([Normattiva, L. 237/1926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1926;237)), e il regio decreto-legge 3 settembre 1926, n. 1910, lo estende a tutti i comuni ([Gazzetta Ufficiale, 19 novembre 1926](https://www.gazzettaufficiale.it/eli/gu/1926/11/19/267/sg/pdf)). Il recupero del termine è un caso da manuale di come il potere usi il linguaggio storico per legittimarsi: come fascio e duce, podestà dava una patina di tradizione a un'istituzione non elettiva e nascondeva la rottura con il governo locale sotto la continuità del nome. Lo stesso meccanismo regge il → [corporativismo](https://ilparoliere.online/parola/corporativismo), che si richiamava alle → [arti medievali](https://ilparoliere.online/parola/arti-medievali).",
   editorialStatus: "reviewed",
   indexable: true,
-
   seo: {
     title: "Podestà — Medioevo e fascismo: due storie, una parola | Il Paroliere",
-    description:
-      "Podestà nel Medioevo e nel fascismo: come Mussolini usò un termine medievale per " +
-      "abolire il sindaco elettivo. Storia, differenze, note critiche.",
+    description: "Podestà nel Medioevo e nel fascismo: il magistrato forestiero dei comuni e il capo del comune nominato dal regime dal 1926. Storia, leggi e note critiche.",
   },
-
   createdAt: "2026-06-06",
   updatedAt: "2026-11-14",
 };

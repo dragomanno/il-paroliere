@@ -66,6 +66,7 @@ export const correttore: LemmaEntry = {
     "comunità",
     "tradizione",
     "corporazioni",
+    "festa-titolare",
   ],
 
   sourceLinks: {
