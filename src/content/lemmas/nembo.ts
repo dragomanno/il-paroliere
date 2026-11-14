@@ -72,6 +72,9 @@ export const nembo: LemmaEntry = {
     "aureola",
     "cumulonembo",
     "tempesta",
+    "pioggia",
+    "grandine",
+    "uragano",
   ],
 
   sourceLinks: {
@@ -96,5 +99,5 @@ export const nembo: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-14",
 };

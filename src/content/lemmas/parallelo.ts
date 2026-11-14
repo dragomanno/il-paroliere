@@ -49,6 +49,8 @@ export const parallelo: LemmaEntry = {
     "circolo polare",
     "cartografia",
     "coordinate geografiche",
+    "fascia climatica",
+    "geodesia",
   ],
 
   sourceLinks: {
@@ -76,5 +78,5 @@ export const parallelo: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

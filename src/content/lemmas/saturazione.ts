@@ -93,6 +93,11 @@ export const saturazione: LemmaEntry = {
     "mercato saturo",
     "burnout",
     "limite inferiore di esplosività",
+    "condensazione",
+    "evaporazione",
+    "termodinamica",
+    "nebbia",
+    "rugiada",
   ],
 
   sourceLinks: {
@@ -122,5 +127,5 @@ export const saturazione: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-14",
 };

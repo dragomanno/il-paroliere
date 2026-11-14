@@ -64,7 +64,10 @@ export const isobara: LemmaEntry = {
     "gradiente barico",
     "carta meteorologica",
     "millibar",
-    "hPa",
+    "ettopascal",
+    "barometro",
+    "pascal",
+    "isobata",
   ],
 
   sourceLinks: {
@@ -93,5 +96,5 @@ export const isobara: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-14",
 };
