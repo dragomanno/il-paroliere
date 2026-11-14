@@ -53,7 +53,7 @@ export const expertise: LemmaEntry = {
     { term: "dilettantismo", register: "standard", context: "pratica senza metodo né formazione" },
     { term: "pressapochismo", register: "colloquiale", context: "scarsa cura nella qualità" },
   ],
-  relatedWords: ["e-e-a-t", "esperienza", "autorevolezza", "affidabilita", "seo", "recruitment", "onboarding"],
+  relatedWords: ["e-e-a-t", "esperienza", "autorevolezza", "affidabilita", "seo", "recruitment", "onboarding", "qualità del contenuto"],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/expertise",
   },

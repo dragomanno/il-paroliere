@@ -39,7 +39,7 @@ export const discriminazione: LemmaEntry = {
     { term: "uguaglianza", register: "formale", note: "Principio giuridico e sociale di pari dignità e pari trattamento davanti alla legge." },
   ],
 
-  relatedWords: ["pregiudizio", "stereotipo", "razzismo", "xenofobia"],
+  relatedWords: ["pregiudizio", "stereotipo", "razzismo", "xenofobia", "diritti umani"],
 
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/discriminazione/",
@@ -59,5 +59,5 @@ export const discriminazione: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

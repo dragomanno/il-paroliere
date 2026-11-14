@@ -49,6 +49,7 @@ export const contextWindow: LemmaEntry = {
     "rag",
     "subagentico",
     "latenza",
+    "sottoagente",
   ],
   sourceLinks: {},
   paroliereNote: "La context window non è una memoria nel senso umano (→ memoria): somiglia piuttosto a un tavolo su cui il modello tiene aperti i fogli, e quando il tavolo è pieno qualcosa cade. Per questo si ricorre alla → RAG, che porta sul tavolo solo i fogli utili, e alle architetture → subagentiche, che dividono il lavoro fra più tavoli. Una finestra ampia non garantisce un'attenzione uniforme: i modelli tendono a trascurare ciò che sta nel mezzo dei testi molto lunghi. Nei testi per tutti, finestra di contesto è da preferire.",

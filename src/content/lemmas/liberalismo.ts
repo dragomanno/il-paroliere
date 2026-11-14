@@ -40,7 +40,7 @@ export const liberalismo: LemmaEntry = {
     { term: "totalitarismo", register: "politico", context: "regime che non ammette sfera privata fuori dal controllo statale" },
     { term: "collettivismo", register: "politico", context: "primato del gruppo o dello Stato sull'individuo" },
   ],
-  relatedWords: ["liberal", "liberismo", "liberta", "diritto", "autonomia", "democrazia", "norma", "alleanza", "conflitto", "portaborse", "trasformismo"],
+  relatedWords: ["liberal", "liberismo", "liberta", "diritto", "autonomia", "democrazia", "norma", "alleanza", "conflitto", "portaborse", "trasformismo", "diritti umani"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/liberalismo/",
     wiktionary: "https://it.wiktionary.org/wiki/liberalismo",
@@ -58,5 +58,5 @@ export const liberalismo: LemmaEntry = {
     description: "Liberalismo: filosofia politica della libertà individuale, Stato di diritto e diritti fondamentali. Locke, Mill, Rawls, storia.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-14",
 };

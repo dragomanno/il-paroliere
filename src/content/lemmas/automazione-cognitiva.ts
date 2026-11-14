@@ -63,6 +63,7 @@ export const automazioneCognitiva: LemmaEntry = {
     "algoritmo",
     "innovazione",
     "scalabilita",
+    "sottoagente",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/automazione/",

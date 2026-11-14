@@ -37,7 +37,7 @@ export const liberta: LemmaEntry = {
     { term: "coercizione", register: "formale", context: "imposizione forzata della volontà altrui" },
     { term: "autoritarismo", register: "politico", context: "sistema che comprime le libertà civili" },
   ],
-  relatedWords: ["autonomia", "diritto", "consenso", "violenza", "liberalismo", "liberismo", "autodeterminazione", "alleanza", "coalizione", "conflitto", "portaborse", "trasformismo"],
+  relatedWords: ["autonomia", "diritto", "consenso", "violenza", "liberalismo", "liberismo", "autodeterminazione", "alleanza", "coalizione", "conflitto", "portaborse", "trasformismo", "diritti umani"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/liberta/",
     wiktionary: "https://it.wiktionary.org/wiki/libert%C3%A0",
@@ -55,5 +55,5 @@ export const liberta: LemmaEntry = {
     description: "Libertà: condizione di chi agisce senza costrizioni. Libertà negativa vs positiva (Berlin), diritti fondamentali, filosofia politica.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

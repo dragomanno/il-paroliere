@@ -35,7 +35,7 @@ export const malacarne: LemmaEntry = {
     { term: "birbante", register: "colloquiale", context: "furfante di basso livello, registro più leggero o ironico" },
   ],
   antonyms: [],
-  relatedWords: ["farabutto", "imbroglione", "mascalzone", "birbante", "malandrino", "furfante", "canaglia"],
+  relatedWords: ["farabutto", "imbroglione", "mascalzone", "birbante", "malandrino", "furfante", "canaglia", "Palio di Siena"],
   sourceLinks: {},
   paroliereNote:
     "Malacarne porta con sé l'odore della bottega: nasce come giudizio sul valore della carne " +
@@ -50,5 +50,5 @@ export const malacarne: LemmaEntry = {
       "Definizione originale di 'malacarne': carne scadente di macelleria; per estensione, persona disonesta, imbroglione. Attestato in Vitaliano Brancati.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

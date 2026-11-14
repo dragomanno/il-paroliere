@@ -79,6 +79,7 @@ export const incazzatello: LemmaEntry = {
     "irritazione",
     "stizza",
     "collera",
+    "irascibilità",
   ],
 
   paroliereNote:
@@ -102,5 +103,5 @@ export const incazzatello: LemmaEntry = {
   },
 
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-14",
 };

@@ -41,7 +41,7 @@ export const diritto: LemmaEntry = {
     { term: "illecito", register: "tecnico-giuridico", context: "atto contrario alle norme giuridiche" },
     { term: "arbitrio", register: "formale", context: "esercizio del potere senza vincoli normativi" },
   ],
-  relatedWords: ["norma", "normativa", "legge", "proprieta", "contratto", "autorita", "liberta", "cessione", "criminalita", "recidiva", "remissione", "violenza"],
+  relatedWords: ["norma", "normativa", "legge", "proprieta", "contratto", "autorita", "liberta", "cessione", "criminalita", "recidiva", "remissione", "violenza", "diritti umani"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/diritto/",
     wiktionary: "https://it.wiktionary.org/wiki/diritto",
@@ -60,5 +60,5 @@ export const diritto: LemmaEntry = {
     description: "Diritto: sistema di norme per la convivenza civile (senso oggettivo) e facoltà del soggetto (senso soggettivo). Filosofia del diritto, giurisprudenza.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

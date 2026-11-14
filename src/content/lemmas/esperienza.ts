@@ -48,7 +48,7 @@ export const esperienza: LemmaEntry = {
     { term: "astrazione", register: "filosofico", context: "concetto separato dalla realtà sensibile" },
     { term: "speculazione", register: "standard", context: "ragionamento privo di verifica empirica" },
   ],
-  relatedWords: ["e-e-a-t", "expertise", "autorita", "affidabilita", "autorevole"],
+  relatedWords: ["e-e-a-t", "expertise", "autorita", "affidabilita", "autorevole", "qualità del contenuto"],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/esperienza",
     treccani: "https://www.treccani.it/vocabolario/esperienza",
@@ -70,5 +70,5 @@ export const esperienza: LemmaEntry = {
       "Primo elemento del framework E-E-A-T: Experience > Authoritativeness > Expertise > Trust.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-14",
 };

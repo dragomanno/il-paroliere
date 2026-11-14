@@ -108,6 +108,7 @@ export const irascibile: LemmaEntry = {
     "Galeno",
     "Tommaso d'Aquino",
     "appetito irascibile",
+    "irascibilità",
   ],
 
   sourceLinks: {
@@ -136,5 +137,5 @@ export const irascibile: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-14",
 };

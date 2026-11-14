@@ -49,6 +49,7 @@ export const searchIntent: LemmaEntry = {
     "geo",
     "posizionamento",
     "vettore-semantico",
+    "qualità del contenuto",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/intent",

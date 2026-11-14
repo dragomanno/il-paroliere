@@ -86,7 +86,7 @@ export const incazzoso: LemmaEntry = {
     "levantino",
     "ira",
     "collera",
-    "irascibilita",
+    "irascibilità",
     "carattere",
     "irascibile",
     "bilioso",
@@ -115,5 +115,5 @@ export const incazzoso: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };
