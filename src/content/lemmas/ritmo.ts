@@ -44,7 +44,7 @@ export const ritmo: LemmaEntry = {
     { term: "caos", register: "comune", note: "L’assenza di qualunque pattern percepibile." },
   ],
 
-  relatedWords: ["composizione", "armonia", "respiro", "dissonanza", "simmetria"],
+  relatedWords: ["composizione", "armonia", "respiro", "dissonanza", "simmetria", "ciclo-stagionale"],
 
   paroliereNote:
     "Il ritmo è universale in un senso non metaforico: ogni sistema biologico che funziona " +
@@ -63,5 +63,5 @@ export const ritmo: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

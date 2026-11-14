@@ -61,6 +61,7 @@ export const welfareAziendale: LemmaEntry = {
     "deduzione-fiscale",
     "welfare state",
     "premio di risultato",
+    "patronato",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/welfare/",

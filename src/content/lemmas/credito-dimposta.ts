@@ -48,6 +48,7 @@ export const creditoDimposta: LemmaEntry = {
     "bonus-fiscale",
     "zes",
     "defiscalizzazione",
+    "mecenatismo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/credito/",
@@ -61,5 +62,5 @@ export const creditoDimposta: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

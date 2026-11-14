@@ -66,6 +66,8 @@ export const kpi: LemmaEntry = {
     "ads",
     "cruscotto",
     "legge di Goodhart",
+    "fee",
+    "referral",
   ],
   sourceLinks: {},
   paroliereNote: "Il KPI è un numero con un'ambizione: dire in sintesi se si sta andando nella direzione giusta. Il problema è noto agli economisti come legge di Goodhart, nella formulazione resa popolare dall'antropologa Marilyn Strathern nel 1997: quando una misura diventa un obiettivo, smette di essere una buona misura. Se si premia il numero di telefonate, le telefonate si accorciano; se si premiano i clic, i titoli diventano esche. Un buon sistema di KPI ne usa pochi e li legge insieme, accanto a ciò che i numeri non dicono. Fra i KPI finanziari il più noto è il → ROI.",

@@ -99,6 +99,7 @@ export const kairos: LemmaEntry = {
     "retorica",
     "aion",
     "first-mover",
+    "ciclo-stagionale",
   ],
 
   sourceLinks: {

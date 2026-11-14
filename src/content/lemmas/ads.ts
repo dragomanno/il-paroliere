@@ -20,7 +20,7 @@ export const ads: LemmaEntry = {
   ],
   synonyms: [{ term: "inserzioni a pagamento", register: "comune", note: "traduzione letterale, usata in contesti formali" }],
   antonyms: [{ term: "SEO", register: "tecnico", context: "traffico organico, opposto al pagamento" }],
-  relatedWords: ["SEO", "SEM", "Google Ads", "campagna", "CPC", "roi", "kpi"],
+  relatedWords: ["SEO", "SEM", "Google Ads", "campagna", "CPC", "roi", "kpi", "sponsor", "sponsorizzazione", "affiliazione"],
   sourceLinks: { wiktionary: "https://en.wiktionary.org/wiki/ad" },
   paroliereNote:
     "Ads e SEO convivono nel marketing digitale come due filosofie di acquisizione del traffico: una compra visibilità, l'altra la costruisce. La scelta tra le due — o la loro combinazione — è spesso la domanda più importante di una strategia digitale.",

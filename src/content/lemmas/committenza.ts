@@ -96,6 +96,10 @@ export const committenza: LemmaEntry = {
     "deliverable",
     "stakeholder",
     "disciplinare",
+    "mecenate",
+    "sponsorizzazione",
+    "committente",
+    "architettura",
   ],
 
   sourceLinks: {

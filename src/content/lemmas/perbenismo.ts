@@ -72,6 +72,8 @@ export const perbenismo: LemmaEntry = {
     "ipocrisia",
     "facciata",
     "apparenza",
+    "bigotto",
+    "bigottismo",
   ],
 
   sourceLinks: {
@@ -96,5 +98,5 @@ export const perbenismo: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-14",
 };

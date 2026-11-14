@@ -93,6 +93,8 @@ export const raccolta: LemmaEntry = {
     "oliva",
     "olivicoltura",
     "annata",
+    "rito-agrario",
+    "ciclo-stagionale",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/raccolta/",

@@ -992,6 +992,48 @@ import { parolaio } from "./parolaio";
 import { fuffarolo } from "./fuffarolo";
 import { patacca } from "./patacca";
 import { epossidico } from "./epossidico";
+import { mecenatismo } from "./mecenatismo";
+import { mecenate } from "./mecenate";
+import { sponsor } from "./sponsor";
+import { sponsorizzazione } from "./sponsorizzazione";
+import { affiliazione } from "./affiliazione";
+import { fee } from "./fee";
+import { referral } from "./referral";
+import { patronato } from "./patronato";
+import { committente } from "./committente";
+import { progettista } from "./progettista";
+import { architettura } from "./architettura";
+import { medioevo } from "./medioevo";
+import { comuneMedievale } from "./comune-medievale";
+import { statutoMedievale } from "./statuto-medievale";
+import { artiMedievali } from "./arti-medievali";
+import { gilda } from "./gilda";
+import { signoria } from "./signoria";
+import { corporativismo } from "./corporativismo";
+import { folklore } from "./folklore";
+import { tradizioniPopolari } from "./tradizioni-popolari";
+import { ritoAgrario } from "./rito-agrario";
+import { cicloStagionale } from "./ciclo-stagionale";
+import { primavera } from "./primavera";
+import { maggio } from "./maggio";
+import { rinnovo } from "./rinnovo";
+import { petalo } from "./petalo";
+import { infiorata } from "./infiorata";
+import { pellegrino } from "./pellegrino";
+import { pellegrinaggio } from "./pellegrinaggio";
+import { devozione } from "./devozione";
+import { processione } from "./processione";
+import { patrono } from "./patrono";
+import { festaPatronale } from "./festa-patronale";
+import { festaTitolare } from "./festa-titolare";
+import { contrada } from "./contrada";
+import { sagra } from "./sagra";
+import { festivita } from "./festivita";
+import { bigotto } from "./bigotto";
+import { bigottismo } from "./bigottismo";
+import { mangiapreti } from "./mangiapreti";
+import { rivoltoso } from "./rivoltoso";
+import { bastianContrario } from "./bastian-contrario";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -1954,5 +1996,47 @@ export const allLemmas: LemmaEntry[] = [
   fuffarolo,
   patacca,
   epossidico,
+  mecenatismo,
+  mecenate,
+  sponsor,
+  sponsorizzazione,
+  affiliazione,
+  fee,
+  referral,
+  patronato,
+  committente,
+  progettista,
+  architettura,
+  medioevo,
+  comuneMedievale,
+  statutoMedievale,
+  artiMedievali,
+  gilda,
+  signoria,
+  corporativismo,
+  folklore,
+  tradizioniPopolari,
+  ritoAgrario,
+  cicloStagionale,
+  primavera,
+  maggio,
+  rinnovo,
+  petalo,
+  infiorata,
+  pellegrino,
+  pellegrinaggio,
+  devozione,
+  processione,
+  patrono,
+  festaPatronale,
+  festaTitolare,
+  contrada,
+  sagra,
+  festivita,
+  bigotto,
+  bigottismo,
+  mangiapreti,
+  rivoltoso,
+  bastianContrario,
 ];
 

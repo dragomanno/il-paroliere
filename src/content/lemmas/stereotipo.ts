@@ -44,6 +44,7 @@ export const stereotipo: LemmaEntry = {
     "euristica",
     "luogo-comune",
     "cliche",
+    "folklore",
   ],
 
   sourceLinks: {

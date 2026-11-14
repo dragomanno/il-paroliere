@@ -53,6 +53,7 @@ export const manifattura: LemmaEntry = {
     "lavorazione",
     "lean",
     "kanban",
+    "arti-medievali",
   ],
 
   examples: [

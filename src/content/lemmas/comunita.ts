@@ -39,7 +39,7 @@ export const comunita: LemmaEntry = {
     { term: "estraneità", register: "comune", context: "Mancanza del sentirsi parte di un contesto comune." },
   ],
 
-  relatedWords: ["community", "isolamento", "connessione", "relazione", "legame", "appartenenza", "identità", "immunita"],
+  relatedWords: ["community", "isolamento", "connessione", "relazione", "legame", "appartenenza", "identità", "immunita", "comune-medievale", "tradizioni-popolari", "festa-patronale", "contrada"],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/comunit%C3%A0",

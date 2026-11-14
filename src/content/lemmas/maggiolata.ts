@@ -69,7 +69,11 @@ export const maggiolata: LemmaEntry = {
     "tradizioni popolari",
     "Calendimaggio di Assisi",
     "Infiorata di Spello",
-    "riti agrari",
+    "rito-agrario",
+    "ciclo-stagionale",
+    "maggio",
+    "petalo",
+    "infiorata",
   ],
 
   sourceLinks: {
@@ -97,5 +101,5 @@ export const maggiolata: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-14",
 };

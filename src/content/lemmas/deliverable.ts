@@ -62,6 +62,8 @@ export const deliverable: LemmaEntry = {
     "kronos",
     "cronoprogramma",
     "work package",
+    "committente",
+    "progettista",
   ],
   sourceLinks: {},
   paroliereNote: "Deliverable, deadline e milestone formano un trio che conviene saper distinguere. Il deliverable è che cosa si consegna; la → deadline è entro quando; la → milestone è il punto del percorso in cui si verifica se si è arrivati dove si doveva. Un progetto può raggiungere una milestone senza consegnare nulla, per esempio con una decisione presa, e consegnare un deliverable che non segna nessuna tappa importante. Nei progetti europei i deliverable hanno spesso una sigla, come D3.2, e costituiscono la prova formale del lavoro svolto. In italiano prodotto o elaborato vanno benissimo; l'anglicismo resta utile nei documenti condivisi con partner esteri.",

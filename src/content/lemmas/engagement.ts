@@ -76,6 +76,9 @@ export const engagement: LemmaEntry = {
     "social media",
     "burnout-clinico",
     "fuffarolo",
+    "sponsor",
+    "affiliazione",
+    "referral",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/engagement/",

@@ -46,6 +46,7 @@ export const rugiada: LemmaEntry = {
     "umidita-relativa",
     "saturazione",
     "precipitazione",
+    "primavera",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/rugiada/",

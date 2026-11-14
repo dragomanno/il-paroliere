@@ -42,6 +42,7 @@ export const equatore: LemmaEntry = {
     "circolo-polare",
     "fascia-climatica",
     "meridiano",
+    "primavera",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/equatore/",

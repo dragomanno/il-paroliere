@@ -88,6 +88,8 @@ export const disciplinare: LemmaEntry = {
     "supertuscan",
     "olio-doliva",
     "vendemmia",
+    "committente",
+    "progettista",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/disciplinare1/",

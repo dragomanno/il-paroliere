@@ -92,6 +92,7 @@ export const ostinazione: LemmaEntry = {
     "pervicacia",
     "perseveranza",
     "persistenza",
+    "bastian-contrario",
   ],
 
   sourceLinks: {

@@ -40,7 +40,7 @@ export const potere: LemmaEntry = {
     { term: "sudditanza", register: "formale", context: "posizione di chi è soggetto al potere altrui" },
     { term: "resistenza", register: "politico", context: "opposizione attiva all'esercizio del potere" },
   ],
-  relatedWords: ["autorita", "norma", "diritto", "violenza", "consenso", "liberalismo", "coalizione", "conflitto", "epidemia", "pandemia", "trasformismo", "empowerment"],
+  relatedWords: ["autorita", "norma", "diritto", "violenza", "consenso", "liberalismo", "coalizione", "conflitto", "epidemia", "pandemia", "trasformismo", "empowerment", "signoria"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/potere/",
     wiktionary: "https://it.wiktionary.org/wiki/potere",

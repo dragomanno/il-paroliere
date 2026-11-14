@@ -15,13 +15,13 @@ export const corporazioni: LemmaEntry = {
     "Toscana — erano le associazioni obbligatorie che riunivano i membri di una stessa " +
     "categoria professionale o artigianale in un sistema organizzato di regole, tutele e " +
     "controllo qualitativo. Non erano semplicemente sindacati ante litteram né camere di " +
-    "commercio: erano istituzioni totali che regolavano l'accesso al mestiere, la formazione " +
+    "commercio: erano istituzioni ampie, che regolavano l'accesso al mestiere, la formazione " +
     "degli apprendisti, la qualità dei prodotti, i prezzi, il rapporto con i fornitori e " +
-    "spesso anche la vita morale e religiosa dei loro membri. In epoca guelfa — soprattutto " +
-    "nelle città-stato dell'Italia centro-settentrionale tra il XII e il XIV secolo — le " +
+    "spesso anche la vita morale e religiosa dei loro membri. In età comunale — soprattutto " +
+    "nelle città dell'Italia centro-settentrionale tra il XII e il XIV secolo — le " +
     "corporazioni furono uno degli strumenti attraverso cui la classe mercantile e artigianale " +
     "costruì il proprio potere politico contro la nobiltà feudale. A Firenze, le Sette Arti " +
-    "Maggiori (Calimala, Lana, Seta, Cambio, Medici e Speziali, Pelliccia, Giudici e Notai) " +
+    "Maggiori (Giudici e Notai, Calimala, Cambio, Lana, Por Santa Maria per la seta, Medici e Speziali, Vaiai e Pellicciai) " +
     "e le Arti Minori costituivano la spina dorsale dell'ordinamento corporativo che resse la " +
     "Repubblica Fiorentina per secoli. La corporazione svolgeva funzioni che oggi sono divise " +
     "tra sindacati, ordini professionali, enti di certificazione e sistemi di welfare: formava " +
@@ -30,8 +30,8 @@ export const corporazioni: LemmaEntry = {
 
   shortDefinition:
     "Associazioni obbligatorie medievali di mestiere che regolavano la vita professionale, " +
-    "la formazione e la qualità del lavoro; pilastro dell'economia e della politica delle " +
-    "città guelfe italiane.",
+    "la formazione e la qualità del lavoro; pilastro dell'economia e della politica dei " +
+    "comuni italiani.",
 
   register: ["storico", "economico", "sociologico"],
   domains: ["storia medievale", "economia", "diritto", "storia del lavoro", "società"],
@@ -67,7 +67,7 @@ export const corporazioni: LemmaEntry = {
   relatedWords: [
     "podesta",
     "correttore",
-    "guelfi",
+    "guelfo",
     "comune medievale",
     "Firenze",
     "Siena",
@@ -75,6 +75,13 @@ export const corporazioni: LemmaEntry = {
     "artigianato",
     "welfare medievale",
     "welfare-aziendale",
+    "affiliazione",
+    "patronato",
+    "medioevo",
+    "statuto-medievale",
+    "arti-medievali",
+    "gilda",
+    "corporativismo",
   ],
 
   sourceLinks: {
@@ -97,8 +104,8 @@ export const corporazioni: LemmaEntry = {
   seo: {
     title: "Corporazioni medievali — Arti, gilde, storia del lavoro | Il Paroliere",
     description:
-      "Le corporazioni medievali: cosa erano, come funzionavano, il ruolo nelle città guelfe " +
-      "italiane. Dalle Arti fiorentine alla fine con il liberalismo. Definizione storica completa.",
+      "Le corporazioni medievali: cosa erano, come funzionavano, il ruolo nei comuni " +
+      "italiani. Dalle Arti fiorentine alla fine con il liberalismo. Definizione storica completa.",
   },
 
   createdAt: "2026-06-06",

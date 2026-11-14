@@ -50,6 +50,8 @@ export const roi: LemmaEntry = {
     "efficacia",
     "redditività",
     "margine",
+    "sponsorizzazione",
+    "fee",
   ],
   sourceLinks: {},
   paroliereNote: "Il ROI è il → KPI per eccellenza, e proprio per questo è il più facile da piegare. Cambia molto a seconda di che cosa si mette al numeratore e al denominatore: nel marketing si confonde spesso con il ROAS, che guarda solo ai ricavi generati dalla pubblicità e ignora gli altri costi; in bilancio, invece, è un indice con una formula convenzionale. Prima di confrontare due ROI conviene sempre chiedere come sono stati calcolati. E un ROI alto su un → investimento minuscolo può valere meno di un ROI modesto su un capitale importante.",

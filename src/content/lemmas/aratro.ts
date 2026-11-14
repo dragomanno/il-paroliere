@@ -64,6 +64,8 @@ export const aratro: LemmaEntry = {
     "civiltà contadina",
     "sulcus primigenius",
     "semina su sodo",
+    "rito-agrario",
+    "rinnovo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/aratro/",

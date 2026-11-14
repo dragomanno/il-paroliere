@@ -59,6 +59,7 @@ export const brina: LemmaEntry = {
     "viticoltura",
     "vigneto",
     "annata",
+    "primavera",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/brina/",

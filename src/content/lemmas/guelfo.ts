@@ -19,7 +19,7 @@ export const guelfo: LemmaEntry = {
   ],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["ghibellino", "Dante", "fazione", "Firenze medievale", "papato"],
+  relatedWords: ["ghibellino", "Dante", "fazione", "Firenze medievale", "papato", "medioevo", "comune-medievale", "signoria"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/guelfo" },
   paroliereNote:
     "Guelfi e ghibellini hanno insanguinato l'Italia medievale per generazioni e Dante ne è il testimone più illustre: guelfo di parte bianca, esiliato da Firenze nel 1302, morto a Ravenna. Oggi i due termini sopravvivono come metafore politiche: «guelfo» chi guarda alla Chiesa e al mondo cattolico, «ghibellino» chi difende la laicità dello Stato. La storia si è fatta lessico.",
@@ -30,5 +30,5 @@ export const guelfo: LemmaEntry = {
     description: "Definizione originale di 'guelfo': dal partito medievale filopapale alla metafora politica contemporanea.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

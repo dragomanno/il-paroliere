@@ -40,7 +40,7 @@ export const autorita: LemmaEntry = {
     { term: "anarchia", register: "politico", context: "assenza di autorità e gerarchia" },
     { term: "illegittimità", register: "tecnico-giuridico", context: "mancanza di fondamento normativo o consensuale" },
   ],
-  relatedWords: ["potere", "autorevole", "norma", "diritto", "consenso", "autorevolezza", "coalizione", "conflitto", "epidemia", "esperienza", "pandemia", "politica", "portaborse"],
+  relatedWords: ["potere", "autorevole", "norma", "diritto", "consenso", "autorevolezza", "coalizione", "conflitto", "epidemia", "esperienza", "pandemia", "politica", "portaborse", "signoria"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/autorita/",
     wiktionary: "https://it.wiktionary.org/wiki/autorit%C3%A0",
@@ -58,5 +58,5 @@ export const autorita: LemmaEntry = {
     description: "Autorità: legittimità di esercitare potere. I tre tipi di Weber (carismatica, tradizionale, razionale-legale); distinta dall'autorevolezza.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-14",
 };

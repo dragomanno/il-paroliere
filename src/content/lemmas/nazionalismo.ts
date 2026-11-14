@@ -48,7 +48,8 @@ export const nazionalismo: LemmaEntry = {
     "populismo",
     "fascismo",
     "nazismo",
-    "comunismo"
+    "comunismo",
+    "corporativismo"
   ],
 
   sourceLinks: {
@@ -73,5 +74,5 @@ export const nazionalismo: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-05-30",
+  updatedAt: "2026-11-14",
 };

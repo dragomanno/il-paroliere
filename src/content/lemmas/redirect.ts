@@ -47,6 +47,7 @@ export const redirect: LemmaEntry = {
     "redirect loop",
     "migrazione SEO",
     "canonicalizzazione",
+    "referral",
   ],
 
   sourceLinks: {
@@ -71,5 +72,5 @@ export const redirect: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-14",
 };
