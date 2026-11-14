@@ -75,6 +75,9 @@ export const botte: LemmaEntry = {
     "affinamento",
     "bottiglia",
     "aceto balsamico",
+    "vinificazione",
+    "assemblaggio",
+    "tannino",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/botte/",

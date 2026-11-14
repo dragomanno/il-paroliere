@@ -72,6 +72,7 @@ export const grappolo: LemmaEntry = {
     "racemo",
     "capannello",
     "bombe a grappolo",
+    "vigneto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/grappolo/",

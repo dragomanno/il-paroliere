@@ -91,6 +91,7 @@ export const blend: LemmaEntry = {
     "Supertuscan",
     "whisky",
     "parola macedonia",
+    "cultivar",
   ],
   sourceLinks: {},
   paroliereNote: "Blend è un anglicismo che l'italiano ha accolto senza bisogno reale, perché aveva già taglio, assemblaggio e miscela, ma che si è imposto con il linguaggio internazionale del vino, del whisky e del caffè. Nel vino conviene ricordare la distinzione che il Paroliere fa già fra → uvaggio e → vinaggio: l'uvaggio unisce uve diverse prima della fermentazione, il vinaggio unisce vini già fatti. Blend copre entrambe le cose, ed è comodo proprio perché è vago. Il contrario non è un vino «puro», ma un vino da un solo → vitigno, spesso detto → varietale. In linguistica blend indica la parola macedonia, come smog, da smoke e fog, o brunch; l'italiano ne ha di suoi, e la → crasi è un fenomeno vicino ma diverso, perché fonde due suoni, non due parole intere. Sul piano storico, l'arte del taglio ha nobili antenati: il Chianti dell'Ottocento era già un blend codificato.",

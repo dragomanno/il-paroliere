@@ -77,6 +77,10 @@ export const barrique: LemmaEntry = {
     "Bordeaux",
     "Sassicaia",
     "Supertuscan",
+    "vinificazione",
+    "affinamento",
+    "assemblaggio",
+    "tannino",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/barrique/",

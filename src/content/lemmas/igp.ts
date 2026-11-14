@@ -71,6 +71,7 @@ export const igp: LemmaEntry = {
     "STG",
     "Aceto Balsamico di Modena",
     "Lardo di Colonnata",
+    "extravergine",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/IGP",

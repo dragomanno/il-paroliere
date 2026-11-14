@@ -111,6 +111,9 @@ export const sentore: LemmaEntry = {
     "sommelier",
     "persistenza",
     "barrique",
+    "panel-test",
+    "fruttato",
+    "tannino",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/sentore/",

@@ -56,6 +56,8 @@ export const olfatto: LemmaEntry = {
     "degustazione",
     "persistenza",
     "sommelier",
+    "panel-test",
+    "fruttato",
   ],
 
   examples: [

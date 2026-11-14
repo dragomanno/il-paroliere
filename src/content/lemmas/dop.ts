@@ -76,6 +76,8 @@ export const dop: LemmaEntry = {
     "Parmigiano Reggiano",
     "Prosciutto di Parma",
     "Aceto Balsamico Tradizionale di Modena",
+    "cultivar",
+    "extravergine",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/DOP",

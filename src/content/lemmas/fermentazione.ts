@@ -80,6 +80,11 @@ export const fermentazione: LemmaEntry = {
     "pane",
     "birra",
     "yogurt",
+    "enologia",
+    "pigiatura",
+    "diraspatura",
+    "vinificazione",
+    "macerazione",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/fermentazione/",

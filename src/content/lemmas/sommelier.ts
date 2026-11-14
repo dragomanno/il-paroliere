@@ -74,6 +74,8 @@ export const sommelier: LemmaEntry = {
     "tastevin",
     "abbinamento",
     "carta dei vini",
+    "panel-test",
+    "enologia",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/sommelier/",

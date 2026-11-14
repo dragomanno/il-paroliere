@@ -68,6 +68,7 @@ export const acrimonia: LemmaEntry = {
     "amarezza",
     "rancore",
     "asprezza",
+    "acidita",
   ],
 
   sourceLinks: {
@@ -91,5 +92,5 @@ export const acrimonia: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

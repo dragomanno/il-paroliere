@@ -56,7 +56,7 @@ export const frode: LemmaEntry = {
     { term: "trasparenza", register: "standard", context: "assenza di occultamento" },
     { term: "buona fede", register: "tecnico-giuridico", context: "principio contrattuale opposto al dolo" },
   ],
-  relatedWords: ["evasione", "contratto", "diritto", "norma", "reato", "illecito", "dop", "denominazione-dorigine", "disciplinare"],
+  relatedWords: ["evasione", "contratto", "diritto", "norma", "reato", "illecito", "dop", "denominazione-dorigine", "disciplinare", "extravergine", "consorzio-di-tutela"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/frode",
     wiktionary: "https://it.wiktionary.org/wiki/frode",

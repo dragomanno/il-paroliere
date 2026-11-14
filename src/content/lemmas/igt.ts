@@ -70,6 +70,8 @@ export const igt: LemmaEntry = {
     "Sassicaia",
     "vino da tavola",
     "legge Goria",
+    "assemblaggio",
+    "consorzio-di-tutela",
   ],
   sourceLinks: {},
   paroliereNote: "L'IGT è la sigla della libertà vigilata. Nata nel 1992 per dare un'identità geografica ai vini che stavano fuori dalle → DOC, ha accolto anche i rossi toscani che negli anni Settanta e Ottanta avevano scelto vitigni internazionali, la → barrique e tagli non previsti dai disciplinari, finendo venduti come vini da tavola a prezzi da grande annata: i cosiddetti Supertuscan. Alcuni sono poi entrati in una DOC, come il Sassicaia, sottozona della DOC Bolgheri dal 1994 e DOC autonoma dal 2013; altri, come il Tignanello, sono rimasti IGT. Rispetto all'→ IGP europea l'IGT è una menzione tradizionale, non una categoria diversa: vale la stessa regola dell'85% di uve dalla zona. «Tipica» non significa folcloristica: indica il legame con un territorio ampio, spesso un'intera regione, come in Toscana IGT o Terre Siciliane IGT.",

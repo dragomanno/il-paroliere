@@ -75,6 +75,9 @@ export const enologo: LemmaEntry = {
     "enofilo",
     "flying winemaker",
     "enologia",
+    "vinificazione",
+    "assemblaggio",
+    "cuvee",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/enologo/",
