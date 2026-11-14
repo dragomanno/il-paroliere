@@ -921,6 +921,41 @@ import { consorzioDiTutela } from "./consorzio-di-tutela";
 import { tannino } from "./tannino";
 import { acidita } from "./acidita";
 
+// BATCH-021 (2026-11) — Società, comunicazione e retorica
+import { sarcasmo } from "./sarcasmo";
+import { satira } from "./satira";
+import { parodia } from "./parodia";
+import { antifrasi } from "./antifrasi";
+import { figuraRetorica } from "./figura-retorica";
+import { metafora } from "./metafora";
+import { analogia } from "./analogia";
+import { ossimoro } from "./ossimoro";
+import { luogoComune } from "./luogo-comune";
+import { cliche } from "./cliche";
+import { lapalissiano } from "./lapalissiano";
+import { meticolosita } from "./meticolosita";
+import { dovizia } from "./dovizia";
+import { parossismo } from "./parossismo";
+import { altruismo } from "./altruismo";
+import { ipossia } from "./ipossia";
+import { ipossico } from "./ipossico";
+import { callosita } from "./callosita";
+import { campDavid } from "./camp-david";
+import { marALago } from "./mar-a-lago";
+import { arrivederci } from "./arrivederci";
+import { antipolitica } from "./antipolitica";
+import { cinismoPolitico } from "./cinismo-politico";
+import { opportunismoPolitico } from "./opportunismo-politico";
+import { compromesso } from "./compromesso";
+import { mediazione } from "./mediazione";
+import { dialogo } from "./dialogo";
+import { confronto } from "./confronto";
+import { dibattito } from "./dibattito";
+import { consensoSociale } from "./consenso-sociale";
+import { polarizzazioneSociale } from "./polarizzazione-sociale";
+import { scontroSociale } from "./scontro-sociale";
+import { autunnoCaldo } from "./autunno-caldo";
+
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
   abitudine,
@@ -1813,5 +1848,38 @@ export const allLemmas: LemmaEntry[] = [
   consorzioDiTutela,
   tannino,
   acidita,
+  sarcasmo,
+  satira,
+  parodia,
+  antifrasi,
+  figuraRetorica,
+  metafora,
+  analogia,
+  ossimoro,
+  luogoComune,
+  cliche,
+  lapalissiano,
+  meticolosita,
+  dovizia,
+  parossismo,
+  altruismo,
+  ipossia,
+  ipossico,
+  callosita,
+  campDavid,
+  marALago,
+  arrivederci,
+  antipolitica,
+  cinismoPolitico,
+  opportunismoPolitico,
+  compromesso,
+  mediazione,
+  dialogo,
+  confronto,
+  dibattito,
+  consensoSociale,
+  polarizzazioneSociale,
+  scontroSociale,
+  autunnoCaldo,
 ];
 
