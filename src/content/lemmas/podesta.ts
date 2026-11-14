@@ -73,6 +73,7 @@ export const podesta: LemmaEntry = {
     "sindaco",
     "democrazia locale",
     "storia italiana",
+    "Palio di Siena",
   ],
 
   sourceLinks: {
@@ -99,5 +100,5 @@ export const podesta: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };
