@@ -100,6 +100,10 @@ export const integerrimo: LemmaEntry = {
     "incorruttibilità",
     "etica pubblica",
     "virtù",
+    "meticolosita",
+    "altruismo",
+    "opportunismo-politico",
+    "compromesso",
   ],
 
   sourceLinks: {
@@ -127,5 +131,5 @@ export const integerrimo: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-14",
 };

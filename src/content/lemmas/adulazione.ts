@@ -49,7 +49,16 @@ export const adulazione: LemmaEntry = {
     { term: "critica costruttiva", register: "comune-professionale", note: "Il feedback che mira al miglioramento, non all’approvazione." },
   ],
 
-  relatedWords: ["ipocrisia", "opportunismo", "malafede", "doppiezza", "lusinga", "persuasione", "manipolazione"],
+  relatedWords: [
+    "ipocrisia",
+    "opportunismo",
+    "malafede",
+    "doppiezza",
+    "lusinga",
+    "persuasione",
+    "manipolazione",
+    "mar-a-lago",
+  ],
   sourceLinks: {},
 
   paroliereNote:
@@ -77,5 +86,5 @@ export const adulazione: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

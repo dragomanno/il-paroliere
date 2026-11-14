@@ -50,7 +50,11 @@ export const populismo: LemmaEntry = {
     "nazionalismo",
     "fascismo",
     "comunismo",
-    "consumismo"
+    "consumismo",
+    "luogo-comune",
+    "mar-a-lago",
+    "antipolitica",
+    "polarizzazione-sociale",
   ],
 
   sourceLinks: {
@@ -76,5 +80,5 @@ export const populismo: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-05-30",
+  updatedAt: "2026-11-14",
 };

@@ -86,6 +86,7 @@ export const nostalgia: LemmaEntry = {
     "rimpianto",
     "nóstos",
     "memoria",
+    "arrivederci",
   ],
 
   sourceLinks: {
@@ -107,5 +108,5 @@ export const nostalgia: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

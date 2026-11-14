@@ -36,7 +36,17 @@ export const idealismo: LemmaEntry = {
     { term: "pragmatismo", register: "formale", context: "in opposizione solo quando privilegia l'efficacia immediata rispetto ai principi." },
   ],
 
-  relatedWords: ["aspirazione", "desiderio", "speranza", "attesa", "filosofia", "autonomia", "cinismo", "utopia"],
+  relatedWords: [
+    "aspirazione",
+    "desiderio",
+    "speranza",
+    "attesa",
+    "filosofia",
+    "autonomia",
+    "cinismo",
+    "utopia",
+    "cinismo-politico",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/idealismo",
@@ -53,5 +63,5 @@ export const idealismo: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-08-24",
+  updatedAt: "2026-11-14",
 };

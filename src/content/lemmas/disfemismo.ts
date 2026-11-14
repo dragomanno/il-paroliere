@@ -37,7 +37,14 @@ export const disfemismo: LemmaEntry = {
     { term: "eufemismo", register: "tecnico", note: "Il procedimento simmetrico e opposto: attenuare invece di inasprire." },
   ],
 
-  relatedWords: ["eufemismo", "litote", "iperbole"],
+  relatedWords: [
+    "eufemismo",
+    "litote",
+    "iperbole",
+    "sarcasmo",
+    "antifrasi",
+    "figura-retorica",
+  ],
 
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/disfemismo/",
@@ -57,5 +64,5 @@ export const disfemismo: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

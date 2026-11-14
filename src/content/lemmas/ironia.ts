@@ -90,6 +90,11 @@ export const ironia: LemmaEntry = {
     "ironia drammatica",
     "ironia socratica",
     "smielato",
+    "parodia",
+    "figura-retorica",
+    "ossimoro",
+    "lapalissiano",
+    "arrivederci",
   ],
 
   sourceLinks: {
@@ -119,5 +124,5 @@ export const ironia: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-14",
 };

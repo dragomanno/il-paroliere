@@ -48,7 +48,15 @@ export const doppiezza: LemmaEntry = {
     { term: "autenticità", register: "psicologico-comune", note: "L’essere la stessa persona indipendentemente da chi osserva." },
   ],
 
-  relatedWords: ["malafede", "ipocrisia", "opportunismo", "lealta", "integrita"],
+  relatedWords: [
+    "malafede",
+    "ipocrisia",
+    "opportunismo",
+    "lealta",
+    "integrita",
+    "cinismo-politico",
+    "opportunismo-politico",
+  ],
   sourceLinks: {},
 
   paroliereNote:
@@ -69,5 +77,5 @@ export const doppiezza: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

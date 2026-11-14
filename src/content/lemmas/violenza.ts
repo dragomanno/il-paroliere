@@ -41,7 +41,18 @@ export const violenza: LemmaEntry = {
     { term: "dialogo", register: "standard", context: "confronto verbale come alternativa alla forza" },
     { term: "consenso", register: "formale", context: "accordo libero che esclude la coercizione" },
   ],
-  relatedWords: ["tortura", "coercizione", "potere", "diritto", "violazione", "conflitto", "criminalita"],
+  relatedWords: [
+    "tortura",
+    "coercizione",
+    "potere",
+    "diritto",
+    "violazione",
+    "conflitto",
+    "criminalita",
+    "dialogo",
+    "scontro-sociale",
+    "autunno-caldo",
+  ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/violenza/",
     wiktionary: "https://it.wiktionary.org/wiki/violenza",
@@ -60,5 +71,5 @@ export const violenza: LemmaEntry = {
     description: "Violenza: forza fisica o psicologica usata per dominare o costringere. Violenza di genere, simbolica (Bourdieu), di Stato, diritto.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

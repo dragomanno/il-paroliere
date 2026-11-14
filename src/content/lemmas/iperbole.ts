@@ -37,7 +37,18 @@ export const iperbole: LemmaEntry = {
     { term: "litote", register: "tecnico", note: "Attenua invece di amplificare, di solito negando il contrario: opposta per effetto, diversa per meccanismo." },
   ],
 
-  relatedWords: ["litote", "metonimia", "perifrasi"],
+  relatedWords: [
+    "litote",
+    "metonimia",
+    "perifrasi",
+    "sarcasmo",
+    "satira",
+    "parodia",
+    "figura-retorica",
+    "metafora",
+    "dovizia",
+    "parossismo",
+  ],
 
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/iperbole/",
@@ -57,5 +68,5 @@ export const iperbole: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

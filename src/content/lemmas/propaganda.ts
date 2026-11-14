@@ -84,6 +84,13 @@ export const propaganda: LemmaEntry = {
     "disinformazione",
     "persuasione",
     "aratro",
+    "satira",
+    "metafora",
+    "luogo-comune",
+    "mar-a-lago",
+    "cinismo-politico",
+    "consenso-sociale",
+    "polarizzazione-sociale",
   ],
 
   sourceLinks: {

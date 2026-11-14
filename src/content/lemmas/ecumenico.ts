@@ -92,6 +92,7 @@ export const ecumenico: LemmaEntry = {
     "protestantesimo",
     "oikoumene",
     "sincretismo",
+    "dialogo",
   ],
 
   sourceLinks: {
@@ -120,5 +121,5 @@ export const ecumenico: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-14",
 };

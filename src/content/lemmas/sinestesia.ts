@@ -46,7 +46,17 @@ export const sinestesia: LemmaEntry = {
 
   antonyms: [],
 
-  relatedWords: ["metafora", "percezione", "sensi", "corrispondenze", "epidermico", "mineralita", "degustazione"],
+  relatedWords: [
+    "metafora",
+    "percezione",
+    "sensi",
+    "corrispondenze",
+    "epidermico",
+    "mineralita",
+    "degustazione",
+    "figura-retorica",
+    "ossimoro",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/sinestesia",

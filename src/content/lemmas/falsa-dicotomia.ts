@@ -40,7 +40,15 @@ export const falsaDicotomia: LemmaEntry = {
     { term: "pensiero-laterale", register: "tecnico", note: "Modalità di ragionamento che esplora deliberatamente alternative multiple, opposta alla riduzione binaria della falsa dicotomia." },
   ],
 
-  relatedWords: ["sillogismo", "bias-cognitivo", "pensiero-laterale"],
+  relatedWords: [
+    "sillogismo",
+    "bias-cognitivo",
+    "pensiero-laterale",
+    "analogia",
+    "confronto",
+    "dibattito",
+    "polarizzazione-sociale",
+  ],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/dicotomia",
@@ -59,5 +67,5 @@ export const falsaDicotomia: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-08-10",
+  updatedAt: "2026-11-14",
 };

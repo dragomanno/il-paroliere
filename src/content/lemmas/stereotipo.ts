@@ -38,7 +38,13 @@ export const stereotipo: LemmaEntry = {
     { term: "conoscenza individuale", register: "comune", note: "Valutazione di una persona basata sulla sua esperienza specifica, non sull'appartenenza a una categoria generale." },
   ],
 
-  relatedWords: ["pregiudizio", "bias-cognitivo", "euristica"],
+  relatedWords: [
+    "pregiudizio",
+    "bias-cognitivo",
+    "euristica",
+    "luogo-comune",
+    "cliche",
+  ],
 
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/stereotipo/",
@@ -58,5 +64,5 @@ export const stereotipo: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

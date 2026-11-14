@@ -84,6 +84,9 @@ export const polarizzazione: LemmaEntry = {
     "echo chamber",
     "tribalismo",
     "radicalizzazione",
+    "metafora",
+    "dialogo",
+    "polarizzazione-sociale",
   ],
 
   sourceLinks: {
@@ -112,5 +115,5 @@ export const polarizzazione: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

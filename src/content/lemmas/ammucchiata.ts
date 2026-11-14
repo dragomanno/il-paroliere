@@ -29,8 +29,7 @@ export const ammucchiata: LemmaEntry = {
   domains: ["società", "politica", "usi figurati", "linguistica"],
 
   etymology:
-    "Participio passato sostantivato del verbo ammucchiare, derivato di mucchio, da un " +
-    "latino tardo muculum di origine incerta (forse germanica o preromana).",
+    "Participio passato femminile sostantivato di ammucchiare, verbo attestato dal Trecento e formato su mucchio con il prefisso a-. Per mucchio le ipotesi sono due. La più accreditata lo riporta al latino mūtulus, «mensola, pietra che sporge dal muro», accorciato in *mutlus e poi in *muclus, come vetulus è diventato vecchio passando per *veclus; resta da spiegare il salto di senso, dalla pietra che sporge al cumulo di pietre e poi a qualunque cumulo. L'altra parte da cumulus, «cumulo», con uno scambio di consonanti che avrebbe dato un latino parlato *muculus, poi *muclus, come oculus ha dato occhio: è più diretta nel significato, ma chiede di ammettere una metatesi che non ha riscontri scritti.",
 
   examples: [
     "Il governo era una vera ammucchiata: sette partiti che non si sopportavano, ma non volevano andare all'opposizione.",
@@ -96,6 +95,9 @@ export const ammucchiata: LemmaEntry = {
     "trasformismo",
     "alleanza",
     "coalizione",
+    "antipolitica",
+    "opportunismo-politico",
+    "compromesso",
   ],
 
   sourceLinks: {
@@ -111,7 +113,8 @@ export const ammucchiata: LemmaEntry = {
     "ironica e spregiativa: chi la usa sta implicitamente dicendo che quella coalizione " +
     "non ha gambe. Il parallelo con → coacervo è utile: coacervo è più formale, quasi " +
     "tecnico-legale; ammucchiata è da titolo di giornale, da talk show, da battuta " +
-    "sarcastica.",
+    "sarcastica." +
+    " Sull'origine di mucchio, e quindi di ammucchiata, non c'è accordo: [Treccani](https://www.treccani.it/vocabolario/mucchio/) e il [TLIO](http://tlio.ovi.cnr.it/voci/045550.htm) seguono la pista di mutulus, il [Wiktionary inglese](https://en.wiktionary.org/wiki/mucchio) le affianca quella di cumulus, e nel 1983 la germanista Maria Giovanna Arcamone ha proposto anche un'origine germanica. Il Paroliere riporta le due ipotesi latine e lascia la questione aperta, perché nessuna delle due, da sola, la chiude.",
 
   editorialStatus: "reviewed",
   indexable: true,
@@ -124,5 +127,5 @@ export const ammucchiata: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

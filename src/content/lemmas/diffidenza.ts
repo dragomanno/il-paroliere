@@ -61,7 +61,14 @@ export const diffidenza: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["sospetto", "dubbio", "cinismo", "preconcetto"],
+  relatedWords: [
+    "sospetto",
+    "dubbio",
+    "cinismo",
+    "preconcetto",
+    "antipolitica",
+    "polarizzazione-sociale",
+  ],
 
   sourceLinks: {},
 
@@ -78,5 +85,5 @@ export const diffidenza: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-14",
 };

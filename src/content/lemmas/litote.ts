@@ -38,7 +38,14 @@ export const litote: LemmaEntry = {
     { term: "iperbole", register: "tecnico", note: "Amplifica invece di attenuare — meccanismo retorico opposto nell'intensità espressiva." },
   ],
 
-  relatedWords: ["iperbole", "eufemismo", "disfemismo"],
+  relatedWords: [
+    "iperbole",
+    "eufemismo",
+    "disfemismo",
+    "sarcasmo",
+    "antifrasi",
+    "figura-retorica",
+  ],
 
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/litote/",
@@ -58,5 +65,5 @@ export const litote: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

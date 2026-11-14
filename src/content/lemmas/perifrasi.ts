@@ -38,7 +38,13 @@ export const perifrasi: LemmaEntry = {
     { term: "designazione diretta", register: "comune", note: "L'uso del termine proprio, senza mediazione descrittiva o evocativa." },
   ],
 
-  relatedWords: ["metonimia", "eufemismo", "ridondanza"],
+  relatedWords: [
+    "metonimia",
+    "eufemismo",
+    "ridondanza",
+    "figura-retorica",
+    "metafora",
+  ],
 
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/perifrasi/",
@@ -58,5 +64,5 @@ export const perifrasi: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

@@ -40,7 +40,15 @@ export const tautologia: LemmaEntry = {
     { term: "affermazione informativa", register: "comune", note: "Enunciato che aggiunge realmente conoscenza, distinguendosi da chi si limita a ripetere il già noto." },
   ],
 
-  relatedWords: ["ovvieta", "sillogismo", "assioma"],
+  relatedWords: [
+    "ovvieta",
+    "sillogismo",
+    "assioma",
+    "figura-retorica",
+    "ossimoro",
+    "luogo-comune",
+    "lapalissiano",
+  ],
 
   sourceLinks: {
     treccani: "https://www.treccani.it/enciclopedia/tautologia_(Dizionario-di-filosofia)/",
@@ -60,5 +68,5 @@ export const tautologia: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

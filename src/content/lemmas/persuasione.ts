@@ -87,6 +87,11 @@ export const persuasione: LemmaEntry = {
     "propaganda",
     "dialettica",
     "consenso",
+    "figura-retorica",
+    "metafora",
+    "mediazione",
+    "dialogo",
+    "dibattito",
   ],
 
   sourceLinks: {
@@ -117,5 +122,5 @@ export const persuasione: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

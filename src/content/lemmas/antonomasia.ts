@@ -47,7 +47,11 @@ export const antonomasia: LemmaEntry = {
 
   relatedWords: [
     "bignami",
-    "compendio"
+    "compendio",
+    "figura-retorica",
+    "metafora",
+    "camp-david",
+    "mar-a-lago",
   ],
 
   sourceLinks: {
@@ -77,5 +81,5 @@ export const antonomasia: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

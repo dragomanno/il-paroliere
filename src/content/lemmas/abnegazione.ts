@@ -52,6 +52,7 @@ export const abnegazione: LemmaEntry = {
     "rinuncia",
     "devozione",
     "burnout",
+    "meticolosita",
   ],
 
   examples: [

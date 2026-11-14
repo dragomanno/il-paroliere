@@ -68,7 +68,15 @@ export const fatalismo: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["cinismo", "indifferenza-civile", "astensionismo", "metafisica", "dialettica"],
+  relatedWords: [
+    "cinismo",
+    "indifferenza-civile",
+    "astensionismo",
+    "metafisica",
+    "dialettica",
+    "antipolitica",
+    "cinismo-politico",
+  ],
 
   sourceLinks: {},
 
@@ -94,5 +102,5 @@ export const fatalismo: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-14",
 };

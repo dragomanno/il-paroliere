@@ -50,7 +50,15 @@ export const ipocrisia: LemmaEntry = {
     { term: "sincerità", register: "comune", note: "La corrispondenza tra ciò che si dice e ciò che si pensa o vive." },
   ],
 
-  relatedWords: ["doppiezza", "malafede", "opportunismo", "adulazione"],
+  relatedWords: [
+    "doppiezza",
+    "malafede",
+    "opportunismo",
+    "adulazione",
+    "altruismo",
+    "cinismo-politico",
+    "opportunismo-politico",
+  ],
   sourceLinks: {},
 
   paroliereNote:
@@ -71,5 +79,5 @@ export const ipocrisia: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

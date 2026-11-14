@@ -19,7 +19,14 @@ export const radicalizzazione: LemmaEntry = {
   ],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["estremismo", "fanatismo", "polarizzazione"],
+  relatedWords: [
+    "estremismo",
+    "fanatismo",
+    "polarizzazione",
+    "parossismo",
+    "polarizzazione-sociale",
+    "scontro-sociale",
+  ],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/radicalizzazione" },
   paroliereNote:
     "Il termine ha guadagnato centralità nel dibattito pubblico dopo gli attentati degli anni Duemila: prima era un tecnicismo sociologico, poi è diventato parola quotidiana dei telegiornali. Il processo che descrive — lento, progressivo, spesso invisibile — è lo stesso indipendentemente dall'ideologia che alimenta.",
@@ -30,5 +37,5 @@ export const radicalizzazione: LemmaEntry = {
     description: "Definizione originale di 'radicalizzazione': il processo di spostamento verso posizioni estreme.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };
