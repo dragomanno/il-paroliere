@@ -65,6 +65,9 @@ export const seo: LemmaEntry = {
     "indicizzazione",
     "posizionamento",
     "content marketing",
+    "geo",
+    "search-intent",
+    "topic-cluster",
   ],
 
   sourceLinks: {
@@ -91,5 +94,5 @@ export const seo: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

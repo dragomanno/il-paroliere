@@ -794,6 +794,34 @@ import { pluviometro } from "./pluviometro";
 import { kelvin } from "./kelvin";
 import { joule } from "./joule";
 import { caloria } from "./caloria";
+// BATCH-018 (2026-11) — Intelligenza artificiale e tecnologia
+import { chatbot } from "./chatbot";
+import { assistenteVirtuale } from "./assistente-virtuale";
+import { agenteAi } from "./agente-ai";
+import { toolUse } from "./tool-use";
+import { automazioneCognitiva } from "./automazione-cognitiva";
+import { machineLearning } from "./machine-learning";
+import { deepLearning } from "./deep-learning";
+import { reteNeurale } from "./rete-neurale";
+import { trainingAi } from "./training-ai";
+import { fineTuning } from "./fine-tuning";
+import { modelloLinguistico } from "./modello-linguistico";
+import { multimodale } from "./multimodale";
+import { prompt } from "./prompt";
+import { contextWindow } from "./context-window";
+import { temperaturaAi } from "./temperatura-ai";
+import { allucinazioneAi } from "./allucinazione-ai";
+import { embedding } from "./embedding";
+import { vettoreSemantico } from "./vettore-semantico";
+import { rag } from "./rag";
+import { knowledgeGraph } from "./knowledge-graph";
+import { ontologia } from "./ontologia";
+import { webSemantico } from "./web-semantico";
+import { keyword } from "./keyword";
+import { searchIntent } from "./search-intent";
+import { ranking } from "./ranking";
+import { topicCluster } from "./topic-cluster";
+import { geo } from "./geo";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -1552,5 +1580,37 @@ export const allLemmas: LemmaEntry[] = [
   kelvin,
   joule,
   caloria,
+  // BATCH-018 (2026-11) — Intelligenza artificiale e tecnologia, Conversare e agire
+  chatbot,
+  assistenteVirtuale,
+  agenteAi,
+  toolUse,
+  automazioneCognitiva,
+  // BATCH-018 (2026-11) — Intelligenza artificiale e tecnologia, Apprendimento e modelli
+  machineLearning,
+  deepLearning,
+  reteNeurale,
+  trainingAi,
+  fineTuning,
+  modelloLinguistico,
+  multimodale,
+  // BATCH-018 (2026-11) — Intelligenza artificiale e tecnologia, Lavorare con un modello
+  prompt,
+  contextWindow,
+  temperaturaAi,
+  allucinazioneAi,
+  // BATCH-018 (2026-11) — Intelligenza artificiale e tecnologia, Rappresentare il significato
+  embedding,
+  vettoreSemantico,
+  rag,
+  knowledgeGraph,
+  ontologia,
+  webSemantico,
+  // BATCH-018 (2026-11) — Intelligenza artificiale e tecnologia, Ricerca e marketing digitale
+  keyword,
+  searchIntent,
+  ranking,
+  topicCluster,
+  geo,
 ];
 

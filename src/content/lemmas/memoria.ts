@@ -61,7 +61,7 @@ export const memoria: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["oblio", "anamnesi", "identita", "trauma", "epistemologia"],
+  relatedWords: ["oblio", "anamnesi", "identita", "trauma", "epistemologia", "context-window"],
 
   sourceLinks: {},
 
@@ -78,5 +78,5 @@ export const memoria: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

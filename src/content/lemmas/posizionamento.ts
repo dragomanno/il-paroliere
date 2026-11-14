@@ -60,6 +60,7 @@ export const posizionamento: LemmaEntry = {
     "brand positioning",
     "visibilità organica",
     "algoritmo",
+    "search-intent",
   ],
 
   sourceLinks: {
@@ -83,5 +84,5 @@ export const posizionamento: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-14",
 };

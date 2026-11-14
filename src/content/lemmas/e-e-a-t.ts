@@ -55,7 +55,7 @@ export const eeat: LemmaEntry = {
     },
   ],
   antonyms: [],
-  relatedWords: ["esperienza", "expertise", "autorevolezza", "affidabilita", "seo", "qualita-contenuto"],
+  relatedWords: ["esperienza", "expertise", "autorevolezza", "affidabilita", "seo", "qualita-contenuto", "geo"],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/E-E-A-T",
   },
@@ -93,5 +93,5 @@ export const eeat: LemmaEntry = {
       "Framework qualità contenuti web. Non è un ranking factor diretto.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

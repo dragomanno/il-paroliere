@@ -59,6 +59,7 @@ export const bot: LemmaEntry = {
     "chatbot",
     "agente automatico",
     "scraping",
+    "assistente-virtuale",
   ],
 
   sourceLinks: {
@@ -83,5 +84,5 @@ export const bot: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

@@ -53,10 +53,12 @@ export const llm: LemmaEntry = {
     "embedding",
     "prompt",
     "context window",
-    "hallucination",
+    "allucinazione-ai",
     "GPT",
     "Claude",
     "Gemini",
+    "modello-linguistico",
+    "temperatura-ai",
   ],
 
   sourceLinks: {
@@ -82,5 +84,5 @@ export const llm: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };
