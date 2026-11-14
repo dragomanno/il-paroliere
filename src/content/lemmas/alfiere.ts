@@ -73,10 +73,6 @@ export const alfiere: LemmaEntry = {
 
   relatedWords: [
     "alfiere-siena",
-    "tamburino",
-    "correttore",
-    "Palio di Siena",
-    "Contrada",
     "corteo storico",
     "bandiera",
     "otto",
@@ -110,5 +106,5 @@ export const alfiere: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };
