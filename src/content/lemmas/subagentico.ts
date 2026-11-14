@@ -76,6 +76,7 @@ export const subagentico: LemmaEntry = {
     "CrewAI",
     "intelligenza artificiale generativa",
     "automazione cognitiva",
+    "context-window",
   ],
 
   sourceLinks: {
@@ -107,5 +108,5 @@ export const subagentico: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-14",
 };

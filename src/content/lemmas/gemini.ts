@@ -69,6 +69,8 @@ export const gemini: LemmaEntry = {
     "intelligenza artificiale",
     "LLM",
     "chatbot",
+    "multimodale",
+    "modello-linguistico",
   ],
 
   sourceLinks: {
@@ -98,5 +100,5 @@ export const gemini: LemmaEntry = {
   },
 
   createdAt: "2026-11-08",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

@@ -56,6 +56,7 @@ export const temperatura: LemmaEntry = {
     "umidita-relativa",
     "kelvin",
     "calore",
+    "temperatura-ai",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/temperatura/",

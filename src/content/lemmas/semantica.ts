@@ -84,6 +84,8 @@ export const semantica: LemmaEntry = {
     "search intent",
     "topic cluster",
     "ontologia",
+    "vettore-semantico",
+    "embedding",
   ],
 
   sourceLinks: {
@@ -113,5 +115,5 @@ export const semantica: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };
