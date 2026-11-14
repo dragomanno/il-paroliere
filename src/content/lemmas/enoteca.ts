@@ -67,6 +67,7 @@ export const enoteca: LemmaEntry = {
     "Enoteca Italiana di Siena",
     "biblioteca",
     "pinacoteca",
+    "enologia",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/enoteca/",

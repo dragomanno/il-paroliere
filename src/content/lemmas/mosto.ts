@@ -70,6 +70,13 @@ export const mosto: LemmaEntry = {
     "lievito",
     "gradi Brix",
     "birra",
+    "acino",
+    "raspo",
+    "enologia",
+    "diraspatura",
+    "vinificazione",
+    "macerazione",
+    "cuvee",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/mosto/",

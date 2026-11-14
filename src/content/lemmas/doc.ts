@@ -91,6 +91,10 @@ export const doc: LemmaEntry = {
     "Testo unico del vino",
     "vino da tavola",
     "sottozona",
+    "vigneto",
+    "cru",
+    "supertuscan",
+    "consorzio-di-tutela",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/DOC",

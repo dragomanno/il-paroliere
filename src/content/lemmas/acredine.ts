@@ -72,6 +72,7 @@ export const acredine: LemmaEntry = {
     "rancore",
     "risentimento",
     "amarezza",
+    "acidita",
   ],
 
   sourceLinks: {
@@ -96,5 +97,5 @@ export const acredine: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-14",
 };

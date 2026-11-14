@@ -54,6 +54,11 @@ export const brina: LemmaEntry = {
     "temperatura",
     "galaverna",
     "gelicidio",
+    "olivo",
+    "olivicoltura",
+    "viticoltura",
+    "vigneto",
+    "annata",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/brina/",

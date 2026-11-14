@@ -66,6 +66,7 @@ export const cepage: LemmaEntry = {
     "assemblage",
     "cultivar",
     "taglio bordolese",
+    "assemblaggio",
   ],
   sourceLinks: {},
   paroliereNote: "Cépage è un prestito di lusso: l'italiano ha già → vitigno, che dice la stessa cosa ed è perfettamente chiaro. Lo si incontra perché il vocabolario della degustazione è nato in buona parte in Francia e si porta dietro le sue parole, come → terroir, → barrique e → sommelier. La differenza con terroir è istruttiva: terroir non ha un equivalente italiano esatto, cépage sì, e per questo il secondo suona più come una scelta di stile che come una necessità. Utile però distinguere due parole francesi vicine: cépage è il vitigno, encépagement la composizione dei vitigni di un vigneto o di un vino, assemblage l'operazione di unire vini diversi, cioè il nostro → blend. Il legame con il latino cippus, il ceppo, ricorda che il vitigno, prima di essere un'idea, è una pianta piantata in terra.",

@@ -89,6 +89,7 @@ export const fervore: LemmaEntry = {
     "devozione",
     "effervescenza",
     "fermentazione",
+    "lievito",
   ],
 
   sourceLinks: {

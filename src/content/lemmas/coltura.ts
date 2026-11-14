@@ -71,6 +71,11 @@ export const coltura: LemmaEntry = {
     "agricoltura",
     "cultura",
     "rotazione delle colture",
+    "olivo",
+    "olivicoltura",
+    "cultivar",
+    "viticoltura",
+    "vigneto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/coltura/",

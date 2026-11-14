@@ -79,6 +79,10 @@ export const denominazioneDorigine: LemmaEntry = {
     "marchio collettivo",
     "Parmigiano Reggiano",
     "Vernaccia di San Gimignano",
+    "extravergine",
+    "cru",
+    "supertuscan",
+    "vitigno",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/denominazione/",

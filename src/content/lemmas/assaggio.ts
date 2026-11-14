@@ -77,10 +77,12 @@ export const assaggio: LemmaEntry = {
     "sentore",
     "sinestesia",
     "assaggiatore",
-    "panel",
+    "panel-test",
     "saggiatore",
     "campione",
     "analisi sensoriale",
+    "extravergine",
+    "fruttato",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/assaggio/",

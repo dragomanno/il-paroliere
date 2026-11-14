@@ -89,6 +89,10 @@ export const raccolta: LemmaEntry = {
     "antologia",
     "raccolta differenziata",
     "raccolta fondi",
+    "olivo",
+    "oliva",
+    "olivicoltura",
+    "annata",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/raccolta/",

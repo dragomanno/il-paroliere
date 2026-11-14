@@ -69,6 +69,7 @@ export const rovello: LemmaEntry = {
     "assillo",
     "pensiero ossessivo",
     "inquietudine",
+    "macerazione",
   ],
 
   sourceLinks: {
@@ -94,5 +95,5 @@ export const rovello: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-14",
 };

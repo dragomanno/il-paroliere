@@ -92,6 +92,11 @@ export const persistenza: LemmaEntry = {
     "PAI",
     "caudalie",
     "retrogusto",
+    "panel-test",
+    "fruttato",
+    "affinamento",
+    "tannino",
+    "acidita",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/persistenza/",

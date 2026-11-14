@@ -68,6 +68,8 @@ export const effervescente: LemmaEntry = {
     "energia",
     "startup",
     "fermentazione",
+    "lievito",
+    "cuvee",
   ],
 
   sourceLinks: {

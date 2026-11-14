@@ -75,6 +75,7 @@ export const varietale: LemmaEntry = {
     "cultivar",
     "aromi primari",
     "etichetta",
+    "assemblaggio",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/varietale/",

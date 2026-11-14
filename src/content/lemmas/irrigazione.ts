@@ -74,6 +74,11 @@ export const irrigazione: LemmaEntry = {
     "siccità",
     "bonifica",
     "stress idrico",
+    "olivicoltura",
+    "viticoltura",
+    "vigneto",
+    "olio-doliva",
+    "vendemmia",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/irrigazione/",

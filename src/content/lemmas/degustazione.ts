@@ -79,6 +79,11 @@ export const degustazione: LemmaEntry = {
     "degustazione alla cieca",
     "scheda di degustazione",
     "menù degustazione",
+    "panel-test",
+    "fruttato",
+    "enologia",
+    "tannino",
+    "acidita",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/degustazione/",

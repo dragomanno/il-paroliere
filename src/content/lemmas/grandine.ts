@@ -55,6 +55,12 @@ export const grandine: LemmaEntry = {
     "fronte-atmosferico",
     "raccolta",
     "coltura",
+    "olivo",
+    "olivicoltura",
+    "viticoltura",
+    "vigneto",
+    "acino",
+    "annata",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/grandine/",

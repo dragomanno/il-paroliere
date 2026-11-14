@@ -86,6 +86,10 @@ export const terroir: LemmaEntry = {
     "microclima",
     "vigneto",
     "OIV",
+    "olivo",
+    "olivicoltura",
+    "cultivar",
+    "viticoltura",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/terroir/",
