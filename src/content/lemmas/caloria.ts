@@ -51,6 +51,9 @@ export const caloria: LemmaEntry = {
     "termodinamica",
     "kelvin",
     "evaporazione",
+    "nutrizione",
+    "dieta",
+    "metabolismo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/caloria/",

@@ -39,7 +39,7 @@ export const spacconcello: LemmaEntry = {
     { term: "modesto", register: "comune", note: "Chi ridimensiona i propri meriti anziché ingrandirli davanti agli altri." },
   ],
 
-  relatedWords: ["spaccone", "gradasso", "fanfarone", "millantatore", "bravata"],
+  relatedWords: ["spaccone", "gradasso", "fanfarone", "millantatore", "bravata", "patacca"],
   sourceLinks: {},
 
   paroliereNote:
@@ -54,5 +54,5 @@ export const spacconcello: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-08-24",
+  updatedAt: "2026-11-14",
 };

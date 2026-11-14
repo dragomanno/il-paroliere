@@ -90,6 +90,8 @@ export const burnout: LemmaEntry = {
     "deadline",
     "sprint",
     "stress",
+    "sindrome",
+    "burnout-clinico",
   ],
   sourceLinks: {},
   paroliereNote: "Il burnout porta con sé una contraddizione: è una parola nata per i luoghi di lavoro e diventata il nome di un malessere generazionale. L'[Organizzazione mondiale della sanità](https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases) ha precisato nel 2019 che il termine riguarda specificamente il contesto professionale; l'uso comune, però, va per la sua strada, e oggi si parla di burnout dello studente o del genitore. Per come è definito, il burnout descrive il rapporto fra una persona e un'organizzazione, non una fragilità individuale. Sul piano clinico il lessico conta più che altrove: dire «ho il burnout» non equivale a ricevere una diagnosi. L'ICD-11 lo tiene separato dai disturbi d'ansia, dell'umore e da stress, il DSM-5 non lo include, e una parte della ricerca discute quanto si distingua davvero dalla → depressione, perché i sintomi si sovrappongono molto. Il termine è prezioso per leggere un'organizzazione che fa ammalare, meno per sostituire una valutazione clinica.",

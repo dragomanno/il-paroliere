@@ -69,6 +69,8 @@ export const frustrazione: LemmaEntry = {
     "relazione",
     "dipendenza",
     "burnout",
+    "stress",
+    "burnout-clinico",
   ],
 
   sourceLinks: {

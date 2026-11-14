@@ -84,6 +84,8 @@ export const demagogia: LemmaEntry = {
     "consenso",
     "retorica",
     "antipolitica",
+    "quaquaraqua",
+    "parolaio",
   ],
 
   sourceLinks: {

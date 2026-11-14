@@ -41,7 +41,7 @@ export const epidemia: LemmaEntry = {
     { term: "endemia", register: "tecnico-scientifico", context: "fenomeno infettivo stabile e circoscritto a un territorio" },
     { term: "eradicazione", register: "tecnico-scientifico", context: "eliminazione definitiva di un agente patogeno" },
   ],
-  relatedWords: ["pandemia", "contagio", "salute", "norma", "autorita", "stato"],
+  relatedWords: ["pandemia", "contagio", "salute", "norma", "autorita", "stato", "immunita"],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/epidemia",
     treccani: "https://www.treccani.it/vocabolario/epidemia/",
@@ -61,5 +61,5 @@ export const epidemia: LemmaEntry = {
       "Distinzione da pandemia ed endemia. Etimologia ed esempi.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

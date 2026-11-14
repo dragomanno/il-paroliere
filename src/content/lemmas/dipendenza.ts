@@ -39,7 +39,7 @@ export const dipendenza: LemmaEntry = {
     { term: "indipendenza", register: "comune", context: "Libertà da un bisogno o da un controllo esterno; non implica isolamento emotivo." },
   ],
 
-  relatedWords: ["relazione", "legame", "connessione", "desiderio", "aspirazione", "speranza", "attesa", "frustrazione", "rassegnazione", "accettazione", "autonomia", "solitudine"],
+  relatedWords: ["relazione", "legame", "connessione", "desiderio", "aspirazione", "speranza", "attesa", "frustrazione", "rassegnazione", "accettazione", "autonomia", "solitudine", "farmacologia", "psicofarmaco"],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/dipendenza",
@@ -57,5 +57,5 @@ export const dipendenza: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-08-24",
+  updatedAt: "2026-11-14",
 };

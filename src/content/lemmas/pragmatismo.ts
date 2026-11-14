@@ -96,6 +96,7 @@ export const pragmatismo: LemmaEntry = {
     "Dewey",
     "neopragmatismo",
     "Rorty",
+    "semiotica-pragmatica",
   ],
 
   sourceLinks: {
@@ -125,5 +126,5 @@ export const pragmatismo: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

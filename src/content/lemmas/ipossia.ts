@@ -71,6 +71,7 @@ export const ipossia: LemmaEntry = {
     "mal di montagna",
     "apnea",
     "respirazione",
+    "epossidico",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/ipossia/",

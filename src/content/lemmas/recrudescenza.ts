@@ -86,6 +86,7 @@ export const recrudescenza: LemmaEntry = {
     "reminiscenza",
     "epidemia",
     "conflitto",
+    "acuzie",
   ],
 
   sourceLinks: {
@@ -113,5 +114,5 @@ export const recrudescenza: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

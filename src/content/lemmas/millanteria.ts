@@ -49,7 +49,7 @@ export const millanteria: LemmaEntry = {
     { term: "understatement", register: "comune (anglismo)", note: "Il minimizzare deliberatamente i propri meriti, spesso come tecnica retorica." },
   ],
 
-  relatedWords: ["fanfarone", "gradasso", "spaccone", "bravata", "arroganza", "ipocrisia"],
+  relatedWords: ["fanfarone", "gradasso", "spaccone", "bravata", "arroganza", "ipocrisia", "parolaio", "fuffarolo"],
   sourceLinks: {},
 
   paroliereNote:
@@ -70,5 +70,5 @@ export const millanteria: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

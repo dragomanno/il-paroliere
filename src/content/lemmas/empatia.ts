@@ -54,6 +54,7 @@ export const empatia: LemmaEntry = {
     "specchio",
     "altruismo",
     "callosita",
+    "psicoterapia",
   ],
 
   examples: [

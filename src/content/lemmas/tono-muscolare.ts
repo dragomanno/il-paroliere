@@ -44,7 +44,7 @@ export const tonoMuscolare: LemmaEntry = {
     { term: "flaccidità", register: "tecnico-comune", note: "Assenza di tono; il muscolo che non oppone resistenza passiva." },
   ],
 
-  relatedWords: ["tonicita", "ipotonia", "elasticita", "atrofia"],
+  relatedWords: ["tonicita", "ipotonia", "elasticita", "atrofia", "riabilitazione", "benessere-fisico"],
 
   paroliereNote:
     "Il tono muscolare è la differenza tra un corpo che si tiene in piedi e un corpo " +
@@ -65,5 +65,5 @@ export const tonoMuscolare: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

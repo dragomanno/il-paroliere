@@ -57,7 +57,7 @@ export const stigma: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["discriminazione", "pregiudizio", "identità", "esclusione", "burnout"],
+  relatedWords: ["discriminazione", "pregiudizio", "identità", "esclusione", "burnout", "psicofarmaco", "depressione-clinica", "psicoterapia"],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/stigma",

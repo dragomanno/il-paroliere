@@ -47,7 +47,7 @@ export const fanfarone: LemmaEntry = {
     { term: "understatement", register: "comune", note: "Il polo retorico opposto: minimizzare invece di amplificare." },
   ],
 
-  relatedWords: ["millantatore", "gradasso", "spaccone", "bravata", "millanteria", "arroganza"],
+  relatedWords: ["millantatore", "gradasso", "spaccone", "bravata", "millanteria", "arroganza", "quaquaraqua", "parolaio", "patacca"],
   sourceLinks: {},
 
   paroliereNote:
@@ -67,5 +67,5 @@ export const fanfarone: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

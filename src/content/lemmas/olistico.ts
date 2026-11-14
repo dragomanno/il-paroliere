@@ -89,6 +89,7 @@ export const olistico: LemmaEntry = {
     "emergenza",
     "Jan Smuts",
     "medicina integrata",
+    "benessere-fisico",
   ],
 
   sourceLinks: {
@@ -117,5 +118,5 @@ export const olistico: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

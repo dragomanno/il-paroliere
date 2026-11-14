@@ -41,7 +41,7 @@ export const pandemia: LemmaEntry = {
     { term: "endemia", register: "tecnico-scientifico", context: "presenza stabile e localizzata di una malattia" },
     { term: "eradicazione", register: "tecnico-scientifico", context: "eliminazione definitiva di un agente patogeno" },
   ],
-  relatedWords: ["epidemia", "salute", "norma", "stato", "autorita", "emergenza"],
+  relatedWords: ["epidemia", "salute", "norma", "stato", "autorita", "emergenza", "immunita"],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/pandemia",
     treccani: "https://www.treccani.it/vocabolario/pandemia/",
@@ -62,5 +62,5 @@ export const pandemia: LemmaEntry = {
       "COVID-19, storia, distinzione da epidemia. Etimologia ed esempi.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-14",
 };

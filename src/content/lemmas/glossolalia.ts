@@ -37,7 +37,7 @@ export const glossolalia: LemmaEntry = {
     { term: "discorso articolato", register: "comune", note: "Comunicazione verbale dotata di struttura grammaticale riconoscibile e significato condiviso e decodificabile." },
   ],
 
-  relatedWords: ["burocratese", "tautologia", "ridondanza"],
+  relatedWords: ["burocratese", "tautologia", "ridondanza", "parolaio"],
 
   sourceLinks: {
     treccani: "https://www.treccani.it/enciclopedia/glossolalia/",
@@ -57,5 +57,5 @@ export const glossolalia: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-14",
 };

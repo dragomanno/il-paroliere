@@ -92,6 +92,8 @@ export const flaccido: LemmaEntry = {
     "etereo",
     "flosco",
     "cedimento",
+    "dieta",
+    "benessere-fisico",
   ],
 
   sourceLinks: {
@@ -118,5 +120,5 @@ export const flaccido: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-06-06",
+  updatedAt: "2026-11-14",
 };
