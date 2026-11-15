@@ -10,7 +10,7 @@ export const tacconi: LemmaEntry = {
   slug: "tacconi",
   partOfSpeech: "sostantivo maschile plurale",
   gender: "maschile",
-  definition: "Pasta povera delle Marche e dell'Italia centrale, fatta con farina e acqua, a volte con farina di fave o di mais, tirata in sfoglia grossa e tagliata in pezzi larghi e irregolari; nel Piceno, dove si chiamano li taccù, si cuoce in una minestra liquida e brodosa, spesso con legumi.",
+  definition: "Pasta povera delle Marche e dell'Italia centrale, fatta con farina e acqua, a volte con farina di fave o di mais, tirata in sfoglia grossa e tagliata in pezzi larghi e irregolari; nel Piceno, dove in dialetto si chiamano taccù, si cuoce in una minestra liquida e brodosa, spesso con legumi.",
   shortDefinition: "Pezzi larghi e irregolari di pasta povera; nel Piceno li taccù, cotti in una minestra liquida e brodosa con i legumi.",
   register: [
     "regionale",
@@ -28,9 +28,9 @@ export const tacconi: LemmaEntry = {
   ],
   synonyms: [
     {
-      term: "li taccù",
+      term: "taccù",
       register: "dialettale",
-      context: "la forma del Piceno",
+      context: "la forma del Piceno; con l'articolo, li taccù",
     },
     {
       term: "maltagliati",
@@ -66,7 +66,7 @@ export const tacconi: LemmaEntry = {
     treccani: "https://www.treccani.it/vocabolario/taccone/",
     wiktionary: "https://it.wiktionary.org/wiki/tacconi",
   },
-  paroliereNote: "I tacconi sono la pasta delle toppe. Il [Pasta Almanac](https://www.pastaalmanac.com/shape/tacconi) li descrive come pezzi di sfoglia simili alle pezze di cuoio o di stoffa con cui si rattoppavano scarpe e vestiti, ricorda il nome dialettale taccone e una tradizione marchigiana che, intorno ad Ascoli, li associa ai grossi tacchi degli scarponi contadini; nelle Marche la pasta si faceva anche con farine di fave o di mais, per risparmiare il grano. La [Regione Marche](https://www.regione.marche.it/Portals/0/Agricoltura/qualita/Prodotti%20Tradizionali/ElencoCompleto2022.pdf) li elenca fra i prodotti tradizionali come tacconi o tacon, soprattutto a Fratte Rosa e nei comuni vicini del Pesarese, e [Repubblica](https://www.repubblica.it/il-gusto/2026/10/25/news/dai_lorighittas_ai__ndremmappi_le_antiche_paste_delle_nostre_nonne_che_rischiano_di_scomparire-425669496/) li inserisce fra le paste antiche che rischiano di scomparire. Nel Piceno si chiamano li taccù e, secondo la memoria di famiglia del curatore, si tagliano larghi e irregolari, «come viene viene», per una minestra liquida e brodosa: un uso di casa più che di ricettario. Sono parenti stretti delle → [sagne](https://ilparoliere.online/parola/sagne) abruzzesi e dei → [quadraccioli](https://ilparoliere.online/parola/quadraccioli), e trovano il loro brodo naturale nei legumi, dalla → [cicerchia](https://ilparoliere.online/parola/cicerchia) ai fagioli.",
+  paroliereNote: "I tacconi sono la pasta delle toppe. Il [Pasta Almanac](https://www.pastaalmanac.com/shape/tacconi) li descrive come pezzi di sfoglia simili alle pezze di cuoio o di stoffa con cui si rattoppavano scarpe e vestiti, ricorda il nome dialettale taccone e una tradizione marchigiana che, intorno ad Ascoli, li associa ai grossi tacchi degli scarponi contadini; nelle Marche la pasta si faceva anche con farine di fave o di mais, per risparmiare il grano. La [Regione Marche](https://www.regione.marche.it/Portals/0/Agricoltura/qualita/Prodotti%20Tradizionali/ElencoCompleto2022.pdf) li elenca fra i prodotti tradizionali come tacconi o tacon, soprattutto a Fratte Rosa e nei comuni vicini del Pesarese, e [Repubblica](https://www.repubblica.it/il-gusto/2026/10/25/news/dai_lorighittas_ai__ndremmappi_le_antiche_paste_delle_nostre_nonne_che_rischiano_di_scomparire-425669496/) li inserisce fra le paste antiche che rischiano di scomparire. Nel Piceno si chiamano taccù e, secondo testimonianze dirette di parlanti del posto raccolte dal curatore, si tagliano larghi e irregolari, «come viene viene», per una minestra liquida e brodosa: un uso di casa più che di ricettario. Sono parenti stretti delle → [sagne](https://ilparoliere.online/parola/sagne) abruzzesi e dei → [quadraccioli](https://ilparoliere.online/parola/quadraccioli), e trovano il loro brodo naturale nei legumi, dalla → [cicerchia](https://ilparoliere.online/parola/cicerchia) ai fagioli.",
   seo: {
     title: "Tacconi — significato e li taccù del Piceno | Il Paroliere",
     description: "Che cosa sono i tacconi: la pasta povera a pezzi larghi e irregolari delle Marche, li taccù del Piceno in minestra brodosa, e il nome dalle toppe di cuoio.",

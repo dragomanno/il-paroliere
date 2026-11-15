@@ -10,7 +10,7 @@ export const quadraccioli: LemmaEntry = {
   slug: "quadraccioli",
   partOfSpeech: "sostantivo maschile plurale",
   gender: "maschile",
-  definition: "Nel Piceno, pasta fresca casalinga tagliata a quadrotti, più grandi dei quadrucci da brodo, che si cuoce in minestra o con i legumi; in dialetto si chiamano li quadracciuol'. Appartengono alla famiglia dei quadrucci e dei quadrelli dell'Italia centrale.",
+  definition: "Nel Piceno, pasta fresca casalinga tagliata a quadrotti, più grandi dei quadrucci da brodo, che si cuoce in minestra o con i legumi; in dialetto si chiamano quadracciuol'. Appartengono alla famiglia dei quadrucci e dei quadrelli dell'Italia centrale.",
   shortDefinition: "Nel Piceno, pasta fresca a quadrotti per minestre e legumi, detta in dialetto li quadracciuol'.",
   register: [
     "regionale",
@@ -28,9 +28,9 @@ export const quadraccioli: LemmaEntry = {
   ],
   synonyms: [
     {
-      term: "li quadracciuol'",
+      term: "quadracciuol'",
       register: "dialettale",
-      context: "la forma del Piceno",
+      context: "la forma del Piceno; con l'articolo, li quadracciuol'",
     },
     {
       term: "quadrucci",
@@ -65,7 +65,7 @@ export const quadraccioli: LemmaEntry = {
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/quadruccio/",
   },
-  paroliereNote: "I quadraccioli sono una parola di casa, più che di ricettario: nel Piceno si chiamano li quadracciuol' e indicano quadrotti di pasta fresca da minestra. Non abbiamo trovato fonti scritte che li descrivano con questo nome, e la scheda si basa sulla memoria del curatore. La famiglia, però, è documentata. Gli [Antichi Sapori Marche](http://www.antichisaporimarche.it/portfolio-item/quadrucci/) descrivono i quadrucci, i quadratini di pasta all'uovo da cuocere in brodo; [CiboToday](https://www.cibotoday.it/storie/territorio/guida-formati-pasta-marche-storia.html) cita i quadrelli pelosi, di acqua e farina, nell'Anconetano e nel Maceratese. Il suffisso -acciolo dà alla parola il tono affettuoso e un po' trasandato della pasta tagliata a mano. Sono fratelli dei → [tacconi](https://ilparoliere.online/parola/tacconi), tagliati più regolari, e cugini delle → [sagne](https://ilparoliere.online/parola/sagne) abruzzesi.",
+  paroliereNote: "I quadraccioli sono una parola di casa, più che di ricettario: nel Piceno si chiamano quadracciuol' e indicano quadrotti di pasta fresca da minestra. Non abbiamo trovato fonti scritte che li descrivano con questo nome: la scheda si basa su testimonianze dirette di parlanti del posto, raccolte dal curatore. La famiglia, però, è documentata. Gli [Antichi Sapori Marche](http://www.antichisaporimarche.it/portfolio-item/quadrucci/) descrivono i quadrucci, i quadratini di pasta all'uovo da cuocere in brodo; [CiboToday](https://www.cibotoday.it/storie/territorio/guida-formati-pasta-marche-storia.html) cita i quadrelli pelosi, di acqua e farina, nell'Anconetano e nel Maceratese. Il suffisso -acciolo dà alla parola il tono affettuoso e un po' trasandato della pasta tagliata a mano. Sono fratelli dei → [tacconi](https://ilparoliere.online/parola/tacconi), tagliati più regolari, e cugini delle → [sagne](https://ilparoliere.online/parola/sagne) abruzzesi.",
   seo: {
     title: "Quadraccioli — significato e pasta del Piceno | Il Paroliere",
     description: "Che cosa sono i quadraccioli: li quadracciuol' del Piceno, quadrotti di pasta fresca per minestre e legumi, parenti dei quadrucci da brodo e dei quadrelli.",
