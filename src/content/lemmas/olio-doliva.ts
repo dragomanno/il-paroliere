@@ -94,6 +94,10 @@ export const olioDoliva: LemmaEntry = {
     "fettunta",
     "olio-novo",
     "olio-nuovo",
+    "ciceri-e-tria",
+    "frisella",
+    "pesto-alla-trapanese",
+    "tarallo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/olio/",

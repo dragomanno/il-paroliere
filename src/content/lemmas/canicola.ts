@@ -69,6 +69,7 @@ export const canicola: LemmaEntry = {
     "umidita-relativa",
     "solleone",
     "irrigazione",
+    "granita",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/canicola/",
@@ -82,5 +83,5 @@ export const canicola: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

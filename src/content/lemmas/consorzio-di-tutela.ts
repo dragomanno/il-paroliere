@@ -69,6 +69,10 @@ export const consorzioDiTutela: LemmaEntry = {
     "panforte",
     "pecorino",
     "ricciarello",
+    "capocollo",
+    "cipolla-di-tropea",
+    "mozzarella",
+    "pane-di-altamura",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/consorzio/",

@@ -77,6 +77,10 @@ export const igp: LemmaEntry = {
     "olio-nuovo",
     "panforte",
     "ricciarello",
+    "burrata",
+    "cipolla-di-tropea",
+    "limoncello",
+    "peperone-crusco",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/IGP",

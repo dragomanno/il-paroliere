@@ -51,6 +51,8 @@ export const carabaccia: LemmaEntry = {
     "zuppa",
     "rinascimento",
     "caterina-de-medici",
+    "cipolla-di-tropea",
+    "genovese",
   ],
   sourceLinks: {
   },

@@ -82,6 +82,8 @@ export const diatriba: LemmaEntry = {
     "dialogo",
     "dibattito",
     "accordo",
+    "arancino",
+    "sfoglio",
   ],
 
   sourceLinks: {

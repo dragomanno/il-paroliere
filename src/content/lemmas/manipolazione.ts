@@ -92,6 +92,7 @@ export const manipolazione: LemmaEntry = {
     "vittimismo",
     "cinismo-politico",
     "consenso-sociale",
+    "bufala",
   ],
 
   sourceLinks: {
@@ -120,5 +121,5 @@ export const manipolazione: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

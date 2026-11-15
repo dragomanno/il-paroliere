@@ -88,6 +88,8 @@ export const extravergine: LemmaEntry = {
     "fettunta",
     "olio-novo",
     "olio-nuovo",
+    "dieta-mediterranea",
+    "frisella",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/extravergine/",

@@ -51,7 +51,8 @@ export const inetto: LemmaEntry = {
     "mediocrità",
     "svevo",
     "zeno cosini",
-    "antieroismo"
+    "antieroismo",
+    "scamorza"
   ],
 
   examples: [
@@ -84,5 +85,5 @@ export const inetto: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-15",
 };

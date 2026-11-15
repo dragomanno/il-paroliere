@@ -115,6 +115,7 @@ export const sentore: LemmaEntry = {
     "fruttato",
     "tannino",
     "olio-nuovo",
+    "bergamotto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/sentore/",

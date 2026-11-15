@@ -21,7 +21,7 @@ export const salagione: LemmaEntry = {
     { term: "salatura", register: "comune", context: "più usato per carni e salumi" },
   ],
   antonyms: [],
-  relatedWords: ["salatura", "insaccato", "stagionatura", "prosciutto", "conservazione", "dop", "lardo"],
+  relatedWords: ["salatura", "insaccato", "stagionatura", "prosciutto", "conservazione", "dop", "lardo", "capocollo", "colatura-di-alici", "nduja", "suino-nero"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/salagione" },
   paroliereNote:
     "Salagione e salatura dicono quasi la stessa cosa; cambia l'ambiente in cui si sentono. Salagione ha il suono dei magazzini del porto, dei barili di acciughe e del baccalà; salatura è la parola della cucina e della norcineria. In tutti e due i casi il sale lavora lento: chi ha fretta non fa buone conserve.",

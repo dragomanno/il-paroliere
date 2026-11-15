@@ -74,6 +74,7 @@ export const nutrizione: LemmaEntry = {
     "malnutrizione",
     "nutrizionista",
     "dietista",
+    "dieta-mediterranea",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/nutrizione/",
@@ -87,5 +88,5 @@ export const nutrizione: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

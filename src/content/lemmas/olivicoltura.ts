@@ -69,6 +69,7 @@ export const olivicoltura: LemmaEntry = {
     "vendemmia",
     "ciclo-stagionale",
     "olio-nuovo",
+    "dieta-mediterranea",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/olivicoltura/",

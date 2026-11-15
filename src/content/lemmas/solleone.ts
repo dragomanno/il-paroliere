@@ -67,6 +67,7 @@ export const solleone: LemmaEntry = {
     "climatologia",
     "umidita-relativa",
     "fascia-climatica",
+    "granita",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/solleone/",
@@ -80,5 +81,5 @@ export const solleone: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

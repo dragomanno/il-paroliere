@@ -55,6 +55,7 @@ export const biroldo: LemmaEntry = {
     "lucca",
     "maiale",
     "salumeria",
+    "nduja",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/biroldo/",

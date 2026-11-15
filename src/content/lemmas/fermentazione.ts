@@ -87,6 +87,9 @@ export const fermentazione: LemmaEntry = {
     "macerazione",
     "vendemmia",
     "vinsanto",
+    "colatura-di-alici",
+    "pane-di-altamura",
+    "pizza",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/fermentazione/",

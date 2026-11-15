@@ -42,7 +42,7 @@ export const imbroglione: LemmaEntry = {
     { term: "leale", register: "comune", context: "chi agisce in modo trasparente e corretto" },
     { term: "onesto", register: "comune", context: "di condotta retta, senza inganni" },
   ],
-  relatedWords: ["truffa", "raggiro", "imbroglio", "farabutto", "mascalzone", "birbante", "malacarne", "malandrino", "furfante", "canaglia", "scaltrezza"],
+  relatedWords: ["truffa", "raggiro", "imbroglio", "farabutto", "mascalzone", "birbante", "malacarne", "malandrino", "furfante", "canaglia", "scaltrezza", "bufala"],
   sourceLinks: {},
   paroliereNote:
     "La differenza tra imbroglione e farabutto è la differenza tra il metodo e la natura. " +
@@ -57,5 +57,5 @@ export const imbroglione: LemmaEntry = {
       "Definizione originale di 'imbroglione': chi inganna con astuzia sistematica e metodo quasi professionale. Distinzione da farabutto, truffatore, furbacchione.",
   },
   createdAt: "2026-06-12",
-  updatedAt: "2026-06-12",
+  updatedAt: "2026-11-15",
 };

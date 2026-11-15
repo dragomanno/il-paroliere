@@ -46,7 +46,7 @@ export const goffaggine: LemmaEntry = {
     { term: "eleganza", register: "comune", note: "La misura e la proporzione nel gesto e nello stile." },
   ],
 
-  relatedWords: ["grazia", "eleganza", "ritmo", "armonia", "agile"],
+  relatedWords: ["grazia", "eleganza", "ritmo", "armonia", "agile", "scamorza"],
 
   paroliereNote:
     "La goffaggine è uno dei lemmi più simpatici del batch perché è onesta. Non nasconde " +
@@ -66,5 +66,5 @@ export const goffaggine: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

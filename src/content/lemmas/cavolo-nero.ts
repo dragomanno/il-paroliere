@@ -61,6 +61,8 @@ export const cavoloNero: LemmaEntry = {
     "kale",
     "orto",
     "inverno",
+    "cime-di-rapa",
+    "friarielli",
   ],
   sourceLinks: {
   },

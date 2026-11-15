@@ -64,6 +64,7 @@ export const allaSalute: LemmaEntry = {
     "sommelier",
     "cantina",
     "fiaschetteria",
+    "limoncello",
   ],
 
   sourceLinks: {

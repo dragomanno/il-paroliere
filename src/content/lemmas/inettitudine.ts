@@ -52,7 +52,8 @@ export const inettitudine: LemmaEntry = {
     "mediocrità",
     "antieroismo",
     "svevo",
-    "autoanalisi"
+    "autoanalisi",
+    "scamorza"
   ],
 
   examples: [
@@ -85,5 +86,5 @@ export const inettitudine: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-15",
 };

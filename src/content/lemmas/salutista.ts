@@ -85,6 +85,7 @@ export const salutista: LemmaEntry = {
     "stile di vita",
     "nutrizione",
     "dieta",
+    "dieta-mediterranea",
   ],
 
   sourceLinks: {
@@ -112,5 +113,5 @@ export const salutista: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

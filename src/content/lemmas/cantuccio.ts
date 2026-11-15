@@ -61,6 +61,7 @@ export const cantuccio: LemmaEntry = {
     "mandorle",
     "prato",
     "angolo",
+    "tarallo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/cantuccio/",

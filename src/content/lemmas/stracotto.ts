@@ -69,6 +69,8 @@ export const stracotto: LemmaEntry = {
     "manzo",
     "tegame",
     "innamorato",
+    "genovese",
+    "ragu",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/stracotto/",

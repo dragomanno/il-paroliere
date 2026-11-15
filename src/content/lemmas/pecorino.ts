@@ -73,6 +73,11 @@ export const pecorino: LemmaEntry = {
     "pienza",
     "crete-senesi",
     "fave",
+    "caciocavallo",
+    "orecchiette",
+    "pesto-alla-trapanese",
+    "ricotta",
+    "tuma",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/pecorino/",

@@ -105,6 +105,7 @@ export const compromesso: LemmaEntry = {
     "contratto preliminare",
     "accordo",
     "arrangiamento",
+    "tarallo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/compromesso2/",

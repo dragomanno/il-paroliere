@@ -52,6 +52,8 @@ export const tortello: LemmaEntry = {
     "ricotta",
     "mugello",
     "sagra",
+    "orecchiette",
+    "panzerotto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/tortello/",

@@ -79,6 +79,7 @@ export const benessereFisico: LemmaEntry = {
     "respiro",
     "benessere",
     "salute",
+    "dieta-mediterranea",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/benessere/",
@@ -92,5 +93,5 @@ export const benessereFisico: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

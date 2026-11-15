@@ -76,6 +76,8 @@ export const lievito: LemmaEntry = {
     "buccellato",
     "pane-sciocco",
     "schiacciata",
+    "pane-di-altamura",
+    "pizza",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/lievito2/",

@@ -46,7 +46,13 @@ export const peperoncino: LemmaEntry = {
     "curcuma",
     "salgemma",
     "cacciucco",
-    "soppressata"
+    "soppressata",
+    "cime-di-rapa",
+    "friarielli",
+    "nduja",
+    "orecchiette",
+    "peperone-crusco",
+    "puttanesca"
   ],
 
   sourceLinks: {
