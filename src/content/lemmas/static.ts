@@ -1034,6 +1034,36 @@ import { bigottismo } from "./bigottismo";
 import { mangiapreti } from "./mangiapreti";
 import { rivoltoso } from "./rivoltoso";
 import { bastianContrario } from "./bastian-contrario";
+import { jazz } from "./jazz";
+import { swing } from "./swing";
+import { blues } from "./blues";
+import { bebop } from "./bebop";
+import { scat } from "./scat";
+import { groove } from "./groove";
+import { improvvisazione } from "./improvvisazione";
+import { assolo } from "./assolo";
+import { jamSession } from "./jam-session";
+import { standard } from "./standard";
+import { fraseggio } from "./fraseggio";
+import { accompagnamento } from "./accompagnamento";
+import { sincope } from "./sincope";
+import { controtempo } from "./controtempo";
+import { battuta } from "./battuta";
+import { pausa } from "./pausa";
+import { levare } from "./levare";
+import { metronomo } from "./metronomo";
+import { accordo } from "./accordo";
+import { consonanza } from "./consonanza";
+import { melodia } from "./melodia";
+import { tonalita } from "./tonalita";
+import { timbro } from "./timbro";
+import { intonazione } from "./intonazione";
+import { tema } from "./tema";
+import { variazione } from "./variazione";
+import { arrangiamento } from "./arrangiamento";
+import { partitura } from "./partitura";
+import { ritornello } from "./ritornello";
+import { riff } from "./riff";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -2038,5 +2068,35 @@ export const allLemmas: LemmaEntry[] = [
   mangiapreti,
   rivoltoso,
   bastianContrario,
+  jazz,
+  swing,
+  blues,
+  bebop,
+  scat,
+  groove,
+  improvvisazione,
+  assolo,
+  jamSession,
+  standard,
+  fraseggio,
+  accompagnamento,
+  sincope,
+  controtempo,
+  battuta,
+  pausa,
+  levare,
+  metronomo,
+  accordo,
+  consonanza,
+  melodia,
+  tonalita,
+  timbro,
+  intonazione,
+  tema,
+  variazione,
+  arrangiamento,
+  partitura,
+  ritornello,
+  riff,
 ];
 
