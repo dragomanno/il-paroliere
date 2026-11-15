@@ -62,6 +62,7 @@ export const tannino: LemmaEntry = {
     "concia",
     "cuoio",
     "tè",
+    "sagrantino",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/tannino/",
@@ -75,5 +76,5 @@ export const tannino: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

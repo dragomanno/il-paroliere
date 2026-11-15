@@ -58,6 +58,8 @@ export const zampogna: LemmaEntry = {
     "folklore",
     "tradizioni-popolari",
     "molise",
+    "fisarmonica",
+    "saltarello",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/zampogna/",

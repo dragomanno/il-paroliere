@@ -69,6 +69,9 @@ export const brodetto: LemmaEntry = {
     "vasto",
     "ortona",
     "san-benedetto-del-tronto",
+    "moscioli",
+    "stoccafisso",
+    "verdicchio",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/brodetto/",

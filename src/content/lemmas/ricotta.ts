@@ -65,6 +65,7 @@ export const ricotta: LemmaEntry = {
     "canestrato",
     "fiadone",
     "pardulas",
+    "casciotta",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/ricotta/",

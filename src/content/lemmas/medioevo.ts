@@ -65,6 +65,8 @@ export const medioevo: LemmaEntry = {
     "anno Mille",
     "fregola",
     "tratturo",
+    "calendimaggio",
+    "quintana",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/medioevo/",

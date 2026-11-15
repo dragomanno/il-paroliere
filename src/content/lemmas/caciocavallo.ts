@@ -53,6 +53,7 @@ export const caciocavallo: LemmaEntry = {
     "cacio",
     "canestrato",
     "stracciata",
+    "formaggio-di-fossa",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/caciocavallo/",

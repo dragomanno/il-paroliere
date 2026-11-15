@@ -78,6 +78,7 @@ export const devozione: LemmaEntry = {
     "filindeu",
     "ndocciata",
     "panarda",
+    "cero",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/devozione/",

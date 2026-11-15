@@ -1228,6 +1228,73 @@ import { mirto } from "./mirto";
 import { filuEFerru } from "./filu-e-ferru";
 import { cannonau } from "./cannonau";
 import { vermentino } from "./vermentino";
+import { carbonara } from "./carbonara";
+import { amatriciana } from "./amatriciana";
+import { gricia } from "./gricia";
+import { cacioEPepe } from "./cacio-e-pepe";
+import { fettuccine } from "./fettuccine";
+import { abbacchio } from "./abbacchio";
+import { saltimbocca } from "./saltimbocca";
+import { codaAllaVaccinara } from "./coda-alla-vaccinara";
+import { pajata } from "./pajata";
+import { guanciale } from "./guanciale";
+import { porchetta } from "./porchetta";
+import { carciofo } from "./carciofo";
+import { puntarelle } from "./puntarelle";
+import { vignarola } from "./vignarola";
+import { cicoria } from "./cicoria";
+import { suppli } from "./suppli";
+import { bruschetta } from "./bruschetta";
+import { maritozzo } from "./maritozzo";
+import { frappe } from "./frappe";
+import { fraschetta } from "./fraschetta";
+import { frascati } from "./frascati";
+import { estEstEst } from "./est-est-est";
+import { romanesco } from "./romanesco";
+import { pasquinata } from "./pasquinata";
+import { norcino } from "./norcino";
+import { prosciutto } from "./prosciutto";
+import { tartufo } from "./tartufo";
+import { tortaAlTesto } from "./torta-al-testo";
+import { strangozzi } from "./strangozzi";
+import { umbricelli } from "./umbricelli";
+import { ghiotta } from "./ghiotta";
+import { mazzafegato } from "./mazzafegato";
+import { fagiolina } from "./fagiolina";
+import { rocciata } from "./rocciata";
+import { torcolo } from "./torcolo";
+import { ciaramicola } from "./ciaramicola";
+import { sagrantino } from "./sagrantino";
+import { cero } from "./cero";
+import { calendimaggio } from "./calendimaggio";
+import { umbriaJazz } from "./umbria-jazz";
+import { oliveAllascolana } from "./olive-allascolana";
+import { ciauscolo } from "./ciauscolo";
+import { maccheroncini } from "./maccheroncini";
+import { mistra } from "./mistra";
+import { cremino } from "./cremino";
+import { tacconi } from "./tacconi";
+import { quadraccioli } from "./quadraccioli";
+import { carnevaleDiOffida } from "./carnevale-di-offida";
+import { vlurd } from "./vlurd";
+import { boveFinto } from "./bove-finto";
+import { stoccafisso } from "./stoccafisso";
+import { moscioli } from "./moscioli";
+import { vincisgrassi } from "./vincisgrassi";
+import { crescia } from "./crescia";
+import { passatelli } from "./passatelli";
+import { casciotta } from "./casciotta";
+import { formaggioDiFossa } from "./formaggio-di-fossa";
+import { cicerchia } from "./cicerchia";
+import { frustingo } from "./frustingo";
+import { vinoCotto } from "./vino-cotto";
+import { verdicchio } from "./verdicchio";
+import { lacrima } from "./lacrima";
+import { quintana } from "./quintana";
+import { fisarmonica } from "./fisarmonica";
+import { marchigiano } from "./marchigiano";
+import { stornello } from "./stornello";
+import { saltarello } from "./saltarello";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -2426,5 +2493,72 @@ export const allLemmas: LemmaEntry[] = [
   filuEFerru,
   cannonau,
   vermentino,
+  carbonara,
+  amatriciana,
+  gricia,
+  cacioEPepe,
+  fettuccine,
+  abbacchio,
+  saltimbocca,
+  codaAllaVaccinara,
+  pajata,
+  guanciale,
+  porchetta,
+  carciofo,
+  puntarelle,
+  vignarola,
+  cicoria,
+  suppli,
+  bruschetta,
+  maritozzo,
+  frappe,
+  fraschetta,
+  frascati,
+  estEstEst,
+  romanesco,
+  pasquinata,
+  norcino,
+  prosciutto,
+  tartufo,
+  tortaAlTesto,
+  strangozzi,
+  umbricelli,
+  ghiotta,
+  mazzafegato,
+  fagiolina,
+  rocciata,
+  torcolo,
+  ciaramicola,
+  sagrantino,
+  cero,
+  calendimaggio,
+  umbriaJazz,
+  oliveAllascolana,
+  ciauscolo,
+  maccheroncini,
+  mistra,
+  cremino,
+  tacconi,
+  quadraccioli,
+  carnevaleDiOffida,
+  vlurd,
+  boveFinto,
+  stoccafisso,
+  moscioli,
+  vincisgrassi,
+  crescia,
+  passatelli,
+  casciotta,
+  formaggioDiFossa,
+  cicerchia,
+  frustingo,
+  vinoCotto,
+  verdicchio,
+  lacrima,
+  quintana,
+  fisarmonica,
+  marchigiano,
+  stornello,
+  saltarello,
 ];
 

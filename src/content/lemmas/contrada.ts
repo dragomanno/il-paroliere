@@ -79,6 +79,8 @@ export const contrada: LemmaEntry = {
     "panforte",
     "rosticciana",
     "bravio-delle-botti",
+    "calendimaggio",
+    "quintana",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/contrada/",

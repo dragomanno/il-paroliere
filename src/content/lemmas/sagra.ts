@@ -84,6 +84,11 @@ export const sagra: LemmaEntry = {
     "pampanella",
     "pezzata",
     "porceddu",
+    "gricia",
+    "porchetta",
+    "saltarello",
+    "torta-al-testo",
+    "umbricelli",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/sagra/",

@@ -77,6 +77,7 @@ export const olioNuovo: LemmaEntry = {
     "acquacotta",
     "fagioli-alluccelletto",
     "raccolta",
+    "bruschetta",
   ],
   sourceLinks: {
   },

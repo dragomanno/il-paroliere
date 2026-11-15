@@ -63,6 +63,7 @@ export const arista: LemmaEntry = {
     "spiga",
     "graminacee",
     "paretimologia",
+    "porchetta",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/arista/",

@@ -58,6 +58,7 @@ export const mozzarella: LemmaEntry = {
     "casaro",
     "latticini",
     "stracciata",
+    "suppli",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/mozzarella/",

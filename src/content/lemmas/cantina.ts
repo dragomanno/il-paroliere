@@ -90,6 +90,9 @@ export const cantina: LemmaEntry = {
     "fiaschetteria",
     "peposo",
     "vinsanto",
+    "fraschetta",
+    "verdicchio",
+    "vino-cotto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/cantina/",

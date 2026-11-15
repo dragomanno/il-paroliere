@@ -68,6 +68,9 @@ export const vinsanto: LemmaEntry = {
     "caratello",
     "vinsantaia",
     "limoncello",
+    "rocciata",
+    "torcolo",
+    "vino-cotto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/vinsanto/",

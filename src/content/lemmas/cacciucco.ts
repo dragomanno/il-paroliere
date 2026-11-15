@@ -57,6 +57,7 @@ export const cacciucco: LemmaEntry = {
     "polpo",
     "seppia",
     "fregola",
+    "stoccafisso",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/cacciucco/",

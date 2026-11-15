@@ -76,6 +76,7 @@ export const swing: LemmaEntry = {
     "big band",
     "lindy hop",
     "crome",
+    "umbria-jazz",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/swing/",

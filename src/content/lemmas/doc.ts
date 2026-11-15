@@ -101,6 +101,11 @@ export const doc: LemmaEntry = {
     "montepulciano",
     "tintilia",
     "vermentino",
+    "est-est-est",
+    "frascati",
+    "lacrima",
+    "sagrantino",
+    "verdicchio",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/DOC",

@@ -55,6 +55,8 @@ export const cicerchiata: LemmaEntry = {
     "abruzzese",
     "confetto",
     "molise",
+    "carnevale-di-offida",
+    "frappe",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/cicerchiata/",

@@ -89,6 +89,7 @@ export const assolo: LemmaEntry = {
     "cadenza",
     "chitarra",
     "zampogna",
+    "umbria-jazz",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/assolo/",

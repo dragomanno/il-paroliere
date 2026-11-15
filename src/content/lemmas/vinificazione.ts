@@ -71,6 +71,8 @@ export const vinificazione: LemmaEntry = {
     "montepulciano",
     "tintilia",
     "vermentino",
+    "sagrantino",
+    "verdicchio",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/vinificazione/",

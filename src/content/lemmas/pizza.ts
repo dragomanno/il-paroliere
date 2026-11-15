@@ -68,6 +68,8 @@ export const pizza: LemmaEntry = {
     "barba",
     "stg",
     "unesco",
+    "prosciutto",
+    "suppli",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/pizza/",

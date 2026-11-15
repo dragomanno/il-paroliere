@@ -58,6 +58,13 @@ export const ragu: LemmaEntry = {
     "chitarra",
     "malloreddus",
     "timballo",
+    "amatriciana",
+    "carbonara",
+    "fettuccine",
+    "maccheroncini",
+    "suppli",
+    "umbricelli",
+    "vincisgrassi",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/ragu/",

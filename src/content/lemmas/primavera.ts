@@ -78,6 +78,8 @@ export const primavera: LemmaEntry = {
     "Botticelli",
     "equinozio",
     "virtu-teramane",
+    "calendimaggio",
+    "vignarola",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/primavera/",

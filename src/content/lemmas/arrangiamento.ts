@@ -85,6 +85,7 @@ export const arrangiamento: LemmaEntry = {
     "adattamento",
     "arrangiarsi",
     "cover",
+    "umbria-jazz",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/arrangiamento/",

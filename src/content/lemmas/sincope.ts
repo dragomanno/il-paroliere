@@ -74,6 +74,7 @@ export const sincope: LemmaEntry = {
     "lipotimia",
     "ragtime",
     "contrattempo",
+    "umbria-jazz",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/sincope/",

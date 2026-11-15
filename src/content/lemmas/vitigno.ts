@@ -97,6 +97,11 @@ export const vitigno: LemmaEntry = {
     "montepulciano",
     "tintilia",
     "vermentino",
+    "est-est-est",
+    "frascati",
+    "lacrima",
+    "sagrantino",
+    "verdicchio",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/vitigno/",

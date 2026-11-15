@@ -79,6 +79,7 @@ export const riff: LemmaEntry = {
     "big band",
     "rock",
     "chitarra",
+    "umbria-jazz",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/riff2/",

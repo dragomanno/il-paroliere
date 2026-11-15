@@ -66,6 +66,8 @@ export const transumanza: LemmaEntry = {
     "forte-e-gentile",
     "pampanella",
     "pane-carasau",
+    "abbacchio",
+    "cacio-e-pepe",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/transumanza/",

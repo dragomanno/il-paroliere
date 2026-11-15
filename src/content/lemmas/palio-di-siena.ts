@@ -62,6 +62,9 @@ export const palioDiSiena: LemmaEntry = {
     "festa-titolare",
     "panforte",
     "bravio-delle-botti",
+    "bove-finto",
+    "cero",
+    "quintana",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/palio/",

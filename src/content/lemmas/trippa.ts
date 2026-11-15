@@ -61,6 +61,8 @@ export const trippa: LemmaEntry = {
     "pancia",
     "modi-di-dire",
     "abomaso",
+    "coda-alla-vaccinara",
+    "pajata",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/trippa/",

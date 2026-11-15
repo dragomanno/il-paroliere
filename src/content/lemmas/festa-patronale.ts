@@ -72,6 +72,10 @@ export const festaPatronale: LemmaEntry = {
     "ndocciata",
     "panarda",
     "porceddu",
+    "calendimaggio",
+    "cero",
+    "quintana",
+    "torcolo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/patronale/",

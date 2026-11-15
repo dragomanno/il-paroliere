@@ -53,6 +53,8 @@ export const sagne: LemmaEntry = {
     "cucina-povera",
     "abruzzese",
     "molise",
+    "quadraccioli",
+    "tacconi",
   ],
   sourceLinks: {
   },

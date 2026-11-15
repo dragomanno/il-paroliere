@@ -70,6 +70,7 @@ export const enoteca: LemmaEntry = {
     "enologia",
     "fiaschetteria",
     "trattoria",
+    "fraschetta",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/enoteca/",

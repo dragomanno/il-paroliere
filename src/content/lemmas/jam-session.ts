@@ -73,6 +73,7 @@ export const jamSession: LemmaEntry = {
     "dialogo",
     "brainstorming",
     "open mic",
+    "umbria-jazz",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/jam-session/",

@@ -65,6 +65,8 @@ export const schiacciata: LemmaEntry = {
     "pane-di-altamura",
     "pizza",
     "sfincione",
+    "crescia",
+    "torta-al-testo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/schiacciata/",

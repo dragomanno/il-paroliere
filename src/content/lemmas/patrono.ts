@@ -71,6 +71,9 @@ export const patrono: LemmaEntry = {
     "contrada",
     "bravio-delle-botti",
     "panarda",
+    "cero",
+    "quintana",
+    "torcolo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/patrono/",

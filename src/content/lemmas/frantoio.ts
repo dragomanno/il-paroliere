@@ -67,6 +67,7 @@ export const frantoio: LemmaEntry = {
     "trappeto",
     "fettunta",
     "olio-novo",
+    "bruschetta",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/frantoio/",

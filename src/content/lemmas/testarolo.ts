@@ -46,6 +46,8 @@ export const testarolo: LemmaEntry = {
     "pesto",
     "lunigiana",
     "pasta",
+    "crescia",
+    "torta-al-testo",
   ],
   sourceLinks: {
   },

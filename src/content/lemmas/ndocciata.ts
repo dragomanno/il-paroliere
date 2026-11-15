@@ -57,6 +57,7 @@ export const ndocciata: LemmaEntry = {
     "agnone",
     "molise",
     "molisano",
+    "vlurd",
   ],
   sourceLinks: {
   },

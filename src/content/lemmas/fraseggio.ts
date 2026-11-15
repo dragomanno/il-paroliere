@@ -70,6 +70,7 @@ export const fraseggio: LemmaEntry = {
     "legato",
     "staccato",
     "frase",
+    "umbria-jazz",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/fraseggio/",

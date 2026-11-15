@@ -81,6 +81,13 @@ export const tradizioniPopolari: LemmaEntry = {
     "transumanza",
     "virtu-teramane",
     "zampogna",
+    "bove-finto",
+    "calendimaggio",
+    "carnevale-di-offida",
+    "cero",
+    "saltarello",
+    "vino-cotto",
+    "vlurd",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/tradizione/",

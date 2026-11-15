@@ -72,6 +72,7 @@ export const bebop: LemmaEntry = {
     "Charlie Parker",
     "Dizzy Gillespie",
     "Thelonious Monk",
+    "umbria-jazz",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/be-bop/",

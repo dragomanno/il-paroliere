@@ -83,6 +83,7 @@ export const botte: LemmaEntry = {
     "vinsanto",
     "bravio-delle-botti",
     "montepulciano",
+    "vino-cotto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/botte/",

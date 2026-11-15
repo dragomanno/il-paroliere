@@ -71,6 +71,8 @@ export const quintoQuarto: LemmaEntry = {
     "macelleria",
     "mattatoio",
     "trippaio",
+    "coda-alla-vaccinara",
+    "pajata",
   ],
   sourceLinks: {
   },

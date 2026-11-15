@@ -92,6 +92,8 @@ export const ritornello: LemmaEntry = {
     "refrain",
     "tormentone",
     "solfa",
+    "fisarmonica",
+    "stornello",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/ritornello/",
