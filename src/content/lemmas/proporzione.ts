@@ -44,7 +44,7 @@ export const proporzione: LemmaEntry = {
     { term: "asimmetria", register: "tecnico", note: "In senso largo: la mancanza di equivalenza tra le parti; non sempre negativa." },
   ],
 
-  relatedWords: ["simmetria", "asimmetria", "armonia", "composizione", "grazia"],
+  relatedWords: ["simmetria", "asimmetria", "armonia", "composizione", "grazia", "consonanza"],
 
   paroliereNote:
     "La proporzione è uno degli strumenti più abusati nella pseudoscienza estetica: la " +
@@ -64,5 +64,5 @@ export const proporzione: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-15",
 };

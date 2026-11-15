@@ -64,6 +64,7 @@ export const banalita: LemmaEntry = {
     "trito",
     "ovvietà",
     "lapalissiano",
+    "ritornello",
   ],
 
   sourceLinks: {
@@ -89,5 +90,5 @@ export const banalita: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

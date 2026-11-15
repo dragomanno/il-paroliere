@@ -75,6 +75,7 @@ export const consuetudine: LemmaEntry = {
     "statuto-medievale",
     "folklore",
     "tradizioni-popolari",
+    "standard",
   ],
 
   sourceLinks: {
@@ -100,5 +101,5 @@ export const consuetudine: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

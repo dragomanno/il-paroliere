@@ -95,6 +95,7 @@ export const ironia: LemmaEntry = {
     "ossimoro",
     "lapalissiano",
     "arrivederci",
+    "battuta",
   ],
 
   sourceLinks: {
@@ -124,5 +125,5 @@ export const ironia: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

@@ -86,6 +86,7 @@ export const eloquenza: LemmaEntry = {
     "figura-retorica",
     "dialogo",
     "dibattito",
+    "fraseggio",
   ],
 
   sourceLinks: {
@@ -112,5 +113,5 @@ export const eloquenza: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

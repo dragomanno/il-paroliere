@@ -86,6 +86,7 @@ export const satira: LemmaEntry = {
     "pasquinata",
     "umorismo",
     "vignetta",
+    "battuta",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/satira/",
@@ -99,5 +100,5 @@ export const satira: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

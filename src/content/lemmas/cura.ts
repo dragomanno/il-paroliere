@@ -91,6 +91,7 @@ export const cura: LemmaEntry = {
     "palliativo",
     "convalescenza",
     "guarigione",
+    "accompagnamento",
   ],
 
   sourceLinks: {
@@ -117,5 +118,5 @@ export const cura: LemmaEntry = {
   },
 
   createdAt: "2026-05-18",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

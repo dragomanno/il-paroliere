@@ -101,6 +101,7 @@ export const dialogo: LemmaEntry = {
     "dialogo interreligioso",
     "scontro-sociale",
     "luogo-comune",
+    "jam-session",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/dialogo/",
@@ -114,5 +115,5 @@ export const dialogo: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

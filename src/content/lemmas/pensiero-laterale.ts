@@ -39,7 +39,7 @@ export const pensieroLaterale: LemmaEntry = {
     { term: "occam", register: "tecnico", note: "Il rasoio di Occam cerca la spiegazione più economica; il pensiero laterale esplora deliberatamente ipotesi non economiche, in cerca di soluzioni non ovvie." },
   ],
 
-  relatedWords: ["euristica", "bias-cognitivo", "occam"],
+  relatedWords: ["euristica", "bias-cognitivo", "occam", "improvvisazione"],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/laterale",
@@ -58,5 +58,5 @@ export const pensieroLaterale: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-15",
 };

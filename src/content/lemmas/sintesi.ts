@@ -48,7 +48,8 @@ export const sintesi: LemmaEntry = {
   relatedWords: [
     "tesi",
     "antitesi",
-    "compendio"
+    "compendio",
+    "tema"
   ],
 
   sourceLinks: {
@@ -73,5 +74,5 @@ export const sintesi: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-05-30",
+  updatedAt: "2026-11-15",
 };

@@ -73,6 +73,7 @@ export const incipit: LemmaEntry = {
     "incipit narrativo",
     "filologia",
     "manoscritto",
+    "tema",
   ],
 
   sourceLinks: {
@@ -97,5 +98,5 @@ export const incipit: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-15",
 };

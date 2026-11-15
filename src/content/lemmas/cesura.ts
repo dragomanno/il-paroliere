@@ -48,7 +48,9 @@ export const cesura: LemmaEntry = {
     "pausa",
     "scansione",
     "dieresi",
-    "enjambement"
+    "enjambement",
+    "fraseggio",
+    "sincope"
   ],
 
   examples: [
@@ -79,5 +81,5 @@ export const cesura: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-15",
 };

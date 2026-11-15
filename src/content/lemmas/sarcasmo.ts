@@ -78,6 +78,7 @@ export const sarcasmo: LemmaEntry = {
     "sardonico",
     "caustico",
     "dileggio",
+    "battuta",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/sarcasmo/",
@@ -91,5 +92,5 @@ export const sarcasmo: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

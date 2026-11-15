@@ -62,6 +62,7 @@ export const conflitto: LemmaEntry = {
     "polarizzazione-sociale",
     "scontro-sociale",
     "autunno-caldo",
+    "accordo",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/conflitto",
@@ -83,5 +84,5 @@ export const conflitto: LemmaEntry = {
       "Conflitto armato, politico, di interesse. Etimologia ed esempi.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

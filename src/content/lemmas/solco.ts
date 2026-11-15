@@ -80,6 +80,7 @@ export const solco: LemmaEntry = {
     "sulcus primigenius",
     "tradizione",
     "rinnovo",
+    "groove",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/solco/",
@@ -93,5 +94,5 @@ export const solco: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

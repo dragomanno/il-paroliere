@@ -87,6 +87,7 @@ export const disinvoltura: LemmaEntry = {
     "sicurezza",
     "spregiudicatezza",
     "agio",
+    "swing",
   ],
 
   sourceLinks: {
@@ -113,5 +114,5 @@ export const disinvoltura: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-15",
 };

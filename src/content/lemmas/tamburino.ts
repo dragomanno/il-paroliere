@@ -63,6 +63,7 @@ export const tamburino: LemmaEntry = {
     "musica medievale",
     "tradizione orale",
     "festa-titolare",
+    "timbro",
   ],
 
   sourceLinks: {
@@ -89,5 +90,5 @@ export const tamburino: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

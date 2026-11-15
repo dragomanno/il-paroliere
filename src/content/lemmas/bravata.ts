@@ -49,7 +49,7 @@ export const bravata: LemmaEntry = {
     { term: "riserbo", register: "comune", note: "La disposizione a non ostentare, opposta alla teatralità della bravata." },
   ],
 
-  relatedWords: ["millanteria", "spaccone", "gradasso", "fanfarone", "arroganza", "rischio"],
+  relatedWords: ["millanteria", "spaccone", "gradasso", "fanfarone", "arroganza", "rischio", "assolo"],
   sourceLinks: {},
 
   paroliereNote:
@@ -68,5 +68,5 @@ export const bravata: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

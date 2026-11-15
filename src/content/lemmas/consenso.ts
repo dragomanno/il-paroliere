@@ -52,6 +52,7 @@ export const consenso: LemmaEntry = {
     "politica",
     "potere",
     "consenso-sociale",
+    "accordo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/consenso/",
@@ -70,5 +71,5 @@ export const consenso: LemmaEntry = {
     description: "Consenso: accordo libero tra parti. Accezione giuridica (consenso informato, vizio del consenso), politica e psicologica.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

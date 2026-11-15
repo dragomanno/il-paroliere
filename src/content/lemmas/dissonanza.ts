@@ -45,7 +45,7 @@ export const dissonanza: LemmaEntry = {
     { term: "armonia", register: "tecnico-comune", note: "L’accordo tra le parti come stato di equilibrio e completezza." },
   ],
 
-  relatedWords: ["dissonanza-cognitiva", "armonia", "ritmo", "contrasto-estetico", "asimmetria"],
+  relatedWords: ["dissonanza-cognitiva", "armonia", "ritmo", "contrasto-estetico", "asimmetria", "accordo", "bebop", "consonanza", "intonazione", "jazz", "tonalita"],
 
   paroliereNote:
     "La dissonanza è il motore segreto di tanta grande arte: non è il problema da risolvere, " +
@@ -67,5 +67,5 @@ export const dissonanza: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-15",
 };

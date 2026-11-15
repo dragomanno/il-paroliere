@@ -65,7 +65,7 @@ export const lieve: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["levità", "leggerezza", "gravità", "tenue", "delicato"],
+  relatedWords: ["levità", "leggerezza", "gravità", "tenue", "delicato", "levare"],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/lieve",
@@ -88,5 +88,5 @@ export const lieve: LemmaEntry = {
   },
 
   createdAt: "2026-08-21",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-15",
 };

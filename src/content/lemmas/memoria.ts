@@ -61,7 +61,7 @@ export const memoria: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["oblio", "anamnesi", "identita", "trauma", "epistemologia", "context-window", "persistenza", "folklore", "tradizioni-popolari"],
+  relatedWords: ["oblio", "anamnesi", "identita", "trauma", "epistemologia", "context-window", "persistenza", "folklore", "tradizioni-popolari", "ritornello"],
 
   sourceLinks: {},
 
@@ -78,5 +78,5 @@ export const memoria: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

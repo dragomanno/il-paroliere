@@ -48,6 +48,7 @@ export const tautologia: LemmaEntry = {
     "ossimoro",
     "luogo-comune",
     "lapalissiano",
+    "ritornello",
   ],
 
   sourceLinks: {
@@ -68,5 +69,5 @@ export const tautologia: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

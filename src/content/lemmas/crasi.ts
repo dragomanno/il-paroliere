@@ -46,6 +46,7 @@ export const crasi: LemmaEntry = {
 
   relatedWords: [
     "blend",
+    "sincope",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/crasi"
@@ -81,5 +82,5 @@ export const crasi: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };
