@@ -56,6 +56,8 @@ export const zuccotto: LemmaEntry = {
     "ricotta",
     "cupola",
     "zucchetto",
+    "baba",
+    "cassata",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/zuccotto/",

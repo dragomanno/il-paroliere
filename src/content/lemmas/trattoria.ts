@@ -91,6 +91,7 @@ export const trattoria: LemmaEntry = {
     "vino",
     "degustazione",
     "convivialità",
+    "friggitoria",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/trattoria2/",

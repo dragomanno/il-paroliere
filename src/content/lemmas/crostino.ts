@@ -69,6 +69,8 @@ export const crostino: LemmaEntry = {
     "fegatini",
     "capperi",
     "milza",
+    "frisella",
+    "scarpetta",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/crostino/",

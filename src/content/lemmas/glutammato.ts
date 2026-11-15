@@ -67,6 +67,7 @@ export const glutammato: LemmaEntry = {
     "Ajinomoto",
     "Kikunae Ikeda",
     "EFSA",
+    "colatura-di-alici",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/glutammato",
@@ -79,5 +80,5 @@ export const glutammato: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

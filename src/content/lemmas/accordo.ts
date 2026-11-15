@@ -110,6 +110,7 @@ export const accordo: LemmaEntry = {
     "intesa",
     "patto",
     "accordatura",
+    "tarallo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/accordo/",

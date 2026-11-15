@@ -78,6 +78,8 @@ export const paneSciocco: LemmaEntry = {
     "sapidita",
     "raffermo",
     "forno",
+    "pane-di-altamura",
+    "scarpetta",
   ],
   sourceLinks: {
   },

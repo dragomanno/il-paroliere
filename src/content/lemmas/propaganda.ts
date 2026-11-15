@@ -94,6 +94,7 @@ export const propaganda: LemmaEntry = {
     "parolaio",
     "fuffarolo",
     "patacca",
+    "bufala",
   ],
 
   sourceLinks: {
@@ -123,5 +124,5 @@ export const propaganda: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

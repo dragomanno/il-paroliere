@@ -55,6 +55,8 @@ export const lampredotto: LemmaEntry = {
     "cibo-di-strada",
     "chiosco",
     "lampreda",
+    "cuoppo",
+    "friggitoria",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/lampredotto/",

@@ -55,6 +55,7 @@ export const eufemismo: LemmaEntry = {
     "figura-retorica",
     "metafora",
     "arrivederci",
+    "puttanesca",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/eufemismo/",
@@ -74,5 +75,5 @@ export const eufemismo: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

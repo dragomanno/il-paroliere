@@ -40,6 +40,11 @@ export const pistacchio: LemmaEntry = {
     "disciplinare",
     "denominazione-dorigine",
     "coltura",
+    "arancino",
+    "cannolo",
+    "cassata",
+    "granita",
+    "sarde-a-beccafico",
   ],
 
   sourceLinks: {
@@ -69,5 +74,5 @@ export const pistacchio: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

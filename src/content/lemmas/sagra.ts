@@ -78,6 +78,7 @@ export const sagra: LemmaEntry = {
     "rosticciana",
     "scottiglia",
     "tortello",
+    "sfoglio",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/sagra/",

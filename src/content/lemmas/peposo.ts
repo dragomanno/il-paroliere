@@ -55,6 +55,7 @@ export const peposo: LemmaEntry = {
     "impruneta",
     "cotto",
     "fornace",
+    "ragu",
   ],
   sourceLinks: {
   },

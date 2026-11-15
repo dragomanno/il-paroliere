@@ -96,6 +96,7 @@ export const dibattito: LemmaEntry = {
     "contraddittorio",
     "moderatore",
     "talk show",
+    "arancino",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/dibattito/",
@@ -109,5 +110,5 @@ export const dibattito: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

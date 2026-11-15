@@ -62,6 +62,9 @@ export const schiacciata: LemmaEntry = {
     "stiacciata",
     "carnevale",
     "lievito",
+    "pane-di-altamura",
+    "pizza",
+    "sfincione",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/schiacciata/",

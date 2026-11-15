@@ -63,6 +63,8 @@ export const festaPatronale: LemmaEntry = {
     "luminarie",
     "brigidini",
     "rosticciana",
+    "ciceri-e-tria",
+    "zeppola",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/patronale/",

@@ -36,7 +36,7 @@ export const malafemmina: LemmaEntry = {
   antonyms: [
     { term: "donna per bene", register: "colloquiale", context: "nell'uso storico che produceva questa dicotomia" },
   ],
-  relatedWords: ["malacostume", "malavita", "malafede", "storia sociale", "giudizio di genere"],
+  relatedWords: ["malacostume", "malavita", "malafede", "storia sociale", "giudizio di genere", "puttanesca"],
   sourceLinks: {},
   paroliereNote:
     "Malafemmina è una delle parole che un dizionario deve includere proprio perché scomoda. " +
@@ -51,5 +51,5 @@ export const malafemmina: LemmaEntry = {
       "Definizione originale di 'malafemmina': termine storico per donna giudicata di malcostume. Documento linguistico del giudizio morale sulla sessualità femminile.",
   },
   createdAt: "2026-06-12",
-  updatedAt: "2026-06-12",
+  updatedAt: "2026-11-15",
 };

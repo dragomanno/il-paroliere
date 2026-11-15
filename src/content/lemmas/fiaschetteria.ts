@@ -65,6 +65,7 @@ export const fiaschetteria: LemmaEntry = {
     "vinaio",
     "osteria",
     "mescita",
+    "friggitoria",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/fiaschetteria/",

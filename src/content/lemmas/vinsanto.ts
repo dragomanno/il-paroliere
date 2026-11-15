@@ -67,6 +67,7 @@ export const vinsanto: LemmaEntry = {
     "appassimento",
     "caratello",
     "vinsantaia",
+    "limoncello",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/vinsanto/",

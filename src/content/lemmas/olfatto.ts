@@ -58,6 +58,7 @@ export const olfatto: LemmaEntry = {
     "sommelier",
     "panel-test",
     "fruttato",
+    "bergamotto",
   ],
 
   examples: [
@@ -91,5 +92,5 @@ export const olfatto: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

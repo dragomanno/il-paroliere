@@ -63,6 +63,8 @@ export const brindisi: LemmaEntry = {
     "sommelier",
     "cantina",
     "fiaschetteria",
+    "limoncello",
+    "tarallo",
   ],
 
   sourceLinks: {

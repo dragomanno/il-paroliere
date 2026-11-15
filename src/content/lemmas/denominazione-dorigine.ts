@@ -86,6 +86,7 @@ export const denominazioneDorigine: LemmaEntry = {
     "neccio",
     "pane-sciocco",
     "pecorino",
+    "pane-di-altamura",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/denominazione/",

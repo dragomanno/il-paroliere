@@ -75,6 +75,10 @@ export const oliva: LemmaEntry = {
     "fettunta",
     "olio-novo",
     "olio-nuovo",
+    "caponata",
+    "dieta-mediterranea",
+    "pesto-alla-trapanese",
+    "puttanesca",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/oliva/",

@@ -65,6 +65,9 @@ export const lardo: LemmaEntry = {
     "maiale",
     "strutto",
     "pancetta",
+    "capocollo",
+    "nduja",
+    "suino-nero",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/lardo/",

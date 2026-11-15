@@ -74,6 +74,7 @@ export const devozione: LemmaEntry = {
     "dedizione",
     "fervore",
     "contrada",
+    "pastiera",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/devozione/",
@@ -87,5 +88,5 @@ export const devozione: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

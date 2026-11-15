@@ -1112,6 +1112,60 @@ import { cavallucci } from "./cavallucci";
 import { brigidini } from "./brigidini";
 import { zuccotto } from "./zuccotto";
 import { buccellato } from "./buccellato";
+import { dietaMediterranea } from "./dieta-mediterranea";
+import { scarpetta } from "./scarpetta";
+import { paneDiAltamura } from "./pane-di-altamura";
+import { frisella } from "./frisella";
+import { tarallo } from "./tarallo";
+import { friggitoria } from "./friggitoria";
+import { orecchiette } from "./orecchiette";
+import { paccheri } from "./paccheri";
+import { cavatelli } from "./cavatelli";
+import { scialatielli } from "./scialatielli";
+import { ragu } from "./ragu";
+import { genovese } from "./genovese";
+import { puttanesca } from "./puttanesca";
+import { pestoAllaTrapanese } from "./pesto-alla-trapanese";
+import { pastaAllaNorma } from "./pasta-alla-norma";
+import { ciceriETria } from "./ciceri-e-tria";
+import { parmigiana } from "./parmigiana";
+import { caponata } from "./caponata";
+import { sardeABeccafico } from "./sarde-a-beccafico";
+import { pizza } from "./pizza";
+import { panzerotto } from "./panzerotto";
+import { arancino } from "./arancino";
+import { panelle } from "./panelle";
+import { sfincione } from "./sfincione";
+import { cuoppo } from "./cuoppo";
+import { mozzarella } from "./mozzarella";
+import { bufala } from "./bufala";
+import { burrata } from "./burrata";
+import { caciocavallo } from "./caciocavallo";
+import { provola } from "./provola";
+import { scamorza } from "./scamorza";
+import { ricotta } from "./ricotta";
+import { tuma } from "./tuma";
+import { nduja } from "./nduja";
+import { capocollo } from "./capocollo";
+import { suinoNero } from "./suino-nero";
+import { friarielli } from "./friarielli";
+import { cimeDiRapa } from "./cime-di-rapa";
+import { lampascione } from "./lampascione";
+import { peperoneCrusco } from "./peperone-crusco";
+import { cipollaDiTropea } from "./cipolla-di-tropea";
+import { colaturaDiAlici } from "./colatura-di-alici";
+import { baba } from "./baba";
+import { sfogliatella } from "./sfogliatella";
+import { pastiera } from "./pastiera";
+import { cannolo } from "./cannolo";
+import { cassata } from "./cassata";
+import { struffoli } from "./struffoli";
+import { zeppola } from "./zeppola";
+import { granita } from "./granita";
+import { sfoglio } from "./sfoglio";
+import { manna } from "./manna";
+import { bergamotto } from "./bergamotto";
+import { limoncello } from "./limoncello";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -2194,5 +2248,59 @@ export const allLemmas: LemmaEntry[] = [
   brigidini,
   zuccotto,
   buccellato,
+  dietaMediterranea,
+  scarpetta,
+  paneDiAltamura,
+  frisella,
+  tarallo,
+  friggitoria,
+  orecchiette,
+  paccheri,
+  cavatelli,
+  scialatielli,
+  ragu,
+  genovese,
+  puttanesca,
+  pestoAllaTrapanese,
+  pastaAllaNorma,
+  ciceriETria,
+  parmigiana,
+  caponata,
+  sardeABeccafico,
+  pizza,
+  panzerotto,
+  arancino,
+  panelle,
+  sfincione,
+  cuoppo,
+  mozzarella,
+  bufala,
+  burrata,
+  caciocavallo,
+  provola,
+  scamorza,
+  ricotta,
+  tuma,
+  nduja,
+  capocollo,
+  suinoNero,
+  friarielli,
+  cimeDiRapa,
+  lampascione,
+  peperoneCrusco,
+  cipollaDiTropea,
+  colaturaDiAlici,
+  baba,
+  sfogliatella,
+  pastiera,
+  cannolo,
+  cassata,
+  struffoli,
+  zeppola,
+  granita,
+  sfoglio,
+  manna,
+  bergamotto,
+  limoncello,
 ];
 

@@ -83,6 +83,8 @@ export const vino: LemmaEntry = {
     "stracotto",
     "trattoria",
     "vinsanto",
+    "dieta-mediterranea",
+    "tarallo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/vino/",

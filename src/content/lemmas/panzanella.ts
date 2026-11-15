@@ -55,6 +55,8 @@ export const panzanella: LemmaEntry = {
     "cetriolo",
     "aceto",
     "raffermo",
+    "caponata",
+    "frisella",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/panzanella/",

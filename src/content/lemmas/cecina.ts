@@ -63,6 +63,9 @@ export const cecina: LemmaEntry = {
     "ceci",
     "teglia",
     "forno",
+    "friggitoria",
+    "panelle",
+    "pizza",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/cecina/",

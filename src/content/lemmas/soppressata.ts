@@ -70,6 +70,8 @@ export const soppressata: LemmaEntry = {
     "capofreddo",
     "maiale",
     "salame",
+    "capocollo",
+    "nduja",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/soppressata/",

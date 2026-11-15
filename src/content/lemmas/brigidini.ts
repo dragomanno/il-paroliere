@@ -56,6 +56,7 @@ export const brigidini: LemmaEntry = {
     "cialda",
     "coccarda",
     "risorgimento",
+    "tarallo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/brigidino/",

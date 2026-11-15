@@ -86,6 +86,7 @@ export const sapidita: LemmaEntry = {
     "salinità",
     "pane-sciocco",
     "pecorino",
+    "colatura-di-alici",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/sapidita/",
