@@ -84,6 +84,11 @@ export const degustazione: LemmaEntry = {
     "enologia",
     "tannino",
     "acidita",
+    "fiaschetteria",
+    "olio-nuovo",
+    "pecorino",
+    "trattoria",
+    "vinsanto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/degustazione/",
@@ -97,5 +102,5 @@ export const degustazione: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

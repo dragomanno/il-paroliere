@@ -84,6 +84,8 @@ export const sapidita: LemmaEntry = {
     "tannino",
     "fruttato",
     "salinità",
+    "pane-sciocco",
+    "pecorino",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/sapidita/",
@@ -97,5 +99,5 @@ export const sapidita: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

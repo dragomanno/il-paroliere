@@ -82,6 +82,7 @@ export const affinamento: LemmaEntry = {
     "maturazione",
     "affinamento in bottiglia",
     "supertuscan",
+    "vinsanto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/affinamento/",
@@ -94,5 +95,5 @@ export const affinamento: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

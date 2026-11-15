@@ -86,6 +86,7 @@ export const fermentazione: LemmaEntry = {
     "vinificazione",
     "macerazione",
     "vendemmia",
+    "vinsanto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/fermentazione/",
@@ -99,5 +100,5 @@ export const fermentazione: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

@@ -91,6 +91,9 @@ export const olioDoliva: LemmaEntry = {
     "acidita",
     "consorzio-di-tutela",
     "annata",
+    "fettunta",
+    "olio-novo",
+    "olio-nuovo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/olio/",
@@ -104,5 +107,5 @@ export const olioDoliva: LemmaEntry = {
     description: "Che cos'è l'olio d'oliva: l'uso comune e le categorie UE, da extravergine a olio di sansa. Estratto a freddo, DOP e IGP, e come si giudica al panel test.",
   },
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

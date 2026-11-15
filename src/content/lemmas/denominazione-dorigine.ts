@@ -83,6 +83,9 @@ export const denominazioneDorigine: LemmaEntry = {
     "cru",
     "supertuscan",
     "vitigno",
+    "neccio",
+    "pane-sciocco",
+    "pecorino",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/denominazione/",
@@ -95,5 +98,5 @@ export const denominazioneDorigine: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

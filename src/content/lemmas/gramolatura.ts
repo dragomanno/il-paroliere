@@ -50,6 +50,7 @@ export const gramolatura: LemmaEntry = {
     "estratto a freddo",
     "decanter",
     "ossidazione",
+    "olio-nuovo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/gramolatura/",
@@ -62,5 +63,5 @@ export const gramolatura: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

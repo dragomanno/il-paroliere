@@ -68,6 +68,7 @@ export const olivicoltura: LemmaEntry = {
     "mosca olearia",
     "vendemmia",
     "ciclo-stagionale",
+    "olio-nuovo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/olivicoltura/",
@@ -81,5 +82,5 @@ export const olivicoltura: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

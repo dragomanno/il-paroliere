@@ -85,6 +85,9 @@ export const extravergine: LemmaEntry = {
     "olio lampante",
     "olio di sansa",
     "estratto a freddo",
+    "fettunta",
+    "olio-novo",
+    "olio-nuovo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/extravergine/",
@@ -98,5 +101,5 @@ export const extravergine: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

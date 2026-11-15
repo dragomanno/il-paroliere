@@ -62,6 +62,7 @@ export const frangitura: LemmaEntry = {
     "pasta di olive",
     "nocciolo",
     "sansa",
+    "olio-nuovo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/frangitura/",
@@ -75,5 +76,5 @@ export const frangitura: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

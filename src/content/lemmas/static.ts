@@ -1064,6 +1064,54 @@ import { arrangiamento } from "./arrangiamento";
 import { partitura } from "./partitura";
 import { ritornello } from "./ritornello";
 import { riff } from "./riff";
+import { cucinaPovera } from "./cucina-povera";
+import { quintoQuarto } from "./quinto-quarto";
+import { olioNuovo } from "./olio-nuovo";
+import { olioNovo } from "./olio-novo";
+import { trattoria } from "./trattoria";
+import { fiaschetteria } from "./fiaschetteria";
+import { fettunta } from "./fettunta";
+import { crostino } from "./crostino";
+import { paneSciocco } from "./pane-sciocco";
+import { schiacciata } from "./schiacciata";
+import { cecina } from "./cecina";
+import { testarolo } from "./testarolo";
+import { pappaAlPomodoro } from "./pappa-al-pomodoro";
+import { panzanella } from "./panzanella";
+import { acquacotta } from "./acquacotta";
+import { carabaccia } from "./carabaccia";
+import { pappardelle } from "./pappardelle";
+import { tortello } from "./tortello";
+import { carcerato } from "./carcerato";
+import { bisteccaAllaFiorentina } from "./bistecca-alla-fiorentina";
+import { peposo } from "./peposo";
+import { arista } from "./arista";
+import { scottiglia } from "./scottiglia";
+import { rosticciana } from "./rosticciana";
+import { francesina } from "./francesina";
+import { stracotto } from "./stracotto";
+import { lampredotto } from "./lampredotto";
+import { trippa } from "./trippa";
+import { cibreo } from "./cibreo";
+import { cioncia } from "./cioncia";
+import { biroldo } from "./biroldo";
+import { lardo } from "./lardo";
+import { soppressata } from "./soppressata";
+import { cacciucco } from "./cacciucco";
+import { inzimino } from "./inzimino";
+import { fagioliAlluccelletto } from "./fagioli-alluccelletto";
+import { cavoloNero } from "./cavolo-nero";
+import { pecorino } from "./pecorino";
+import { castagnaccio } from "./castagnaccio";
+import { neccio } from "./neccio";
+import { cantuccio } from "./cantuccio";
+import { vinsanto } from "./vinsanto";
+import { panforte } from "./panforte";
+import { ricciarello } from "./ricciarello";
+import { cavallucci } from "./cavallucci";
+import { brigidini } from "./brigidini";
+import { zuccotto } from "./zuccotto";
+import { buccellato } from "./buccellato";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -2098,5 +2146,53 @@ export const allLemmas: LemmaEntry[] = [
   partitura,
   ritornello,
   riff,
+  cucinaPovera,
+  quintoQuarto,
+  olioNuovo,
+  olioNovo,
+  trattoria,
+  fiaschetteria,
+  fettunta,
+  crostino,
+  paneSciocco,
+  schiacciata,
+  cecina,
+  testarolo,
+  pappaAlPomodoro,
+  panzanella,
+  acquacotta,
+  carabaccia,
+  pappardelle,
+  tortello,
+  carcerato,
+  bisteccaAllaFiorentina,
+  peposo,
+  arista,
+  scottiglia,
+  rosticciana,
+  francesina,
+  stracotto,
+  lampredotto,
+  trippa,
+  cibreo,
+  cioncia,
+  biroldo,
+  lardo,
+  soppressata,
+  cacciucco,
+  inzimino,
+  fagioliAlluccelletto,
+  cavoloNero,
+  pecorino,
+  castagnaccio,
+  neccio,
+  cantuccio,
+  vinsanto,
+  panforte,
+  ricciarello,
+  cavallucci,
+  brigidini,
+  zuccotto,
+  buccellato,
 ];
 

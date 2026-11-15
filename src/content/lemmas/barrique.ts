@@ -81,6 +81,7 @@ export const barrique: LemmaEntry = {
     "affinamento",
     "assemblaggio",
     "tannino",
+    "vinsanto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/barrique/",
@@ -94,5 +95,5 @@ export const barrique: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

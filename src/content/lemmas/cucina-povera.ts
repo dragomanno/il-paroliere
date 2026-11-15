@@ -1,0 +1,111 @@
+// Il Paroliere — Lemma: cucina povera
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
+// IMPORTANT: all definitions and examples are original.
+// External sources linked, not copied.
+
+import type { LemmaEntry } from "@/lib/types";
+
+export const cucinaPovera: LemmaEntry = {
+  lemma: "cucina povera",
+  slug: "cucina-povera",
+  partOfSpeech: "locuzione sostantivale femminile",
+  gender: "femminile",
+  definition: "Modo di cucinare nato nelle case dei contadini, dei braccianti e degli operai, che con pochi ingredienti, quasi sempre del posto e di stagione, riusciva a mettere in tavola piatti sostanziosi. Ne sono il segno il pane raffermo recuperato in zuppe e insalate, i legumi, le erbe dell'orto, le parti meno care degli animali e le cotture lunghe. Oggi indica anche lo stile dei ristoranti che riprendono quella tradizione.",
+  shortDefinition: "La cucina delle famiglie contadine e operaie: pochi ingredienti locali, pane raffermo, legumi, tagli umili e cotture lunghe.",
+  register: [
+    "comune",
+  ],
+  domains: [
+    "gastronomia",
+    "storia sociale",
+  ],
+  etymology: "Locuzione formata da cucina, dal latino tardo cocina, variante di coquina, «luogo dove si cuoce», e povero, dal latino pauper. Il valore di etichetta gastronomica, con cui si nobilita una tradizione un tempo dettata dal bisogno, si è affermato nella seconda metà del Novecento.",
+  examples: [
+    "La ribollita è il manifesto della cucina povera toscana: pane vecchio, cavolo nero, fagioli e tanta pazienza.",
+    "Mia nonna non diceva cucina povera, diceva semplicemente cucina: il resto non se lo poteva permettere.",
+    "Il menù del ristorante riprende la cucina povera del Mugello, ma i prezzi sono tutt'altro che poveri.",
+    "Nella cucina povera non si butta niente: la crosta del pecorino finisce nel minestrone e le ossa nel brodo.",
+  ],
+  synonyms: [
+    {
+      term: "cucina contadina",
+      register: "comune",
+      context: "quando si vuole sottolineare l'origine rurale",
+    },
+    {
+      term: "cucina di recupero",
+      register: "comune",
+      context: "l'aspetto del riuso degli avanzi, oggi legato alla lotta allo spreco",
+      note: "Descrive una tecnica più che una tradizione.",
+    },
+  ],
+  antonyms: [
+    {
+      term: "cucina di corte",
+      register: "comune",
+      context: "la cucina delle mense nobiliari e dei banchetti, ricca di spezie e carni pregiate",
+    },
+    {
+      term: "alta cucina",
+      register: "comune",
+      context: "la ristorazione d'autore e di lusso",
+    },
+  ],
+  relatedWords: [
+    "ribollita",
+    "pappa-al-pomodoro",
+    "panzanella",
+    "acquacotta",
+    "fettunta",
+    "pane-sciocco",
+    "quinto-quarto",
+    "lampredotto",
+    "trippa",
+    "cibreo",
+    "carcerato",
+    "cioncia",
+    "scottiglia",
+    "peposo",
+    "castagnaccio",
+    "neccio",
+    "cecina",
+    "fagioli-alluccelletto",
+    "cavolo-nero",
+    "francesina",
+    "trattoria",
+    "olio-nuovo",
+    "olio-novo",
+    "crostino",
+    "testarolo",
+    "carabaccia",
+    "pappardelle",
+    "tortello",
+    "bistecca-alla-fiorentina",
+    "arista",
+    "rosticciana",
+    "stracotto",
+    "biroldo",
+    "soppressata",
+    "cacciucco",
+    "inzimino",
+    "fegatelli",
+    "pici",
+    "sagra",
+    "insaccato",
+    "salatura",
+    "raffermo",
+    "avanzi",
+    "mezzadria",
+  ],
+  sourceLinks: {
+  },
+  paroliereNote: "La cucina povera è un'etichetta data a posteriori: chi la praticava non la chiamava così, perché non aveva un'alternativa con cui confrontarla. In Toscana il suo alfabeto è chiaro. C'è il pane, che non si butta e torna nella → [ribollita](https://ilparoliere.online/parola/ribollita), nella → [pappa al pomodoro](https://ilparoliere.online/parola/pappa-al-pomodoro) e nella → [panzanella](https://ilparoliere.online/parola/panzanella). Ci sono i legumi, tanto che i toscani sono stati detti a lungo mangiafagioli. Ci sono le castagne, che in montagna sostituivano il grano e davano → [necci](https://ilparoliere.online/parola/neccio) e → [castagnaccio](https://ilparoliere.online/parola/castagnaccio). E c'è il → [quinto quarto](https://ilparoliere.online/parola/quinto-quarto), cioè le interiora che i macellai vendevano a poco. Già Pellegrino Artusi, nella [Scienza in cucina](https://www.gutenberg.org/ebooks/59047) del 1891, accanto ai piatti borghesi registra ricette di questo mondo, come la trippa, che definisce «sempre un piatto ordinario». Oggi la stessa cucina è diventata un vanto da menù, e il termine porta con sé un po' di nostalgia e un po' di marketing.",
+  seo: {
+    title: "Cucina povera — significato e piatti toscani | Il Paroliere",
+    description: "Che cos'è la cucina povera: la tradizione contadina e operaia di pane raffermo, legumi, castagne e tagli umili, dalla ribollita al lampredotto, con la storia.",
+  },
+  editorialStatus: "reviewed",
+  indexable: true,
+  createdAt: "2026-11-15",
+  updatedAt: "2026-11-15",
+};

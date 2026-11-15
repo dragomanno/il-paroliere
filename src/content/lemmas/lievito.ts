@@ -73,6 +73,9 @@ export const lievito: LemmaEntry = {
     "Pasteur",
     "Saccharomyces",
     "acidita",
+    "buccellato",
+    "pane-sciocco",
+    "schiacciata",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/lievito2/",
@@ -86,5 +89,5 @@ export const lievito: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

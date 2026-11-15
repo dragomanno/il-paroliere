@@ -74,6 +74,7 @@ export const panelTest: LemmaEntry = {
     "Consiglio oleicolo internazionale",
     "consorzio-di-tutela",
     "tannino",
+    "olio-nuovo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/panel/",
@@ -86,5 +87,5 @@ export const panelTest: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

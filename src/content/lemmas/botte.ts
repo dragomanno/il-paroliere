@@ -79,6 +79,8 @@ export const botte: LemmaEntry = {
     "assemblaggio",
     "tannino",
     "vendemmia",
+    "fiaschetteria",
+    "vinsanto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/botte/",
@@ -92,5 +94,5 @@ export const botte: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

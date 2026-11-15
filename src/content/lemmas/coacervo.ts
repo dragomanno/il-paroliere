@@ -95,6 +95,7 @@ export const coacervo: LemmaEntry = {
     "accumulazione",
     "figura retorica",
     "dovizia",
+    "cibreo",
   ],
 
   sourceLinks: {
@@ -124,5 +125,5 @@ export const coacervo: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

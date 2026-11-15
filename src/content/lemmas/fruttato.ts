@@ -77,6 +77,7 @@ export const fruttato: LemmaEntry = {
     "frangitura",
     "tannino",
     "sapidita",
+    "olio-nuovo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/fruttato1/",
@@ -90,5 +91,5 @@ export const fruttato: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

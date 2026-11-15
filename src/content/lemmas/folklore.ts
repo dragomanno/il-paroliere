@@ -73,6 +73,7 @@ export const folklore: LemmaEntry = {
     "memoria",
     "stereotipo",
     "blues",
+    "brigidini",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/folclore/",
