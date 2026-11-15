@@ -62,6 +62,9 @@ export const ritoAgrario: LemmaEntry = {
     "raccolta",
     "coltura",
     "aratro",
+    "ndocciata",
+    "panarda",
+    "virtu-teramane",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/rito/",
@@ -75,5 +78,5 @@ export const ritoAgrario: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

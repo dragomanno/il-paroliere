@@ -87,6 +87,8 @@ export const assolo: LemmaEntry = {
     "solista",
     "tutti",
     "cadenza",
+    "chitarra",
+    "zampogna",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/assolo/",

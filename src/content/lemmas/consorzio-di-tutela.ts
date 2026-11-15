@@ -73,6 +73,8 @@ export const consorzioDiTutela: LemmaEntry = {
     "cipolla-di-tropea",
     "mozzarella",
     "pane-di-altamura",
+    "culurgiones",
+    "fiore-sardo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/consorzio/",

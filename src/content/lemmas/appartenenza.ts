@@ -61,7 +61,7 @@ export const appartenenza: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["identità", "comunità", "radici", "inclusione", "tribù", "affiliazione", "gilda", "festa-titolare", "contrada"],
+  relatedWords: ["identità", "comunità", "radici", "inclusione", "tribù", "affiliazione", "gilda", "festa-titolare", "contrada", "abruzzese", "forte-e-gentile"],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/appartenenza",
@@ -85,5 +85,5 @@ export const appartenenza: LemmaEntry = {
   },
 
   createdAt: "2026-08-21",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

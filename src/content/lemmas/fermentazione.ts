@@ -90,6 +90,7 @@ export const fermentazione: LemmaEntry = {
     "colatura-di-alici",
     "pane-di-altamura",
     "pizza",
+    "casu-marzu",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/fermentazione/",

@@ -48,6 +48,8 @@ export const pastiera: LemmaEntry = {
     "tradizioni-popolari",
     "leggenda",
     "devozione",
+    "fiadone",
+    "pardulas",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/pastiera/",

@@ -60,6 +60,8 @@ export const orecchiette: LemmaEntry = {
     "tortello",
     "pici",
     "bari",
+    "cazzellitti",
+    "malloreddus",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/orecchietta/",

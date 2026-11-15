@@ -51,6 +51,8 @@ export const caciocavallo: LemmaEntry = {
     "pasta-filata",
     "stagionatura",
     "cacio",
+    "canestrato",
+    "stracciata",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/caciocavallo/",

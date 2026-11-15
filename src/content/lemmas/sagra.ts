@@ -79,6 +79,11 @@ export const sagra: LemmaEntry = {
     "scottiglia",
     "tortello",
     "sfoglio",
+    "aglio-rosso",
+    "arrosticino",
+    "pampanella",
+    "pezzata",
+    "porceddu",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/sagra/",

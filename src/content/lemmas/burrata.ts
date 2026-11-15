@@ -50,6 +50,7 @@ export const burrata: LemmaEntry = {
     "panna",
     "burro",
     "andria",
+    "stracciata",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/burrata/",

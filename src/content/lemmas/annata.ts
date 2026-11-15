@@ -84,6 +84,11 @@ export const annata: LemmaEntry = {
     "acidita",
     "olio-doliva",
     "vitigno",
+    "cannonau",
+    "cerasuolo",
+    "montepulciano",
+    "tintilia",
+    "vermentino",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/annata/",
@@ -97,5 +102,5 @@ export const annata: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

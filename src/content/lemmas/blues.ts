@@ -77,6 +77,7 @@ export const blues: LemmaEntry = {
     "work song",
     "rhythm and blues",
     "rock",
+    "chitarra",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/blues/",

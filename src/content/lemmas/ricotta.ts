@@ -62,6 +62,9 @@ export const ricotta: LemmaEntry = {
     "latticini",
     "dop",
     "maldestro",
+    "canestrato",
+    "fiadone",
+    "pardulas",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/ricotta/",

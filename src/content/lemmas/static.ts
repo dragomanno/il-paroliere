@@ -1166,6 +1166,68 @@ import { sfoglio } from "./sfoglio";
 import { manna } from "./manna";
 import { bergamotto } from "./bergamotto";
 import { limoncello } from "./limoncello";
+import { trabocco } from "./trabocco";
+import { brodetto } from "./brodetto";
+import { scapece } from "./scapece";
+import { ventricina } from "./ventricina";
+import { pallotteCacioEOve } from "./pallotte-cacio-e-ove";
+import { virtuTeramane } from "./virtu-teramane";
+import { timballo } from "./timballo";
+import { scrippelle } from "./scrippelle";
+import { arrosticino } from "./arrosticino";
+import { zafferano } from "./zafferano";
+import { canestrato } from "./canestrato";
+import { lenticchia } from "./lenticchia";
+import { mortadellaDiCampotosto } from "./mortadella-di-campotosto";
+import { transumanza } from "./transumanza";
+import { tratturo } from "./tratturo";
+import { panarda } from "./panarda";
+import { confetto } from "./confetto";
+import { aglio } from "./aglio";
+import { centerbe } from "./centerbe";
+import { genziana } from "./genziana";
+import { aglioRosso } from "./aglio-rosso";
+import { zolleDaglio } from "./zolle-daglio";
+import { cazzellitti } from "./cazzellitti";
+import { zuppaDiAglioRossoEPatate } from "./zuppa-di-aglio-rosso-e-patate";
+import { frescheriell } from "./frescheriell";
+import { chitarra } from "./chitarra";
+import { sagne } from "./sagne";
+import { parrozzo } from "./parrozzo";
+import { ferratelle } from "./ferratelle";
+import { bocconotto } from "./bocconotto";
+import { cicerchiata } from "./cicerchiata";
+import { montepulciano } from "./montepulciano";
+import { cerasuolo } from "./cerasuolo";
+import { fiadone } from "./fiadone";
+import { bravioDelleBotti } from "./bravio-delle-botti";
+import { abruzzese } from "./abruzzese";
+import { forteEGentile } from "./forte-e-gentile";
+import { pampanella } from "./pampanella";
+import { tintilia } from "./tintilia";
+import { stracciata } from "./stracciata";
+import { pezzata } from "./pezzata";
+import { calcioni } from "./calcioni";
+import { ndocciata } from "./ndocciata";
+import { zampogna } from "./zampogna";
+import { paneCarasau } from "./pane-carasau";
+import { civraxiu } from "./civraxiu";
+import { coccoi } from "./coccoi";
+import { malloreddus } from "./malloreddus";
+import { fregola } from "./fregola";
+import { culurgiones } from "./culurgiones";
+import { filindeu } from "./filindeu";
+import { faine } from "./faine";
+import { porceddu } from "./porceddu";
+import { fioreSardo } from "./fiore-sardo";
+import { casuMarzu } from "./casu-marzu";
+import { bottarga } from "./bottarga";
+import { seadas } from "./seadas";
+import { pardulas } from "./pardulas";
+import { mirto } from "./mirto";
+import { filuEFerru } from "./filu-e-ferru";
+import { cannonau } from "./cannonau";
+import { vermentino } from "./vermentino";
 
 /** All lemmas in alphabetical order — static file-based source for seeding */
 export const allLemmas: LemmaEntry[] = [
@@ -2302,5 +2364,67 @@ export const allLemmas: LemmaEntry[] = [
   manna,
   bergamotto,
   limoncello,
+  trabocco,
+  brodetto,
+  scapece,
+  ventricina,
+  pallotteCacioEOve,
+  virtuTeramane,
+  timballo,
+  scrippelle,
+  arrosticino,
+  zafferano,
+  canestrato,
+  lenticchia,
+  mortadellaDiCampotosto,
+  transumanza,
+  tratturo,
+  panarda,
+  confetto,
+  aglio,
+  centerbe,
+  genziana,
+  aglioRosso,
+  zolleDaglio,
+  cazzellitti,
+  zuppaDiAglioRossoEPatate,
+  frescheriell,
+  chitarra,
+  sagne,
+  parrozzo,
+  ferratelle,
+  bocconotto,
+  cicerchiata,
+  montepulciano,
+  cerasuolo,
+  fiadone,
+  bravioDelleBotti,
+  abruzzese,
+  forteEGentile,
+  pampanella,
+  tintilia,
+  stracciata,
+  pezzata,
+  calcioni,
+  ndocciata,
+  zampogna,
+  paneCarasau,
+  civraxiu,
+  coccoi,
+  malloreddus,
+  fregola,
+  culurgiones,
+  filindeu,
+  faine,
+  porceddu,
+  fioreSardo,
+  casuMarzu,
+  bottarga,
+  seadas,
+  pardulas,
+  mirto,
+  filuEFerru,
+  cannonau,
+  vermentino,
 ];
 

@@ -54,6 +54,8 @@ export const cavatelli: LemmaEntry = {
     "legumi",
     "cucina-povera",
     "pici",
+    "cazzellitti",
+    "malloreddus",
   ],
   sourceLinks: {
   },

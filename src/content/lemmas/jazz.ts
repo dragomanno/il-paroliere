@@ -76,6 +76,8 @@ export const jazz: LemmaEntry = {
     "big band",
     "free jazz",
     "New Orleans",
+    "chitarra",
+    "zampogna",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/jazz/",

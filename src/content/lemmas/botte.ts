@@ -81,6 +81,8 @@ export const botte: LemmaEntry = {
     "vendemmia",
     "fiaschetteria",
     "vinsanto",
+    "bravio-delle-botti",
+    "montepulciano",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/botte/",

@@ -74,6 +74,12 @@ export const folklore: LemmaEntry = {
     "stereotipo",
     "blues",
     "brigidini",
+    "bravio-delle-botti",
+    "coccoi",
+    "ndocciata",
+    "panarda",
+    "trabocco",
+    "zampogna",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/folclore/",

@@ -85,6 +85,8 @@ export const migrazione: LemmaEntry = {
     "integrazione",
     "diaspora",
     "diritti umani",
+    "faine",
+    "transumanza",
   ],
 
   sourceLinks: {
@@ -111,5 +113,5 @@ export const migrazione: LemmaEntry = {
   },
 
   createdAt: "2026-06-08",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

@@ -54,6 +54,7 @@ export const struffoli: LemmaEntry = {
     "diavolilli",
     "monastero",
     "napoli",
+    "calcioni",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/struffoli/",

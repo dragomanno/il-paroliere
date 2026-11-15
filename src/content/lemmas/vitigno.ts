@@ -92,6 +92,11 @@ export const vitigno: LemmaEntry = {
     "sapidita",
     "pecorino",
     "vinsanto",
+    "cannonau",
+    "cerasuolo",
+    "montepulciano",
+    "tintilia",
+    "vermentino",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/vitigno/",

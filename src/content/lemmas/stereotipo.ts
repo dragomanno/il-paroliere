@@ -46,6 +46,7 @@ export const stereotipo: LemmaEntry = {
     "cliche",
     "folklore",
     "ritornello",
+    "forte-e-gentile",
   ],
 
   sourceLinks: {

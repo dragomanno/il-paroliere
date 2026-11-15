@@ -52,7 +52,11 @@ export const peperoncino: LemmaEntry = {
     "nduja",
     "orecchiette",
     "peperone-crusco",
-    "puttanesca"
+    "puttanesca",
+    "aglio",
+    "brodetto",
+    "pampanella",
+    "ventricina"
   ],
 
   sourceLinks: {

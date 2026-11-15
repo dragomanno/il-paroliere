@@ -68,6 +68,8 @@ export const lardo: LemmaEntry = {
     "capocollo",
     "nduja",
     "suino-nero",
+    "mortadella-di-campotosto",
+    "ventricina",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/lardo/",

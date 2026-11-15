@@ -52,6 +52,8 @@ export const nduja: LemmaEntry = {
     "prestito-linguistico",
     "aferesi",
     "calabria",
+    "pampanella",
+    "ventricina",
   ],
   sourceLinks: {
   },

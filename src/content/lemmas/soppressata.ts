@@ -72,6 +72,8 @@ export const soppressata: LemmaEntry = {
     "salame",
     "capocollo",
     "nduja",
+    "mortadella-di-campotosto",
+    "ventricina",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/soppressata/",

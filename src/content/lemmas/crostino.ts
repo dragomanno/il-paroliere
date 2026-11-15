@@ -71,6 +71,9 @@ export const crostino: LemmaEntry = {
     "milza",
     "frisella",
     "scarpetta",
+    "brodetto",
+    "pane-carasau",
+    "zuppa-di-aglio-rosso-e-patate",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/crostino/",

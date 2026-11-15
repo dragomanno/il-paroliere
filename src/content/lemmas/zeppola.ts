@@ -61,6 +61,8 @@ export const zeppola: LemmaEntry = {
     "festa-patronale",
     "zeppa",
     "pasta-choux",
+    "calcioni",
+    "cicerchiata",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/zeppola2/",

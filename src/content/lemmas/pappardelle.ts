@@ -57,6 +57,8 @@ export const pappardelle: LemmaEntry = {
     "pasta-alluovo",
     "selvaggina",
     "tiritera",
+    "chitarra",
+    "sagne",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/pappardella/",

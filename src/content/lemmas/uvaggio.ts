@@ -90,6 +90,11 @@ export const uvaggio: LemmaEntry = {
     "vigneto",
     "supertuscan",
     "cultivar",
+    "cannonau",
+    "cerasuolo",
+    "montepulciano",
+    "tintilia",
+    "vermentino",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/uvaggio/",
@@ -103,5 +108,5 @@ export const uvaggio: LemmaEntry = {
     description: "Che cos'è l'uvaggio: uve di vitigni diversi unite prima della fermentazione, e il vino che ne nasce. Le vigne promiscue e la differenza con l'assemblaggio.",
   },
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

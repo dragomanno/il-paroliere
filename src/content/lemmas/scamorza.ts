@@ -60,6 +60,7 @@ export const scamorza: LemmaEntry = {
     "pasta-filata",
     "affumicatura",
     "abruzzo",
+    "stracciata",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/scamorza/",

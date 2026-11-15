@@ -66,6 +66,11 @@ export const vinificazione: LemmaEntry = {
     "acidita",
     "vendemmia",
     "vinsanto",
+    "cannonau",
+    "cerasuolo",
+    "montepulciano",
+    "tintilia",
+    "vermentino",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/vinificazione/",

@@ -78,6 +78,7 @@ export const riff: LemmaEntry = {
     "lick",
     "big band",
     "rock",
+    "chitarra",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/riff2/",

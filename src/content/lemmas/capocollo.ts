@@ -62,6 +62,8 @@ export const capocollo: LemmaEntry = {
     "coppa",
     "salumeria",
     "norcino",
+    "mortadella-di-campotosto",
+    "ventricina",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/capocollo/",

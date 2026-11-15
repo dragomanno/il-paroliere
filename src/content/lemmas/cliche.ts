@@ -84,6 +84,7 @@ export const cliche: LemmaEntry = {
     "déjà vu",
     "ritornello",
     "standard",
+    "forte-e-gentile",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/cliche/",

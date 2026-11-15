@@ -98,6 +98,10 @@ export const olioDoliva: LemmaEntry = {
     "frisella",
     "pesto-alla-trapanese",
     "tarallo",
+    "aglio",
+    "brodetto",
+    "civraxiu",
+    "faine",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/olio/",

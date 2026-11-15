@@ -67,6 +67,8 @@ export const processione: LemmaEntry = {
     "folklore",
     "tradizioni-popolari",
     "Corpus Domini",
+    "ndocciata",
+    "panarda",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/processione/",
@@ -80,5 +82,5 @@ export const processione: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

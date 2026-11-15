@@ -61,6 +61,7 @@ export const palioDiSiena: LemmaEntry = {
     "patrono",
     "festa-titolare",
     "panforte",
+    "bravio-delle-botti",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/palio/",

@@ -19,7 +19,7 @@ export const insaccato: LemmaEntry = {
   ],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["salatura", "salagione", "finocchiona", "salume", "norcineria", "dop", "igp", "biroldo", "cucina-povera", "lardo", "quinto-quarto", "soppressata", "capocollo", "nduja", "suino-nero"],
+  relatedWords: ["salatura", "salagione", "finocchiona", "salume", "norcineria", "dop", "igp", "biroldo", "cucina-povera", "lardo", "quinto-quarto", "soppressata", "capocollo", "nduja", "suino-nero", "mortadella-di-campotosto", "ventricina"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/insaccato" },
   paroliereNote:
     "Il budello è un confine tra caos e forma. Senza di esso, carni e spezie sarebbero solo un impasto; con esso, diventano un salame, una salsiccia, un cotechino. Il contenitore è così essenziale che ha dato il nome all'intera categoria.",

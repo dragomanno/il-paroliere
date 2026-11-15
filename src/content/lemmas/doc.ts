@@ -96,6 +96,11 @@ export const doc: LemmaEntry = {
     "supertuscan",
     "consorzio-di-tutela",
     "vinsanto",
+    "cannonau",
+    "cerasuolo",
+    "montepulciano",
+    "tintilia",
+    "vermentino",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/DOC",
