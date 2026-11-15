@@ -87,6 +87,8 @@ export const denominazioneDorigine: LemmaEntry = {
     "pane-sciocco",
     "pecorino",
     "pane-di-altamura",
+    "fiore-sardo",
+    "zafferano",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/denominazione/",

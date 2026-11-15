@@ -63,6 +63,8 @@ export const medioevo: LemmaEntry = {
     "Rinascimento",
     "feudalesimo",
     "anno Mille",
+    "fregola",
+    "tratturo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/medioevo/",
@@ -76,5 +78,5 @@ export const medioevo: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

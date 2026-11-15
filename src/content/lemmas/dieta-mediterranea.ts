@@ -70,6 +70,8 @@ export const dietaMediterranea: LemmaEntry = {
     "legumi",
     "unesco",
     "cilento",
+    "aglio",
+    "brodetto",
   ],
   sourceLinks: {
   },

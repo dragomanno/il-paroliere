@@ -85,6 +85,11 @@ export const vino: LemmaEntry = {
     "vinsanto",
     "dieta-mediterranea",
     "tarallo",
+    "cannonau",
+    "cerasuolo",
+    "montepulciano",
+    "tintilia",
+    "vermentino",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/vino/",

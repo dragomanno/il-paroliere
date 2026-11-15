@@ -51,6 +51,7 @@ export const provola: LemmaEntry = {
     "dop",
     "madonie",
     "nebrodi",
+    "stracciata",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/provola/",

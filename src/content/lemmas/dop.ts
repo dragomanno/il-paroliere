@@ -91,6 +91,8 @@ export const dop: LemmaEntry = {
     "pane-di-altamura",
     "provola",
     "ricotta",
+    "fiore-sardo",
+    "zafferano",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/DOP",

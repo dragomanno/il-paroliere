@@ -56,7 +56,7 @@ export const identita: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["memoria", "coscienza", "trauma", "appartenenza", "alterità", "terroir", "denominazione-dorigine", "folklore", "tradizioni-popolari", "contrada"],
+  relatedWords: ["memoria", "coscienza", "trauma", "appartenenza", "alterità", "terroir", "denominazione-dorigine", "folklore", "tradizioni-popolari", "contrada", "abruzzese", "forte-e-gentile"],
 
   sourceLinks: {},
 
@@ -73,5 +73,5 @@ export const identita: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

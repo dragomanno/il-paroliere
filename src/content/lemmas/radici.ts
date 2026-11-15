@@ -70,6 +70,8 @@ export const radici: LemmaEntry = {
     "terroir",
     "coltura",
     "tradizioni-popolari",
+    "abruzzese",
+    "forte-e-gentile",
   ],
 
   sourceLinks: {
@@ -89,5 +91,5 @@ export const radici: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

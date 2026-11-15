@@ -75,6 +75,9 @@ export const devozione: LemmaEntry = {
     "fervore",
     "contrada",
     "pastiera",
+    "filindeu",
+    "ndocciata",
+    "panarda",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/devozione/",

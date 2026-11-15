@@ -65,6 +65,13 @@ export const festaPatronale: LemmaEntry = {
     "rosticciana",
     "ciceri-e-tria",
     "zeppola",
+    "bravio-delle-botti",
+    "coccoi",
+    "confetto",
+    "filindeu",
+    "ndocciata",
+    "panarda",
+    "porceddu",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/patronale/",

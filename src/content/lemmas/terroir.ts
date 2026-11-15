@@ -90,6 +90,10 @@ export const terroir: LemmaEntry = {
     "olivicoltura",
     "cultivar",
     "viticoltura",
+    "cannonau",
+    "montepulciano",
+    "tintilia",
+    "vermentino",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/terroir/",
@@ -102,5 +106,5 @@ export const terroir: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

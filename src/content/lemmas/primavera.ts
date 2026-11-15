@@ -77,6 +77,7 @@ export const primavera: LemmaEntry = {
     "rugiada",
     "Botticelli",
     "equinozio",
+    "virtu-teramane",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/primavera/",
@@ -90,5 +91,5 @@ export const primavera: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

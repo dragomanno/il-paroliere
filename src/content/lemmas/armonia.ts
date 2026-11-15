@@ -45,7 +45,7 @@ export const armonia: LemmaEntry = {
     { term: "caos", register: "comune", note: "L’assenza di qualunque principio ordinatore." },
   ],
 
-  relatedWords: ["ritmo", "composizione", "proporzione", "dissonanza", "simmetria", "accompagnamento", "accordo", "arrangiamento", "bebop", "consonanza", "jazz", "melodia", "partitura", "timbro", "tonalita"],
+  relatedWords: ["ritmo", "composizione", "proporzione", "dissonanza", "simmetria", "accompagnamento", "accordo", "arrangiamento", "bebop", "consonanza", "jazz", "melodia", "partitura", "timbro", "tonalita", "chitarra", "zampogna"],
 
   paroliereNote:
     "L’armonia ha avuto cattiva stampa nella modernità: troppo facile, troppo confortante, " +

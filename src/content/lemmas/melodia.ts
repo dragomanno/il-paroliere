@@ -86,6 +86,8 @@ export const melodia: LemmaEntry = {
     "aria",
     "canto",
     "parodia",
+    "chitarra",
+    "zampogna",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/melodia/",

@@ -72,6 +72,8 @@ export const timbro: LemmaEntry = {
     "timpano",
     "timbrare",
     "voce",
+    "chitarra",
+    "zampogna",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/timbro/",

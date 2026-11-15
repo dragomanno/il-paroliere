@@ -81,6 +81,8 @@ export const igp: LemmaEntry = {
     "cipolla-di-tropea",
     "limoncello",
     "peperone-crusco",
+    "culurgiones",
+    "seadas",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/IGP",

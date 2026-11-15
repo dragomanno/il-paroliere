@@ -69,6 +69,8 @@ export const patrono: LemmaEntry = {
     "Sant'Ansano",
     "patrocinio",
     "contrada",
+    "bravio-delle-botti",
+    "panarda",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/patrono/",
@@ -82,5 +84,5 @@ export const patrono: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

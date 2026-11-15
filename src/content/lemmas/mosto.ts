@@ -77,6 +77,7 @@ export const mosto: LemmaEntry = {
     "vinificazione",
     "macerazione",
     "cuvee",
+    "calcioni",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/mosto/",
@@ -90,5 +91,5 @@ export const mosto: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

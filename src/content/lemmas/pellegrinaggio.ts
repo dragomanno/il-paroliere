@@ -60,6 +60,8 @@ export const pellegrinaggio: LemmaEntry = {
     "turismo",
     "Giubileo",
     "Via Francigena",
+    "filindeu",
+    "tratturo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/pellegrinaggio/",
@@ -73,5 +75,5 @@ export const pellegrinaggio: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

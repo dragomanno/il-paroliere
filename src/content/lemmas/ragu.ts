@@ -55,6 +55,9 @@ export const ragu: LemmaEntry = {
     "prestito-linguistico",
     "francesismo",
     "domenica",
+    "chitarra",
+    "malloreddus",
+    "timballo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/ragu/",

@@ -56,6 +56,7 @@ export const panforte: LemmaEntry = {
     "natale",
     "spezie",
     "canditi",
+    "parrozzo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/panforte/",
