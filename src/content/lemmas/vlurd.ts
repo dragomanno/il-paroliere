@@ -10,7 +10,7 @@ export const vlurd: LemmaEntry = {
   slug: "vlurd",
   partOfSpeech: "sostantivo maschile plurale",
   gender: "maschile",
-  definition: "A Offida, nel Piceno, i grandi fasci di canne imbottiti di paglia che la sera del martedì grasso vengono accesi e portati a spalla in processione per le vie del paese fino a piazza del Popolo, dove si gettano insieme in un falò attorno al quale si balla fino allo spegnimento. Si scrive anche velurd o vëlurdë.",
+  definition: "A Offida, nel Piceno, i grandi fasci di canne imbottiti di paglia che la sera del martedì grasso vengono accesi e portati a spalla in processione per le vie del paese fino a piazza del Popolo, dove si gettano insieme in un falò attorno al quale si balla fino allo spegnimento. Si scrive anche v'lurd, velurd o vëlurdë.",
   shortDefinition: "A Offida, i fasci di canne e paglia accesi e portati a spalla la sera del martedì grasso, fino al falò in piazza.",
   register: [
     "dialettale",
@@ -37,6 +37,11 @@ export const vlurd: LemmaEntry = {
       term: "velurd",
       register: "dialettale",
       context: "grafia con la vocale",
+    },
+    {
+      term: "v'lurd",
+      register: "dialettale",
+      context: "grafia con l'apostrofo, frequente nella stampa locale",
     },
     {
       term: "fascioni",
@@ -66,7 +71,7 @@ export const vlurd: LemmaEntry = {
   ],
   sourceLinks: {
   },
-  paroliereNote: "I vlurd sono il fuoco con cui Offida chiude il suo Carnevale. [Italia.it](https://www.italia.it/it/marche/cosa-fare/carnevale-storico-di-offida) li descrive come grandi fasci infuocati di canne e paglia, che il martedì grasso vengono portati in processione per le vie del centro fino alla piazza principale e servono ad accendere un grande falò; il guazzarò bianco e rosso, ricorda la stessa pagina, si indossava anche per non sporcarsi con i fasci in parte carbonizzati. Secondo [Wikipedia](https://it.wikipedia.org/wiki/Carnevale_di_Offida), centinaia di uomini e donne mascherati li portano accesi a spalla, e attorno al falò si balla fino allo spegnimento; la voce collega il nome a bagordo. La grafia oscilla: le fonti istituzionali scrivono vlurd, i saggi raccolti da [Offida.info](https://www.offida.info/saggi-recensioni-e-ricerche/) anche vëlurdë. Il Paroliere sceglie vlurd. Il parente più vicino è la → ['ndocciata](https://ilparoliere.online/parola/ndocciata) molisana, l'altra grande festa italiana delle fiaccole di legno; nello stesso Carnevale c'è il → [bove finto](https://ilparoliere.online/parola/bove-finto).",
+  paroliereNote: "I vlurd sono il fuoco con cui Offida chiude il suo Carnevale. [Italia.it](https://www.italia.it/it/marche/cosa-fare/carnevale-storico-di-offida) li descrive come grandi fasci infuocati di canne e paglia, che il martedì grasso vengono portati in processione per le vie del centro fino alla piazza principale e servono ad accendere un grande falò; il guazzarò bianco e rosso, ricorda la stessa pagina, si indossava anche per non sporcarsi con i fasci in parte carbonizzati. Secondo [Wikipedia](https://it.wikipedia.org/wiki/Carnevale_di_Offida), centinaia di uomini e donne mascherati li portano accesi a spalla, e attorno al falò si balla fino allo spegnimento; la voce collega il nome a bagordo. La grafia oscilla: le fonti istituzionali scrivono vlurd, i saggi raccolti da [Offida.info](https://www.offida.info/saggi-recensioni-e-ricerche/) anche vëlurdë, e una parte della stampa locale, come il [Corriere Adriatico](https://www.corriereadriatico.it/ascoli_piceno/offida_tradizione_last_news_oggi_forze_ordine_steward_bove_finto_v_lurd-9327686.html), scrive v'lurd, con l'apostrofo al posto della vocale debole. Il Paroliere sceglie vlurd. Il parente più vicino è la → ['ndocciata](https://ilparoliere.online/parola/ndocciata) molisana, l'altra grande festa italiana delle fiaccole di legno; nello stesso Carnevale c'è il → [bove finto](https://ilparoliere.online/parola/bove-finto).",
   seo: {
     title: "Vlurd — significato e Carnevale di Offida | Il Paroliere",
     description: "Che cosa sono i vlurd: i fasci di canne e paglia accesi e portati a spalla a Offida la sera del martedì grasso, fino al falò, e la parentela con bagordo.",
