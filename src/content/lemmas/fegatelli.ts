@@ -19,7 +19,7 @@ export const fegatelli: LemmaEntry = {
   ],
   synonyms: [],
   antonyms: [],
-  relatedWords: ["ribollita", "finocchiona", "cucina povera", "quinto quarto", "toscana", "sagra", "arista", "biroldo", "crostino", "lardo", "rosticciana", "soppressata"],
+  relatedWords: ["ribollita", "finocchiona", "cucina povera", "quinto quarto", "toscana", "sagra", "arista", "biroldo", "crostino", "lardo", "rosticciana", "soppressata", "mazzafegato"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/fegatello" },
   paroliereNote:
     "Ficatum — fegato ingrassato con i fichi. I Romani ingrassavano le oche con i fichi (come in Egitto) e così il fegato di quell'animale divenne «fico». Poi il fico è rimasto nel nome anche quando l'animale è cambiato. Ogni volta che si dice fegato, si porta con sé una storia millenaria.",

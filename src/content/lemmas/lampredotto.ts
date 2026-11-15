@@ -57,6 +57,8 @@ export const lampredotto: LemmaEntry = {
     "lampreda",
     "cuoppo",
     "friggitoria",
+    "coda-alla-vaccinara",
+    "pajata",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/lampredotto/",

@@ -78,6 +78,7 @@ export const jazz: LemmaEntry = {
     "New Orleans",
     "chitarra",
     "zampogna",
+    "umbria-jazz",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/jazz/",

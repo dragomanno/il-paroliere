@@ -79,6 +79,7 @@ export const oliva: LemmaEntry = {
     "dieta-mediterranea",
     "pesto-alla-trapanese",
     "puttanesca",
+    "olive-allascolana",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/oliva/",

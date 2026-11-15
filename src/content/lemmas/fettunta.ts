@@ -66,6 +66,7 @@ export const fettunta: LemmaEntry = {
     "brace",
     "frisella",
     "scarpetta",
+    "torta-al-testo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/fettunta/",

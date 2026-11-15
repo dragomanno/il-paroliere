@@ -63,6 +63,8 @@ export const porceddu: LemmaEntry = {
     "brace",
     "sardegna",
     "sardo",
+    "abbacchio",
+    "porchetta",
   ],
   sourceLinks: {
   },

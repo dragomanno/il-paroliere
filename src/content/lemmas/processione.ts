@@ -69,6 +69,9 @@ export const processione: LemmaEntry = {
     "Corpus Domini",
     "ndocciata",
     "panarda",
+    "bove-finto",
+    "cero",
+    "vlurd",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/processione/",

@@ -92,6 +92,12 @@ export const trattoria: LemmaEntry = {
     "degustazione",
     "convivialità",
     "friggitoria",
+    "carbonara",
+    "coda-alla-vaccinara",
+    "fraschetta",
+    "pajata",
+    "saltimbocca",
+    "suppli",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/trattoria2/",

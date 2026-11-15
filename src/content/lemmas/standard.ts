@@ -97,6 +97,7 @@ export const standard: LemmaEntry = {
     "Great American Songbook",
     "evergreen",
     "real book",
+    "umbria-jazz",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/standard/",

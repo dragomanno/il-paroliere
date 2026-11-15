@@ -93,6 +93,11 @@ export const dop: LemmaEntry = {
     "ricotta",
     "fiore-sardo",
     "zafferano",
+    "amatriciana",
+    "casciotta",
+    "formaggio-di-fossa",
+    "olive-allascolana",
+    "prosciutto",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/DOP",

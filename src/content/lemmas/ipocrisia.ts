@@ -60,6 +60,7 @@ export const ipocrisia: LemmaEntry = {
     "opportunismo-politico",
     "bigotto",
     "bigottismo",
+    "tartufo",
   ],
   sourceLinks: {},
 
@@ -81,5 +82,5 @@ export const ipocrisia: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

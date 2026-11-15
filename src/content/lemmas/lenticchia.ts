@@ -49,6 +49,7 @@ export const lenticchia: LemmaEntry = {
     "lente",
     "cucina-povera",
     "abruzzese",
+    "fagiolina",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/lenticchia/",

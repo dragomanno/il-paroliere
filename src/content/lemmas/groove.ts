@@ -72,6 +72,7 @@ export const groove: LemmaEntry = {
     "basso",
     "batteria",
     "sezione ritmica",
+    "umbria-jazz",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/groove",

@@ -50,6 +50,7 @@ export const pastiera: LemmaEntry = {
     "devozione",
     "fiadone",
     "pardulas",
+    "ciaramicola",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/pastiera/",

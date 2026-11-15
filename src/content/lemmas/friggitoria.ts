@@ -55,6 +55,7 @@ export const friggitoria: LemmaEntry = {
     "cecina",
     "street-food",
     "crocche",
+    "suppli",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/friggitoria/",

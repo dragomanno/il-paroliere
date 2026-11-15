@@ -54,6 +54,9 @@ export const aglio: LemmaEntry = {
     "bruschetta",
     "spicchio",
     "dieta-mediterranea",
+    "cicoria",
+    "puntarelle",
+    "strangozzi",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/aglio/",

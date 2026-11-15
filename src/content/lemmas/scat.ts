@@ -55,6 +55,7 @@ export const scat: LemmaEntry = {
     "onomatopea",
     "Louis Armstrong",
     "Ella Fitzgerald",
+    "umbria-jazz",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/scat/",

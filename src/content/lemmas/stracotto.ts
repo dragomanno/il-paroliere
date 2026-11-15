@@ -71,6 +71,7 @@ export const stracotto: LemmaEntry = {
     "innamorato",
     "genovese",
     "ragu",
+    "coda-alla-vaccinara",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/stracotto/",

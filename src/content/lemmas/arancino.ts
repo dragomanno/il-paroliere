@@ -59,6 +59,8 @@ export const arancino: LemmaEntry = {
     "diatriba",
     "dibattito",
     "variante-regionale",
+    "olive-allascolana",
+    "suppli",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/arancino/",

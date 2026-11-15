@@ -67,6 +67,7 @@ export const olioNovo: LemmaEntry = {
     "pronuncia",
     "toscano",
     "vernacolo",
+    "bruschetta",
   ],
   sourceLinks: {
   },

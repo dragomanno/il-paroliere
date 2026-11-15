@@ -91,6 +91,8 @@ export const vendemmia: LemmaEntry = {
     "sagra",
     "schiacciata",
     "vinsanto",
+    "frascati",
+    "vino-cotto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/vendemmia/",

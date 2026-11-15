@@ -102,6 +102,10 @@ export const olioDoliva: LemmaEntry = {
     "brodetto",
     "civraxiu",
     "faine",
+    "bruschetta",
+    "cicoria",
+    "fagiolina",
+    "puntarelle",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/olio/",

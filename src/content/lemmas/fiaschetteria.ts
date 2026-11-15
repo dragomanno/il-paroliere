@@ -66,6 +66,7 @@ export const fiaschetteria: LemmaEntry = {
     "osteria",
     "mescita",
     "friggitoria",
+    "fraschetta",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/fiaschetteria/",

@@ -58,6 +58,7 @@ export const arrosticino: LemmaEntry = {
     "canala",
     "campo-imperatore",
     "sagra",
+    "abbacchio",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/arrosticino",

@@ -62,6 +62,7 @@ export const cannonau: LemmaEntry = {
     "terroir",
     "sardegna",
     "sardo",
+    "sagrantino",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/cannonau/",

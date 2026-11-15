@@ -78,6 +78,8 @@ export const mosto: LemmaEntry = {
     "macerazione",
     "cuvee",
     "calcioni",
+    "frustingo",
+    "vino-cotto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/mosto/",

@@ -60,6 +60,9 @@ export const montepulciano: LemmaEntry = {
     "abruzzese",
     "tintilia",
     "cannonau",
+    "lacrima",
+    "sagrantino",
+    "vino-cotto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/montepulciano/",

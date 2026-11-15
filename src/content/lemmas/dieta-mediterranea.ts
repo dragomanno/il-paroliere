@@ -72,6 +72,8 @@ export const dietaMediterranea: LemmaEntry = {
     "cilento",
     "aglio",
     "brodetto",
+    "carciofo",
+    "fagiolina",
   ],
   sourceLinks: {
   },

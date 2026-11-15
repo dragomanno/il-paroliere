@@ -79,6 +79,7 @@ export const sarcasmo: LemmaEntry = {
     "caustico",
     "dileggio",
     "battuta",
+    "pasquinata",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/sarcasmo/",

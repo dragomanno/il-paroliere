@@ -96,6 +96,7 @@ export const ironia: LemmaEntry = {
     "lapalissiano",
     "arrivederci",
     "battuta",
+    "pasquinata",
   ],
 
   sourceLinks: {

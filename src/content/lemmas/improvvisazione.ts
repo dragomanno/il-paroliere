@@ -89,6 +89,9 @@ export const improvvisazione: LemmaEntry = {
     "canovaccio",
     "commedia dell'arte",
     "cadenza",
+    "fisarmonica",
+    "stornello",
+    "umbria-jazz",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/improvvisazione/",

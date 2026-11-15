@@ -70,6 +70,10 @@ export const lardo: LemmaEntry = {
     "suino-nero",
     "mortadella-di-campotosto",
     "ventricina",
+    "ciauscolo",
+    "guanciale",
+    "norcino",
+    "prosciutto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/lardo/",

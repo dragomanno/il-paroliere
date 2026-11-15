@@ -70,6 +70,8 @@ export const abruzzese: LemmaEntry = {
     "identita",
     "appartenenza",
     "radici",
+    "marchigiano",
+    "romanesco",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/abruzzese/",

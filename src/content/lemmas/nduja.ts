@@ -54,6 +54,7 @@ export const nduja: LemmaEntry = {
     "calabria",
     "pampanella",
     "ventricina",
+    "ciauscolo",
   ],
   sourceLinks: {
   },

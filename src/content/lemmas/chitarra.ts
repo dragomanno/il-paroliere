@@ -56,6 +56,9 @@ export const chitarra: LemmaEntry = {
     "mattarello",
     "cetra",
     "abruzzese",
+    "cacio-e-pepe",
+    "fisarmonica",
+    "stornello",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/chitarra/",

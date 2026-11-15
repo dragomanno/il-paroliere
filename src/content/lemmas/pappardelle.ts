@@ -59,6 +59,7 @@ export const pappardelle: LemmaEntry = {
     "tiritera",
     "chitarra",
     "sagne",
+    "fettuccine",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/pappardella/",

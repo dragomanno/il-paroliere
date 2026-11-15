@@ -78,6 +78,7 @@ export const blues: LemmaEntry = {
     "rhythm and blues",
     "rock",
     "chitarra",
+    "umbria-jazz",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/blues/",

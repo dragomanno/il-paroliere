@@ -83,6 +83,13 @@ export const igp: LemmaEntry = {
     "peperone-crusco",
     "culurgiones",
     "seadas",
+    "abbacchio",
+    "amatriciana",
+    "carciofo",
+    "ciauscolo",
+    "maccheroncini",
+    "porchetta",
+    "prosciutto",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/IGP",

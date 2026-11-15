@@ -65,6 +65,10 @@ export const ritoAgrario: LemmaEntry = {
     "ndocciata",
     "panarda",
     "virtu-teramane",
+    "bove-finto",
+    "calendimaggio",
+    "carnevale-di-offida",
+    "vlurd",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/rito/",

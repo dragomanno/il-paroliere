@@ -58,6 +58,7 @@ export const timballo: LemmaEntry = {
     "percussione",
     "teramo",
     "abruzzese",
+    "vincisgrassi",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/timballo/",
