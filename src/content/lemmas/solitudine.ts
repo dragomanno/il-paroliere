@@ -50,7 +50,8 @@ export const solitudine: LemmaEntry = {
     "nostalgia",
     "introversione",
     "eremo",
-    "meditazione"
+    "meditazione",
+    "assolo"
   ],
 
   examples: [
@@ -82,5 +83,5 @@ export const solitudine: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-15",
 };

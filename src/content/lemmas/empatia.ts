@@ -55,6 +55,7 @@ export const empatia: LemmaEntry = {
     "altruismo",
     "callosita",
     "psicoterapia",
+    "consonanza",
   ],
 
   examples: [
@@ -86,5 +87,5 @@ export const empatia: LemmaEntry = {
   },
 
   createdAt: "2026-05-29",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

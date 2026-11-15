@@ -70,6 +70,8 @@ export const slancio: LemmaEntry = {
     "speranza",
     "attesa",
     "frustrazione",
+    "levare",
+    "swing",
   ],
 
   sourceLinks: {
@@ -89,5 +91,5 @@ export const slancio: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-08-24",
+  updatedAt: "2026-11-15",
 };

@@ -45,6 +45,7 @@ export const impostaDiBollo: LemmaEntry = {
     "tributo",
     "bollo-auto",
     "cedolare-secca",
+    "timbro",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/bollo1/",
@@ -58,5 +59,5 @@ export const impostaDiBollo: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-15",
 };

@@ -61,7 +61,7 @@ export const intuizione: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["percezione", "inconscio", "presagio", "epistemologia"],
+  relatedWords: ["percezione", "inconscio", "presagio", "epistemologia", "improvvisazione"],
 
   sourceLinks: {},
 
@@ -78,5 +78,5 @@ export const intuizione: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-15",
 };

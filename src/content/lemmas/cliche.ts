@@ -82,6 +82,8 @@ export const cliche: LemmaEntry = {
     "formula",
     "tormentone",
     "déjà vu",
+    "ritornello",
+    "standard",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/cliche/",
@@ -95,5 +97,5 @@ export const cliche: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

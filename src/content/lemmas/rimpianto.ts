@@ -76,6 +76,7 @@ export const rimpianto: LemmaEntry = {
     "rimorso",
     "perdita",
     "memoria",
+    "blues",
   ],
 
   sourceLinks: {
@@ -102,5 +103,5 @@ export const rimpianto: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-15",
 };

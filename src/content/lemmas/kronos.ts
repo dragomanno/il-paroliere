@@ -67,6 +67,7 @@ export const kronos: LemmaEntry = {
     "divenire",
     "deadline",
     "milestone",
+    "metronomo",
   ],
 
   sourceLinks: {
@@ -95,5 +96,5 @@ export const kronos: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

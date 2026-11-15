@@ -46,7 +46,7 @@ export const leggerezza: LemmaEntry = {
     { term: "gravità", register: "comune-formale", note: "In senso sia fisico (forza gravitazionale) che morale (serietà opprimente)." },
   ],
 
-  relatedWords: ["levità", "rarefazione", "impalpabilità", "grazia"],
+  relatedWords: ["levità", "rarefazione", "impalpabilità", "grazia", "levare", "swing"],
 
   paroliereNote:
     "Calvino ha fatto di più per questo lemma di qualsiasi dizionario. La sua leggerezza " +
@@ -65,5 +65,5 @@ export const leggerezza: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-15",
 };

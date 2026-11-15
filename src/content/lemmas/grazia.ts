@@ -46,7 +46,7 @@ export const grazia: LemmaEntry = {
     { term: "goffezza", register: "comune", note: "Variante di goffaggine, ugualmente contraria alla fluidità del gesto." },
   ],
 
-  relatedWords: ["eleganza", "leggerezza", "ritmo", "armonia", "proporzione"],
+  relatedWords: ["eleganza", "leggerezza", "ritmo", "armonia", "proporzione", "swing"],
 
   paroliereNote:
     "La grazia è forse l’unica qualità estetica che non si può perseguire direttamente: " +
@@ -66,5 +66,5 @@ export const grazia: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-15",
 };

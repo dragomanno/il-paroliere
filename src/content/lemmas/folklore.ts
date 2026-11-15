@@ -72,6 +72,7 @@ export const folklore: LemmaEntry = {
     "identita",
     "memoria",
     "stereotipo",
+    "blues",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/folclore/",
@@ -85,5 +86,5 @@ export const folklore: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

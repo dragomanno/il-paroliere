@@ -87,6 +87,7 @@ export const malinconia: LemmaEntry = {
     "umore",
     "bile nera",
     "depressione-clinica",
+    "blues",
   ],
 
   sourceLinks: {
@@ -113,5 +114,5 @@ export const malinconia: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

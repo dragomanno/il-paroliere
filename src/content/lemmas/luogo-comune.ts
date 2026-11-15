@@ -96,6 +96,8 @@ export const luogoComune: LemmaEntry = {
     "dibattito",
     "dialogo",
     "autunno-caldo",
+    "ritornello",
+    "standard",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/luogo/",
@@ -109,5 +111,5 @@ export const luogoComune: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

@@ -45,7 +45,7 @@ export const contrasteEstetico: LemmaEntry = {
     { term: "monocromia", register: "tecnico", note: "Nel senso di uso di un solo valore o colore senza variazione contrastiva." },
   ],
 
-  relatedWords: ["ombra", "luminosita", "composizione", "ritmo", "simmetria", "asimmetria"],
+  relatedWords: ["ombra", "luminosita", "composizione", "ritmo", "simmetria", "asimmetria", "controtempo"],
 
   paroliereNote:
     "Il contrasto estetico è lo strumento più diretto per creare attenzione — e il più " +
@@ -65,5 +65,5 @@ export const contrasteEstetico: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-15",
 };

@@ -89,6 +89,7 @@ export const ozio: LemmaEntry = {
     "negotium",
     "contemplazione",
     "noia",
+    "pausa",
   ],
 
   sourceLinks: {
@@ -116,5 +117,5 @@ export const ozio: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-15",
 };

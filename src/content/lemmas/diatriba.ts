@@ -81,6 +81,7 @@ export const diatriba: LemmaEntry = {
     "confronto",
     "dialogo",
     "dibattito",
+    "accordo",
   ],
 
   sourceLinks: {
@@ -106,5 +107,5 @@ export const diatriba: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

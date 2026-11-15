@@ -89,6 +89,7 @@ export const effimero: LemmaEntry = {
     "istante",
     "attimo",
     "sedimentazione",
+    "improvvisazione",
   ],
 
   sourceLinks: {
@@ -117,5 +118,5 @@ export const effimero: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-15",
 };

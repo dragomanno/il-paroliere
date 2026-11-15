@@ -100,6 +100,8 @@ export const kairos: LemmaEntry = {
     "aion",
     "first-mover",
     "ciclo-stagionale",
+    "improvvisazione",
+    "pausa",
   ],
 
   sourceLinks: {
@@ -132,5 +134,5 @@ export const kairos: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

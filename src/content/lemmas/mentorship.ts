@@ -83,6 +83,7 @@ export const mentorship: LemmaEntry = {
     "apprendimento",
     "onboarding",
     "empowerment",
+    "accompagnamento",
   ],
 
   sourceLinks: {
@@ -112,5 +113,5 @@ export const mentorship: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

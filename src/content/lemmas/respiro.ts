@@ -45,7 +45,7 @@ export const respiro: LemmaEntry = {
     { term: "densità", register: "tecnico-comune", note: "L’accumulo senza spazio — il contrario del respiro nell’accezione estetica." },
   ],
 
-  relatedWords: ["spazio", "ritmo", "composizione", "leggerezza", "rarefazione", "benessere-fisico"],
+  relatedWords: ["spazio", "ritmo", "composizione", "leggerezza", "rarefazione", "benessere-fisico", "fraseggio", "intonazione", "pausa"],
 
   paroliereNote:
     "Il respiro è forse il concetto più immediato del batch — tutti sanno cosa significa " +
@@ -64,5 +64,5 @@ export const respiro: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

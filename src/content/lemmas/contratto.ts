@@ -52,7 +52,7 @@ export const contratto: LemmaEntry = {
     { term: "rescissione", register: "tecnico-giuridico", context: "scioglimento per squilibrio originario" },
     { term: "vizio", register: "tecnico-giuridico", context: "difetto che incide sulla validità" },
   ],
-  relatedWords: ["cessione", "appalto", "norma", "diritto", "proprieta", "frode", "evasione", "normativa", "lavoro-agile", "committente", "rinnovo"],
+  relatedWords: ["cessione", "appalto", "norma", "diritto", "proprieta", "frode", "evasione", "normativa", "lavoro-agile", "committente", "rinnovo", "accordo"],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/contratto",
     wiktionary: "https://it.wiktionary.org/wiki/contratto",
@@ -73,5 +73,5 @@ export const contratto: LemmaEntry = {
       "Elementi essenziali, tipologie, differenze.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

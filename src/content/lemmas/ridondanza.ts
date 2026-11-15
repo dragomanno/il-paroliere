@@ -39,7 +39,7 @@ export const ridondanza: LemmaEntry = {
     { term: "compressione", register: "tecnico", note: "Nel senso informatico, l'operazione inversa: togliere la ridondanza per ridurre i dati, a costo di renderli più fragili agli errori." },
   ],
 
-  relatedWords: ["perifrasi", "neologismo", "burocratese"],
+  relatedWords: ["perifrasi", "neologismo", "burocratese", "ritornello"],
 
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/ridondanza/",
@@ -59,5 +59,5 @@ export const ridondanza: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-15",
 };

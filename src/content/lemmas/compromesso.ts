@@ -103,6 +103,8 @@ export const compromesso: LemmaEntry = {
     "transazione",
     "arbitrato",
     "contratto preliminare",
+    "accordo",
+    "arrangiamento",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/compromesso2/",
@@ -116,5 +118,5 @@ export const compromesso: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

@@ -36,7 +36,7 @@ export const attesa: LemmaEntry = {
     { term: "compimento", register: "formale", note: "Indica l’avvenire dell’evento atteso o il suo raggiungimento." }
   ],
 
-  relatedWords: ["speranza", "desiderio", "aspirazione", "volontà", "slancio", "tensione", "frustrazione", "rassegnazione", "accettazione"],
+  relatedWords: ["speranza", "desiderio", "aspirazione", "volontà", "slancio", "tensione", "frustrazione", "rassegnazione", "accettazione", "pausa"],
 
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/attesa"
@@ -53,5 +53,5 @@ export const attesa: LemmaEntry = {
   },
 
   createdAt: "2026-08-24",
-  updatedAt: "2026-08-24"
+  updatedAt: "2026-11-15"
 };

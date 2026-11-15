@@ -50,7 +50,7 @@ export const alleanza: LemmaEntry = {
     { term: "inimicizia", register: "neutro", context: "relazione strutturalmente ostile" },
     { term: "neutralità", register: "politico", context: "scelta di non schierarsi con nessuna parte" },
   ],
-  relatedWords: ["coalizione", "conflitto", "potere", "consenso", "Palio di Siena", "norma", "diritto", "autorita", "liberalismo", "liberta", "politica", "trasformismo", "contrada"],
+  relatedWords: ["coalizione", "conflitto", "potere", "consenso", "Palio di Siena", "norma", "diritto", "autorita", "liberalismo", "liberta", "politica", "trasformismo", "contrada", "accordo"],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/alleanza",
     treccani: "https://www.treccani.it/vocabolario/alleanza/",
@@ -75,5 +75,5 @@ export const alleanza: LemmaEntry = {
       "Contrade di Siena, alleanze politiche e militari. Etimologia ed esempi.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

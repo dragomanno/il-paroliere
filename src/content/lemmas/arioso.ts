@@ -93,6 +93,7 @@ export const arioso: LemmaEntry = {
     "musica barocca",
     "recitativo",
     "aria",
+    "melodia",
   ],
 
   sourceLinks: {
@@ -120,5 +121,5 @@ export const arioso: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-15",
 };

@@ -44,7 +44,7 @@ export const composizione: LemmaEntry = {
     { term: "frammentazione", register: "tecnico", note: "Le parti che non si tengono insieme, che resistono alla composizione." },
   ],
 
-  relatedWords: ["ritmo", "armonia", "proporzione", "simmetria", "asimmetria", "contrasto-estetico"],
+  relatedWords: ["ritmo", "armonia", "proporzione", "simmetria", "asimmetria", "contrasto-estetico", "arrangiamento", "consonanza", "improvvisazione", "partitura", "tema", "tonalita", "variazione"],
 
   paroliereNote:
     "Composizione è uno di quei lemmi che non si può insegnare con una definizione: si " +
@@ -63,5 +63,5 @@ export const composizione: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-15",
 };

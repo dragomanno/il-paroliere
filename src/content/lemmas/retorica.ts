@@ -95,6 +95,8 @@ export const retorica: LemmaEntry = {
     "dialogo",
     "dibattito",
     "parolaio",
+    "fraseggio",
+    "tema",
   ],
 
   sourceLinks: {
@@ -125,5 +127,5 @@ export const retorica: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

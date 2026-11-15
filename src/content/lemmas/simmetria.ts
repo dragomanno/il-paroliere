@@ -45,7 +45,7 @@ export const simmetria: LemmaEntry = {
     { term: "irregolarità", register: "comune", note: "La deviazione dal pattern atteso, senza la precisione matematica di asimmetria." },
   ],
 
-  relatedWords: ["asimmetria", "proporzione", "armonia", "composizione"],
+  relatedWords: ["asimmetria", "proporzione", "armonia", "composizione", "consonanza"],
 
   paroliereNote:
     "La simmetria perfetta è inquietante perché è una qualità del morto, non del vivo. " +
@@ -65,5 +65,5 @@ export const simmetria: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-15",
 };

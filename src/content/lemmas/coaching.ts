@@ -87,6 +87,7 @@ export const coaching: LemmaEntry = {
     "empowerment",
     "onboarding",
     "engagement",
+    "accompagnamento",
   ],
 
   sourceLinks: {
@@ -116,5 +117,5 @@ export const coaching: LemmaEntry = {
   },
 
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

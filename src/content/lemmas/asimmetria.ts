@@ -45,7 +45,7 @@ export const asimmetria: LemmaEntry = {
     { term: "equilibrio", register: "comune", note: "Nei sensi in cui l’asimmetria produce squilibrio percepito." },
   ],
 
-  relatedWords: ["simmetria", "proporzione", "contrasto-estetico", "ritmo", "composizione"],
+  relatedWords: ["simmetria", "proporzione", "contrasto-estetico", "ritmo", "composizione", "controtempo"],
 
   paroliereNote:
     "L’asimmetria è il lemma che smonta l’idea che la bellezza sia simmetria. Il wabi-sabi " +
@@ -65,5 +65,5 @@ export const asimmetria: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-11-15",
 };
