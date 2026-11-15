@@ -1,0 +1,90 @@
+// Il Paroliere — Lemma: pecorino
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
+// IMPORTANT: all definitions and examples are original.
+// External sources linked, not copied.
+
+import type { LemmaEntry } from "@/lib/types";
+
+export const pecorino: LemmaEntry = {
+  lemma: "pecorino",
+  slug: "pecorino",
+  partOfSpeech: "sostantivo maschile e aggettivo",
+  gender: "maschile",
+  definition: "1. Formaggio di latte di pecora, a pasta compatta, prodotto in molte regioni italiane in versioni fresche e stagionate; in Toscana è celebre il Pecorino Toscano DOP, insieme ai pecorini delle Crete senesi, di Pienza e della Maremma. 2. Aggettivo: di pecora, che riguarda la pecora. 3. Vitigno a bacca bianca dell'Italia centrale, e il vino che se ne ricava.",
+  shortDefinition: "Formaggio di latte di pecora, come il Pecorino Toscano DOP; come aggettivo, di pecora. Anche un vitigno a bacca bianca.",
+  register: [
+    "comune",
+  ],
+  domains: [
+    "gastronomia",
+    "lattiero-caseario",
+    "vitivinicoltura",
+  ],
+  etymology: "Dal latino tardo pecorinus, «di pecora», derivato di pecus, pecoris, «bestiame minuto, gregge». Il formaggio si chiamava in origine cacio pecorino; poi l'aggettivo si è sostantivato.",
+  examples: [
+    "Fave fresche e pecorino: a maggio, in campagna, è la merenda per eccellenza.",
+    "Il pecorino stagionato si gratta sulla pasta, quello fresco si mangia a fette con il miele.",
+    "Per la lana pecorina ci volevano lavaggi lunghi e cardatura a mano.",
+    "Abbiamo stappato un pecorino fresco e minerale, perfetto con il pesce.",
+  ],
+  synonyms: [
+    {
+      term: "cacio",
+      register: "regionale",
+      context: "in Toscana, il formaggio in generale e spesso proprio il pecorino",
+    },
+    {
+      term: "cacio pecorino",
+      register: "regionale",
+      context: "la forma più antica e completa",
+    },
+  ],
+  antonyms: [
+    {
+      term: "vaccino",
+      register: "comune",
+      context: "nel senso di formaggio di latte di mucca",
+    },
+  ],
+  relatedWords: [
+    "acquacotta",
+    "carcerato",
+    "testarolo",
+    "soppressata",
+    "fiaschetteria",
+    "crostino",
+    "carabaccia",
+    "tortello",
+    "schiacciata",
+    "trippa",
+    "dop",
+    "disciplinare",
+    "consorzio-di-tutela",
+    "denominazione-dorigine",
+    "vitigno",
+    "cultivar",
+    "degustazione",
+    "assaggio",
+    "sapidita",
+    "umami",
+    "cacio",
+    "pecora",
+    "formaggio",
+    "pienza",
+    "crete-senesi",
+    "fave",
+  ],
+  sourceLinks: {
+    treccani: "https://www.treccani.it/vocabolario/pecorino/",
+    wiktionary: "https://it.wiktionary.org/wiki/pecorino",
+  },
+  paroliereNote: "Pecorino è un aggettivo che è diventato un nome. In origine si diceva cacio pecorino, formaggio di pecora; poi il cacio è caduto, e il pecorino è rimasto da solo. In Toscana se ne fanno molti, freschi e stagionati, dalle Crete senesi a Pienza e alla Maremma, e il più noto fra quelli con denominazione protetta è il Pecorino Toscano DOP, registrato con il Reg. (CE) 1263/96, come richiama la [Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2015/07/14/15A05308/sg) pubblicando la modifica del disciplinare. Il nome pecorino da solo, invece, non è protetto: il regolamento europeo delle prime DOP, il [Reg. (CE) 1107/96](https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:01996R1107-20000420), lo esclude espressamente dalla tutela, perché è un nome generico. La parola ha poi un terzo senso, enologico: il pecorino è anche un vitigno bianco dell'Italia centrale. Nella cucina toscana il formaggio è ovunque, dal → [carcerato](https://ilparoliere.online/parola/carcerato) all'→ [acquacotta](https://ilparoliere.online/parola/acquacotta), e sul tagliere accanto alla → [soppressata](https://ilparoliere.online/parola/soppressata).",
+  seo: {
+    title: "Pecorino — significato, Pecorino Toscano DOP e altri sensi | Il Paroliere",
+    description: "Che cos'è il pecorino: il formaggio di latte di pecora, dal Pecorino Toscano DOP ai pecorini di Pienza e delle Crete; come aggettivo, di pecora; e un vitigno.",
+  },
+  editorialStatus: "reviewed",
+  indexable: true,
+  createdAt: "2026-11-15",
+  updatedAt: "2026-11-15",
+};

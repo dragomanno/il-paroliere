@@ -76,6 +76,7 @@ export const sommelier: LemmaEntry = {
     "carta dei vini",
     "panel-test",
     "enologia",
+    "vinsanto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/sommelier/",
@@ -89,5 +90,5 @@ export const sommelier: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

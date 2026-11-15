@@ -39,7 +39,7 @@ export const prestitoLinguistico: LemmaEntry = {
     { term: "parola autoctona", register: "comune", note: "Termine nato e sviluppato interamente all'interno della lingua ricevente, senza derivazione da un'altra lingua." },
   ],
 
-  relatedWords: ["calco", "neologismo", "burocratese", "terroir", "sommelier", "barrique", "cepage", "blend", "umami"],
+  relatedWords: ["calco", "neologismo", "burocratese", "terroir", "sommelier", "barrique", "cepage", "blend", "umami", "inzimino"],
 
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/prestito/",
@@ -59,5 +59,5 @@ export const prestitoLinguistico: LemmaEntry = {
   },
 
   createdAt: "2026-08-10",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

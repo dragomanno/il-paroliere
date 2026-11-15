@@ -62,6 +62,7 @@ export const brindisi: LemmaEntry = {
     "enoteca",
     "sommelier",
     "cantina",
+    "fiaschetteria",
   ],
 
   sourceLinks: {
@@ -87,5 +88,5 @@ export const brindisi: LemmaEntry = {
   },
 
   createdAt: "2026-06-12",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

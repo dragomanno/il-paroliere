@@ -89,6 +89,8 @@ export const vendemmia: LemmaEntry = {
     "rito-agrario",
     "ciclo-stagionale",
     "sagra",
+    "schiacciata",
+    "vinsanto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/vendemmia/",
@@ -102,5 +104,5 @@ export const vendemmia: LemmaEntry = {
     description: "Che cos'è la vendemmia: la raccolta dell'uva da vino e il suo periodo, il senso di annata e quello figurato. Etimologia da vinum e demere, cosa viene dopo.",
   },
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

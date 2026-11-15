@@ -19,7 +19,7 @@ export const finocchiona: LemmaEntry = {
   ],
   synonyms: [{ term: "sbriciolona", register: "colloquiale", note: "variante toscana più morbida e friabile" }],
   antonyms: [],
-  relatedWords: ["insaccato", "salatura", "dragoncello", "toscana", "IGP", "disciplinare", "denominazione-dorigine", "dop"],
+  relatedWords: ["insaccato", "salatura", "dragoncello", "toscana", "IGP", "disciplinare", "denominazione-dorigine", "dop", "arista", "biroldo", "crostino", "lardo", "pane-sciocco", "rosticciana", "soppressata"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/finocchiona" },
   paroliereNote:
     "La finocchiona è uno di quei prodotti in cui il nome rivela tutto: finocchio, nient'altro da aggiungere. Il seme selvatico che cresce spontaneo lungo le strade della Toscana è lo stesso che trasforma un salame ordinario in qualcosa di riconoscibile ovunque nel mondo.",
@@ -30,5 +30,5 @@ export const finocchiona: LemmaEntry = {
     description: "Definizione originale di 'finocchiona': il salame toscano al finocchio selvatico, IGP dal 2015.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

@@ -72,6 +72,9 @@ export const oliva: LemmaEntry = {
     "nocciolo",
     "sansa",
     "mosca olearia",
+    "fettunta",
+    "olio-novo",
+    "olio-nuovo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/oliva/",
@@ -85,5 +88,5 @@ export const oliva: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

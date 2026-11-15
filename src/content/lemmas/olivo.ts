@@ -72,6 +72,8 @@ export const olivo: LemmaEntry = {
     "Domenica delle Palme",
     "mosca olearia",
     "pace",
+    "olio-novo",
+    "olio-nuovo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/olivo/",
@@ -85,5 +87,5 @@ export const olivo: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

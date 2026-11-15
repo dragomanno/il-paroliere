@@ -90,6 +90,14 @@ export const disciplinare: LemmaEntry = {
     "vendemmia",
     "committente",
     "progettista",
+    "cantuccio",
+    "lardo",
+    "neccio",
+    "pane-sciocco",
+    "panforte",
+    "pecorino",
+    "ricciarello",
+    "vinsanto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/disciplinare1/",
@@ -103,5 +111,5 @@ export const disciplinare: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

@@ -95,6 +95,7 @@ export const raccolta: LemmaEntry = {
     "annata",
     "rito-agrario",
     "ciclo-stagionale",
+    "olio-nuovo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/raccolta/",
@@ -108,5 +109,5 @@ export const raccolta: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

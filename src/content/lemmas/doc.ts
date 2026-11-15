@@ -95,6 +95,7 @@ export const doc: LemmaEntry = {
     "cru",
     "supertuscan",
     "consorzio-di-tutela",
+    "vinsanto",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/DOC",
@@ -107,5 +108,5 @@ export const doc: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

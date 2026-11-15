@@ -74,6 +74,15 @@ export const vino: LemmaEntry = {
     "acidita",
     "cru",
     "consorzio-di-tutela",
+    "bistecca-alla-fiorentina",
+    "cacciucco",
+    "fiaschetteria",
+    "peposo",
+    "schiacciata",
+    "scottiglia",
+    "stracotto",
+    "trattoria",
+    "vinsanto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/vino/",
@@ -87,5 +96,5 @@ export const vino: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

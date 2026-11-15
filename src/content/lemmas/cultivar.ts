@@ -85,6 +85,8 @@ export const cultivar: LemmaEntry = {
     "clone",
     "Olivastra Seggianese",
     "olio-doliva",
+    "olio-nuovo",
+    "pecorino",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/cultivar/",
@@ -98,5 +100,5 @@ export const cultivar: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

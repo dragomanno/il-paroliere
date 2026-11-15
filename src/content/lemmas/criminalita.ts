@@ -38,7 +38,7 @@ export const criminalita: LemmaEntry = {
     { term: "legalità", register: "formale", context: "rispetto delle norme giuridiche vigenti" },
     { term: "rispetto delle norme", register: "neutro", context: "condotta conforme all'ordinamento" },
   ],
-  relatedWords: ["delinquenza", "recidiva", "reato", "diritto", "norma", "violenza"],
+  relatedWords: ["delinquenza", "recidiva", "reato", "diritto", "norma", "violenza", "carcerato"],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/criminalit%C3%A0",
     treccani: "https://www.treccani.it/vocabolario/criminalita/",
@@ -57,5 +57,5 @@ export const criminalita: LemmaEntry = {
       "Etimologia, esempi, sinonimi.",
   },
   createdAt: "2026-06-07",
-  updatedAt: "2026-06-07",
+  updatedAt: "2026-11-15",
 };

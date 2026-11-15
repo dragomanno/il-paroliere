@@ -72,6 +72,11 @@ export const igp: LemmaEntry = {
     "Aceto Balsamico di Modena",
     "Lardo di Colonnata",
     "extravergine",
+    "cantuccio",
+    "lardo",
+    "olio-nuovo",
+    "panforte",
+    "ricciarello",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/IGP",
@@ -84,5 +89,5 @@ export const igp: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

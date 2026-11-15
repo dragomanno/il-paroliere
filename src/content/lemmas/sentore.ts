@@ -114,6 +114,7 @@ export const sentore: LemmaEntry = {
     "panel-test",
     "fruttato",
     "tannino",
+    "olio-nuovo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/sentore/",
@@ -127,5 +128,5 @@ export const sentore: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

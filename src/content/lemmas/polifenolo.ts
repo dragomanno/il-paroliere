@@ -63,6 +63,7 @@ export const polifenolo: LemmaEntry = {
     "antociano",
     "ossidazione",
     "tè",
+    "olio-nuovo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/polifenolo/",
@@ -76,5 +77,5 @@ export const polifenolo: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

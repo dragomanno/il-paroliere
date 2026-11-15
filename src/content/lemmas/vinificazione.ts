@@ -65,6 +65,7 @@ export const vinificazione: LemmaEntry = {
     "tannino",
     "acidita",
     "vendemmia",
+    "vinsanto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/vinificazione/",
@@ -78,5 +79,5 @@ export const vinificazione: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

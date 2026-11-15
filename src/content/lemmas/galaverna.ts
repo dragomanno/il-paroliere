@@ -54,6 +54,7 @@ export const galaverna: LemmaEntry = {
     "vetrone",
     "gelicidio",
     "calaverna",
+    "cavolo-nero",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/calaverna/",
@@ -67,5 +68,5 @@ export const galaverna: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

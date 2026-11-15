@@ -1,0 +1,108 @@
+// Il Paroliere — Lemma: trattoria
+// Editorial status: reviewed | Content license: CC BY-SA 4.0
+// IMPORTANT: all definitions and examples are original.
+// External sources linked, not copied.
+
+import type { LemmaEntry } from "@/lib/types";
+
+export const trattoria: LemmaEntry = {
+  lemma: "trattoria",
+  slug: "trattoria",
+  partOfSpeech: "sostantivo femminile",
+  gender: "femminile",
+  definition: "Locale pubblico dove si mangia una cucina casalinga e regionale, con un servizio semplice, pochi piatti scritti a voce o su una lavagna e prezzi di solito più bassi di quelli di un ristorante. Nell'immaginario è spesso un'impresa di famiglia, con la cucina a vista e i clienti fissi; il nome, però, è usato anche da locali curati e costosi che puntano sul fascino della tradizione.",
+  shortDefinition: "Locale dalla cucina casalinga e regionale, servizio semplice e prezzi modesti, spesso a gestione familiare.",
+  register: [
+    "comune",
+  ],
+  domains: [
+    "gastronomia",
+    "ristorazione",
+  ],
+  etymology: "Da trattore, nel senso antico di «oste, chi dà da mangiare a pagamento», adattamento del francese traiteur, a sua volta da traiter, «trattare, servire», che risale al latino tractare.",
+  examples: [
+    "Abbiamo trovato una trattoria dietro il mercato: tovaglie a quadri, vino della casa e un peposo da ricordare.",
+    "In trattoria il menù lo dice il cameriere, e se chiedi cosa c'è oggi la risposta è sempre «quello che c'è».",
+    "Ha chiamato trattoria il suo locale stellato, ma con quei prezzi di trattoria c'è rimasto solo il nome.",
+    "La domenica a pranzo la trattoria del paese era piena di famiglie con i bambini e di cacciatori.",
+  ],
+  synonyms: [
+    {
+      term: "osteria",
+      register: "comune",
+      context: "in origine il locale dove si beveva e si mangiava qualcosa",
+      note: "Oggi i due nomi si sovrappongono; osteria conserva un'idea più legata al vino.",
+    },
+    {
+      term: "fiaschetteria",
+      register: "regionale",
+      context: "in Toscana, il locale di mescita che serviva anche piatti semplici",
+    },
+    {
+      term: "locanda",
+      register: "comune",
+      context: "un tempo con anche le camere per la notte",
+    },
+  ],
+  antonyms: [
+    {
+      term: "ristorante gastronomico",
+      register: "comune",
+      context: "la ristorazione d'autore",
+    },
+    {
+      term: "fast food",
+      register: "comune",
+      context: "il pasto rapido e standardizzato",
+    },
+  ],
+  relatedWords: [
+    "fiaschetteria",
+    "cucina-povera",
+    "lampredotto",
+    "trippa",
+    "bistecca-alla-fiorentina",
+    "peposo",
+    "fagioli-alluccelletto",
+    "ribollita",
+    "pappa-al-pomodoro",
+    "crostino",
+    "vinsanto",
+    "cantuccio",
+    "olio-novo",
+    "fettunta",
+    "cecina",
+    "panzanella",
+    "pappardelle",
+    "tortello",
+    "arista",
+    "scottiglia",
+    "rosticciana",
+    "francesina",
+    "stracotto",
+    "cibreo",
+    "cioncia",
+    "cacciucco",
+    "inzimino",
+    "zuccotto",
+    "osteria",
+    "locanda",
+    "enoteca",
+    "vino",
+    "degustazione",
+    "convivialità",
+  ],
+  sourceLinks: {
+    treccani: "https://www.treccani.it/vocabolario/trattoria2/",
+    wiktionary: "https://it.wiktionary.org/wiki/trattoria",
+  },
+  paroliereNote: "La trattoria è una promessa più che un genere di locale: si mangia come a casa e si spende il giusto. Il nome viene dal trattore, l'oste che dava da mangiare a pagamento, parola modellata sul francese traiteur. Pellegrino Artusi, nella [Scienza in cucina](https://www.gutenberg.org/ebooks/59047), usa le trattorie di Firenze come testimoni del parlato: è lì, scrive, che i suoi fagiuoli a guisa d'uccellini si chiamano → [fagioli all'uccelletto](https://ilparoliere.online/parola/fagioli-alluccelletto). In Toscana la trattoria è il luogo naturale della cucina di tutti i giorni: il → [crostino](https://ilparoliere.online/parola/crostino) nero per cominciare, la → [ribollita](https://ilparoliere.online/parola/ribollita) d'inverno e la → [bistecca alla fiorentina](https://ilparoliere.online/parola/bistecca-alla-fiorentina) per le occasioni. Accanto a lei c'era la → [fiaschetteria](https://ilparoliere.online/parola/fiaschetteria), che vendeva vino sfuso e qualche piatto. Proprio perché evoca autenticità, la parola è oggi una delle più sfruttate nelle insegne, e non sempre mantiene la promessa.",
+  seo: {
+    title: "Trattoria — significato, origine e differenza dal ristorante | Il Paroliere",
+    description: "Che cos'è una trattoria: il locale di cucina casalinga e regionale a prezzi modesti, dal francese traiteur, e la differenza da osteria e ristorante gourmet.",
+  },
+  editorialStatus: "reviewed",
+  indexable: true,
+  createdAt: "2026-11-15",
+  updatedAt: "2026-11-15",
+};

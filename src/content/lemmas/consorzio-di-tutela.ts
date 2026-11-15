@@ -64,6 +64,11 @@ export const consorzioDiTutela: LemmaEntry = {
     "marchio collettivo",
     "erga omnes",
     "Gallo Nero",
+    "cantuccio",
+    "lardo",
+    "panforte",
+    "pecorino",
+    "ricciarello",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/consorzio/",
@@ -77,5 +82,5 @@ export const consorzioDiTutela: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

@@ -71,6 +71,7 @@ export const recidivo: LemmaEntry = {
     "circostanza aggravante",
     "impenitente",
     "incorreggibile",
+    "carcerato",
   ],
 
   sourceLinks: {
@@ -95,5 +96,5 @@ export const recidivo: LemmaEntry = {
   },
 
   createdAt: "2026-05-19",
-  updatedAt: "2026-05-19",
+  updatedAt: "2026-11-15",
 };

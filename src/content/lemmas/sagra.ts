@@ -69,6 +69,15 @@ export const sagra: LemmaEntry = {
     "pici",
     "ribollita",
     "fegatelli",
+    "brigidini",
+    "cioncia",
+    "cucina-povera",
+    "fettunta",
+    "neccio",
+    "olio-novo",
+    "rosticciana",
+    "scottiglia",
+    "tortello",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/sagra/",
@@ -82,5 +91,5 @@ export const sagra: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

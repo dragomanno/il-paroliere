@@ -83,6 +83,8 @@ export const assaggio: LemmaEntry = {
     "analisi sensoriale",
     "extravergine",
     "fruttato",
+    "olio-nuovo",
+    "pecorino",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/assaggio/",
@@ -96,5 +98,5 @@ export const assaggio: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

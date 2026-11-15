@@ -56,7 +56,7 @@ export const presunzioneDiInnocenza: LemmaEntry = {
     },
   ],
 
-  relatedWords: ["indizio", "prova", "dubbio", "diritto"],
+  relatedWords: ["indizio", "prova", "dubbio", "diritto", "carcerato"],
 
   sourceLinks: {},
 
@@ -73,5 +73,5 @@ export const presunzioneDiInnocenza: LemmaEntry = {
   },
 
   createdAt: "2026-06-13",
-  updatedAt: "2026-11-13",
+  updatedAt: "2026-11-15",
 };

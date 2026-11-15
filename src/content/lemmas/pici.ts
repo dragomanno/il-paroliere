@@ -23,7 +23,7 @@ export const pici: LemmaEntry = {
     { term: "lunghetti", register: "regionale", context: "Pienza" },
   ],
   antonyms: [],
-  relatedWords: ["ribollita", "finocchiona", "dragoncello", "Siena", "Val d'Orcia", "sagra"],
+  relatedWords: ["ribollita", "finocchiona", "dragoncello", "Siena", "Val d'Orcia", "sagra", "cucina-povera", "pappardelle", "tortello"],
   sourceLinks: { wiktionary: "https://it.wiktionary.org/wiki/pici" },
   paroliereNote:
     "I pici non si fanno in fretta. Ogni spaghetto richiede le mani, il piano, la pazienza. L'irregolarità — lo spessore variabile, la superficie ruvida — non è un difetto: è la firma del fatto a mano. Una pasta che resiste all'industrializzazione non per scelta commerciale, ma per natura. Anche il nome è artigianale: pici, pinci, lunghetti. La mappa dei nomi segue le attestazioni locali: la [scheda della Regione Toscana](https://prodtrad.regione.toscana.it/LIB_ProdTrad/Prodotto.php?ID=198) registra «pinci» per Montalcino e dintorni; [La Valdichiana](https://www.lavaldichiana.it/i-pici-un-assaggio-di-storia/) lo segnala anche tra Montepulciano e Pienza, mentre nelle [interviste raccolte a Chiusi e ad Abbadia di Montepulciano](https://www.lavaldichiana.it/la-socialita-dei-pici-abbadia-chiusi/) si parla solo di pici; [Visit San Quirico](https://www.visitsanquirico.it/vivi-news/cibo-e-vino/pici-che-passione-il-gusto-della-tradizione-sanquirichese-e-nel-piatto/) documenta «lunghetti» a Pienza e i pici come piatto sanquirichese; a Chianciano il nome è custodito dall'associazione [Amatori Pici Chianciano](https://www.amatoripicichianciano.it/chi-siamo.html). Una rilevazione dialettologica sistematica, come quella dell'[Atlante lessicale toscano](https://www.sba.unipi.it/it/risorse/banche-dati/atlante-lessicale-toscano), non è stata ancora verificata per questa voce.",
@@ -34,5 +34,5 @@ export const pici: LemmaEntry = {
     description: "Definizione originale di 'pici': la pasta senese fatta a mano, uno per uno, con acqua e farina.",
   },
   createdAt: "2026-05-25",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

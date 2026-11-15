@@ -44,7 +44,9 @@ export const peperoncino: LemmaEntry = {
   relatedWords: [
     "curry",
     "curcuma",
-    "salgemma"
+    "salgemma",
+    "cacciucco",
+    "soppressata"
   ],
 
   sourceLinks: {
@@ -69,5 +71,5 @@ export const peperoncino: LemmaEntry = {
   },
 
   createdAt: "2026-05-30",
-  updatedAt: "2026-05-30",
+  updatedAt: "2026-11-15",
 };

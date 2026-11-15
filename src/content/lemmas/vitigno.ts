@@ -90,6 +90,8 @@ export const vitigno: LemmaEntry = {
     "consorzio-di-tutela",
     "portainnesto",
     "sapidita",
+    "pecorino",
+    "vinsanto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/vitigno/",
@@ -103,5 +105,5 @@ export const vitigno: LemmaEntry = {
     description: "Che cos'è un vitigno, la varietà di vite coltivata. Differenza con cultivar, cépage, varietà di vite e portainnesto, il Sangiovese e l'etimologia latina.",
   },
   createdAt: "2026-06-06",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

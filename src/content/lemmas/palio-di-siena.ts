@@ -60,6 +60,7 @@ export const palioDiSiena: LemmaEntry = {
     "folklore",
     "patrono",
     "festa-titolare",
+    "panforte",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/palio/",
@@ -73,5 +74,5 @@ export const palioDiSiena: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

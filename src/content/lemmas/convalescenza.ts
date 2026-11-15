@@ -68,6 +68,7 @@ export const convalescenza: LemmaEntry = {
     "convalescente",
     "valere",
     "riposo",
+    "cibreo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/convalescenza/",
@@ -81,5 +82,5 @@ export const convalescenza: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

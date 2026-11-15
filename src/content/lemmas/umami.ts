@@ -77,6 +77,7 @@ export const umami: LemmaEntry = {
     "garum",
     "inosinato",
     "guanilato",
+    "pecorino",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/umami",
@@ -89,5 +90,5 @@ export const umami: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

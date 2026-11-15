@@ -65,6 +65,8 @@ export const frantoio: LemmaEntry = {
     "decanter",
     "olio nuovo",
     "trappeto",
+    "fettunta",
+    "olio-novo",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/frantoio/",
@@ -78,5 +80,5 @@ export const frantoio: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

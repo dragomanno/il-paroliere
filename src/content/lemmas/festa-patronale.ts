@@ -61,6 +61,8 @@ export const festaPatronale: LemmaEntry = {
     "tradizioni-popolari",
     "comunita",
     "luminarie",
+    "brigidini",
+    "rosticciana",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/patronale/",
@@ -73,5 +75,5 @@ export const festaPatronale: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

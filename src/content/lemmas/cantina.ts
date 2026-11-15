@@ -87,6 +87,9 @@ export const cantina: LemmaEntry = {
     "assemblaggio",
     "cuvee",
     "vinaggio",
+    "fiaschetteria",
+    "peposo",
+    "vinsanto",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/cantina/",
@@ -100,5 +103,5 @@ export const cantina: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

@@ -78,6 +78,11 @@ export const dop: LemmaEntry = {
     "Aceto Balsamico Tradizionale di Modena",
     "cultivar",
     "extravergine",
+    "neccio",
+    "olio-nuovo",
+    "pane-sciocco",
+    "pecorino",
+    "soppressata",
   ],
   sourceLinks: {
     wiktionary: "https://it.wiktionary.org/wiki/DOP",
@@ -90,5 +95,5 @@ export const dop: LemmaEntry = {
   editorialStatus: "reviewed",
   indexable: true,
   createdAt: "2026-11-14",
-  updatedAt: "2026-11-14",
+  updatedAt: "2026-11-15",
 };

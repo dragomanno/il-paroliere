@@ -69,6 +69,7 @@ export const tradizioniPopolari: LemmaEntry = {
     "comunita",
     "contrada",
     "blues",
+    "brigidini",
   ],
   sourceLinks: {
     treccani: "https://www.treccani.it/vocabolario/tradizione/",
